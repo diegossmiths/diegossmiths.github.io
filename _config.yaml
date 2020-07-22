@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Uma viagem pelo meu jardim
+name:
+description: Meu pequeno jardim nesse mundo virtual.
+author: Diego Schild Smiths
+
+
+# Contact
+email_address: diegossmiths@gmail.com
+gitlab_username: diegossmiths
+instagram_username: diegossmiths
+
+
+# Site settings:
+#baseurl: "/unvoyagedansmonjardin" # the subpath of your site, e.g. /blog
+#url: "https://diegossmiths.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+theme-color: '#008b8b'
+#theme: minima
+language: pt-BR
+permalink: /blog/:title/
+markdown: kramdown
+
+# paginate: 10
+# paginate_path: /page:num/
+
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

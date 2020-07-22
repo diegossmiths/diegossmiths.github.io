@@ -1,0 +1,23 @@
+<footer>
+    <ul class="social">
+        <li class="gitlab">
+            <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab">
+                <i class="fab fa-gitlab"></i>
+            </a>
+        </li>
+        <li class="instagram">
+            <a href="https://instagram.com/{{ site.instagram_username }}" title="Instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </li>
+        <li class="email">
+            <a href="mailto:{{ site.email_address }}" title="Email">
+                <i class="fa fa-envelope"></i>
+            </a>
+        </li>
+    </ul>
+
+<p>© <span id="year">{{ site.time | date: '%Y' }}</span> {{ site.author }}.</p>
+<p>Feito com <a href="https://jekyllrb.com/">Jekyll</a> e hospedado no <a href="https://gitlab.com/">GitLab</a>.</p>
+<p>Todos os créditos podem ser vistos <a href="/site/">aqui</a>.</p>
+</footer>

@@ -1,0 +1,21 @@
+section.grid {
+  margin: 0 auto;
+  max-width: 32em;
+
+  > * {
+    margin: 1em;
+//    padding-bottom: 4em;
+//    padding-top: 2em;
+  }
+}
+
+.grid.main {
+  flex: 1 0 auto;
+  max-width: 50em;
+
+  @media print {
+    max-width: 90%;
+  }
+}
+
+

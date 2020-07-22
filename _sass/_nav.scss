@@ -1,0 +1,65 @@
+nav {
+    @media print {
+        display: none;
+    }
+
+    background-color: var(--background-color); // define a cor de fundo do menu
+    color: var(--primary-color); // define a cor dos itens do menu
+    display: flex; // chama a propriedade flexbox
+    flex-flow: row nowrap; // os itens do menu são organizados em forma de linha, da esquerda para direita, sem quebra
+    overflow-x: auto; // se necessário, devido ao tamanho da tela, permite deslizar o menu para esquerda ou direita
+    position: sticky; // o menu fica estático na parte superior da página. Para deixá-lo acompanhando a rolagem, alterar para "sticky"
+    top: 0; // faz o menu iniciar no ponto 0 da janela do navegador
+    z-index: 1; // coloca o menu sobre todos os itens da tela
+//	justify-content: center;
+    border-bottom: 1px solid #999;
+
+
+    .box {
+    display: flex;
+  flex: 1 0 auto;
+  max-width: 50em;
+  margin: 0 auto;
+    }
+
+
+
+    a {
+        color: inherit; // define a cor do item (link), neste caso herdada de nav
+        display: flex; // chama a propriedade flexbox
+        flex-flow: row nowrap; // os itens do menu são organizados em forma de linha, da esquerda para direita, sem quebra
+        font-size: 1rem; // define o tamanho da fonte em 1 rem
+        font-weight: 300; // peso da fonte, neste caso definida em 900
+        opacity: 1; // opacidade em 100%
+        padding: 0.75em; // gera espaço ao redor dos itens do menu
+
+            &:hover,
+            &:focus {
+                background-color: var(--background-color); // define a cor de fundo quando um item estiver em foco ou quando o mouse estiver por cima
+                color: var(--primary-color); // define a cor de fundo quando um item estiver em foco ou quando o mouse estiver por cima
+                border: none; // sem bordas
+                color: inherit; // define a cor do item, neste caso herdada
+                opacity: 0.5; // define a opacidade em 75% quando um item estiver em foco ou quando o mouse estiver por cima
+                outline: none; // retira o contorno do item ao selecionar um link
+                text-decoration: none; // retira qualquer decoração do item
+            }
+
+            &.current,
+            &:active {
+		        background-color: var(--background-color); // define a cor de fundo para o item atual e ativo
+		        color: var(--accent-color); // define a cor do item para o item atual e ativo
+            }
+    }
+
+  img.avatar {
+   margin: -0.4em -0.25em -0.6em;
+    max-height: 2em;
+    max-width: 2em;
+    padding: 0;
+	border: none;
+  }
+
+
+
+}
+

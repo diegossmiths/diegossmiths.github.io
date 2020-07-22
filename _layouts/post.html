@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<h1>Blog</h1>
+
+<article>
+  <h2>{{ page.title }}</h2>
+
+  {% if page.description %}<p class="subtitle">{{ page.description }}</p>{% endif %}
+
+  {% if page.updated %}
+    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Updated {{ page.updated | date: "%F" }}</time>
+  {% else %}
+    <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%F" }}</time>
+  {% endif %}
+
+  {% include read-time.html content = page.content %}
+
+  {{ content }}
+
+  <hr />
+
+  <aside class="disclaimer">
+    {% capture md %}
+# Ética do blog e isenção de responsabilidade
+
+- Zero rastreamento ou análise
+- Sem pagamento, doações ou favores
+
+Estes são meus pensamentos pessoais e não representam a Andurá ou qualquer outra organização ou projeto associado.
+    {% endcapture %}
+    {{ md | markdownify }}
+  </aside>
+
+  {% assign date_string = page.date | date: "%a, %b %e, %Y" %}
+  {% assign updated_string = page.updated | date: "%a, %b %e, %Y" %}
+  {% if page.updated and updated_string != date_string %}
+  <aside class="updated">
+    {% capture md %}
+Originally published on **{{ page.date | date: "%a, %b %e, %Y" }}**, but most recently updated on **{{ page.updated | date: "%a, %b %e, %Y" }}**.
+    {% endcapture %}
+    {{ md | markdownify }}
+  </aside>
+  {% endif %}
+</article>

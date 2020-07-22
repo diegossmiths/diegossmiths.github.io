@@ -1,0 +1,19 @@
+:root {
+	--background-color: #ffffff; // cor de fundo do conteúdo da página
+	--primary-color: #008B8B; // cor primária
+	--additional-color: #117372; // cor complementar
+	--accent-color: #ff7474; // cor de destaque
+	--content-color: #63666A; // cor do texto dos conteúdos
+
+	--secondary-accent-color: var(--primary-color); // segunda cor de destaque
+	--secondary-accent-contrast: var(--background-color); // contraste da segunda cor de destaque
+
+}
+
+// modifica o CSS para prepará-lo para impressão
+@media print {
+	:root {
+		--background-color: #ffffff;
+  }
+}
+
