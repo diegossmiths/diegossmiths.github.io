@@ -14,24 +14,21 @@
 
 - Esquadrejadeira: Maksiwa ESQ 1900 I Black Edition
 
-- Tupia laminadora: Makita RT0700C
-
-- Tupia de coluna: Skill
+- Formões: Genéricos
 
 - Fresadora de junção: Makita PJ7000
 
-- Parafusadeira: Bosch
+- Guia de afiação: Veritas MKII
 
-- Serra de disco portátil: Bosch
+- Parafusadeira elétrica: Bosch GSR 7-14 E
 
 - Plaina manual: Veritas nº 5
 
-- Formões: Genéricos
+- Serra circular elétrica portátil: Bosch GKS 65 GCE
 
-- Guia de afiação: Veritas MKII
+- Tupia de coluna: Skill 1831
 
-- Pedras de afiação: King -----
-
+- Tupia laminadora: Makita RT0700C
 
 
 ## Eletrônicos
@@ -66,4 +63,13 @@
 ### Fones de ouvido:
 
 - Sennheiser HD 598. Um excelente fone de ouvido de alta fidelidade para uso doméstico.
+
+## Serviços
+
+- DuckDuckGo. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
+
+- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, mas a questão da privacidade em deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
+
+- gmail. Considero o serviço de e-mail da Google como o melhor da atualidade, mas não gosto de ficar nas mãos da Google. Tenho lido muito que o FastMail também está muito bom. Assim que der eu testo, se for bom mesmo, _bye bye, Google_.
+
 
