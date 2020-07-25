@@ -5,7 +5,7 @@ description: Tudo o que eu penso sobre o mundo consumista no qual vivemos
 
 
 
-Bem, essa é minha primeira postagem no blog, meu primeiro ensaio sobre alguma coisa. Acho que não poderia começar por outra coisa que não fosse sobre um dos temas que mais em inquieta há alguns anos: o consumismo.
+Bem, essa é minha segunda postagem no blog. Ela que não poderia ser sobre outro assunto que não fosse um dos temas que mais em inquieta há alguns anos: o consumismo.
 
 Desde o início da humanidade, quando o homem começou a usar objetos para tarefas específicas, temos o costume de guardar coisas que nos podem ser úteis. Não há nada de errado com esta prática, no nosso dia a dia necessitamos de alguns instrumentos para que possamos viver.
 
