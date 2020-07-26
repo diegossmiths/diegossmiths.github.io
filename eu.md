@@ -8,9 +8,9 @@ Sou tutor do melhor e mais bonito cachorro do mundo, o Vígi. Vígi (pronuncia-s
 
 Minha vida é guiada por alguns ideais e provavelmente o assunto principal do meu _blog_ serão sobre eles.
 
-Em primeiro lugar, e talvez o mais importante, seja o conceito de “consumo consciente”, focando em ter poucas coisas, todas de qualidade e cuidando delas para que durem o maior tempo possível. A grande maioria das coisas que as pessoas costumam possuir em casa são completamente dispensáveis. Na verdade, quase a totalidade das coisas…
+Em primeiro lugar, e talvez o mais importante, seja o conceito de “consumo consciente”, focando em ter poucas coisas, todas de qualidade e cuidando delas para que durem o maior tempo possível. A grande maioria das coisas que as pessoas costumam possuir em casa são completamente dispensáveis. Na verdade, quase a totalidade das coisas.
 
-Em segundo lugar talvez seja o conceito de _Copyleft_ e _Creative Commons_. Se a humanidade compartilhasse todo o conhecimento e trabalho desenvolvido evoluiríamos juntos, de uma maneira muito mais uniforme. Na minha empresa, a Andurá, uma pequena marcenaria, todo o trabalho desenvolvido por mim é regido pela CC. Não posso dizer o mesmo pelas coisas que meu irmão desenvolve, isso fica a critério dele.
+Em segundo lugar talvez seja o conceito de _Copyleft_ e _Creative Commons_. Se a humanidade compartilhasse todo o conhecimento e trabalho desenvolvido evoluiríamos juntos, de uma maneira muito mais uniforme. Na minha empresa, a Andurá, uma pequena marcenaria, todo o trabalho desenvolvido por mim é regido pela CC.
 
 Temos também os ideais do movimento _software_ livre. Estes estão radicalmente ligados ao anterior, visto que dentro do movimento há o total compartilhamento das ideias e tecnologias desenvolvidas para que todos possam usufruir e ajudar da maneira que quiser.
 
