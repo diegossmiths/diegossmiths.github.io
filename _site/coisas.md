@@ -68,7 +68,7 @@
 
 - DuckDuckGo. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
 
-- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, mas a questão da privacidade em deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
+- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
 - gmail. Considero o serviço de e-mail da Google como o melhor da atualidade, mas não gosto de ficar nas mãos da Google. Tenho lido muito que o FastMail também está muito bom. Assim que der eu testo, se for bom mesmo, _bye bye, Google_.
 
