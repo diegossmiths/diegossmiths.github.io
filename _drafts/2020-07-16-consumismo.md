@@ -5,9 +5,9 @@ description: Tudo o que eu penso sobre o mundo consumista no qual vivemos
 
 
 
-Bem, essa é minha segunda postagem no blog. Ela que não poderia ser sobre outro assunto que não fosse um dos temas que mais em inquieta há alguns anos: o consumismo.
+Esta é minha segunda postagem no blog. Ela que não poderia ser sobre outro assunto que não fosse um dos temas que mais em inquieta há alguns anos: o consumismo.
 
-Desde o início da humanidade, quando o homem começou a usar objetos para tarefas específicas, temos o costume de guardar coisas que nos podem ser úteis. Não há nada de errado com esta prática, no nosso dia a dia necessitamos de alguns instrumentos para que possamos viver.
+Desde o início da humanidade, quando o homem começou a usar objetos para tarefas específicas, temos o costume de guardar coisas que nos podem ser úteis. Inicialmente eram instrumentos básicos destinados a caça, a preparação de alimentos ou até mesmo a produção de uma moradia. Não há nada de errado com esta prática, no nosso dia a dia necessitamos de alguns instrumentos para que possamos viver.
 
 Seguindo a lógica apresentada por Henry David Thoreau em seu livro Walden, a qual tem um completo sentido prático e lógico da coisa, nós como animais que somos (sim meu caro leitor, antes de mais nada somos animais, mas isso fica para uma próxima postagem) precisamos de pouquíssimas coisas. Antes de mais nada a nossa maior necessidade é comida e água. A comida serve como combustível para nosso corpo, para nos fornecer energia e nos manter quentes e ativos. Este calor vital é produzido pelo nosso corpo baseado na reação que ocorre no processo de digestão e respiração. Se algo não está certo, como por motivo de doença ou acidente, temos um problema em nossa “fornalha” e isso não é bom sinal. Por este motivo, ou em algumas outras situações, como quando chega o inverno nas localidades mais longínquas da região do Equador, faz-se também a necessidade de nos cobrirmos com algo para que possamos manter este calor interno (uma necessidade prática que não tem nada a ver com uma necessidade de cunho estético, ideológico ou religioso). Criamos então as roupas, que originalmente não passavam de peles de animais mortos.
 
