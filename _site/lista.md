@@ -6,7 +6,5 @@
 
 - [Torneira Gourmet](https://produto.mercadolivre.com.br/MLB-1159781410-torneira-com-filtro-metal-gourmet-toda-metal-parede-_JM)
 
-- Pote de vidro Marinex
 
-- Descanso de panelas
 
