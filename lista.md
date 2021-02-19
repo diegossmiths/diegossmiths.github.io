@@ -1,6 +1,8 @@
 # Lista de presentes.
 
-> Apesar de eu ser uma pessoa que preza pelo minimalismo, por ter poucas coisas e pregar o anticapitalismo, as vezes há a necessidade de ter possuir algumas coisas. Então, caro leitor, se um dia quiseres me fazer um agrado, sinta-se a vonta de escolher um item desta lista e dar de presente para mim. =]
+> Apesar de eu ser uma pessoa que preza pelo minimalismo e ser anticonsumista, as vezes existe a necessidade de possuir algumas coisas. Então, caro leitor, se um dia quiseres me fazer um agrado, sinta-se a vonta de escolher um item desta lista e dar de presente para mim. =]
+
+> Ah, e já ia esquecendo. Se possível não comprar nada em lojas como Amazon e Havan, lojas que são anti-competitivas e não costumam respeitas as leis dos trabalhadores.
 
 ---
 
