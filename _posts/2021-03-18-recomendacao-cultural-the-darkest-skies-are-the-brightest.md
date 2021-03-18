@@ -51,22 +51,36 @@ title: Recomendação cultural // The darkest skies are the brightest (2021) - A
 ![Anneke van Giersbergen - The darkest skies are the brightest](/images/blog/2021-03-18-recomendacao-cultural-the-darkest-skies-are-the-brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.jpg)
 
 > **Lançamento:** 26 de fevereiro de 2021
+
 > **Gênero:** rock alternativo / rock acústico
+
 > **Gravadora:** Inside Out Music
+
 > **Produtor:** Gijs Coolen
 
 > **Faixas:**
-> 01 // Agape
-> 02 // Hurricane
-> 03 // My promise
-> 04 // I saw a car
-> 05 // The soul knows
-> 06 // The end
-> 07 // Keep it simple
-> 08 // Lo and behold
-> 09 // Losing you
-> 10 // Survive
-> 11 // Love you like I love you
+
+>> 01 // Agape
+
+>> 02 // Hurricane
+
+>> 03 // My promise
+
+>> 04 // I saw a car
+
+>> 05 // The soul knows
+
+>> 06 // The end
+
+>> 07 // Keep it simple
+
+>> 08 // Lo and behold
+
+>> 09 // Losing you
+
+>> 10 // Survive
+
+>> 11 // Love you like I love you
 
 > Todas as músicas foram escritas e compostas por Anneke van Giersbergen.
 
