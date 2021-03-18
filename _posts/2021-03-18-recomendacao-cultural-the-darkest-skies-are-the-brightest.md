@@ -48,6 +48,7 @@ title: Recomendação cultural // The darkest skies are the brightest (2021) - A
 
 > Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o marido usaram o tempo no qual estiveram separados para rever muito de seus problemas de modo a consertar o vínculo e no final reataram a união.
 
+![Anneke van Giersbergen - The darkest skies are the brightest ](/images/blog/2021-03-18-recomendacao-cultural-the-darkest-skies-are-the-brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.jpg){: class="card"}
 
 >**Lançamento:** 26 de fevereiro de 2021
 **Gênero:** rock alternativo / rock acústico
