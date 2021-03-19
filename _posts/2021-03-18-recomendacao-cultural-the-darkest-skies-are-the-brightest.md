@@ -52,11 +52,15 @@ updated: 2021-03-19
 
 ![Anneke van Giersbergen - The darkest skies are the brightest](/images/blog/2021-03-18-recomendacao-cultural-the-darkest-skies-are-the-brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.jpg)
 
-> **Lançamento:** 26 de fevereiro de 2021
-> **Gênero:** rock alternativo / rock acústico
-> **Gravadora:** Inside Out Music
-> **Produtor:** Gijs Coolen
-> **Faixas:**
+**Lançamento:** 26 de fevereiro de 2021
+
+**Gênero:** rock alternativo / rock acústico
+
+**Gravadora:** Inside Out Music
+
+**Produtor:** Gijs Coolen
+
+**Faixas:**
 
 01. Agape
 02. Hurricane
