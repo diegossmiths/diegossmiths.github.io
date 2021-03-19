@@ -22,15 +22,13 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 
 - Parafusadeira elétrica: Bosch GSR 7-14 E
 
-- Plaina manual: Veritas #5-1/4 bench plane (com faca em aço PMV-11®)
+- Plaina manual: Veritas #5-1/4 _bench plane_ (com faca em aço PMV-11®)
 
 - Serra circular elétrica portátil: Bosch GKS 65 GCE
 
-- Tupia de coluna: Skill 1831
+- Tupia de coluna: Makita RP2301FC
 
 - Tupia laminadora: Makita RT0700C
-
-- Tupia de coluna: Makita RP2301FC
 
 
 ## Eletrônicos
