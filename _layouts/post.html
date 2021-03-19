@@ -10,7 +10,7 @@ layout: default
   {% if page.description %}<p class="subtitle">{{ page.description }}</p>{% endif %}
 
   {% if page.updated %}
-    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Atualizado {{ page.updated | date: "%F" }}</time>
+    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Atualizado em {{ page.updated | date: "%F" }}</time>
   {% else %}
     <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%F" }}</time>
   {% endif %}
