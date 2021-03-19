@@ -51,8 +51,11 @@ Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o ma
 ![Anneke van Giersbergen - The darkest skies are the brightest](/images/blog/2021-03-18-recomendacao-cultural-the-darkest-skies-are-the-brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.jpg)
 
 **Lançamento:** 26 de fevereiro de 2021
+
 **Gênero:** rock alternativo / rock acústico
+
 **Gravadora:** Inside Out Music
+
 **Produtor:** Gijs Coolen
 
 **Faixas:**
