@@ -1,8 +1,8 @@
 # Sobre o que eu uso
 
-> Esta talvez seja uma das primeiras perguntas que as pessoas fazem quando dizemos que fazemos algo. Ao invés de ficar escrevendo sobre isso nas postagens, resolvi colocar tudo aqui, todas as coisas que costumo usar no dia-a-dia.
+Esta talvez seja uma das primeiras perguntas que as pessoas fazem quando dizemos que fazemos algo. Ao invés de ficar escrevendo sobre isso nas postagens, resolvi colocar tudo aqui, todas as coisas que costumo usar no dia-a-dia.
 
-> A lista cobre várias coisas, desde equipamento de informática, materiais de marcenaria a softwares em geral.
+A lista cobre várias coisas, desde equipamento de informática, materiais de marcenaria a softwares em geral.
 
 ---
 
@@ -22,13 +22,15 @@
 
 - Parafusadeira elétrica: Bosch GSR 7-14 E
 
-- Plaina manual: Veritas nº 5
+- Plaina manual: Veritas #5-1/4 bench plane (com faca em aço PMV-11®)
 
 - Serra circular elétrica portátil: Bosch GKS 65 GCE
 
 - Tupia de coluna: Skill 1831
 
 - Tupia laminadora: Makita RT0700C
+
+- Tupia de coluna: Makita RP2301FC
 
 
 ## Eletrônicos
