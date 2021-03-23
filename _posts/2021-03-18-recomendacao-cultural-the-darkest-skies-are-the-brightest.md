@@ -77,6 +77,6 @@ Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o ma
 
 Todas as músicas foram escritas e compostas por Anneke van Giersbergen.
 
-Ouça o álbum completo no [Spotify](https://open.spotify.com/album/6MEBn5n2uktdaned7Zc91o?si=pkD0NwKHSmuh9_5_FFqeEQ)
+**Ouça o álbum completo no:** [Spotify](https://open.spotify.com/album/6MEBn5n2uktdaned7Zc91o?si=pkD0NwKHSmuh9_5_FFqeEQ)
 
 
