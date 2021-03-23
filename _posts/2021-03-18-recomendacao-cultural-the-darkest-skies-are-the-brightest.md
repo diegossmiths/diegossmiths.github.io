@@ -78,10 +78,10 @@ Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o ma
 Todas as músicas foram escritas e compostas por Anneke van Giersbergen.
 
 **Ouça o álbum completo no:**
-[Spotify](https://open.spotify.com/album/6MEBn5n2uktdaned7Zc91o?si=pkD0NwKHSmuh9_5_FFqeEQ)
-[Deezer](https://www.deezer.com/album/187949402?app_id=140685&utm_source=partner_linkfire&utm_campaign=c9eebfd3305f7c5852b66c91fd50f0fa&utm_medium=Original&utm_term=objective-stream&utm_content=album-187949402)
-[Tidal](http://listen.tidalhifi.com/album/162940845)
-[Apple Music](https://music.apple.com/album/1541054468?uo=5&app=music&at=1010lNLq&lId=22537237&cId=none&sr=9&src=Linkfire&itscg=30440&itsct=catchall_p9&ct=LFV_c9eebfd3305f7c5852b66c91fd50f0fa&ls=1)
-[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_mHF1QED9wV8-_0LW25XephYaC4A_w-sgc&src=Linkfire&lId=6b439526-52c3-47d9-b3d3-104e44a2074b&cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751)
+- [Spotify](https://open.spotify.com/album/6MEBn5n2uktdaned7Zc91o?si=pkD0NwKHSmuh9_5_FFqeEQ)
+- [Deezer](https://www.deezer.com/album/187949402?app_id=140685&utm_source=partner_linkfire&utm_campaign=c9eebfd3305f7c5852b66c91fd50f0fa&utm_medium=Original&utm_term=objective-stream&utm_content=album-187949402)
+- [Tidal](http://listen.tidalhifi.com/album/162940845)
+- [Apple Music](https://music.apple.com/album/1541054468?uo=5&app=music&at=1010lNLq&lId=22537237&cId=none&sr=9&src=Linkfire&itscg=30440&itsct=catchall_p9&ct=LFV_c9eebfd3305f7c5852b66c91fd50f0fa&ls=1)
+- [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_mHF1QED9wV8-_0LW25XephYaC4A_w-sgc&src=Linkfire&lId=6b439526-52c3-47d9-b3d3-104e44a2074b&cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751)
 
 
