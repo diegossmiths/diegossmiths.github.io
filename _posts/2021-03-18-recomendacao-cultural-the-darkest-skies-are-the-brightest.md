@@ -2,7 +2,7 @@
 layout: post
 title: Recomendação cultural // The darkest skies are the brightest (2021) - Anneke van Giersbergen
 description: Nesta minha primeira postagem irei recomendar um álbum musical, o "The darkest skies are the brightest" da Anneke van Giersbergen.
-updated: 2021-03-19
+updated: 2021-03-23
 ---
 
 # Sobre a primeira postagem
