@@ -58,7 +58,7 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 
 ### Aparelho de celular:
 
-- Moto G4 Play. Já é um senhorzinho que volta e meia vai ao chão, mas ainda dá conta do recado.
+- Moto X4 (até 22 de março de 2021 tinha um MotoG4 Play que lutava para se manter vivo)
 
 ### Fones de ouvido:
 
