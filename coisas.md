@@ -33,14 +33,13 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 > - Tela: 13,3″ WXGA (1280×800)
 > - Teclado: Microsoft Wireless Keyboard 3000 v2.0
 > - Mouse: Microsoft Wireless Mouse 5000
-> - Sistema operacional: elementary OS (GNU/Linux x86-64)
-> - Programas:
+> - Softwares:
+>> - Sistema operacional: elementary OS 5.1.7 (GNU/Linux x86-64)
 >> - Navegador de internet: Mozilla Firefox
 >> - Suíte de escritório: LibreOffice
->> - Organizador de e-books: Calibre (utilizo principalmente para remover o DRM do livros)
+>> - Organizador de e-books: Calibre (utilizo principalmente para remover o DRM dos livros digitais)
 >> - Contabilidade da marcenaria: HomeBank
 >> - Trabalho gráfico: Inkscape / GIMP / Scribus
->> - Programação: Code / Arduino IDE
 
 ### Leitor de livros digitais:
 
