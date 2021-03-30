@@ -33,7 +33,7 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 > - Tela: 13,3″ WXGA (1280×800)
 > - Teclado: Microsoft Wireless Keyboard 3000 v2.0
 > - Mouse: Microsoft Wireless Mouse 5000
-> - Softwares:
+> - Programas:
 >> - Sistema operacional: elementary OS 5.1.7 (GNU/Linux x86-64)
 >> - Navegador de internet: Mozilla Firefox
 >> - Suíte de escritório: LibreOffice
