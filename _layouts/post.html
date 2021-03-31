@@ -10,9 +10,9 @@ layout: default
   {% if page.description %}<p class="subtitle">{{ page.description }}</p>{% endif %}
 
   {% if page.updated %}
-    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Atualizado em {{ page.updated | date: "%F" }}</time>
+    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Publicado em {{ page.date | date: "%F" }} mas atualizado em {{ page.updated | date: "%F" }}</time>
   {% else %}
-    <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%F" }}</time>
+    <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">Publicado em {{ page.date | date: "%F" }}</time>
   {% endif %}
 
   {% include read-time.html content = page.content %}
@@ -33,14 +33,4 @@ Estes são meus pensamentos pessoais e não representam a Andurá ou qualquer ou
     {{ md | markdownify }}
   </aside>
 
-  {% assign date_string = page.date | date: "%a, %b %e, %Y" %}
-  {% assign updated_string = page.updated | date: "%a, %b %e, %Y" %}
-  {% if page.updated and updated_string != date_string %}
-  <aside class="updated">
-    {% capture md %}
-Originalmente publicado em **{{ page.date | date:"%Y-%m-%d" }}**, mas atualizado em **{{ page.updated | date:"%Y-%m-%d" }}**.
-    {% endcapture %}
-    {{ md | markdownify }}
-  </aside>
-  {% endif %}
 </article>

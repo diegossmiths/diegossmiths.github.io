@@ -1,33 +1,23 @@
 # Sobre o que eu uso
 
-> Esta talvez seja uma das primeiras perguntas que as pessoas fazem quando dizemos que fazemos algo. Ao invés de ficar escrevendo sobre isso nas postagens, resolvi colocar tudo aqui, todas as coisas que costumo usar no dia-a-dia.
+Esta talvez seja uma das primeiras perguntas que as pessoas fazem quando dizemos que fazemos algo. Ao invés de ficar escrevendo sobre isso nas postagens, resolvi colocar tudo aqui, todas as coisas que costumo usar no dia-a-dia.
 
-> A lista cobre várias coisas, desde equipamento de informática, materiais de marcenaria a softwares em geral.
+A lista cobre várias coisas, desde equipamento de informática, materiais de marcenaria a softwares em geral.
 
 ---
 
 ## Máquinas e ferramentas de marcenaria:
 
 - Desempenadeira: Omil DES-40
-
 - Desengrossadeira: Invicta DGI-40
-
 - Esquadrejadeira: Maksiwa ESQ 1900 I Black Edition
-
 - Formões: Genéricos
-
 - Fresadora de junção: Makita PJ7000
-
 - Guia de afiação: Veritas MKII
-
 - Parafusadeira elétrica: Bosch GSR 7-14 E
-
-- Plaina manual: Veritas nº 5
-
+- Plaina manual: Veritas #5-1/4 _bench plane_ (com faca em aço PMV-11®)
 - Serra circular elétrica portátil: Bosch GKS 65 GCE
-
-- Tupia de coluna: Skill 1831
-
+- Tupia de coluna: Makita RP2301FC
 - Tupia laminadora: Makita RT0700C
 
 
@@ -43,14 +33,13 @@
 > - Tela: 13,3″ WXGA (1280×800)
 > - Teclado: Microsoft Wireless Keyboard 3000 v2.0
 > - Mouse: Microsoft Wireless Mouse 5000
-> - Sistema operacional: elementary OS (GNU/Linux x86-64)
 > - Programas:
+>> - Sistema operacional: elementary OS 5.1.7 (GNU/Linux x86-64)
 >> - Navegador de internet: Mozilla Firefox
 >> - Suíte de escritório: LibreOffice
->> - Organizador de e-books: Calibre (utilizo principalmente para remover o DRM do livros)
+>> - Organizador de e-books: Calibre (utilizo principalmente para remover o DRM dos livros digitais)
 >> - Contabilidade da marcenaria: HomeBank
 >> - Trabalho gráfico: Inkscape / GIMP / Scribus
->> - Programação: Code / Arduino IDE
 
 ### Leitor de livros digitais:
 
@@ -58,7 +47,7 @@
 
 ### Aparelho de celular:
 
-- Moto G4 Play. Já é um senhorzinho que volta e meia vai ao chão, mas ainda dá conta do recado.
+- Motorola moto X4 (até 23 de março de 2021 tinha um moto G4 Play que lutava para cumprir as tarefas)
 
 ### Fones de ouvido:
 
@@ -70,6 +59,6 @@
 
 - Spotify. É um serviço bom, tem um acervo gigantesco de músicas, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
-- gmail. Considero o serviço de e-mail da Google como o melhor da atualidade, mas não gosto de ficar nas mãos da Google. Tenho lido muito que o FastMail também está muito bom. Assim que der eu testo, se for bom mesmo, _bye bye, Google_.
+- Gmail. Considero o serviço de e-mail da Google como o melhor da atualidade, mas não gosto de ficar nas mãos da Google. Tenho lido muito que o FastMail também está muito bom. Assim que der eu testo, se for bom mesmo, _bye bye, Google_.
 
 

@@ -7,9 +7,6 @@
 {% for post in posts %}
   {% unless post.hidden %}
     {% assign date = post.date %}
-    {% if post.updated %}
-      {% assign date = post.updated %}
-    {% endif %}
 
 ### [{{ post.title }}]({{ post.url }}) **{{ date | date: '%F' }}**
 
