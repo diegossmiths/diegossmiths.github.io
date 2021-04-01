@@ -14,10 +14,10 @@
 #### {{ post.description }}
 {% endif %}
 
-{{ post.content | strip_html | truncatewords: 30 }}
+{{ post.content | strip_html | truncatewords: 35 }}
 
 
-[Read more]({{ post.url }}){: class="read-more"}
+<!-- [Read more]({{ post.url }}){: class="read-more"} -->
 
   {% endunless %}
 {% endfor %}
