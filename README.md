@@ -11,7 +11,7 @@ ruby-full build-essential zlib1g-dev
 
 É recomendado a instalação das gems em um diretório oculto na pasta de usuário:
 Para isso execute os seguintes comandos no terminal bash
-```
+```bash
 echo '' >> ~/.bashrc
 echo '# Install Ruby Gems to ~/.gems' >> ~/.bashrc
 echo 'export GEM_HOME="$HOME/.gems"' >> ~/.bashrc
@@ -21,17 +21,17 @@ source ~/.bashrc
 ```
 
 Instale o Jekyll e o bundler. No terminal bash digite:
-```
+```bash
 gem install jekyll bundler
 ```
 
 Instale as gems digitando no terminal:
-```
+```bash
 bundle install
 ```
 
 Compile e crie o servidor localmente com o comando bash:
-```
+```bash
 bundle exec jekyll serve --host 0.0.0.0
 ```
 
