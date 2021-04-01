@@ -32,10 +32,10 @@ bundle install
 
 Compile e crie o servidor localmente com o comando bash:
 ```bash
-bundle exec jekyll serve --host 0.0.0.0
+bundle exec jekyll serve --host localhost
 ```
 
-Com este comando o site estará disponível em http://0.0.0.0:4000/ na sua máquina e poderá ser acessado por outras máquinas usando o seu endereço de IP na rede local através da porta 4000. Isso facilita o teste em outras máquinas e em sistemas móveis.
+Com este comando o site estará disponível em http://localhost:4000/ na sua máquina e poderá ser acessado por outras máquinas usando o seu endereço de IP na rede local através da porta 4000. Isso facilita o teste em outras máquinas e em sistemas móveis.
 
 Por padrão o tema não suporta redes sociais, portanto não tem configurado as meta tags Facebook Open Graph Protocol e Twitter Cards.
 
