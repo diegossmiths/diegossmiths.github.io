@@ -9,7 +9,7 @@
 	<a href="/eu" {% if current[1] == 'eu' %}class='current'{% endif %}>Eu</a>
 	<a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
 	<a href="/coisas" {% if current[1] == 'coisas' %}class='current'{% endif %}>Coisas</a>
-	<a href="/lista" {% if current[1] == 'lista' %}class='current'{% endif %}>Lista de presentes</a>
+	<a href="/lista" {% if current[1] == 'listapresentes' %}class='current'{% endif %}>Lista de presentes</a>
 
 
 	{% if current[1] == 'creditos' %}
