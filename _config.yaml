@@ -26,8 +26,9 @@ spotify_username: tekonaza
 #url: "https://diegossmiths.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme-color: '#008b8b'
 #theme: minima
-languages: ["pt-br"]
-lang: pt-br
+languages: pt_BR
+lang: pt
+locale: tp_BR
 permalink: /blog/:title/
 markdown: kramdown
 
