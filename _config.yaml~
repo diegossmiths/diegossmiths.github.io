@@ -27,7 +27,6 @@ spotify_username: tekonaza
 theme-color: '#008b8b'
 #theme: minima
 languages: ["pt-br"]
-lang: pt-br
 permalink: /blog/:title/
 markdown: kramdown
 
