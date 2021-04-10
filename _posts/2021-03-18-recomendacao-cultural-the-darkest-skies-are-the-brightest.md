@@ -9,8 +9,6 @@ updated: 2021-03-30
 
 ---
 
-## Recomendação cultural // The darkest skies are the brightest (2021) // Anneke van Giersbergen
-
 ## Sobre a primeira postagem
 
 Depois de muitos meses pensando qual seria a minha primeira postagem, divagando entre temas que iam desde consumismo, passando por _software_ livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC _laser_, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, uma recomendação de um álbum musical.
