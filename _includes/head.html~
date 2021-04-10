@@ -11,7 +11,7 @@
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
   <meta name="theme-color" content="{% if page.theme-color %}{{ page.theme-color }}{% else %}{{ site.theme-color }}{% endif %}">
-  <meta name="image" content="/logo.svg">
+  <meta name="image" content=""/logo.svg">
   <meta name="robots" content="index, follow">
 <!-- final das meta tags W3C -->
 
