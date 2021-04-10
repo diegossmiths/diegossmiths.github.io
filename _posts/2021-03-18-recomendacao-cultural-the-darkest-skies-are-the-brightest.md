@@ -2,7 +2,7 @@
 layout: post
 title: Recomendação cultural // The darkest skies are the brightest
 author: Diego Schild Smiths
-description: Nesta minha primeira postagem irei recomendar um álbum musical, o "The darkest skies are the brightest" da Anneke van Giersbergen.
+description: Nesta minha primeira postagem irei recomendar um álbum musical, o The darkest skies are the brightest da Anneke van Giersbergen.
 keywords: anneke, van, giersbergen, darkest, sky, brightest, recomendação, resenha
 updated: 2021-03-30
 
