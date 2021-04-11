@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uma viagem pelo meu jardim // Diego Schild Smiths</title>
-    <description>Uma viagem pelo meu jardim // Diego Schild Smiths</description>
+    <title>Uma viagem pelo meu jardim • Diego Schild Smiths</title>
+    <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Apr 2021 13:49:35 -0300</pubDate>
-    <lastBuildDate>Sun, 11 Apr 2021 13:49:35 -0300</lastBuildDate>
+    <pubDate>Sun, 11 Apr 2021 15:29:15 -0300</pubDate>
+    <lastBuildDate>Sun, 11 Apr 2021 15:29:15 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
         <item>
-          <title>Recomendação cultural // The darkest skies are the brightest</title>
+          <title>The darkest skies are the brightest</title>
           <description>&lt;h2 id=&quot;sobre-a-primeira-postagem&quot;&gt;Sobre a primeira postagem&lt;/h2&gt;
 
 &lt;p&gt;Depois de muitos meses pensando qual seria a minha primeira postagem, divagando entre temas que iam desde consumismo, passando por &lt;em&gt;software&lt;/em&gt; livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC &lt;em&gt;laser&lt;/em&gt;, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, uma recomendação de um álbum musical.&lt;/p&gt;
@@ -97,8 +97,8 @@
 
 </description>
           <pubDate>Thu, 18 Mar 2021 00:00:00 -0300</pubDate>
-          <link>http://localhost:4000/blog/recomendacao-cultural-the-darkest-skies-are-the-brightest/</link>
-          <guid isPermaLink="true">http://localhost:4000/blog/recomendacao-cultural-the-darkest-skies-are-the-brightest/</guid>
+          <link>http://localhost:4000/blog/the-darkest-skies-are-the-brightest/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/the-darkest-skies-are-the-brightest/</guid>
           
           
           

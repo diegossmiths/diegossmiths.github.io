@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 author: Diego Schild Smiths
-description: Índice do blog
+description: Índice do blog Uma viagem pelo meu jardim
 keywords: blog, pessoal, diego, schild, smiths
 permalink: blog/
 ---

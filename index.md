@@ -2,7 +2,7 @@
 layout: default
 title:
 author: Diego Schild Smiths
-description: Uma viagem pelo meu jardim // Diego Schild Smiths
+description: Uma viagem pelo meu jardim • Diego Schild Smiths
 keywords: diego schild smiths, diego, schild, smiths, pagina, site, pessoal, blog
 permalink: /
 ---

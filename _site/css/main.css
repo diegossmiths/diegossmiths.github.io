@@ -46,7 +46,7 @@ article time, .tempo-leitura { opacity: 0.75; cursor: default; }
 
 .subtitle { font-size: 1.33em; margin: 0 auto 0.25em; }
 
-aside.updated h1, aside.updated h2, aside.updated h3, aside.updated h4, aside.updated h6, aside.updated h6, aside.disclaimer h1, aside.disclaimer h2, aside.disclaimer h3, aside.disclaimer h4, aside.disclaimer h6, aside.disclaimer h6 { color: var(--primary-color); font-size: 1.25em; letter-spacing: normal; }
+aside.updated h1, aside.updated h2, aside.updated h3, aside.updated h4, aside.updated h5, aside.updated h6, aside.disclaimer h1, aside.disclaimer h2, aside.disclaimer h3, aside.disclaimer h4, aside.disclaimer h5, aside.disclaimer h6 { color: var(--primary-color); font-size: 1.25em; letter-spacing: normal; margin-bottom: 1em; }
 
 aside.disclaimer ul { list-style: none; margin-left: 0; padding-left: 0; }
 aside.disclaimer ul li { padding-left: 1em; text-indent: -1em; }
