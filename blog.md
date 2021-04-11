@@ -1,8 +1,19 @@
+---
+layout: default
+title: Blog
+author: Diego Schild Smiths
+description: Índice do blog
+keywords: blog, pessoal, diego, schild, smiths
+permalink: blog/
+---
+
 # Blog
 
 Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui onde eu abro meu pequeno jardim e exponho à todas as pessoas. É para uma pequena viagem nesse jardim que eu os convido.
 
-<!-- {% assign posts = site.posts | sort: "date" | sort: "updated" | reverse %} -->
+---
+
+{% assign posts = site.posts | sort: "date" | sort: "updated" | reverse %}
 
 {% for post in posts %}
   {% unless post.hidden %}
@@ -14,10 +25,8 @@ Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui 
 #### {{ post.description }}
 {% endif %}
 
-{{ post.content | strip_html | truncatewords: 35 }}
 
-
-<!-- [Read more]({{ post.url }}){: class="read-more"} -->
+ [Leia mais]({{ post.url }}){: class="leia-mais"}
 
   {% endunless %}
 {% endfor %}
