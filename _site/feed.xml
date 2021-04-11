@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Apr 2021 16:00:05 -0300</pubDate>
-    <lastBuildDate>Sun, 11 Apr 2021 16:00:05 -0300</lastBuildDate>
+    <pubDate>Sun, 11 Apr 2021 16:48:53 -0300</pubDate>
+    <lastBuildDate>Sun, 11 Apr 2021 16:48:53 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -108,9 +108,7 @@
       
         <item>
           <title>Por que escrever?</title>
-          <description>&lt;blockquote&gt;
-  &lt;p&gt;Então, o que me levou a escrever um blog? E por qual motivo um blog num mundo tão cheio de &lt;em&gt;podcast&lt;/em&gt; e canais de vídeo? Nada mais justo que seja na primeira postagem onde eu apresente meus motivos.&lt;/p&gt;
-&lt;/blockquote&gt;
+          <description>&lt;p&gt;Então, o que me levou a escrever um blog? E por qual motivo um blog num mundo tão cheio de &lt;em&gt;podcast&lt;/em&gt; e canais de vídeo? Nada mais justo que seja na primeira postagem onde eu apresente meus motivos.&lt;/p&gt;
 
 &lt;h2 id=&quot;por-que-escrever&quot;&gt;Por que escrever?&lt;/h2&gt;
 
