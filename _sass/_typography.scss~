@@ -116,7 +116,7 @@ ol {
 }
 
 hr {
-  border: 0.125em solid #dedede;
+  border: 0.125em solid var(--faint);
   margin: 3em auto;
 }
 
@@ -127,8 +127,8 @@ aside p {
 }
 
 blockquote {
-  border-left: 0.33em solid #dedede;
-  margin-left: 0.33em;
+  border-left: 0.25em solid var(--faint);
+  margin-left: 0.25em;
   opacity: 0.8;
   padding-left: 0.5em;
 }
@@ -190,7 +190,7 @@ aside.disclaimer {
       text-indent: -1em;
 
       &:before {
-        content: "•";
+        content: "✔️";
         font-size: 1.25em;
         padding-right: 0.25em;
       }

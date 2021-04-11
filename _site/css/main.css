@@ -30,11 +30,11 @@ p, li { line-height: 2em; }
 
 p, ul, ol { margin: 0.5em auto; }
 
-hr { border: 0.125em solid var(--faint); margin: 3em auto; }
+hr { border: 0.125em solid #dedede; margin: 3em auto; }
 
 small, aside.disclaimer ul, aside p { font-size: smaller; opacity: 0.8; }
 
-blockquote { border-left: 0.25em solid var(--faint); margin-left: 0.25em; opacity: 0.8; padding-left: 0.5em; }
+blockquote { border-left: 0.33em solid #dedede; margin-left: 0.33em; opacity: 0.8; padding-left: 0.5em; }
 
 aside blockquote p { border: none; font-size: 1.75em; font-style: italic; margin-left: 0.75em; opacity: 1; padding-left: 0; }
 
@@ -50,7 +50,7 @@ aside.updated h1, aside.updated h2, aside.updated h3, aside.updated h4, aside.up
 
 aside.disclaimer ul { list-style: none; margin-left: 0; padding-left: 0; }
 aside.disclaimer ul li { padding-left: 1em; text-indent: -1em; }
-aside.disclaimer ul li:before { content: "✔️"; font-size: 1.25em; padding-right: 0.25em; }
+aside.disclaimer ul li:before { content: "•"; font-size: 1.25em; padding-right: 0.25em; }
 
 figure { margin: 2em auto; }
 figure > p { margin: 0; }
