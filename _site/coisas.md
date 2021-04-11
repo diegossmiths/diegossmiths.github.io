@@ -15,7 +15,7 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 - Fresadora de junção: Makita PJ7000
 - Guia de afiação: Veritas MKII
 - Parafusadeira elétrica: Bosch GSR 7-14 E
-- Plaina manual: Veritas #5 ¹/4 _bench plane_ (com faca em aço PMV-11®)
+- Plaina manual: Veritas #5¼ _bench plane_ (com faca em aço PMV-11®)
 - Serra circular elétrica portátil: Bosch GKS 65 GCE
 - Tupia de coluna: Makita RP2301FC
 - Tupia laminadora: Makita RT0700C
