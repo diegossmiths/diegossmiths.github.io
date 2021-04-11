@@ -1,4 +1,13 @@
-# Sobre o que eu uso
+---
+layout: default
+title: Coisas que eu uso
+author: Diego Schild Smiths
+description: Aqui podemos ver ferramentas, softwares e outras coisas que costumo usar no meu dia-a-dia, seja para trabalho ou diversão.
+keywords: ferramentas, material, trabalho, diversão, marcenaria, eletrônicos
+permalink: /coisas/
+---
+
+# Coisas que eu uso
 
 Esta talvez seja uma das primeiras perguntas que as pessoas fazem quando dizemos que fazemos algo. Ao invés de ficar escrevendo sobre isso nas postagens, resolvi colocar tudo aqui, todas as coisas que costumo usar no dia-a-dia.
 

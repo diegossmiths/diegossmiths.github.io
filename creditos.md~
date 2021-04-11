@@ -1,12 +1,3 @@
----
-layout: default
-title: Créditos
-author: Diego Schild Smiths
-description: Créditos para ferramentas, pedaços de códigos, ícones e outras coisas utilizados no meu site.
-keywords: créditos
-permalink: /creditos/
----
-
 # Créditos
 
 * Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll É um gerador de _sites_ estáticos, de código aberto e distribuído sob licença [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE).

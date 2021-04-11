@@ -1,4 +1,13 @@
-# Olá! Meu nome é Diego.
+---
+layout: default
+title: Eu
+author: Diego Schild Smiths
+description: Apresentação pessoal
+keywords: apresentação, pessoal, diego, schild, smiths, vígi, oficina, andurá
+permalink: /eu/
+---
+
+# Olá! Meu nome é Diego
 
 Sou um _nerd_ que mora em Pelotas/RS/Brasil.
 
