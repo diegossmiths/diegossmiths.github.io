@@ -22,8 +22,9 @@ spotify_username: tekonaza
 
 
 # Site settings:
-#baseurl: "/unvoyagedansmonjardin" # the subpath of your site, e.g. /blog
-#url: "https://diegossmiths.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://diegossmiths.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 theme-color: '#008b8b'
 #theme: minima
 languages: pt_BR
@@ -40,6 +41,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
