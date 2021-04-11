@@ -150,12 +150,12 @@ article p,
 }
 
 article time,
-.read-time {
-  opacity: 0.8;
+.tempo-leitura {
+  opacity: 0.75;
   cursor: default;
 }
 
-.read-time::before {
+.tempo-leitura::before {
   content: "| ";
 }
 
