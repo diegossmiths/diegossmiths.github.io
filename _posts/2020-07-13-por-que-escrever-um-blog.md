@@ -6,7 +6,7 @@ description: Quais foram os motivos para eu começar um blog? E por qual motivo 
 keywords: blog, motivo, escrever, diego, schild, smiths
 ---
 
-> Então, o que me levou a escrever um blog? E por qual motivo um blog num mundo tão cheio de _podcast_ e canais de vídeo? Nada mais justo que seja na primeira postagem onde eu apresente meus motivos.
+Então, o que me levou a escrever um blog? E por qual motivo um blog num mundo tão cheio de _podcast_ e canais de vídeo? Nada mais justo que seja na primeira postagem onde eu apresente meus motivos.
 
 ## Por que escrever?
 
