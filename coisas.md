@@ -30,9 +30,7 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 - Tupia laminadora: Makita RT0700C
 
 
-## Eletrônicos
-
-### Computador:
+## Computador:
 
 - Toshiba Satellite U405-S2830. É com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém. A configuração dele é:
   - CPU: Intel Core 2 Duo T8100 (2.1 GHz // 3 MB Cache L2 // TDP 35 Watts)
@@ -50,15 +48,15 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
     - Contabilidade da marcenaria: HomeBank
     - Trabalho gráfico: Inkscape / GIMP / Scribus
 
-### Leitor de livros digitais:
+## Leitor de livros digitais:
 
 - Kobo Glo HD. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Toda minha coleção de livros está nele.
 
-### Aparelho de celular:
+## Aparelho de celular:
 
-- Motorola moto X4 (até 23 de março de 2021 tinha um moto G4 Play que lutava para cumprir as tarefas)
+- Motorola moto X4 (até 23 de março de 2021 tinha um moto G4 Play que lutava para cumprir as tarefas).
 
-### Fones de ouvido:
+## Fones de ouvido:
 
 - Sennheiser HD 598. Um excelente fone de ouvido de alta fidelidade para uso doméstico.
 
@@ -66,8 +64,8 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 
 - DuckDuckGo. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
 
-- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
+- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
-- Gmail. Considero o serviço de e-mail da Google como o melhor da atualidade, mas não gosto de ficar nas mãos da Google. Tenho lido muito que o FastMail também está muito bom. Assim que der eu testo, se for bom mesmo, _bye bye, Google_.
+- Fastmail. Troquei minha conta principal de email para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos do Google.
 
 
