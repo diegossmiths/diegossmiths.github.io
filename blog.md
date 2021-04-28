@@ -13,7 +13,7 @@ Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui 
 
 ---
 
-{% assign posts = site.posts | sort: "date" | sort: "updated" | reverse %}
+{% assign posts = site.posts | sort: "date" | reverse %}
 
 {% for post in posts %}
   {% unless post.hidden %}
