@@ -49,7 +49,7 @@ The Darkest Skies are the Brightest consegue ser um álbum bastante eclético qu
 
 Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o marido usaram o tempo no qual estavam separados para rever muito de seus problemas de modo a consertar o vínculo e no final reataram a união.
 
-![Anneke van Giersbergen - The darkest skies are the brightest](/images/blog/2021-03-18-recomendacao-cultural-the-darkest-skies-are-the-brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.webp)
+![Anneke van Giersbergen - The darkest skies are the brightest](/images/blog/2021-03-18-the_darkest_skies_are_the_brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.webp)
 
 **Lançamento:** 26 de fevereiro de 2021
 

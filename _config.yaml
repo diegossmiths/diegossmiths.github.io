@@ -24,7 +24,7 @@ spotify_username: tekonaza
 # Site settings:
 
 url: "https://diegossmiths.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
+baseurl: "" # usado para subdomínios dentro do site
 theme-color: '#008b8b'
 #theme: minima
 languages: pt_BR
