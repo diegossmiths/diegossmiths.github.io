@@ -21,17 +21,15 @@ keywords: mãe, homenagem, falecimento, lua, flores, cassino
 > ... \\
 > Te amo.
 
----------
-
 E ao fim da minha oração, ouço tocando em um carro: "eu amei te ver, eu amei te ver..." E ela amava essa música. Obrigado, mãe. Eu também amei te ver.
 
-𝄞 𝄢  \\
+&#127932; \\
 _Não vou voltar tão cedo • \\
 Mas vou voltar porque • \\
 Eu amei te ver • \\
 Eu amei te ver • \\
 Eu amei te ver •_ \\
-𝄞 𝄢
+&#127932;
 
 Tiago Iorc - Amei te ver
 
