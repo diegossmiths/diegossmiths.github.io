@@ -5,38 +5,38 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
-   id="svg8"
+   width="600mm"
+   height="600mm"
+   viewBox="0 0 600 600"
    version="1.1"
-   viewBox="0 0 158.75 158.75"
-   height="600"
-   width="600">
+   id="svg8"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="logo.svg">
+  <title
+     id="title1116">Logo &quot;Uma viagem pelo meu jardim&quot;</title>
   <defs
      id="defs2" />
   <sodipodi:namedview
-     units="px"
-     inkscape:window-maximized="1"
-     inkscape:window-y="30"
-     inkscape:window-x="0"
-     inkscape:window-height="737"
-     inkscape:window-width="1280"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="504.83855"
-     inkscape:cx="575.92125"
-     inkscape:zoom="0.49497475"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.0875"
+     inkscape:cx="1498.0137"
+     inkscape:cy="1466.3764"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -45,60 +45,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Logo &quot;Uma viagem pelo meu jardim&quot;</dc:title>
+        <dc:date>2021-04-19</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Diego Schild Smiths</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>pt-BR</dc:language>
+        <cc:license
+           rdf:resource="" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
-       transform="translate(-1.7134316,9.0549985)"
-       id="g862">
+       id="g1114"
+       transform="matrix(5.6356155,0.9346372,-0.9346372,5.6356155,-67.632823,-560.92634)">
       <path
-         id="path1254-6-2"
-         style="fill:#117372;fill-opacity:1;stroke-width:6;paint-order:stroke fill markers"
-         inkscape:transform-center-x="3.6861476e-06"
-         inkscape:transform-center-y="3.14473"
-         d="M 129.57941,98.270589 69.878728,16.838473 52.035971,123.80153 Z"
-         sodipodi:nodetypes="cccc" />
+         style="fill:#008b8b;fill-opacity:1;stroke:#008b8b;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 128.29599,129.66486 c -4.19374,-6.65428 -8.14995,-2.72242 -8.11418,1.6728 -13.56565,-2.59396 -13.36834,4.43491 -13.49131,12.03733 -21.412388,37.38282 -49.140704,37.35109 -51.461423,46.60116 4.472142,0.24331 35.695896,-17.07132 53.429713,-43.87622 5.49181,-7.80231 12.6233,-2.5359 13.24172,-12.20833 2.11842,0.84483 5.64938,4.04283 6.39548,-4.22674 z"
+         id="path176"
+         sodipodi:nodetypes="ccccccc" />
       <path
-         id="path1249"
-         style="fill:#008b8b;fill-opacity:1;stroke-width:6;paint-order:stroke fill markers"
-         inkscape:transform-center-x="-1.4600436"
-         inkscape:transform-center-y="-2.9701261"
-         d="M 52.035971,123.80153 129.57941,98.271339 V 77.827126 H 5.0478231 Z"
-         sodipodi:nodetypes="ccccc" />
+         style="fill:#ff7474;fill-opacity:1;stroke:#ff7474;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 106.27408,137.01672 C 90.764986,129.2918 65.449201,120.19618 62.552717,125.21303 c -8.811846,23.15017 37.553693,18.06289 43.721363,11.80369 z"
+         id="path178"
+         sodipodi:nodetypes="ccc" />
       <path
-         id="path1254"
-         style="fill:#ff7474;fill-opacity:1;stroke-width:6;paint-order:stroke fill markers"
-         inkscape:transform-center-y="3.1447303"
-         d="M 157.12904,77.827126 H 129.5794 l 1e-5,20.443463 z"
-         sodipodi:nodetypes="cccc"
-         inkscape:transform-center-x="-4.0222378e-06" />
-      <path
-         sodipodi:nodetypes="cccc"
-         d="M 129.57941,98.271339 40.412776,25.553328 52.035971,123.80153 Z"
-         inkscape:transform-center-y="3.14473"
-         style="fill:#499e9d;fill-opacity:1;stroke-width:6;paint-order:stroke fill markers"
-         id="path1254-6" />
-      <path
-         sodipodi:nodetypes="cccc"
-         d="M 129.57941,98.271339 H 49.015914 l 3.020057,25.530191 z"
-         inkscape:transform-center-y="3.1447302"
-         style="fill:#72b1b0;fill-opacity:1;stroke-width:6;paint-order:stroke fill markers"
-         id="path1254-5" />
+         style="fill:#ff7474;fill-opacity:1;stroke:#ff7474;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 108.48182,132.45016 C 98.913002,118.00564 76.448712,91.696599 71.431859,94.593076 52.225494,110.23578 100.01085,134.78694 108.48182,132.45016 Z"
+         id="path178-3"
+         sodipodi:nodetypes="ccc" />
     </g>
-    <image
-       sodipodi:absref="/home/diego/Imagens/BI-Mark-FINAL.png"
-       xlink:href="BI-Mark-FINAL.png"
-       y="-396.3248"
-       x="688.21167"
-       width="256.38126"
-       height="202.40625"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image1405" />
   </g>
 </svg>
