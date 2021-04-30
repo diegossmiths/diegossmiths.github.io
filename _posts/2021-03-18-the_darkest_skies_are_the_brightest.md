@@ -2,14 +2,14 @@
 layout: post
 title: The darkest skies are the brightest
 author: Diego Schild Smiths
-description: Nesta minha primeira postagem irei recomendar um álbum musical, o The darkest skies are the brightest da Anneke van Giersbergen.
+description: Nesta minha postagem irei recomendar um álbum musical, o The darkest skies are the brightest da Anneke van Giersbergen.
 keywords: anneke, van, giersbergen, darkest, sky, brightest, recomendação, resenha
 updated: 2021-03-30 11:34:00 -0300
 ---
 
-## Sobre a primeira postagem
+## Sobre esta postagem
 
-Depois de muitos meses pensando qual seria a minha primeira postagem, divagando entre temas que iam desde consumismo, passando por _software_ livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC _laser_, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, uma recomendação de um álbum musical.
+Depois de muitos meses pensando qual seria a minha "primeira" postagem, divagando entre temas que iam desde consumismo, passando por _software_ livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC _laser_, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, algo que estivesse mexendo comigo, uma recomendação de um álbum musical.
 
 Então, sem mais delongas, aqui vamos nós.
 
@@ -25,7 +25,7 @@ O último álbum citado anteriormente, o da pegada acústica e intimista, o moti
 
 Em 2016 ela resolveu voltar ao gênero que a consagrou e que tanto gosta, o rock/metal progressivo. Fundou então a VUUR, banda formada por integrantes de outras bandas de metal. Em 2017 lançaram o primeiro disco (_In This Moment We Are Free – Cities_), que teve uma recepção mista, mas puxando mais para favorável que não favorável. Para a produção do disco e da turnê, Anneke gastou quase todas as finanças que tinha. Após o término, ela concluiu que apostar mais uma vez no VUUR significaria ter riscos financeiros enormes.
 
-Somado a isso, em 2018 ainda temos o fim do casamento entre ela e Rob Snijders, empresário e músico. Ele inclusive é o baterista da Anneke desde 2007 em sua carreira solo.
+Somado a isso, em 2018 temos um outro fato, mais marcante que o anterior, o fim do casamento entre ela e Rob Snijders, empresário e músico. Ele inclusive é o baterista da Anneke desde 2007 em sua carreira solo.
 
 Estes dois fatores, principalmente o divórcio, serviram de inspiração para que a artista mergulhasse no fundo de sua alma e conseguisse expressar todos seus sentimentos na forma de músicas para o novo álbum. Sabendo que precisava escrever e consertar sua vida, pegou um violão e alguns instrumentos simples de gravação e se refugiou numa pequena casa na floresta aos arredores de Eindhoven. Em 2020, com bastante material em mãos, decidiu reunir tudo e fazer um álbum completo. Pediu ajuda de Gijs Coolen (que trabalha com ela desde 2013) para a escolha das músicas e para dar o polimento final nas escolhidas. Foram adicionados instrumentos de corda, trompas e percussão que serviram como enfeites em torno da voz e do violão da holandesa. Em 16 de novembro de 2020 foi feito o anúncio oficial junto da capa do disco e o nome das faixas.
 
@@ -39,7 +39,7 @@ O título do álbum ("Os céus mais escuros são os mais brilhantes", em traduç
 
 Musicalmente, a simplicidade dos instrumentos acústicos aliados à calma e à leveza da voz da Anneke é algo que me agrada muito. Como sempre, sua voz soa de uma forma tão bela, apaixonante e honesta que dá para sentir no seu trabalho tudo o que ela realmente queria expressar.
 
-Ele abre com _Agape_, uma música serena que inicia apenas com a voz e o violão de Anneke, mas que no decorrer da música temos o acréscimo de outros instrumentos que vão ganhando corpo, com destaque para os belos violinos. Em seguida temos _Hurricane_, que conta com uma pegada mais sombria e uma batida mais pesada, mas que, mesmo assim se mostra tão acessível quanto a primeira faixa. A terceira é _The promise_ que consegue ser bastante emotiva, um dos destaques da obra. Os instrumentos são um grande contraponto ao vocal de Anneke e tudo parece casar perfeitamente. Lindíssima.
+Ele abre com _Agape_, uma música serena que inicia apenas com a voz e o violão de Anneke, mas que no decorrer da música temos o acréscimo de outros instrumentos que vão ganhando corpo, com destaque para os belos violinos. Agape é uma das três expressões gregas para amor. Temos o _eros_ para designar um amor sensual e romântico, uma atração saudável que uma pessoa sente pela outra; temos o _philos_, que é o amor da amizade, do companheirismo, da lealdade à família; e temos o _agape_, que é algo maior que tudo, um amor "total", aquele amor que simplesmente transborda de nós, pela vida, pelos outros, por tudo, um amor genuíno por todas as coisas na Terra e que envolve elementos de _eros_ e _philos_ na procura por uma perfeição, um amor sem reciprocidade, simplesmente amar por amar. Em seguida temos _Hurricane_, que conta com uma pegada mais sombria e uma batida mais pesada, mas que, mesmo assim se mostra tão acessível quanto a primeira faixa. A terceira é _The promise_ que consegue ser bastante emotiva, um dos destaques da obra. Os instrumentos são um grande contraponto ao vocal de Anneke e tudo parece casar perfeitamente. Lindíssima.
 
 Em _I saw a car_ temos novamente uma batida forte, com ênfase nos instrumentos de percussão. O refrão consegue ser leve e dançante e quebra o clima mais pesado que estava se formando anteriormente. Em _The soul knows_ temos uma ótima música _soft rock_, bastante agradável aos ouvidos e, assim como a predecessora, bem dançante. Me lembrou bastante alguns trabalhos da Fiona Apple. Em _The end_, voltamos para uma melodia serena e uma letra bastante triste, mas ao mesmo muito bonita e que fala abertamente sobre seu divórcio e o caminho que cada um teve que tomar. Destaque novamente para os violinos que vão ganhando espaço na música. Em _Keep it simple_, temos uma pegada levemente progressiva (o que chega a ser contraditório).
 
