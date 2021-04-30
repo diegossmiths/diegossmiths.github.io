@@ -17,7 +17,7 @@ permalink: /creditos/
 
 * Os ícones do Github, Strava, Lastfm, Spotify, Instagram, e-mail e RSS são fornecidos gratuitamente pelo serviço [Font Awesome](https://fontawesome.com/), da Fonticons, Inc. Todos os ícones são marcas registradas de suas respectivas empresas.
 
-* Todas as imagens rasterizadas presentes estão no formato [WebP](https://developers.google.com/speed/webp). O formato, desenvolvido pelo Google e lançado em 2010, é aberto e visa criar imagens com um tamanho menor ao mesmo tempo que com uma qualidade superior a encontrada nos formatos proprietários já tradicionais.
+* Todas as imagens rasterizadas presentes estão no formato [WebP](https://developers.google.com/speed/webp). O formato, desenvolvido pelo Google e lançado em 2010, é aberto e visa criar imagens com um tamanho menor ao mesmo tempo que com uma qualidade superior a encontrada nos formatos proprietários já tradicionais. É distribuído sob licença BSD.
 
-* As imagens vetoriais estão no formato [SVG](https://www.w3.org/Graphics/SVG/). O formato foi desenvolvido em 2001 por um grupo de trabalho dentro da W3C, a entidade que controla os padrões a serem seguidos pela _web_. É totalmente aberto.
+* As imagens vetoriais estão no formato [SVG](https://www.w3.org/Graphics/SVG/). O formato foi desenvolvido em 2001 por um grupo de trabalho dentro da W3C, a entidade que controla os padrões a serem seguidos pela _web_. Assim como o HTML e o CSS, é totalmente aberto.
 
