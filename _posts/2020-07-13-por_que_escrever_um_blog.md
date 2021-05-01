@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Por que escrever?
-author: Diego Schild Smiths
 description: Quais foram os motivos para eu começar um blog? E por qual motivo um blog?
 keywords: blog, motivo, escrever, diego, schild, smiths
 ---

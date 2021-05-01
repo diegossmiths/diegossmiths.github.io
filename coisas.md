@@ -54,7 +54,7 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 
 ## Aparelho de celular:
 
-- Motorola moto X4 (até 23 de março de 2021 tinha um moto G4 Play que lutava para cumprir as tarefas).
+- Motorola Moto X4.
 
 ## Fones de ouvido:
 

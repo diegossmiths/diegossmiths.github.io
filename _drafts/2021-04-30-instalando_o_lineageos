@@ -1,0 +1,131 @@
+---
+layout: post
+title: Instalando o LineageOS
+author: Diego Schild Smiths
+description:
+keywords:
+---
+
+## A historinha
+
+Antes, talvez o mais importante, um pouco de história para nos situarmos.
+
+Resumindo de forma bem resumida. O LineageOS nasceu como um sucessor espiritual do CyanogenMod. Em 2009 um sujeito chamado Steve Kondik fundou uma empresa chamada Cyanogen Inc. junto com outro sujeito chamado Kirt McMaster. Num determinado momento, ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e foi quando McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a "pegar mal" para a empresa. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.
+
+Tentando explicar melhor. A Cyanogen Inc. abrigava dois projetos dentro dela, o CyanogenMod e o CyanogenOS. O CyanogenMod era uma versão do Android, totalmente de código aberto, e que era mantida pela comunidade de desenvolvedores que tinha como objetivo manter aparelhos antigos atualizados. CyanogenOS era baseado no "mod", era mantido pelos empregados da empresa e era o que eles comercializavam junto à outras companhias, e este possuía partes do código fechadas e patenteadas (incluindo aí o nome).
+
+A solução encontrada por Kondik para que seu projeto não morresse foi criar um _fork_ do CyanogenMod. Aqui, um adendo: um _fork_ nada mais é quando um desenvolvedor, ou um grupo deles, criam um projeto independente com base no código de outro projeto já existente, ou seja, eles pegam o código de um software que já existe e o modificam para adequar aos seus interesses, mesmo o que original, que serviu como base, ainda esteja ativo e em desenvolvimento. Assim, temos 2 softwares similares, com uma mesma base, mas que, com o tempo, tendem a tomar rumos diferentes.
+
+Com o fim da Cyanogen Inc. e de seus projetos, nascia aí o LineageOS. No inglês, _lineage_ significa "linhagem", isto é, uma série de gerações de uma família. A comunidade que já desenvolvia o CyanogenMod abraçou a causa e continuou seus serviços com o LineageOS. Assim, donos de aparelhos legados, deixados a ver navios pelas fabricantes, conseguiriam manter seus sistemas atualizados.
+
+Portanto, esse é o resumo da história. Então vamos para a parte prática.
+
+## Introdução
+
+Neste exemplo, usarei o Moto G4 Play como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Podem haver algumas diferenças entre marcas e modelos, mas se houver, será muito pouca coisa.
+
+Antes de mais nada, convido o leitor a acessar a [página oficial](https://lineageos.org/) do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este), os instaladores e notas de cada versão lançada. Se seu aparelho estiver listado, sigamos em frente.
+
+## Preparando o aparelho
+
+
+Antes de mais nada, o aparelho deve estar rodando o Android versão 7.1.1. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em Configurações > Sobre o dispositivo > Atualização do sistema.
+
+Feito isto, é necessário baixar o adb-fastboot.
+
+Como disse, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google https://dl.google.com/android/repository/platform-tools-latest-linux.zip
+Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado adb-fastboot dentro a home do seu usuário. Feito, adicione o seguinte comando no terminal:
+
+if [ -d "$HOME/adb-fastboot/platform-tools" ] ; then
+ export PATH="$HOME/adb-fastboot/platform-tools:$PATH"
+fi
+
+Após concluir, faça logoff e logue novamente em sua conta para que as variáveis sejam carregadas.
+
+É necessaário também as regras de udev. Para isso simplesmente copie e cole estes comandos no terminal:
+
+git clone https://github.com/M0Rf30/android-udev-rules.git
+cd android-udev-rules
+sudo cp -v 51-android.rules /etc/udev/rules.d/51-android.rules
+sudo chmod a+r /etc/udev/rules.d/51-android.rules
+groupdel adbusers
+sudo mkdir -p /usr/lib/sysusers.d/ && sudo cp android-udev.conf /usr/lib/sysusers.d/
+sudo systemd-sysusers
+sudo usermod -a -G adbusers $(whoami)
+sudo udevadm control --reload-rules
+sudo service udev restart
+adb kill-server
+adb devices
+
+Você verá seu dispositivo ao digitar adb devices
+
+
+
+Para usar o adb você deve habilitar o modo desenvoldor. Para isso, vá até Configurações > Sobre o dispositivo > e clique 7 vezes sobre "Número da versão". Quando for o suficiente aparecerá um janela indicando que o modo foi habilitado.
+Volte e clique em Programador.
+Dentro deste menu, role a página até chegar na sessão "Depuração". Habilite a opção "Depuração USB".
+
+
+É hora de ligar o celular no computador. Ao ligar, digite adb devices uma caixa de diálogo aparecerá perguntando se você deseja permitir a depuração pelo computador. Marque a caixa "Sempre permitir a partir deste computador" e clique em Ok.
+
+Pronto, a partir de agora o adb está pronto para o uso.
+
+Digite adb reboot bootloader para carregar as opções de desenvolvedor do Android.
+
+Despois de digitar adb reboot bootloader o aparelho vai entrar numa tela preta com um informações do hardware.
+
+digite fastboot devices para o terminal responder com o código do aparelho
+
+O bootloader ainda vai estar bloqueado, portanto é hora de desbloquear. Infelizmente o Moto G4 Play não possui o código de desbloqueio disponibilizado de forma pública no site da Motorola. É necessário fazer um pedido a fabricante. Para isso, devemos acessar a página http://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a, fazer o cadastro e seguir os passos descritos nela.
+
+Para isso, no terminal digitamos o comando fastboot oem get_unlock_data. O terminal vai responder com 5 linhas, todas elas iniciando com (bootloader) e um código logo após. Copiaremos apenas o código, retirando o (bootloader) e o espaço e juntaremos as 5 linhas em uma só. Com esse código gigante em mãos, colaremos ele no campo apropriado do site da Motorola (no item 6). Após colarmos o código no campo, clique no botão azul que diz "Can my device be ubnlocked?" Se ele for elegível, na parte de baixo da página irá aparecer um botão azul "Request unlock key". Concordaremos com o contrato clicando em "I agree" e clicaremos no botão em questão.
+
+Um email será enviado contendo o código de desbloqueio. No terminal digite fastboot oem unlock UNIQUE_KEY, substituindo UNIQUE_KEY pela chave informada no email. Este código é caso-sensitivo, portanto, devemos respeitar as letras maiúsculas e minúsculas.
+
+Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confurmação com os dizeres "Device is UNLOCKED" em amarelo).
+
+Aperte o botão de POWER para reiniciar o aparelho.
+
+O aparelho irá voltar para o estado de fábrica. É necessário ativar a depuração USB novamente.
+
+Após ativado, digite no terminal adb devices. Se tudo der certo, o aparelho aparecerá novamente ali.
+
+Agora chegou a hora de instalar o Lineage. Com o arquivo baixado no computador, digite novamente adb reboot bootloader
+
+Novamente a tela do aparelho irá ficar preta e mostrando as informações do hardware.
+
+Digite fastboot devices e confira se o aparelho é mostrado no terminal. Se sim, sigamos.
+
+
+
+
+
+
+
+
+Estando na pasta onde está o arquivo de imagem do Lineage, digite o comando fastboot flash recovery NOME_DO_ARQUIVO.img e dê enter.
+
+Após a operação ser concluída, aperte o botão de "volume menos", vá até "Recovery" e aperte o botão de ligar para selecionar a opção. Uma tela semelhante a esta aparecerá (VER FOTO)
+
+
+
+Se vocês quiser ter os aplicativos da Google, é hora de instalar o pacote Open GApss. Para isso, siga até a página oficial https://opengapps.org/?api=10.0&variant=nano e selecione a versão correspondente. Neste caso marque as caixas ARM64, Android 10.0 e escolha os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a Play Store funcionar e mais alguns extras.
+
+
+Desça até Factory Reset, então "Format data / factory reset". Ele irá perguntar se vocês deseja realmente formatar o aparelho. Atenção. A partir daqui não tem volta. O aparelho será formatado e TUDO dentro dele será apagado. Se concorda, clique em "Format data".
+
+Quando tudo tiver sido concluído (demora 3 segundos) a tela retornará para a opção "Facotry reset". Volte para a tela incial clicando na setinha no canto superior esquedro.
+
+Clique em Apply update e Apply from ADB.
+
+Retorne ao computador e no terminal digite adb sideload NOME_DO_ARQUIVO.zip. Aguarde carregar os dados para o celular.
+
+Demora cerca de 2 minutos para concluir a transferência. A resposta do celular é FOTO e a do terminal é "Total xfer: 1.00x"
+Volte na setinha até a tela inicial e clique em Reboot system now.
+
+GApss repetir a partir de "Aplly update" e "Apply from ADB"
+
+Pronto. O LineageOS está instalado no seu aparelho. Só desfrutar.
+
+
+Nota: a versão do Open GApss é ARM 32bit.
