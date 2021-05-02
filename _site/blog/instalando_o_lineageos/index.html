@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  
+<head>
+
+<!-- Título da página -->
+  <title>Instalando o LineageOS • Uma viagem pelo meu jardim • Diego Schild Smiths</title>
+
+<!-- Meta tags W3C -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Diego Schild Smiths">
+  <meta name="description" content="Uma viagem pelo meu jardim • Diego Schild Smiths">
+  <meta name="keywords" content="diego schild smiths, diego, schild, smiths, pagina, site, pessoal, blog">
+  <meta name="theme-color" content="#008b8b">
+  <meta name="image" content="/logo.svg">
+  <meta name="robots" content="index, follow">
+
+<!-- Carregando o arquivo CSS para o HTML -->
+  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1619929217">
+
+<!-- Carregando arquivos de terceiros para a exibição correta da página -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/deb10734c3.js" crossorigin="anonymous"></script>
+
+<!-- Gerando link para o RSS do blog -->
+  <link rel="alternate" type="application/rss+xml" title="Blog" href="http://localhost:4000/feed.xml" />
+
+<!-- Referenciando a imagem que vai servir como ícone da página -->
+  <link rel="icon" type="image/svg+xml" href="/logo.svg">
+
+<!-- Códigos de verificação do Google e Microsoft para seus respectivos buscadores -->
+  <meta name="google-site-verification" content="VZ0TToIn5-_NJIaJAdD0bezdqfkqs441FDtXKjCiQSk" />
+  <meta name="msvalidate.01" content="321BDAC2641AB2B1DDFDBD0D9CF16444" />
+
+</head>
+
+  <body class="
+    blog-instalando-o-lineageos
+    
+    
+  ">
+    <nav>
+
+<div class="box">
+
+	
+
+	<a href="/"  title="Página inicial"><img class="avatar" alt="Página inicial" src="/logo.svg" /></a>
+
+	<a href="/blog" class='current'>Blog</a>
+	<a href="/coisas" >Coisas</a>
+	<a href="/presentes" >Lista de presentes</a>
+
+
+	
+
+
+</div>
+
+</nav>
+
+
+
+    <section class="grid main">
+      <div>
+        <h1>Instalando o LineageOS</h1>
+
+<article>
+
+  
+
+  
+    <time class="post-date" datetime="2021-04-30">Publicado em 2021-04-30</time>
+  
+
+  
+<span class="tempo-leitura" title="Tempo de leitura estimado">10 minutos de leitura.</span>
+
+
+  <h2 id="a-historinha">A historinha</h2>
+
+<p>Antes, talvez o mais importante, um pouco de história para nos situarmos.</p>
+
+<p>Resumindo de forma bem resumida. O LineageOS nasceu como um sucessor espiritual do CyanogenMod. Em 2009 um sujeito chamado Steve Kondik fundou uma empresa chamada Cyanogen Inc. junto com outro sujeito chamado Kirt McMaster. Num determinado momento, ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a “pegar mal” para a empresa. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.</p>
+
+<p>Tentando explicar melhor. A Cyanogen Inc. abrigava dois projetos dentro dela, o CyanogenMod e o CyanogenOS. O CyanogenMod era um sistema operacional baseado no Android, totalmente de código aberto e que era mantido pela comunidade de desenvolvedores que tinha como objetivo manter aparelhos antigos atualizados. CyanogenOS era baseado no “mod”, mas era mantido pelos empregados da empresa e era o que eles comercializavam junto à outras companhias, e este possuía partes do código fechadas e patenteadas (incluindo aí o nome).</p>
+
+<p>A solução encontrada por Kondik para que seu projeto não morresse com o fim da Cyanogem Inc. foi criar um <em>fork</em> do CyanogenMod. Aqui, um adendo: um <em>fork</em> nada mais é quando um desenvolvedor, ou um grupo deles, criam um projeto independente com base no código de outro projeto já existente, ou seja, eles pegam o código de um <em>software</em> que já existe e o modificam para adequar aos seus interesses, mesmo o que original, que serviu como base, ainda esteja ativo e em desenvolvimento. Assim, temos 2 softwares similares, com uma mesma base, mas que, com o tempo, tendem a tomar rumos diferentes.</p>
+
+<p>Com o fim da Cyanogen Inc. e de seus projetos, nascia aí o LineageOS. No inglês, <em>lineage</em> significa “linhagem”, isto é, uma série de gerações de uma família. A comunidade que já desenvolvia o CyanogenMod abraçou a causa e continuou seus serviços com o LineageOS. Assim, donos de aparelhos legados, deixados a ver navios pelas fabricantes, conseguiriam manter seus sistemas atualizados.</p>
+
+<p>Portanto, esse é o resumo da história. Então vamos para a parte prática.</p>
+
+<h2 id="notas">Notas</h2>
+
+<p>Antes de mais nada, convido o leitor a acessar a <a href="https://lineageos.org/">página oficial</a> do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis. Se sim, já aproveite e baixe os dois arquivos necessários para a instalação do LineageOS, o último arquivo <em>.zip</em> e a imagem de recuperação <em>.img</em> correspondente.</p>
+
+<p>Neste exemplo, usarei o <a href="https://www.gsmarena.com/motorola_moto_g4_play-8104.php">Motorola Moto G4 Play</a> como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Podem haver algumas diferenças entre marcas e modelos, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o <a href="https://elementary.io/">elementaryOS</a> versão 5.1.7, um sistema GNU/Linux baseado no <a href="https://ubuntu.com/">Ubuntu</a>.</p>
+
+<p>É interessante também que você tenha uma leve noção de como funciona um terminal, neste caso o <a href="https://pt.wikipedia.org/wiki/Bash"><em>bash</em></a>.</p>
+
+<p>Apenas deixando claro que, ao instalar o LineageOS a <strong>garantia será perdida</strong>. Além disso, <strong>eu não me responsabilizo por qualquer dano ao seu aparelho</strong>. Tudo será por sua conta e risco.</p>
+
+<p>Se você concordar com tudo o que foi dito até aqui, siga em frente.</p>
+
+<h2 id="preparando-o-aparelho">Preparando o aparelho</h2>
+
+<p>Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em “Configurações &gt; Sobre o dispositivo” e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em “Configurações &gt; Sobre o dispositivo &gt; Atualização do sistema”.</p>
+
+<p>Feito, devemos ativar o “Modo desenvolvedor”. Para isso, volte em “Configurações &gt; Sobre o dispositivo” e clique <em>7 vezes</em> sobre “Número da versão”. Quando for o suficiente, uma <em>pop-up</em> aparecerá indicando que o modo foi habilitado.</p>
+
+<p>Volte para o menu anterior e veja que agora apareceu um item novo chamado “Programador”. Clique nele.</p>
+
+<p>Dentro deste menu, role a página até chegar na sessão “Depuração”. Habilite a opção “Depuração USB”.</p>
+
+<p>Pronto, o aparelho já está pronto para receber o LineageOS.</p>
+
+<h2 id="baixando-e-instalando-o-adb-fastboot">Baixando e instalando o adb-fastboot</h2>
+
+<p>Em primeiro lugar, é necessário baixar o <em>adb-fastboot</em>. O ADB, sigla para <em>Android Debug Bridge</em>, e o <em>fastboot</em> são ferramentas presentes no <em>Android SDK Platform Tools</em>, desenvolvidas pela Google para facilitar a comunicação entre um PC e um aparelho Android. O ADB é como um canivete suíço, possui inúmeras funções que auxiliam o desenvolvedor. O <em>fastboot</em> é um protocolo de comunicação e uma ferramenta de mesmo nome que tem o objetivo modificar o sistema de arquivos de um aparelho Android via conexão USB.</p>
+
+<p>Como disse anteriormente, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google <a href="https://dl.google.com/android/repository/platform-tools-latest-linux.zip">neste link</a>.</p>
+
+<p>Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado <em>adb-fastboot</em> dentro da <em>home</em> do seu usuário. Feito, adicione o seguinte comando no terminal:</p>
+
+<blockquote>
+  <p>if [ -d “$HOME/adb-fastboot/platform-tools” ] ; then <br />
+export PATH=”$HOME/adb-fastboot/platform-tools:$PATH” <br />
+fi</p>
+</blockquote>
+
+<p>Após concluir, saia e entre novamente em sua conta para que as variáveis adicionadas sejam carregadas no sistema. Não é preciso reinicar o computador.</p>
+
+<p>É necessário também configurar as regras do <em>udev</em>. O <em>udev</em> é um administrador de dispositivos para <em>kernel</em> Linux, isto é, é ele o responsável por detectar e montar todos os dispositivos que ligamos no PC. Para simplificar as coisas, simplesmente copie e cole cada um destes comandos no terminal:</p>
+
+<blockquote>
+  <p>git clone https://github.com/M0Rf30/android-udev-rules.git <br />
+cd android-udev-rules <br />
+sudo cp -v 51-android.rules /etc/udev/rules.d/51-android.rules <br />
+sudo chmod a+r /etc/udev/rules.d/51-android.rules <br />
+groupdel adbusers <br />
+sudo mkdir -p /usr/lib/sysusers.d/ &amp;&amp; sudo cp android-udev.conf /usr/lib/sysusers.d/ <br />
+sudo systemd-sysusers <br />
+sudo usermod -a -G adbusers $(whoami) <br />
+sudo udevadm control –reload-rules <br />
+sudo service udev restart <br />
+adb kill-server</p>
+</blockquote>
+
+<p>Agora, antes de terminar, ligue seu aparelho no PC através de um cabo USB. Feito isto, digite:</p>
+
+<blockquote>
+  <p>adb devices</p>
+</blockquote>
+
+<p>Uma caixa de diálogo aparecerá no seu celular perguntando se vocês deseja permitir a depuração pelo computador. Marque a caixa “Sempre permitir a partir deste computador” e clique em “Ok”. Você verá a identificação do seu dispositivo.</p>
+
+<p>Digite <em>adb reboot bootloader</em> para carregar as opções de desenvolvedor do Android. O aparelho vai entrar numa tela preta com informações do hardware.</p>
+
+<p>digite <em>fastboot devices</em> para o terminal responder com o código do aparelho.</p>
+
+<p>Se aparecer um código, significa que está tudo funcionando da maneira correta. Sigamos.</p>
+
+<h3 id="desbloqueando-o-bootloader">Desbloqueando o bootloader</h3>
+
+<p>Para podermos instalar o LineageOS, devemos desbloquear o <em>bootloader</em>. O <em>bootloader</em> nada mais é que um pequeno programa que é encarregado de “chamar” o sistema operacional de um aparelho, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.</p>
+
+<p>Como medida de segurança, dispositivos Android saem de fábrica com o <em>bootloader</em> bloqueado. Portanto é necessário desbloquear para que possamos instalar um novo sistema operacional. Para isso, devemos acessar a página de suporte da Motorola. O endereço está <a href="http://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a">aqui</a>, É necessário fazer um cadastro e seguir os passos descritos nela.</p>
+
+<p>Após fazer o cadastro, somos levados para uma tela com vários modelos listados. O modelo deste artigo, um Moto G4 Play, não está listado, portanto devemos clicar no primeiro link da página ou <a href="https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/action/auth">aqui</a>. Na próxima etapa, a Motorola irá avisar de todos os riscos envolvendo a desbloqueio do <em>bootloader</em>, apenas desça até o final e clique em “Next”.</p>
+
+<p>E finalmente chegamos onde queremos. Para que possamos prosseguir, o site pede um código específico do teu aparelho. Para isso, voltamos no terminal do PC e digitamos o seguinte comando <em>fastboot oem get_unlock_data</em>. O terminal vai responder com 5 linhas, todas elas iniciando com (bootloader) e um código logo após. Copiaremos apenas o código, retirando o <em>(bootloader)</em> e o espaço e juntaremos as 5 linhas em uma só. Com esse código gigante em mãos, colaremos ele no campo apropriado do site da Motorola (no item 6). Após colarmos o código no campo, clique no botão azul que diz “Can my device be ubnlocked?” Se ele for elegível, na parte de baixo da página irá aparecer um botão azul “Request unlock key”. Concordaremos com o contrato clicando em “I agree” e clicaremos no botão em questão.</p>
+
+<p>Um email será enviado para o endereço do registro e irá conter o código de desbloqueio. Copie este código.</p>
+
+<p>Volte ao terminal e digite <em>fastboot oem unlock CHAVE-ÚNICA</em>, substituindo <em>CHAVE-ÚNICA</em> pela chave informada no email. Este código é caso-sensitivo, portanto, devemos respeitar as letras maiúsculas e minúsculas.</p>
+
+<p>Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confirmação com os dizeres “Device is UNLOCKED” em amarelo).</p>
+
+<h2 id="instalando-o-arquivo-de-recuperação-e-o-sistema-operacional">Instalando o arquivo de recuperação e o sistema operacional</h2>
+
+<p>Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite <em>fastboot flash recovery NOME-DO-ARQUIVO.img</em> e dê enter. Subistitua NOME-DO-ARQUIVO pelo nome do arquivo que você baixou lá no início deste artigo.</p>
+
+<p>Após a operação ser concluída, aperte o botão de <em>“volume baixo”</em>, vá até <em>Recovery</em> e aperte o botão de <em>POWER</em> para selecionar a opção. Uma tela semelhante a esta aparecerá (VER FOTO)</p>
+
+<p>Desça até <em>Factory Reset</em>, então <em>Format data / factory reset</em>. Ele irá perguntar se vocês deseja realmente formatar o aparelho. Atenção. A partir daqui não tem volta. O aparelho será formatado e <strong>tudo</strong> dentro dele será apagado. Se concorda, clique em <em>Format data</em>.</p>
+
+<p>Quando tudo tiver sido concluído (demora 3 segundos) a tela retornará para a opção <em>Facotry reset</em>. Volte para a tela incial clicando na setinha no canto superior esquedro.</p>
+
+<p>Clique em <em>Apply update</em> e em seguida <em>Apply from ADB</em>.</p>
+
+<p>Retorne ao computador e no terminal digite <em>adb sideload NOME-DO-ARQUIVO.zip</em>. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
+A resposta do celular é FOTO e a do terminal é “Total xfer: 1.00x”</p>
+
+<h2 id="etapa-opcional">Etapa opcional</h2>
+
+<p>Se vocês quiser ter os aplicativos da Google, além do suporte à <em>Play Store</em>, é hora de instalar o pacote <a href="https://opengapps.org/">Open GApps</a>. Para isso, siga até a página e selecione a versão correspondente. Neste caso marque as caixas ARM, Android 10.0 e escolha uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a Play Store funcionar e mais alguns extras. Baixe o arquivo e salve no PC.</p>
+
+<p>No aparelho celular, clique novamente em <em>Apply update</em> e em seguida <em>Apply from ADB</em>.</p>
+
+<p>No terminal, navegue até a pasta onde foi feito o <em>download</em> do instalador e digite <em>adb sideload NOME-DO-ARQUIVO.zip</em>. Demora cerca de 2 minutos para concluir a transferência.
+A resposta do celular é FOTO e a do terminal é “Total xfer: 1.00x”</p>
+
+<h2 id="terminando-a-instalação">Terminando a instalação</h2>
+
+<p>Volte na setinha até a tela inicial e clique em <em>Reboot system now</em>.</p>
+
+<p>Pronto. O LineageOS está instalado no seu aparelho. Só desfrutar.</p>
+
+
+
+  <hr />
+
+  <aside class="disclaimer">
+    
+    
+<h6 id="ética-do-blog-e-isenção-de-responsabilidade">Ética do blog e isenção de responsabilidade</h6>
+
+<ul>
+  <li>Zero rastreamento ou análise</li>
+  <li>Sem pagamento, doações ou favores</li>
+</ul>
+
+<p>Estes são meus pensamentos e não representam a Andurá ou qualquer outra organização ou projeto associado.</p>
+
+
+  </aside>
+
+</article>
+
+      </div>
+<br />
+    </section>
+    <footer>
+    <ul class="social">
+        <li class="gitlab">
+            <a href="https://github.com/diegossmiths" title="GitHub">
+                <i class="fab fa-github"></i>
+            </a>
+        </li>
+	<li class="strava">
+			<a href="https://www.strava.com/athletes/diegossmiths" title="Strava">
+                <i class="fab fa-strava"></i>
+            </a>
+        </li>
+		<li class="lastfm">
+			<a href="https://www.last.fm/pt/user/diegossmiths" title="LastFM">
+                <i class="fab fa-lastfm"></i>
+            </a>
+        </li>
+	<li class="spotify">
+			<a href="https://open.spotify.com/user/tekonaza" title="Spotify">
+                <i class="fab fa-spotify"></i>
+            </a>
+        </li>
+        <li class="instagram">
+            <a href="https://instagram.com/diegossmiths" title="Instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </li>
+	    <li class="email">
+            <a href="mailto:diegossmiths@fastmail.com" title="Email">
+                <i class="fa fa-envelope"></i>
+            </a>
+        </li>
+    </ul>
+
+<p>© <span id="year">2021</span> Diego Schild Smiths.</p>
+<p>Feito com <a href="https://jekyllrb.com/">Jekyll</a> e hospedado no <a href="https://github.com/">Github</a>.</p>
+<p>Créditos podem ser vistos <a href="/creditos/">aqui</a>.</p>
+</footer>
+
+  </body>
+</html>
