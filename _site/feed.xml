@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 May 2021 10:47:48 -0300</pubDate>
-    <lastBuildDate>Sun, 16 May 2021 10:47:48 -0300</lastBuildDate>
+    <pubDate>Sun, 16 May 2021 11:06:36 -0300</pubDate>
+    <lastBuildDate>Sun, 16 May 2021 11:06:36 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -54,11 +54,16 @@
 
 &lt;h2 id=&quot;processo-de-instalação&quot;&gt;Processo de instalação&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#lineage&quot;&gt;O que é o LineageOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sua história&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#preparando&quot;&gt;Preparando o aparelho&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#baixando&quot;&gt;Baixando o necessário&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fastboot&quot;&gt;Instalando o adb-fastboot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bootloader&quot;&gt;Desbloqueando o bootloader&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#instalando_os&quot;&gt;Instalando o arquivo de recuperação e o sistema operacional&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#opengapps&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#terminando&quot;&gt;Terminando a instalação&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;preparando-o-aparelho&quot;&gt;Preparando o aparelho&lt;/h2&gt;
+&lt;h2 id=&quot;preparando&quot;&gt;Preparando o aparelho&lt;/h2&gt;
 
 &lt;p&gt;Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em “&lt;em&gt;Configurações -&amp;gt; Sobre o dispositivo&lt;/em&gt;” e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em “&lt;em&gt;Configurações -&amp;gt; Sobre o dispositivo -&amp;gt; Atualização do sistema&lt;/em&gt;”.&lt;/p&gt;
 
@@ -70,7 +75,7 @@
 
 &lt;p&gt;Pronto, o aparelho já está pronto para receber o LineageOS.&lt;/p&gt;
 
-&lt;h2 id=&quot;baixando-o-necessário&quot;&gt;Baixando o necessário&lt;/h2&gt;
+&lt;h2 id=&quot;baixando&quot;&gt;Baixando o necessário&lt;/h2&gt;
 
 &lt;p&gt;Antes de mais nada, eu recomendo ao leitor criar uma pasta chamada &lt;em&gt;Lineage&lt;/em&gt; dentro da sua pasta de documentos. Você irá baixar e salvar ali todos os arquivos necessários para o procedimento e os manterá de forma organizada.&lt;/p&gt;
 
@@ -84,7 +89,7 @@
 
 &lt;p&gt;Pronto, já reunimos todo o material necessário.&lt;/p&gt;
 
-&lt;h2 id=&quot;instalando-o-adb-fastboot&quot;&gt;Instalando o adb-fastboot&lt;/h2&gt;
+&lt;h2 id=&quot;fastboot&quot;&gt;Instalando o adb-fastboot&lt;/h2&gt;
 
 &lt;p&gt;Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado &lt;em&gt;adb-fastboot&lt;/em&gt; dentro da &lt;em&gt;home&lt;/em&gt; do seu usuário. Feito, adicione o seguinte comando no terminal:&lt;/p&gt;
 
@@ -118,7 +123,7 @@ adb kill-server
 
 &lt;p&gt;Digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot devices&lt;/code&gt; e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.&lt;/p&gt;
 
-&lt;h3 id=&quot;desbloqueando-o-bootloader&quot;&gt;Desbloqueando o bootloader&lt;/h3&gt;
+&lt;h3 id=&quot;bootloader&quot;&gt;Desbloqueando o bootloader&lt;/h3&gt;
 
 &lt;p&gt;Para podermos instalar o LineageOS, devemos desbloquear o &lt;em&gt;bootloader&lt;/em&gt;. O &lt;em&gt;bootloader&lt;/em&gt; nada mais é que um pequeno programa que é encarregado de “chamar” o sistema operacional quando um aparelho eletrônico é ligado, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.&lt;/p&gt;
 
@@ -136,7 +141,7 @@ adb kill-server
 
 &lt;p&gt;Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confirmação com os dizeres “&lt;em&gt;Device is UNLOCKED&lt;/em&gt;” em amarelo).&lt;/p&gt;
 
-&lt;h2 id=&quot;instalando-o-arquivo-de-recuperação-e-o-sistema-operacional&quot;&gt;Instalando o arquivo de recuperação e o sistema operacional&lt;/h2&gt;
+&lt;h2 id=&quot;instalando_os&quot;&gt;Instalando o arquivo de recuperação e o sistema operacional&lt;/h2&gt;
 
 &lt;p&gt;Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash recovery NOME-DO-ARQUIVO.img&lt;/code&gt; e dê enter. Substitua &lt;em&gt;NOME-DO-ARQUIVO&lt;/em&gt; pelo nome do arquivo &lt;em&gt;.img&lt;/em&gt; que você baixou lá no início deste artigo.&lt;/p&gt;
 
@@ -151,7 +156,7 @@ adb kill-server
 &lt;p&gt;Retorne ao computador e no terminal digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
 A resposta do terminal é “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;h2 id=&quot;etapa-opcional---instalando-o-open-gapss&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/h2&gt;
+&lt;h2 id=&quot;opengapps&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/h2&gt;
 
 &lt;p&gt;Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em “&lt;em&gt;Apply update&lt;/em&gt;” e em seguida “&lt;em&gt;Apply from ADB&lt;/em&gt;”.&lt;/p&gt;
 
@@ -159,7 +164,7 @@ A resposta do terminal é “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt
 
 &lt;p&gt;A resposta do terminal é novamente “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;h2 id=&quot;terminando-a-instalação&quot;&gt;Terminando a instalação&lt;/h2&gt;
+&lt;h2 id=&quot;terminando&quot;&gt;Terminando a instalação&lt;/h2&gt;
 
 &lt;p&gt;No aparelho celular, volte na setinha até a tela inicial e clique em “&lt;em&gt;Reboot system now&lt;/em&gt;”.&lt;/p&gt;
 

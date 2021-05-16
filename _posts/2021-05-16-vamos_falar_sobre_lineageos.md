@@ -46,11 +46,15 @@ E lembrando que **tudo será apagado permanentemente**. Portanto, faça backup d
 Se você concordar com tudo o que foi dito até aqui, siga em frente.
 
 ## Processo de instalação
-* [O que é o LineageOS](#lineage)
-* Sua história
+* [Preparando o aparelho](#preparando)
+* [Baixando o necessário](#baixando)
+* [Instalando o adb-fastboot](#fastboot)
+* [Desbloqueando o bootloader](#bootloader)
+* [Instalando o arquivo de recuperação e o sistema operacional](#instalando_os)
+* [Etapa opcional - Instalando o Open GApss](#opengapps)
+* [Terminando a instalação](#terminando)
 
-
-## Preparando o aparelho
+## Preparando o aparelho {#preparando}
 
 Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em "*Configurações -> Sobre o dispositivo*" e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em "*Configurações -> Sobre o dispositivo -> Atualização do sistema*".
 
@@ -62,7 +66,7 @@ Dentro deste menu, role a página até chegar na sessão "*Depuração*". Habili
 
 Pronto, o aparelho já está pronto para receber o LineageOS.
 
-## Baixando o necessário
+## Baixando o necessário {#baixando}
 
 Antes de mais nada, eu recomendo ao leitor criar uma pasta chamada *Lineage* dentro da sua pasta de documentos. Você irá baixar e salvar ali todos os arquivos necessários para o procedimento e os manterá de forma organizada.
 
@@ -76,7 +80,7 @@ Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto,
 
 Pronto, já reunimos todo o material necessário.
 
-## Instalando o adb-fastboot
+## Instalando o adb-fastboot {#fastboot}
 
 Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado *adb-fastboot* dentro da *home* do seu usuário. Feito, adicione o seguinte comando no terminal:
 
@@ -112,7 +116,7 @@ Volte no terminal e digite `adb reboot bootloader` para carregar as opções de 
 
 Digite `fastboot devices` e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.
 
-### Desbloqueando o bootloader
+### Desbloqueando o bootloader {#bootloader}
 
 Para podermos instalar o LineageOS, devemos desbloquear o *bootloader*. O *bootloader* nada mais é que um pequeno programa que é encarregado de "chamar" o sistema operacional quando um aparelho eletrônico é ligado, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.
 
@@ -130,7 +134,7 @@ Volte ao terminal e digite `fastboot oem unlock CHAVE-ÚNICA`, substituindo *CHA
 
 Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confirmação com os dizeres "*Device is UNLOCKED*" em amarelo).
 
-## Instalando o arquivo de recuperação e o sistema operacional
+## Instalando o arquivo de recuperação e o sistema operacional {#instalando_os}
 
 Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite `fastboot flash recovery NOME-DO-ARQUIVO.img` e dê enter. Substitua *NOME-DO-ARQUIVO* pelo nome do arquivo *.img* que você baixou lá no início deste artigo.
 
@@ -145,7 +149,7 @@ Clique em "*Apply update*" e em seguida "*Apply from ADB*".
 Retorne ao computador e no terminal digite `adb sideload NOME-DO-ARQUIVO.zip`. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
 A resposta do terminal é "*Total xfer: 1.00x*".
 
-## Etapa opcional - Instalando o Open GApss
+## Etapa opcional - Instalando o Open GApss {#opengapps}
 
 Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em "*Apply update*" e em seguida "*Apply from ADB*".
 
@@ -153,7 +157,7 @@ No terminal, na pasta onde foi feito o *download* do instalador, digite `adb sid
 
 A resposta do terminal é novamente "*Total xfer: 1.00x*".
 
-## Terminando a instalação
+## Terminando a instalação {#terminando}
 
 No aparelho celular, volte na setinha até a tela inicial e clique em "*Reboot system now*".
 

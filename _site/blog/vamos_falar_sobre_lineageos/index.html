@@ -17,7 +17,7 @@
   <meta name="robots" content="index, follow">
 
 <!-- Carregando o arquivo CSS para o HTML -->
-  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1621172868">
+  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1621173996">
 
 <!-- Carregando arquivos de terceiros para a exibição correta da página -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
@@ -119,11 +119,16 @@
 
 <h2 id="processo-de-instalação">Processo de instalação</h2>
 <ul>
-  <li><a href="#lineage">O que é o LineageOS</a></li>
-  <li>Sua história</li>
+  <li><a href="#preparando">Preparando o aparelho</a></li>
+  <li><a href="#baixando">Baixando o necessário</a></li>
+  <li><a href="#fastboot">Instalando o adb-fastboot</a></li>
+  <li><a href="#bootloader">Desbloqueando o bootloader</a></li>
+  <li><a href="#instalando_os">Instalando o arquivo de recuperação e o sistema operacional</a></li>
+  <li><a href="#opengapps">Etapa opcional - Instalando o Open GApss</a></li>
+  <li><a href="#terminando">Terminando a instalação</a></li>
 </ul>
 
-<h2 id="preparando-o-aparelho">Preparando o aparelho</h2>
+<h2 id="preparando">Preparando o aparelho</h2>
 
 <p>Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em “<em>Configurações -&gt; Sobre o dispositivo</em>” e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em “<em>Configurações -&gt; Sobre o dispositivo -&gt; Atualização do sistema</em>”.</p>
 
@@ -135,7 +140,7 @@
 
 <p>Pronto, o aparelho já está pronto para receber o LineageOS.</p>
 
-<h2 id="baixando-o-necessário">Baixando o necessário</h2>
+<h2 id="baixando">Baixando o necessário</h2>
 
 <p>Antes de mais nada, eu recomendo ao leitor criar uma pasta chamada <em>Lineage</em> dentro da sua pasta de documentos. Você irá baixar e salvar ali todos os arquivos necessários para o procedimento e os manterá de forma organizada.</p>
 
@@ -149,7 +154,7 @@
 
 <p>Pronto, já reunimos todo o material necessário.</p>
 
-<h2 id="instalando-o-adb-fastboot">Instalando o adb-fastboot</h2>
+<h2 id="fastboot">Instalando o adb-fastboot</h2>
 
 <p>Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado <em>adb-fastboot</em> dentro da <em>home</em> do seu usuário. Feito, adicione o seguinte comando no terminal:</p>
 
@@ -183,7 +188,7 @@ adb kill-server
 
 <p>Digite <code class="language-plaintext highlighter-rouge">fastboot devices</code> e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.</p>
 
-<h3 id="desbloqueando-o-bootloader">Desbloqueando o bootloader</h3>
+<h3 id="bootloader">Desbloqueando o bootloader</h3>
 
 <p>Para podermos instalar o LineageOS, devemos desbloquear o <em>bootloader</em>. O <em>bootloader</em> nada mais é que um pequeno programa que é encarregado de “chamar” o sistema operacional quando um aparelho eletrônico é ligado, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.</p>
 
@@ -201,7 +206,7 @@ adb kill-server
 
 <p>Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confirmação com os dizeres “<em>Device is UNLOCKED</em>” em amarelo).</p>
 
-<h2 id="instalando-o-arquivo-de-recuperação-e-o-sistema-operacional">Instalando o arquivo de recuperação e o sistema operacional</h2>
+<h2 id="instalando_os">Instalando o arquivo de recuperação e o sistema operacional</h2>
 
 <p>Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite <code class="language-plaintext highlighter-rouge">fastboot flash recovery NOME-DO-ARQUIVO.img</code> e dê enter. Substitua <em>NOME-DO-ARQUIVO</em> pelo nome do arquivo <em>.img</em> que você baixou lá no início deste artigo.</p>
 
@@ -216,7 +221,7 @@ adb kill-server
 <p>Retorne ao computador e no terminal digite <code class="language-plaintext highlighter-rouge">adb sideload NOME-DO-ARQUIVO.zip</code>. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
 A resposta do terminal é “<em>Total xfer: 1.00x</em>”.</p>
 
-<h2 id="etapa-opcional---instalando-o-open-gapss">Etapa opcional - Instalando o Open GApss</h2>
+<h2 id="opengapps">Etapa opcional - Instalando o Open GApss</h2>
 
 <p>Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em “<em>Apply update</em>” e em seguida “<em>Apply from ADB</em>”.</p>
 
@@ -224,7 +229,7 @@ A resposta do terminal é “<em>Total xfer: 1.00x</em>”.</p>
 
 <p>A resposta do terminal é novamente “<em>Total xfer: 1.00x</em>”.</p>
 
-<h2 id="terminando-a-instalação">Terminando a instalação</h2>
+<h2 id="terminando">Terminando a instalação</h2>
 
 <p>No aparelho celular, volte na setinha até a tela inicial e clique em “<em>Reboot system now</em>”.</p>
 
