@@ -31,9 +31,7 @@ languages: pt_BR
 lang: pt
 locale: tp_BR
 permalink: /blog/:title/
-#highlighter: rouge
 markdown: kramdown
-#  syntax_highlighter: rouge
 # paginate: 10
 # paginate_path: /page:num/
 
