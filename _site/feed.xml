@@ -5,44 +5,46 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 May 2021 00:46:33 -0300</pubDate>
-    <lastBuildDate>Sun, 16 May 2021 00:46:33 -0300</lastBuildDate>
+    <pubDate>Sun, 16 May 2021 10:38:34 -0300</pubDate>
+    <lastBuildDate>Sun, 16 May 2021 10:38:34 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
         <item>
-          <title>Instalando o LineageOS</title>
+          <title>Vamos falar sobre LineageOS</title>
           <description>&lt;h2 id=&quot;o-que-é-o-lineageos&quot;&gt;O que é o LineageOS?&lt;/h2&gt;
 
-&lt;p&gt;O LineageOS é um sistema operacional de código aberto para &lt;em&gt;smartphones&lt;/em&gt;, &lt;em&gt;tablets&lt;/em&gt; e &lt;em&gt;set-top boxes&lt;/em&gt;. É desenvolvido e mantido por uma comunidade de programadores, &lt;em&gt;designers&lt;/em&gt;, tradutores e demais pessoas que queiram ajudar no projeto. Ele é construído sobre a plataforma móvel Android.&lt;/p&gt;
+&lt;p&gt;O LineageOS é um sistema operacional gratuito e de código aberto para &lt;em&gt;smartphones&lt;/em&gt;, &lt;em&gt;tablets&lt;/em&gt; e &lt;em&gt;set-top boxes&lt;/em&gt;. É desenvolvido e mantido por uma comunidade de programadores, &lt;em&gt;designers&lt;/em&gt;, tradutores e demais pessoas que queiram ajudar no projeto. Ele é construído sobre a plataforma móvel Android.&lt;/p&gt;
 
 &lt;p&gt;O Android, por sua vez, é um &lt;em&gt;software&lt;/em&gt; livre e também de código aberto desenvolvido internamente pela Google. Depois que todas as mudanças e atualizações de uma determinada versão foram feitas, o código fonte é aberto e lançado para a comunidade através do &lt;a href=&quot;https://source.android.com/&quot;&gt;AOSP&lt;/a&gt; (Android Open Source Project) num modelo chamado de &lt;a href=&quot;https://pt.wikipedia.org/wiki/A_Catedral_e_o_Bazar#Modelos_de_Desenvolvimento&quot;&gt;catedral&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;O que a comunidade do LineageOS faz é pegar o código fonte do Android liberado pela Google e adaptá-lo para os mais diferentes aparelhos com o objetivo de oferecer recursos e opções que não existiam na versão oficial distribuída pela fabricante ou estender a vida útil dos aparelhos através de um suporte de longo prazo. Todas as dependências dos serviços da Google também ficam de fora, o que faz dele um sistema extremamente privativo e não invasivo.&lt;/p&gt;
+&lt;p&gt;O que a comunidade do LineageOS faz é pegar o código fonte do Android liberado pela Google e adaptá-lo para os mais diferentes aparelhos com o objetivo de oferecer recursos e opções que não existiam na versão oficial distribuída pela fabricante ou estender a vida útil dos aparelhos através de um suporte de longo prazo. O &lt;em&gt;Privacy Guard&lt;/em&gt;, recuros exclusivo, garante à você escolher de forma muito mais detalhada o que um aplicativo pode ou não fazer. Todas as dependências dos serviços da Google ficam de fora, assim como aquele monte de tralhas que as fabricantes e operadoras colocam, o que faz dele um sistema extremamente privativo, não invasivo e enxuto. Também é possível ter um controle muito maior das coisas todas. Temos a opção de instalar praticamente tudo o que queremos e desinstalar tudo o que não queremos.&lt;/p&gt;
+
+&lt;p&gt;A equipe de desenvolvimento costuma manter um cronograma de atualizações bastante eficiente e não é nada fora do comum termos novidades semanais. O processo de atualização é OTA (&lt;em&gt;over-the-air&lt;/em&gt;), que é um método de distribuição de atualizações através da rede sem fio, portanto basta o aparelho estar conectado a &lt;em&gt;internet&lt;/em&gt; para receber e instalar novos recursos e correções de segurança.&lt;/p&gt;
 
 &lt;h2 id=&quot;sua-história&quot;&gt;Sua história&lt;/h2&gt;
 
-&lt;p&gt;Resumindo de forma bem resumida. O LineageOS nasceu como um sucessor espiritual do CyanogenMod. Em 2009 um sujeito chamado Steve Kondik fundou uma empresa chamada Cyanogen Inc. junto com outro sujeito chamado Kirt McMaster. Num determinado momento, ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a “pegar mal” para a empresa. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.&lt;/p&gt;
+&lt;p&gt;Em 2009 um sujeito chamado Steve Kondik se juntou a outro sujeito chamado Kirt McMaster e juntos fundaram uma empresa chamada Cyanogen Inc. Ela abrigava dois projetos, o CyanogenMod e o CyanogenOS. O CyanogenMod era um sistema operacional baseado no Android, totalmente de código aberto, &lt;em&gt;mantido pela comunidade de desenvolvedores&lt;/em&gt; e que tinha como objetivo manter aparelhos antigos atualizados. CyanogenOS era quase igual, mas era o &lt;em&gt;braço comercial da empresa&lt;/em&gt;. Ele era &lt;em&gt;desenvolvido por empregados&lt;/em&gt; e era o que eles comercializavam junto à outras companhias, e este possuía partes do código fechadas e patenteadas (incluindo aí o nome).&lt;/p&gt;
 
-&lt;p&gt;Tentando explicar melhor. A Cyanogen Inc. abrigava dois projetos dentro dela, o CyanogenMod e o CyanogenOS. O CyanogenMod era um sistema operacional baseado no Android, totalmente de código aberto e que era mantido pela comunidade de desenvolvedores que tinha como objetivo manter aparelhos antigos atualizados. CyanogenOS era quase igual, mas era mantido pelos empregados da empresa e era o que eles comercializavam junto à outras companhias, e este possuía partes do código fechadas e patenteadas (incluindo aí o nome).&lt;/p&gt;
+&lt;p&gt;Tudo ia bem até que num determinado momento, ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a “pegar mal” para a empresa. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.&lt;/p&gt;
 
-&lt;p&gt;A solução encontrada por Kondik para que seu projeto não morresse com o fim da Cyanogem Inc. foi criar um &lt;em&gt;fork&lt;/em&gt; do CyanogenMod. Aqui, um adendo: um &lt;em&gt;fork&lt;/em&gt; nada mais é quando um desenvolvedor, ou um grupo deles, criam um projeto independente com base no código de outro projeto já existente, ou seja, eles pegam o código de um &lt;em&gt;software&lt;/em&gt; que já existe e o modificam para adequar aos seus interesses, mesmo o que original, que serviu como base, ainda esteja ativo e em desenvolvimento. Assim, temos 2 softwares similares, com uma mesma base, mas que, com o tempo, tendem a tomar rumos diferentes.&lt;/p&gt;
+&lt;p&gt;A solução encontrada por Kondik para que seu projeto não morresse com o fim da Cyanogem Inc. foi criar um &lt;em&gt;fork&lt;/em&gt; do CyanogenMod. Aqui, um adendo: um &lt;em&gt;fork&lt;/em&gt; nada mais é quando um desenvolvedor, ou um grupo deles, criam um projeto independente com base no código de outro projeto já existente, ou seja, eles pegam o código de um &lt;em&gt;software&lt;/em&gt; que já existe e o modificam para adequar aos seus interesses, mesmo o que original, que serviu como base, ainda esteja ativo e em desenvolvimento. Assim, temos 2 &lt;em&gt;softwares&lt;/em&gt; similares, com uma mesma base, mas que, com o tempo, tendem a tomar rumos diferentes.&lt;/p&gt;
 
 &lt;p&gt;Com o fim da Cyanogen Inc. e de seus projetos, nascia aí o LineageOS. No inglês, &lt;em&gt;lineage&lt;/em&gt; significa “linhagem”, isto é, uma série de gerações de uma família. A comunidade que já desenvolvia o CyanogenMod abraçou a causa e continuou seus serviços com o LineageOS. Assim, donos de aparelhos legados, deixados a ver navios pelas fabricantes, conseguiriam manter seus sistemas atualizados.&lt;/p&gt;
 
-&lt;p&gt;Portanto, essa é a história.&lt;/p&gt;
+&lt;p&gt;Essa é a história contada de forma resumida.&lt;/p&gt;
 
 &lt;p&gt;Agora que já sabemos de fato o que é o LineageOS e como ele surgiu, vamos instalá-lo em um aparelho.&lt;/p&gt;
 
 &lt;h2 id=&quot;notas&quot;&gt;Notas&lt;/h2&gt;
 
-&lt;p&gt;Antes de mais nada, convido o leitor a acessar a &lt;a href=&quot;https://lineageos.org/&quot;&gt;página oficial&lt;/a&gt; do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis.&lt;/p&gt;
+&lt;p&gt;Antes de mais nada, convido o leitor a acessar a &lt;a href=&quot;https://lineageos.org/&quot;&gt;página oficial&lt;/a&gt; do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este, mas em inglês), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis.&lt;/p&gt;
 
-&lt;p&gt;Neste exemplo, usarei o &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_g4_play-8104.php&quot;&gt;Motorola Moto G4 Play&lt;/a&gt; como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Utilizava-o para uso pessoal, mas comprei um aparelho novo e deixei este exclusivamente para a marcenaria. Para outras marcas e modelos podem haver algumas diferenças, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o &lt;a href=&quot;https://elementary.io/&quot;&gt;elementaryOS&lt;/a&gt; versão 5.1.7, um sistema GNU/Linux baseado no &lt;a href=&quot;https://ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Neste exemplo, usarei o &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_g4_play-8104.php&quot;&gt;Motorola Moto G4 Play&lt;/a&gt; como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Utilizava-o para uso pessoal, mas comprei um aparelho novo e deixei este exclusivamente para a marcenaria. Para outras marcas e modelos podem haver algumas diferenças, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o &lt;a href=&quot;https://elementary.io/&quot;&gt;elementaryOS&lt;/a&gt; versão 5.1.7, um sistema GNU/Linux baseado no &lt;a href=&quot;https://ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt; versão 18.04.4 LTS.&lt;/p&gt;
 
 &lt;p&gt;É interessante também que você tenha uma noção de como funciona um terminal, neste caso o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bash&quot;&gt;&lt;em&gt;bash&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Nunca, em nenhum momento desconecte o cabo USB do computador.&lt;/p&gt;
+&lt;p&gt;Nunca, em nenhum momento, desconecte o cabo USB do computador durante o processo.&lt;/p&gt;
 
 &lt;p&gt;Apenas deixando claro que, ao instalar o LineageOS a &lt;strong&gt;garantia será perdida&lt;/strong&gt;. Além disso, &lt;strong&gt;eu não me responsabilizo por qualquer dano ao seu aparelho&lt;/strong&gt;. Tudo será por sua conta e risco.&lt;/p&gt;
 
@@ -50,15 +52,21 @@
 
 &lt;p&gt;Se você concordar com tudo o que foi dito até aqui, siga em frente.&lt;/p&gt;
 
+&lt;h2 id=&quot;processo-de-instalação&quot;&gt;Processo de instalação&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#lineage&quot;&gt;O que é o LineageOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sua história&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;preparando-o-aparelho&quot;&gt;Preparando o aparelho&lt;/h2&gt;
 
-&lt;p&gt;Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em &lt;em&gt;“Configurações -&amp;gt; Sobre o dispositivo”&lt;/em&gt; e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em &lt;em&gt;“Configurações -&amp;gt; Sobre o dispositivo -&amp;gt; Atualização do sistema”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em “&lt;em&gt;Configurações -&amp;gt; Sobre o dispositivo&lt;/em&gt;” e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em “&lt;em&gt;Configurações -&amp;gt; Sobre o dispositivo -&amp;gt; Atualização do sistema&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;p&gt;Feito, devemos ativar o &lt;em&gt;“Modo desenvolvedor”&lt;/em&gt;. Para isso, volte em &lt;em&gt;“Configurações -&amp;gt; Sobre o dispositivo”&lt;/em&gt; e clique &lt;strong&gt;7 vezes&lt;/strong&gt; sobre &lt;em&gt;“Número da versão”&lt;/em&gt;. Quando for o suficiente, uma &lt;em&gt;pop-up&lt;/em&gt; aparecerá indicando que o modo foi habilitado.&lt;/p&gt;
+&lt;p&gt;Feito, devemos ativar o “&lt;em&gt;Modo desenvolvedor&lt;/em&gt;”. Para isso, volte em “&lt;em&gt;Configurações -&amp;gt; Sobre o dispositivo&lt;/em&gt;” e clique &lt;strong&gt;7 vezes&lt;/strong&gt; sobre “&lt;em&gt;Número da versão&lt;/em&gt;”. Quando for o suficiente, uma &lt;em&gt;pop-up&lt;/em&gt; aparecerá indicando que o modo foi habilitado.&lt;/p&gt;
 
-&lt;p&gt;Volte para o menu anterior e veja que agora apareceu um item novo chamado &lt;em&gt;“Programador”&lt;/em&gt;. Clique nele.&lt;/p&gt;
+&lt;p&gt;Volte para o menu anterior e veja que agora apareceu um item novo chamado “&lt;em&gt;Programador&lt;/em&gt;”. Clique nele.&lt;/p&gt;
 
-&lt;p&gt;Dentro deste menu, role a página até chegar na sessão &lt;em&gt;“Depuração”&lt;/em&gt;. Habilite a opção &lt;em&gt;“Depuração USB”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Dentro deste menu, role a página até chegar na sessão “&lt;em&gt;Depuração&lt;/em&gt;”. Habilite a opção “&lt;em&gt;Depuração USB&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p&gt;Pronto, o aparelho já está pronto para receber o LineageOS.&lt;/p&gt;
 
@@ -72,7 +80,7 @@
 
 &lt;p&gt;Como disse anteriormente, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google &lt;a href=&quot;https://dl.google.com/android/repository/platform-tools-latest-linux.zip&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a &lt;em&gt;Play Store, Gmail, Maps, Drive&lt;/em&gt; ou qualquer outro programa desenvolvido pela empresa é necessário baixar o pacote &lt;a href=&quot;https://opengapps.org/&quot;&gt;Open GApps&lt;/a&gt;. Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a &lt;em&gt;Play Store&lt;/em&gt; funcionar e mais alguns extras. Baixe o arquivo e salve no PC. Existem outras opções, mas ficaremos com esta.&lt;/p&gt;
+&lt;p&gt;Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a &lt;em&gt;Play Store, Gmail, Maps, Drive&lt;/em&gt; ou qualquer outro programa desenvolvido pela empresa é necessário baixar o pacote &lt;a href=&quot;https://opengapps.org/&quot;&gt;Open GApps&lt;/a&gt;. Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha em uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a &lt;em&gt;Play Store&lt;/em&gt; funcionar e mais alguns extras. Baixe o arquivo e salve no PC. Existem outras opções além do Open GApps, mas ficaremos com esta.&lt;/p&gt;
 
 &lt;p&gt;Pronto, já reunimos todo o material necessário.&lt;/p&gt;
 
@@ -102,13 +110,13 @@ groupdel adbusers
 adb kill-server
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Agora, antes de terminar, ligue seu celular no PC através de um cabo USB. Feito isto, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb devices&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Agora, ligue seu celular no PC através de um cabo USB. Feito isto, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb devices&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;Uma caixa de diálogo aparecerá no seu celular perguntando se você deseja permitir a depuração pelo computador. Marque a caixa &lt;em&gt;“Sempre permitir a partir deste computador”&lt;/em&gt; e clique em &lt;em&gt;“Ok”&lt;/em&gt;. Você verá a identificação do seu dispositivo.&lt;/p&gt;
+&lt;p&gt;Uma caixa de diálogo aparecerá no seu celular perguntando se você deseja permitir a depuração pelo computador. Marque a caixa “&lt;em&gt;Sempre permitir a partir deste computador&lt;/em&gt;” e clique em “&lt;em&gt;Ok&lt;/em&gt;”. Você verá a identificação do seu dispositivo.&lt;/p&gt;
 
-&lt;p&gt;Volte no terminal e digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb reboot bootloader&lt;/code&gt; para carregar as opções de desenvolvedor do Android. O aparelho vai entrar numa tela preta com informações do hardware.&lt;/p&gt;
+&lt;p&gt;Volte no terminal e digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb reboot bootloader&lt;/code&gt; para carregar as opções de desenvolvedor do Android. O aparelho vai entrar numa tela preta com informações do &lt;em&gt;hardware&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot devices&lt;/code&gt; e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.&lt;/p&gt;
+&lt;p&gt;Digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot devices&lt;/code&gt; e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.&lt;/p&gt;
 
 &lt;h3 id=&quot;desbloqueando-o-bootloader&quot;&gt;Desbloqueando o bootloader&lt;/h3&gt;
 
@@ -118,9 +126,9 @@ adb kill-server
 
 &lt;p&gt;No caso da Motorola, devemos acessar a página de suporte. O endereço está &lt;a href=&quot;http://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a&quot;&gt;aqui&lt;/a&gt;, É necessário fazer um cadastro e seguir os passos descritos nela.&lt;/p&gt;
 
-&lt;p&gt;Após fazer o cadastro, somos levados para uma tela com vários modelos listados. O modelo deste artigo, um Moto G4 Play, não está listado, portanto devemos clicar no primeiro link da página ou &lt;a href=&quot;https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/action/auth&quot;&gt;aqui&lt;/a&gt;. Na próxima etapa, a Motorola irá avisar de todos os riscos envolvendo a desbloqueio do &lt;em&gt;bootloader&lt;/em&gt;, apenas desça até o final e clique em &lt;em&gt;“Next”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Após fazer o cadastro, somos levados para uma tela com vários modelos listados. O modelo deste artigo, um Moto G4 Play, não está listado, portanto devemos clicar no primeiro link da página ou &lt;a href=&quot;https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/action/auth&quot;&gt;aqui&lt;/a&gt;. Na próxima etapa, a Motorola irá avisar de todos os riscos envolvendo a desbloqueio do &lt;em&gt;bootloader&lt;/em&gt;, apenas desça até o final e clique em “&lt;em&gt;Next&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;p&gt;E finalmente chegamos onde queremos. Para que possamos prosseguir, a página pede um código específico do aparelho. Para isso, voltamos no terminal do PC e digitamos o seguinte comando &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot oem get_unlock_data&lt;/code&gt;. O terminal vai responder com 5 linhas, todas elas iniciando com (&lt;em&gt;bootloader&lt;/em&gt;) e um código logo após. Copiaremos apenas o código, retirando o &lt;em&gt;(bootloader)&lt;/em&gt; e o espaço e juntaremos as 5 linhas em uma só. Com esse código gigante em mãos, colaremos ele no campo apropriado da página da Motorola (no item 6). Após colarmos o código no campo, clique no botão azul que diz “&lt;em&gt;Can my device be ubnlocked?&lt;/em&gt;” Se ele for elegível, na parte de baixo da página irá aparecer um botão azul “&lt;em&gt;Request unlock key&lt;/em&gt;”. Concordaremos com o contrato clicando em “&lt;em&gt;I agree&lt;/em&gt;” e clicaremos no botão em questão.&lt;/p&gt;
+&lt;p&gt;E finalmente chegamos onde queremos. Para que possamos prosseguir, a página pede um código específico do aparelho. Para isso, voltamos no terminal do PC e digitamos o seguinte comando &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot oem get_unlock_data&lt;/code&gt;. O terminal vai responder com 5 linhas, todas elas iniciando com &lt;em&gt;(bootloader)&lt;/em&gt; e um código logo após. Copiaremos apenas o código, retirando o &lt;em&gt;(bootloader)&lt;/em&gt; e o espaço e juntaremos as 5 linhas em uma só. Com esse código gigante em mãos, colaremos ele no campo apropriado da página da Motorola (no item 6). Após colocarmos o código completo no campo, clique no botão azul que diz “&lt;em&gt;Can my device be ubnlocked?&lt;/em&gt;” Se ele for elegível, na parte de baixo da página irá aparecer um botão azul “&lt;em&gt;Request unlock key&lt;/em&gt;”. Concordaremos com o contrato clicando em “&lt;em&gt;I agree&lt;/em&gt;” e clicaremos no botão em questão.&lt;/p&gt;
 
 &lt;p&gt;Um e-mail será enviado para o endereço do registro e irá conter o código de desbloqueio. Copie este código.&lt;/p&gt;
 
@@ -130,30 +138,30 @@ adb kill-server
 
 &lt;h2 id=&quot;instalando-o-arquivo-de-recuperação-e-o-sistema-operacional&quot;&gt;Instalando o arquivo de recuperação e o sistema operacional&lt;/h2&gt;
 
-&lt;p&gt;Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash recovery NOME-DO-ARQUIVO.img&lt;/code&gt; e dê enter. Substitua &lt;em&gt;NOME-DO-ARQUIVO&lt;/em&gt; pelo nome do arquivo que você baixou lá no início deste artigo.&lt;/p&gt;
+&lt;p&gt;Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash recovery NOME-DO-ARQUIVO.img&lt;/code&gt; e dê enter. Substitua &lt;em&gt;NOME-DO-ARQUIVO&lt;/em&gt; pelo nome do arquivo &lt;em&gt;.img&lt;/em&gt; que você baixou lá no início deste artigo.&lt;/p&gt;
 
-&lt;p&gt;Após a operação ser concluída, navegue nas opções através dos botões &lt;kbd&gt;Volume menos&lt;/kbd&gt; e &lt;kbd&gt;Volume mais&lt;/kbd&gt; (na lateral do celular), vá até &lt;em&gt;Recovery&lt;/em&gt; e aperte o botão &lt;kbd&gt;Ligar/Desligar&lt;/kbd&gt; para selecionar uma opção.&lt;/p&gt;
+&lt;p&gt;Após a operação ser concluída, pegue o aparelho, e através dos  botões laterais, navegue pelas opções apertando &lt;kbd&gt;Volume -&lt;/kbd&gt; e &lt;kbd&gt;Volume +&lt;/kbd&gt;, vá até “&lt;em&gt;Recovery&lt;/em&gt;” e aperte o botão &lt;kbd&gt;Ligar/Desligar&lt;/kbd&gt; para selecionar uma opção.&lt;/p&gt;
 
-&lt;p&gt;Desça até &lt;em&gt;Factory Reset&lt;/em&gt;, então &lt;em&gt;Format data / factory reset&lt;/em&gt;. Ele irá perguntar se você deseja realmente formatar o aparelho. &lt;strong&gt;Atenção&lt;/strong&gt;. A partir daqui não tem volta. O aparelho será formatado e &lt;strong&gt;tudo&lt;/strong&gt; dentro dele será apagado. Se concorda, clique em &lt;em&gt;Format data&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Desça até “&lt;em&gt;Factory Reset&lt;/em&gt;”, então “&lt;em&gt;Format data / factory reset&lt;/em&gt;”. Ele irá perguntar se você deseja realmente formatar o aparelho. &lt;strong&gt;Atenção&lt;/strong&gt;. A partir daqui não tem volta. O aparelho será formatado e &lt;strong&gt;tudo&lt;/strong&gt; dentro dele será apagado. Se concorda, clique em &lt;em&gt;Format data&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Quando tudo tiver sido concluído (demora 3 segundos) a tela retornará para a opção &lt;em&gt;Factory reset&lt;/em&gt;. Volte para a tela inicial clicando na setinha no canto superior esquerdo.&lt;/p&gt;
+&lt;p&gt;Quando tudo tiver sido concluído (demora 3 segundos) a tela retornará para a opção “&lt;em&gt;Factory reset&lt;/em&gt;”. Volte para a tela inicial clicando na setinha no canto superior esquerdo.&lt;/p&gt;
 
-&lt;p&gt;Clique em &lt;em&gt;Apply update&lt;/em&gt; e em seguida &lt;em&gt;Apply from ADB&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Clique em “&lt;em&gt;Apply update&lt;/em&gt;” e em seguida “&lt;em&gt;Apply from ADB&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p&gt;Retorne ao computador e no terminal digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
-A resposta do terminal é &lt;em&gt;“Total xfer: 1.00x”&lt;/em&gt;.&lt;/p&gt;
+A resposta do terminal é “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;h2 id=&quot;etapa-opcional---instalando-o-open-gapss&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/h2&gt;
 
-&lt;p&gt;Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em &lt;em&gt;Apply update&lt;/em&gt; e em seguida &lt;em&gt;Apply from ADB&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em “&lt;em&gt;Apply update&lt;/em&gt;” e em seguida “&lt;em&gt;Apply from ADB&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p&gt;No terminal, na pasta onde foi feito o &lt;em&gt;download&lt;/em&gt; do instalador, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Demora cerca de 2 minutos para concluir a transferência.&lt;/p&gt;
 
-&lt;p&gt;A resposta do terminal é novamente &lt;em&gt;“Total xfer: 1.00x”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A resposta do terminal é novamente “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;h2 id=&quot;terminando-a-instalação&quot;&gt;Terminando a instalação&lt;/h2&gt;
 
-&lt;p&gt;No aparelho celular, volte na setinha até a tela inicial e clique em &lt;em&gt;Reboot system now&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;No aparelho celular, volte na setinha até a tela inicial e clique em “&lt;em&gt;Reboot system now&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p&gt;Pronto. Agora é só esperar o sistema reiniciar. O LineageOS está instalado no seu aparelho.&lt;/p&gt;
 
@@ -161,14 +169,17 @@ A resposta do terminal é &lt;em&gt;“Total xfer: 1.00x”&lt;/em&gt;.&lt;/p&gt
 
 &lt;p&gt;Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.&lt;/p&gt;
 
-&lt;p&gt;Além disso, todos os recursos funcionam perfeitamente. Câmera, GPS, Bluetooth… Inclusive agora o LED frontal que indica carregamento da bateria também passou a funcionar.&lt;/p&gt;
+&lt;p&gt;Além disso, todos os recursos funcionam perfeitamente. Câmera, GPS, Bluetooth… Inclusive agora o LED frontal que indica carregamento da bateria também passou a funcionar. Alguns aplicativos de bancos podem não funcionar devido ao sistema não ser o original do aparelho. Testei o do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executam sem nenhum problema. Não testei aplicativos como o Netflix, Spotify e Nubank.&lt;/p&gt;
 
 &lt;p&gt;Enfim, na minha opinião a instalação do LineageOS vale muito a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade, tudo rodando de forma bastante satisfatória num aparelho antigo e fraco.&lt;/p&gt;
 
+&lt;p&gt;Se ficou alguma dúvida, por favor, entre em contato diretamente comigo através do meu &lt;em&gt;e-mail&lt;/em&gt;. Ele pode ser acessado no rodapé da página clicando no ícone envelope.&lt;/p&gt;
+
+&lt;p&gt;Obrigado. =]&lt;/p&gt;
 </description>
-          <pubDate>Fri, 30 Apr 2021 00:00:00 -0300</pubDate>
-          <link>http://localhost:4000/blog/instalando_o_lineageos/</link>
-          <guid isPermaLink="true">http://localhost:4000/blog/instalando_o_lineageos/</guid>
+          <pubDate>Sun, 16 May 2021 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/vamos_falar_sobre_lineageos/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/vamos_falar_sobre_lineageos/</guid>
           
           
           
@@ -297,7 +308,7 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
 
 &lt;p&gt;Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o marido usaram o tempo no qual estavam separados para rever muito de seus problemas de modo a consertar o vínculo e no final reataram a união. O conceito do &lt;em&gt;kintsugi&lt;/em&gt; serviu perfeitamente.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/2021-03-18-the_darkest_skies_are_the_brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.webp&quot; alt=&quot;Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/blog/2021-03-18-the_darkest_skies_are_the_brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.webp&quot; alt=&quot;Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl&quot; title=&quot;Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Lançamento:&lt;/strong&gt; 26 de fevereiro de 2021&lt;/p&gt;
 
