@@ -1,5 +1,5 @@
 @charset "UTF-8";
-:root { --background-color: #ffffff; --primary-color: #008B8B; --additional-color: #117372; --accent-color: #ff7474; --content-color: #63666A; --code-background-color: #FFC3A8; --code-content-color: #587189; --secondary-accent-color: var(--primary-color); --secondary-accent-contrast: var(--background-color); }
+:root { --background-color: #ffffff; --primary-color: #008B8B; --additional-color: #117372; --accent-color: #ff7474; --content-color: #63666A; --code-background-color: #FDF6E3; --code-content-color: #587189; --secondary-accent-color: var(--primary-color); --secondary-accent-contrast: var(--background-color); }
 
 @media print { :root { --background-color: #ffffff; } }
 html { font-family: "Open Sans", Helvetica, sans-serif; font-size: 4vw; font-weight: 400; text-rendering: optimizeLegibility; }
