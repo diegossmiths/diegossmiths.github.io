@@ -1,0 +1,28 @@
+.highlighter-rouge,
+.highlight,
+pre,
+code {
+ max-width:100%;
+ background-color: var(--code-background-color);
+ color: var(--code-content-color);
+}
+
+pre code {
+ overflow:auto;
+ padding:0.5em;
+ display:block;
+ color:inherit;
+}
+
+.highlight {
+ background-color: var(--code-background-color);
+ color: var(--code-content-color);
+ display:inline-block;
+ margin:auto;
+}
+
+kbd {
+  border-radius: 5px;
+  padding: 2px;
+  border: 1px solid black;
+}
