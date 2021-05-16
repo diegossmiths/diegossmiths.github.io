@@ -2,7 +2,7 @@
 .highlight,
 pre,
 code {
-
+ max-width:100%;
  background-color: #FDF6E3;
  color: #587189;
 }
@@ -19,6 +19,7 @@ pre code {
  color: #587189;
  display:inline-block;
  margin:auto;
+ max-width:100%;
 }
 
 kbd {
