@@ -17,7 +17,7 @@
   <meta name="robots" content="index, follow">
 
 <!-- Carregando o arquivo CSS para o HTML -->
-  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1621173996">
+  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1621187791">
 
 <!-- Carregando arquivos de terceiros para a exibição correta da página -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
@@ -74,7 +74,7 @@
   
 
   
-<span class="tempo-leitura" title="Tempo de leitura estimado">13 minutos de leitura.</span>
+<span class="tempo-leitura" title="Tempo de leitura estimado">14 minutos de leitura.</span>
 
 
   <h2 id="o-que-é-o-lineageos">O que é o LineageOS?</h2>
@@ -118,7 +118,7 @@
 <p>Se você concordar com tudo o que foi dito até aqui, siga em frente.</p>
 
 <h2 id="processo-de-instalação">Processo de instalação</h2>
-<ul>
+<ol>
   <li><a href="#preparando">Preparando o aparelho</a></li>
   <li><a href="#baixando">Baixando o necessário</a></li>
   <li><a href="#fastboot">Instalando o adb-fastboot</a></li>
@@ -126,7 +126,7 @@
   <li><a href="#instalando_os">Instalando o arquivo de recuperação e o sistema operacional</a></li>
   <li><a href="#opengapps">Etapa opcional - Instalando o Open GApss</a></li>
   <li><a href="#terminando">Terminando a instalação</a></li>
-</ul>
+</ol>
 
 <h2 id="preparando">Preparando o aparelho</h2>
 
@@ -218,14 +218,15 @@ adb kill-server
 
 <p>Clique em “<em>Apply update</em>” e em seguida “<em>Apply from ADB</em>”.</p>
 
-<p>Retorne ao computador e no terminal digite <code class="language-plaintext highlighter-rouge">adb sideload NOME-DO-ARQUIVO.zip</code>. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
-A resposta do terminal é “<em>Total xfer: 1.00x</em>”.</p>
+<p>Retorne ao computador e no terminal digite <code class="language-plaintext highlighter-rouge">adb sideload NOME-DO-ARQUIVO-LINEAGEOS.zip</code>. Substitua <em>NOME-DO-ARQUIVO-LINEAGEOS</em> pelo nome do arquivo <em>.zip</em> que você baixou lá no início deste artigo. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.</p>
+
+<p>A resposta do terminal é “<em>Total xfer: 1.00x</em>”.</p>
 
 <h2 id="opengapps">Etapa opcional - Instalando o Open GApss</h2>
 
 <p>Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em “<em>Apply update</em>” e em seguida “<em>Apply from ADB</em>”.</p>
 
-<p>No terminal, na pasta onde foi feito o <em>download</em> do instalador, digite <code class="language-plaintext highlighter-rouge">adb sideload NOME-DO-ARQUIVO.zip</code>. Demora cerca de 2 minutos para concluir a transferência.</p>
+<p>No terminal, na pasta onde foi feito o <em>download</em> do instalador, digite <code class="language-plaintext highlighter-rouge">adb sideload NOME-DO-ARQUIVO-OPENGAPPS.zip</code>. Substitua <em>NOME-DO-ARQUIVO-OPENGAPPS</em> pelo nome do arquivo <em>.zip</em> que você baixou lá no início deste artigo. Demora cerca de 2 minutos para concluir a transferência.</p>
 
 <p>A resposta do terminal é novamente “<em>Total xfer: 1.00x</em>”.</p>
 
@@ -236,6 +237,8 @@ A resposta do terminal é “<em>Total xfer: 1.00x</em>”.</p>
 <p>Pronto. Agora é só esperar o sistema reiniciar. O LineageOS está instalado no seu aparelho.</p>
 
 <h2 id="conclusão">Conclusão</h2>
+
+<p>Fiz esse artigo com o objetivo de ajudar a qualquer um que queira se livrar das amarras da Google e das fabricantes, ficando livre para usar seu aparelho com uma liberdade muito maior. Também para dar uma vida nova àquele celular que todos temos atirado em algum canto da gaveta.</p>
 
 <p>Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.</p>
 

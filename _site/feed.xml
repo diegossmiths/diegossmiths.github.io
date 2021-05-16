@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 May 2021 11:06:36 -0300</pubDate>
-    <lastBuildDate>Sun, 16 May 2021 11:06:36 -0300</lastBuildDate>
+    <pubDate>Sun, 16 May 2021 14:56:31 -0300</pubDate>
+    <lastBuildDate>Sun, 16 May 2021 14:56:31 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -53,7 +53,7 @@
 &lt;p&gt;Se você concordar com tudo o que foi dito até aqui, siga em frente.&lt;/p&gt;
 
 &lt;h2 id=&quot;processo-de-instalação&quot;&gt;Processo de instalação&lt;/h2&gt;
-&lt;ul&gt;
+&lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#preparando&quot;&gt;Preparando o aparelho&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#baixando&quot;&gt;Baixando o necessário&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fastboot&quot;&gt;Instalando o adb-fastboot&lt;/a&gt;&lt;/li&gt;
@@ -61,7 +61,7 @@
   &lt;li&gt;&lt;a href=&quot;#instalando_os&quot;&gt;Instalando o arquivo de recuperação e o sistema operacional&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#opengapps&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#terminando&quot;&gt;Terminando a instalação&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;preparando&quot;&gt;Preparando o aparelho&lt;/h2&gt;
 
@@ -153,14 +153,15 @@ adb kill-server
 
 &lt;p&gt;Clique em “&lt;em&gt;Apply update&lt;/em&gt;” e em seguida “&lt;em&gt;Apply from ADB&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;p&gt;Retorne ao computador e no terminal digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
-A resposta do terminal é “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
+&lt;p&gt;Retorne ao computador e no terminal digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO-LINEAGEOS.zip&lt;/code&gt;. Substitua &lt;em&gt;NOME-DO-ARQUIVO-LINEAGEOS&lt;/em&gt; pelo nome do arquivo &lt;em&gt;.zip&lt;/em&gt; que você baixou lá no início deste artigo. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.&lt;/p&gt;
+
+&lt;p&gt;A resposta do terminal é “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;h2 id=&quot;opengapps&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/h2&gt;
 
 &lt;p&gt;Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em “&lt;em&gt;Apply update&lt;/em&gt;” e em seguida “&lt;em&gt;Apply from ADB&lt;/em&gt;”.&lt;/p&gt;
 
-&lt;p&gt;No terminal, na pasta onde foi feito o &lt;em&gt;download&lt;/em&gt; do instalador, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Demora cerca de 2 minutos para concluir a transferência.&lt;/p&gt;
+&lt;p&gt;No terminal, na pasta onde foi feito o &lt;em&gt;download&lt;/em&gt; do instalador, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO-OPENGAPPS.zip&lt;/code&gt;. Substitua &lt;em&gt;NOME-DO-ARQUIVO-OPENGAPPS&lt;/em&gt; pelo nome do arquivo &lt;em&gt;.zip&lt;/em&gt; que você baixou lá no início deste artigo. Demora cerca de 2 minutos para concluir a transferência.&lt;/p&gt;
 
 &lt;p&gt;A resposta do terminal é novamente “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt;
 
@@ -171,6 +172,8 @@ A resposta do terminal é “&lt;em&gt;Total xfer: 1.00x&lt;/em&gt;”.&lt;/p&gt
 &lt;p&gt;Pronto. Agora é só esperar o sistema reiniciar. O LineageOS está instalado no seu aparelho.&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Fiz esse artigo com o objetivo de ajudar a qualquer um que queira se livrar das amarras da Google e das fabricantes, ficando livre para usar seu aparelho com uma liberdade muito maior. Também para dar uma vida nova àquele celular que todos temos atirado em algum canto da gaveta.&lt;/p&gt;
 
 &lt;p&gt;Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.&lt;/p&gt;
 

@@ -46,13 +46,13 @@ E lembrando que **tudo será apagado permanentemente**. Portanto, faça backup d
 Se você concordar com tudo o que foi dito até aqui, siga em frente.
 
 ## Processo de instalação
-* [Preparando o aparelho](#preparando)
-* [Baixando o necessário](#baixando)
-* [Instalando o adb-fastboot](#fastboot)
-* [Desbloqueando o bootloader](#bootloader)
-* [Instalando o arquivo de recuperação e o sistema operacional](#instalando_os)
-* [Etapa opcional - Instalando o Open GApss](#opengapps)
-* [Terminando a instalação](#terminando)
+1. [Preparando o aparelho](#preparando)
+2. [Baixando o necessário](#baixando)
+3. [Instalando o adb-fastboot](#fastboot)
+4. [Desbloqueando o bootloader](#bootloader)
+5. [Instalando o arquivo de recuperação e o sistema operacional](#instalando_os)
+6. [Etapa opcional - Instalando o Open GApss](#opengapps)
+7. [Terminando a instalação](#terminando)
 
 ## Preparando o aparelho {#preparando}
 
@@ -146,14 +146,15 @@ Quando tudo tiver sido concluído (demora 3 segundos) a tela retornará para a o
 
 Clique em "*Apply update*" e em seguida "*Apply from ADB*".
 
-Retorne ao computador e no terminal digite `adb sideload NOME-DO-ARQUIVO.zip`. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
+Retorne ao computador e no terminal digite `adb sideload NOME-DO-ARQUIVO-LINEAGEOS.zip`. Substitua *NOME-DO-ARQUIVO-LINEAGEOS* pelo nome do arquivo *.zip* que você baixou lá no início deste artigo. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
+
 A resposta do terminal é "*Total xfer: 1.00x*".
 
 ## Etapa opcional - Instalando o Open GApss {#opengapps}
 
 Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em "*Apply update*" e em seguida "*Apply from ADB*".
 
-No terminal, na pasta onde foi feito o *download* do instalador, digite `adb sideload NOME-DO-ARQUIVO.zip`. Demora cerca de 2 minutos para concluir a transferência.
+No terminal, na pasta onde foi feito o *download* do instalador, digite `adb sideload NOME-DO-ARQUIVO-OPENGAPPS.zip`. Substitua *NOME-DO-ARQUIVO-OPENGAPPS* pelo nome do arquivo *.zip* que você baixou lá no início deste artigo. Demora cerca de 2 minutos para concluir a transferência.
 
 A resposta do terminal é novamente "*Total xfer: 1.00x*".
 
@@ -164,6 +165,8 @@ No aparelho celular, volte na setinha até a tela inicial e clique em "*Reboot s
 Pronto. Agora é só esperar o sistema reiniciar. O LineageOS está instalado no seu aparelho.
 
 ## Conclusão
+
+Fiz esse artigo com o objetivo de ajudar a qualquer um que queira se livrar das amarras da Google e das fabricantes, ficando livre para usar seu aparelho com uma liberdade muito maior. Também para dar uma vida nova àquele celular que todos temos atirado em algum canto da gaveta.
 
 Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.
 
