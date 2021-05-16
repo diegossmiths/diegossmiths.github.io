@@ -9,8 +9,6 @@ permalink: blog/
 
 # Blog
 
-<!-- [<i class="fas fa-rss-square"></i>](https://diegossmiths.github.io/feed.xml) -->
-
 Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui onde eu abro meu pequeno jardim e exponho à todas as pessoas. É para uma pequena viagem nesse jardim que eu os convido.
 
 

@@ -9,7 +9,7 @@ permalink: /creditos/
 
 # Créditos
 
-* Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador de _sites_ estáticos, de código aberto e distribuído sob licença [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+* Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador flexível de _sites_ estáticos, de código aberto e distribuído sob licença [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE).
 
 * Algumas partes de código utilizadas foram escritas por Cassidy James Blaede e estão disponíveis sob licença [GPLv3](https://github.com/cassidyjames/cassidyjames.github.io/blob/master/LICENSE) em seu [repositório oficial](https://github.com/cassidyjames/cassidyjames.github.io).
 

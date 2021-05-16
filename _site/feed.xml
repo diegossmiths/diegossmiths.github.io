@@ -5,14 +5,180 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 May 2021 09:35:38 -0300</pubDate>
-    <lastBuildDate>Sun, 02 May 2021 09:35:38 -0300</lastBuildDate>
+    <pubDate>Sun, 16 May 2021 00:46:33 -0300</pubDate>
+    <lastBuildDate>Sun, 16 May 2021 00:46:33 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
         <item>
+          <title>Instalando o LineageOS</title>
+          <description>&lt;h2 id=&quot;o-que-é-o-lineageos&quot;&gt;O que é o LineageOS?&lt;/h2&gt;
+
+&lt;p&gt;O LineageOS é um sistema operacional de código aberto para &lt;em&gt;smartphones&lt;/em&gt;, &lt;em&gt;tablets&lt;/em&gt; e &lt;em&gt;set-top boxes&lt;/em&gt;. É desenvolvido e mantido por uma comunidade de programadores, &lt;em&gt;designers&lt;/em&gt;, tradutores e demais pessoas que queiram ajudar no projeto. Ele é construído sobre a plataforma móvel Android.&lt;/p&gt;
+
+&lt;p&gt;O Android, por sua vez, é um &lt;em&gt;software&lt;/em&gt; livre e também de código aberto desenvolvido internamente pela Google. Depois que todas as mudanças e atualizações de uma determinada versão foram feitas, o código fonte é aberto e lançado para a comunidade através do &lt;a href=&quot;https://source.android.com/&quot;&gt;AOSP&lt;/a&gt; (Android Open Source Project) num modelo chamado de &lt;a href=&quot;https://pt.wikipedia.org/wiki/A_Catedral_e_o_Bazar#Modelos_de_Desenvolvimento&quot;&gt;catedral&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O que a comunidade do LineageOS faz é pegar o código fonte do Android liberado pela Google e adaptá-lo para os mais diferentes aparelhos com o objetivo de oferecer recursos e opções que não existiam na versão oficial distribuída pela fabricante ou estender a vida útil dos aparelhos através de um suporte de longo prazo. Todas as dependências dos serviços da Google também ficam de fora, o que faz dele um sistema extremamente privativo e não invasivo.&lt;/p&gt;
+
+&lt;h2 id=&quot;sua-história&quot;&gt;Sua história&lt;/h2&gt;
+
+&lt;p&gt;Resumindo de forma bem resumida. O LineageOS nasceu como um sucessor espiritual do CyanogenMod. Em 2009 um sujeito chamado Steve Kondik fundou uma empresa chamada Cyanogen Inc. junto com outro sujeito chamado Kirt McMaster. Num determinado momento, ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a “pegar mal” para a empresa. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.&lt;/p&gt;
+
+&lt;p&gt;Tentando explicar melhor. A Cyanogen Inc. abrigava dois projetos dentro dela, o CyanogenMod e o CyanogenOS. O CyanogenMod era um sistema operacional baseado no Android, totalmente de código aberto e que era mantido pela comunidade de desenvolvedores que tinha como objetivo manter aparelhos antigos atualizados. CyanogenOS era quase igual, mas era mantido pelos empregados da empresa e era o que eles comercializavam junto à outras companhias, e este possuía partes do código fechadas e patenteadas (incluindo aí o nome).&lt;/p&gt;
+
+&lt;p&gt;A solução encontrada por Kondik para que seu projeto não morresse com o fim da Cyanogem Inc. foi criar um &lt;em&gt;fork&lt;/em&gt; do CyanogenMod. Aqui, um adendo: um &lt;em&gt;fork&lt;/em&gt; nada mais é quando um desenvolvedor, ou um grupo deles, criam um projeto independente com base no código de outro projeto já existente, ou seja, eles pegam o código de um &lt;em&gt;software&lt;/em&gt; que já existe e o modificam para adequar aos seus interesses, mesmo o que original, que serviu como base, ainda esteja ativo e em desenvolvimento. Assim, temos 2 softwares similares, com uma mesma base, mas que, com o tempo, tendem a tomar rumos diferentes.&lt;/p&gt;
+
+&lt;p&gt;Com o fim da Cyanogen Inc. e de seus projetos, nascia aí o LineageOS. No inglês, &lt;em&gt;lineage&lt;/em&gt; significa “linhagem”, isto é, uma série de gerações de uma família. A comunidade que já desenvolvia o CyanogenMod abraçou a causa e continuou seus serviços com o LineageOS. Assim, donos de aparelhos legados, deixados a ver navios pelas fabricantes, conseguiriam manter seus sistemas atualizados.&lt;/p&gt;
+
+&lt;p&gt;Portanto, essa é a história.&lt;/p&gt;
+
+&lt;p&gt;Agora que já sabemos de fato o que é o LineageOS e como ele surgiu, vamos instalá-lo em um aparelho.&lt;/p&gt;
+
+&lt;h2 id=&quot;notas&quot;&gt;Notas&lt;/h2&gt;
+
+&lt;p&gt;Antes de mais nada, convido o leitor a acessar a &lt;a href=&quot;https://lineageos.org/&quot;&gt;página oficial&lt;/a&gt; do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis.&lt;/p&gt;
+
+&lt;p&gt;Neste exemplo, usarei o &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_g4_play-8104.php&quot;&gt;Motorola Moto G4 Play&lt;/a&gt; como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Utilizava-o para uso pessoal, mas comprei um aparelho novo e deixei este exclusivamente para a marcenaria. Para outras marcas e modelos podem haver algumas diferenças, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o &lt;a href=&quot;https://elementary.io/&quot;&gt;elementaryOS&lt;/a&gt; versão 5.1.7, um sistema GNU/Linux baseado no &lt;a href=&quot;https://ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;É interessante também que você tenha uma noção de como funciona um terminal, neste caso o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bash&quot;&gt;&lt;em&gt;bash&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nunca, em nenhum momento desconecte o cabo USB do computador.&lt;/p&gt;
+
+&lt;p&gt;Apenas deixando claro que, ao instalar o LineageOS a &lt;strong&gt;garantia será perdida&lt;/strong&gt;. Além disso, &lt;strong&gt;eu não me responsabilizo por qualquer dano ao seu aparelho&lt;/strong&gt;. Tudo será por sua conta e risco.&lt;/p&gt;
+
+&lt;p&gt;E lembrando que &lt;strong&gt;tudo será apagado permanentemente&lt;/strong&gt;. Portanto, faça backup de todos os dados que você deseja.&lt;/p&gt;
+
+&lt;p&gt;Se você concordar com tudo o que foi dito até aqui, siga em frente.&lt;/p&gt;
+
+&lt;h2 id=&quot;preparando-o-aparelho&quot;&gt;Preparando o aparelho&lt;/h2&gt;
+
+&lt;p&gt;Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em &lt;em&gt;“Configurações -&amp;gt; Sobre o dispositivo”&lt;/em&gt; e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em &lt;em&gt;“Configurações -&amp;gt; Sobre o dispositivo -&amp;gt; Atualização do sistema”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feito, devemos ativar o &lt;em&gt;“Modo desenvolvedor”&lt;/em&gt;. Para isso, volte em &lt;em&gt;“Configurações -&amp;gt; Sobre o dispositivo”&lt;/em&gt; e clique &lt;strong&gt;7 vezes&lt;/strong&gt; sobre &lt;em&gt;“Número da versão”&lt;/em&gt;. Quando for o suficiente, uma &lt;em&gt;pop-up&lt;/em&gt; aparecerá indicando que o modo foi habilitado.&lt;/p&gt;
+
+&lt;p&gt;Volte para o menu anterior e veja que agora apareceu um item novo chamado &lt;em&gt;“Programador”&lt;/em&gt;. Clique nele.&lt;/p&gt;
+
+&lt;p&gt;Dentro deste menu, role a página até chegar na sessão &lt;em&gt;“Depuração”&lt;/em&gt;. Habilite a opção &lt;em&gt;“Depuração USB”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pronto, o aparelho já está pronto para receber o LineageOS.&lt;/p&gt;
+
+&lt;h2 id=&quot;baixando-o-necessário&quot;&gt;Baixando o necessário&lt;/h2&gt;
+
+&lt;p&gt;Antes de mais nada, eu recomendo ao leitor criar uma pasta chamada &lt;em&gt;Lineage&lt;/em&gt; dentro da sua pasta de documentos. Você irá baixar e salvar ali todos os arquivos necessários para o procedimento e os manterá de forma organizada.&lt;/p&gt;
+
+&lt;p&gt;Na página oficial do &lt;a href=&quot;https://download.lineageos.org/&quot;&gt;LineageOS&lt;/a&gt;, navegue entre os aparelhos mantidos pela comunidade e escolha o seu. Sempre é mostrada na primeira linha da tabela a versão mais nova do sistema. Ali, baixe os &lt;strong&gt;dois&lt;/strong&gt; arquivos necessários para a instalação, um arquivo &lt;em&gt;.zip&lt;/em&gt; e a imagem de recuperação &lt;em&gt;.img&lt;/em&gt; correspondente.&lt;/p&gt;
+
+&lt;p&gt;É também necessário baixar o &lt;em&gt;adb-fastboot&lt;/em&gt;. O ADB, sigla para &lt;em&gt;Android Debug Bridge&lt;/em&gt;, e o &lt;em&gt;fastboot&lt;/em&gt; são ferramentas presentes no &lt;em&gt;Android SDK Platform Tools&lt;/em&gt;, desenvolvidas pela Google para facilitar a comunicação entre um PC e um aparelho Android. O ADB é como um canivete suíço, possui inúmeras funções que auxiliam o desenvolvedor. O &lt;em&gt;fastboot&lt;/em&gt; é um protocolo de comunicação e uma ferramenta de mesmo nome que tem o objetivo modificar o sistema de arquivos de um aparelho Android via conexão USB.&lt;/p&gt;
+
+&lt;p&gt;Como disse anteriormente, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google &lt;a href=&quot;https://dl.google.com/android/repository/platform-tools-latest-linux.zip&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a &lt;em&gt;Play Store, Gmail, Maps, Drive&lt;/em&gt; ou qualquer outro programa desenvolvido pela empresa é necessário baixar o pacote &lt;a href=&quot;https://opengapps.org/&quot;&gt;Open GApps&lt;/a&gt;. Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a &lt;em&gt;Play Store&lt;/em&gt; funcionar e mais alguns extras. Baixe o arquivo e salve no PC. Existem outras opções, mas ficaremos com esta.&lt;/p&gt;
+
+&lt;p&gt;Pronto, já reunimos todo o material necessário.&lt;/p&gt;
+
+&lt;h2 id=&quot;instalando-o-adb-fastboot&quot;&gt;Instalando o adb-fastboot&lt;/h2&gt;
+
+&lt;p&gt;Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado &lt;em&gt;adb-fastboot&lt;/em&gt; dentro da &lt;em&gt;home&lt;/em&gt; do seu usuário. Feito, adicione o seguinte comando no terminal:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/adb-fastboot/platform-tools&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/adb-fastboot/platform-tools:&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;fi&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Após concluir, saia e entre novamente em sua conta para que as variáveis adicionadas sejam carregadas no sistema. Não é preciso reiniciar o computador.&lt;/p&gt;
+
+&lt;p&gt;É necessário também configurar as regras do &lt;em&gt;udev&lt;/em&gt;. O &lt;em&gt;udev&lt;/em&gt; é um administrador de dispositivos para Linux, isto é, é ele o responsável por detectar e montar todos os dispositivos que ligamos no PC. Para simplificar as coisas, simplesmente copie e cole cada um destes comandos no terminal:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/M0Rf30/android-udev-rules.git
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;android-udev-rules
+&lt;span class=&quot;nb&quot;&gt;sudo cp&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; 51-android.rules /etc/udev/rules.d/51-android.rules
+&lt;span class=&quot;nb&quot;&gt;sudo chmod &lt;/span&gt;a+r /etc/udev/rules.d/51-android.rules
+groupdel adbusers
+&lt;span class=&quot;nb&quot;&gt;sudo mkdir&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; /usr/lib/sysusers.d/ &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sudo cp &lt;/span&gt;android-udev.conf /usr/lib/sysusers.d/
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;systemd-sysusers
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;usermod &lt;span class=&quot;nt&quot;&gt;-a&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-G&lt;/span&gt; adbusers &lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;whoami&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;udevadm control &lt;span class=&quot;nt&quot;&gt;--reload-rules&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;service udev restart
+adb kill-server
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Agora, antes de terminar, ligue seu celular no PC através de um cabo USB. Feito isto, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb devices&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Uma caixa de diálogo aparecerá no seu celular perguntando se você deseja permitir a depuração pelo computador. Marque a caixa &lt;em&gt;“Sempre permitir a partir deste computador”&lt;/em&gt; e clique em &lt;em&gt;“Ok”&lt;/em&gt;. Você verá a identificação do seu dispositivo.&lt;/p&gt;
+
+&lt;p&gt;Volte no terminal e digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb reboot bootloader&lt;/code&gt; para carregar as opções de desenvolvedor do Android. O aparelho vai entrar numa tela preta com informações do hardware.&lt;/p&gt;
+
+&lt;p&gt;digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot devices&lt;/code&gt; e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.&lt;/p&gt;
+
+&lt;h3 id=&quot;desbloqueando-o-bootloader&quot;&gt;Desbloqueando o bootloader&lt;/h3&gt;
+
+&lt;p&gt;Para podermos instalar o LineageOS, devemos desbloquear o &lt;em&gt;bootloader&lt;/em&gt;. O &lt;em&gt;bootloader&lt;/em&gt; nada mais é que um pequeno programa que é encarregado de “chamar” o sistema operacional quando um aparelho eletrônico é ligado, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.&lt;/p&gt;
+
+&lt;p&gt;Como medida de segurança, dispositivos Android saem de fábrica com o &lt;em&gt;bootloader&lt;/em&gt; bloqueado. Portanto é necessário desbloquear para que possamos instalar um novo sistema operacional. Este procedimento varia de fabricante para fabricante, portanto você terá que pesquisar como proceder para desbloquear o seu aparelho.&lt;/p&gt;
+
+&lt;p&gt;No caso da Motorola, devemos acessar a página de suporte. O endereço está &lt;a href=&quot;http://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a&quot;&gt;aqui&lt;/a&gt;, É necessário fazer um cadastro e seguir os passos descritos nela.&lt;/p&gt;
+
+&lt;p&gt;Após fazer o cadastro, somos levados para uma tela com vários modelos listados. O modelo deste artigo, um Moto G4 Play, não está listado, portanto devemos clicar no primeiro link da página ou &lt;a href=&quot;https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/action/auth&quot;&gt;aqui&lt;/a&gt;. Na próxima etapa, a Motorola irá avisar de todos os riscos envolvendo a desbloqueio do &lt;em&gt;bootloader&lt;/em&gt;, apenas desça até o final e clique em &lt;em&gt;“Next”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;E finalmente chegamos onde queremos. Para que possamos prosseguir, a página pede um código específico do aparelho. Para isso, voltamos no terminal do PC e digitamos o seguinte comando &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot oem get_unlock_data&lt;/code&gt;. O terminal vai responder com 5 linhas, todas elas iniciando com (&lt;em&gt;bootloader&lt;/em&gt;) e um código logo após. Copiaremos apenas o código, retirando o &lt;em&gt;(bootloader)&lt;/em&gt; e o espaço e juntaremos as 5 linhas em uma só. Com esse código gigante em mãos, colaremos ele no campo apropriado da página da Motorola (no item 6). Após colarmos o código no campo, clique no botão azul que diz “&lt;em&gt;Can my device be ubnlocked?&lt;/em&gt;” Se ele for elegível, na parte de baixo da página irá aparecer um botão azul “&lt;em&gt;Request unlock key&lt;/em&gt;”. Concordaremos com o contrato clicando em “&lt;em&gt;I agree&lt;/em&gt;” e clicaremos no botão em questão.&lt;/p&gt;
+
+&lt;p&gt;Um e-mail será enviado para o endereço do registro e irá conter o código de desbloqueio. Copie este código.&lt;/p&gt;
+
+&lt;p&gt;Volte ao terminal e digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot oem unlock CHAVE-ÚNICA&lt;/code&gt;, substituindo &lt;em&gt;CHAVE-ÚNICA&lt;/em&gt; pela chave informada no e-mail. Este código é caso-sensitivo, portanto, devemos respeitar as letras maiúsculas e minúsculas.&lt;/p&gt;
+
+&lt;p&gt;Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confirmação com os dizeres “&lt;em&gt;Device is UNLOCKED&lt;/em&gt;” em amarelo).&lt;/p&gt;
+
+&lt;h2 id=&quot;instalando-o-arquivo-de-recuperação-e-o-sistema-operacional&quot;&gt;Instalando o arquivo de recuperação e o sistema operacional&lt;/h2&gt;
+
+&lt;p&gt;Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fastboot flash recovery NOME-DO-ARQUIVO.img&lt;/code&gt; e dê enter. Substitua &lt;em&gt;NOME-DO-ARQUIVO&lt;/em&gt; pelo nome do arquivo que você baixou lá no início deste artigo.&lt;/p&gt;
+
+&lt;p&gt;Após a operação ser concluída, navegue nas opções através dos botões &lt;kbd&gt;Volume menos&lt;/kbd&gt; e &lt;kbd&gt;Volume mais&lt;/kbd&gt; (na lateral do celular), vá até &lt;em&gt;Recovery&lt;/em&gt; e aperte o botão &lt;kbd&gt;Ligar/Desligar&lt;/kbd&gt; para selecionar uma opção.&lt;/p&gt;
+
+&lt;p&gt;Desça até &lt;em&gt;Factory Reset&lt;/em&gt;, então &lt;em&gt;Format data / factory reset&lt;/em&gt;. Ele irá perguntar se você deseja realmente formatar o aparelho. &lt;strong&gt;Atenção&lt;/strong&gt;. A partir daqui não tem volta. O aparelho será formatado e &lt;strong&gt;tudo&lt;/strong&gt; dentro dele será apagado. Se concorda, clique em &lt;em&gt;Format data&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quando tudo tiver sido concluído (demora 3 segundos) a tela retornará para a opção &lt;em&gt;Factory reset&lt;/em&gt;. Volte para a tela inicial clicando na setinha no canto superior esquerdo.&lt;/p&gt;
+
+&lt;p&gt;Clique em &lt;em&gt;Apply update&lt;/em&gt; e em seguida &lt;em&gt;Apply from ADB&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Retorne ao computador e no terminal digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Aguarde carregar os dados para o celular. Demora cerca de 2 minutos para concluir a transferência.
+A resposta do terminal é &lt;em&gt;“Total xfer: 1.00x”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;etapa-opcional---instalando-o-open-gapss&quot;&gt;Etapa opcional - Instalando o Open GApss&lt;/h2&gt;
+
+&lt;p&gt;Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em &lt;em&gt;Apply update&lt;/em&gt; e em seguida &lt;em&gt;Apply from ADB&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;No terminal, na pasta onde foi feito o &lt;em&gt;download&lt;/em&gt; do instalador, digite &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb sideload NOME-DO-ARQUIVO.zip&lt;/code&gt;. Demora cerca de 2 minutos para concluir a transferência.&lt;/p&gt;
+
+&lt;p&gt;A resposta do terminal é novamente &lt;em&gt;“Total xfer: 1.00x”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;terminando-a-instalação&quot;&gt;Terminando a instalação&lt;/h2&gt;
+
+&lt;p&gt;No aparelho celular, volte na setinha até a tela inicial e clique em &lt;em&gt;Reboot system now&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pronto. Agora é só esperar o sistema reiniciar. O LineageOS está instalado no seu aparelho.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.&lt;/p&gt;
+
+&lt;p&gt;Além disso, todos os recursos funcionam perfeitamente. Câmera, GPS, Bluetooth… Inclusive agora o LED frontal que indica carregamento da bateria também passou a funcionar.&lt;/p&gt;
+
+&lt;p&gt;Enfim, na minha opinião a instalação do LineageOS vale muito a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade, tudo rodando de forma bastante satisfatória num aparelho antigo e fraco.&lt;/p&gt;
+
+</description>
+          <pubDate>Fri, 30 Apr 2021 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/instalando_o_lineageos/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/instalando_o_lineageos/</guid>
+          
+          
+          
+        </item>
+      
+    
+      
+        <item>
           <title>Amei te ver</title>
-          <description>&lt;p&gt;&lt;img src=&quot;/images/blog/2021-04-27-amei_te_ver/homenagem.webp&quot; alt=&quot;Minha mão segurando três flores, na beira da praia, em homenagem à minha querida mãe&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/images/blog/2021-04-27-amei_te_ver/homenagem.webp&quot; alt=&quot;Foto tirada na beira da praia, mostrando minha mão direita segurando três flores, duas vermelhas e uma branca, com a luz do Sol realçando-as, em homenagem à minha querida mãe&quot; title=&quot;Homenagem à minha mãe&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Oi, mãe. Hoje, 3 anos se passaram desde aquele dia. Ainda sinto tua falta. &lt;br /&gt;
@@ -55,7 +221,7 @@ Eu amei te ver •&lt;/em&gt; &lt;br /&gt;
       
         <item>
           <title>Sonhe</title>
-          <description>&lt;p&gt;&lt;img src=&quot;/images/blog/2021-04-22-sonhe/abra_patrimonio.webp&quot; alt=&quot;Logo da ABRA&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/images/blog/2021-04-22-sonhe/abra_patrimonio.webp&quot; alt=&quot;Logo da Abra Patrimônio. Corresponde a uma chave antiga inclinada em 45º. O corpo da chave está na cor cinza. No canto inferior esquerdo da imagem, temos a parte onde seguramos a chave, composto por uma rosácea gótica de 8 pontas, nas cores rosa e salmão. No canto superior direito, temos o segredo da chave, este também com uma rosácea gótica desenhada, mas desta vez branca. O nome da Abra está escrito na parte de cima da chave e acompanha a inclinação do objeto.&quot; title=&quot;Logo da Abra Patrimônio&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ontem pela manhã tive a honra de receber uma notícia boa. Boa, não. Ótima. Ao ver o que tinha acontecido, senti uma alegria genuína dentro de mim. Ao mesmo tempo, um sentimento de paz e esperança. Não consigo demonstrar exatamente o que estou sentindo no momento, acho que é impossível, seja por palavras proferidas ou escritas. Apenas gostaria de dizer que estou muito, muito, muito orgulhoso de ti.
 Sei o quão importante isso é na tua vida. Sei também o quanto de incertezas e dúvidas tu teve que enfrentar para conseguir isso. Apenas quero que saibas que o mais importante tu já fez, que foi subir no cavalo e ir à luta. A vitória fundamental já foi conquistada: dentro de ti.&lt;/p&gt;
@@ -182,6 +348,86 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
     
       
         <item>
+          <title>Cnc</title>
+          <description>
+&lt;p&gt;Laser:&lt;/p&gt;
+
+&lt;p&gt;Motor de passo NEMA 17:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Marca: JChangzhou Jkongmotor Co., Ltd.&lt;/li&gt;
+  &lt;li&gt;Modelo: JK42HS40-1004AC&lt;/li&gt;
+  &lt;li&gt;Angulo do Passo: 1,8° ±5%;&lt;/li&gt;
+  &lt;li&gt;Número de Fase: 02;&lt;/li&gt;
+  &lt;li&gt;Classe de Isolação: B;&lt;/li&gt;
+  &lt;li&gt;Rigidez Dielétrica: 500 VAC 1min;&lt;/li&gt;
+  &lt;li&gt;Resistência de Isolação: 100 MO Min. 500 VDC;&lt;/li&gt;
+  &lt;li&gt;Esforço Radial: 28N máx.;&lt;/li&gt;
+  &lt;li&gt;Esforço Axial: 10N máx.;&lt;/li&gt;
+  &lt;li&gt;Holding Torque: 4,8 Kgf.cm;&lt;/li&gt;
+  &lt;li&gt;Tensão por Fase: 3,9 VDC;&lt;/li&gt;
+  &lt;li&gt;Corrente por Fase: 1,0 A;&lt;/li&gt;
+  &lt;li&gt;Resistência por Fase: 3,9 O ±10%;&lt;/li&gt;
+  &lt;li&gt;Indutância por Fase: 8,9 mH ±20%;&lt;/li&gt;
+  &lt;li&gt;Número de Fios: 04;&lt;/li&gt;
+  &lt;li&gt;Detent torque: 260 g.cm&lt;/li&gt;
+  &lt;li&gt;Rotor inertia: 68 g.cm²&lt;/li&gt;
+  &lt;li&gt;Dimensões: Vide Imagens do produto;&lt;/li&gt;
+  &lt;li&gt;Peso: 280 g;&lt;/li&gt;
+  &lt;li&gt;Certificação: CCC, ce, ISO, RoHS, UL, ISO9001&lt;/li&gt;
+  &lt;li&gt;Certificação do motor: CE,ROHS ,ISO9001&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+          <pubDate>Thu, 30 Jul 2020 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/cnc/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/cnc/</guid>
+          
+          
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>Consumismo</title>
+          <description>&lt;p&gt;Esta é minha segunda postagem no blog. Ela que não poderia ser sobre outro assunto que não fosse um dos temas que mais em inquieta há alguns anos: o consumismo.&lt;/p&gt;
+
+&lt;p&gt;Desde o início da humanidade, quando o homem começou a usar objetos para tarefas específicas, temos o costume de guardar coisas que nos podem ser úteis. Inicialmente eram instrumentos básicos destinados a caça, a preparação de alimentos ou até mesmo a produção de uma moradia. Não há nada de errado com esta prática, no nosso dia a dia necessitamos de alguns instrumentos para que possamos viver.&lt;/p&gt;
+
+&lt;p&gt;Seguindo a lógica apresentada por Henry David Thoreau em seu livro Walden, a qual tem um completo sentido prático e lógico da coisa, nós como animais que somos (sim meu caro leitor, antes de mais nada somos animais, mas isso fica para uma próxima postagem) precisamos de pouquíssimas coisas. Antes de mais nada a nossa maior necessidade é comida e água. A comida serve como combustível para nosso corpo, para nos fornecer energia e nos manter quentes e ativos. Este calor vital é produzido pelo nosso corpo baseado na reação que ocorre no processo de digestão e respiração. Se algo não está certo, como por motivo de doença ou acidente, temos um problema em nossa “fornalha” e isso não é bom sinal. Por este motivo, ou em algumas outras situações, como quando chega o inverno nas localidades mais longínquas da região do Equador, faz-se também a necessidade de nos cobrirmos com algo para que possamos manter este calor interno (uma necessidade prática que não tem nada a ver com uma necessidade de cunho estético, ideológico ou religioso). Criamos então as roupas, que originalmente não passavam de peles de animais mortos.&lt;/p&gt;
+
+&lt;p&gt;Atente-se leitor que no momento temos apenas dois itens necessários para a humanidade, sendo que um deles somente é necessário em alguns lugares e/ou épocas do ano específicas. Seguindo esta mesma lógica, temos um outro item. Este item serve, assim como as roupas, para nos ajudar a proteger do frio, das chuvas e de possíveis predadores: uma caverna. Cavernas foram usadas nos primórdios da humanidade, antes do homem aprender a trabalhar a madeira, forjar o ferro e cozinhar a argila. Obviamente que com a expansão da nossa raça iriam faltar cavernas para todos, e convenhamos, uma casa feita com este itens acima citados é mais confortável, prática e segura que uma caverna.&lt;/p&gt;
+
+&lt;p&gt;O último item essencial para uma pessoa é o fogo. Poderíamos viver sem ele? Sim, mas tudo seria mais difícil, muito mais. Com o fogo podemos nos aquecer, processar nosso alimento para que ele dure mais tempo e afugentar possíveis predadores. Alguns alimentos processados adquirem uma maior digestibilidade e uma maior biodisponibilidade de nutrientes, como por exemplo batatas (no primeiro caso) e tomates (no segundo).&lt;/p&gt;
+
+&lt;p&gt;Com apenas dois destes elementos (comida/água e fogo) podemos viver em zonas equatoriais, e somando estes aos outros dois itens (roupas e casas) faz com que possamos viver em qualquer lugar do planeta.&lt;/p&gt;
+
+&lt;p&gt;Isto é o que todo homem deveria possuir por padrão ao viver em uma comunidade. Direito a comida e água, roupas, “fogo” e uma casa decente. Mesmo com todo o avanço da humanidade, infelizmente ainda temos pessoas que não possuem isso, enquanto outras possuem muito mais que isso. Muitos perdem a vida trabalhando para ter direito a uma moradia que na maioria dos casos se assemelha a uma caverna com janelas. E muitas vezes não é e nunca será sua! É incrível como muitos indígenas, chamados pelos europeus de “povos bárbaros” conseguiam prover para sua comunidade todos estes itens em melhor qualidade que temos atualmente enquanto a “civilização” não consegue, a não ser que você “trabalhe, se esforce e vença na vida”. O sentido de comunidade foi perdido há tempos… Pessoas perdem horas e mais horas de suas vidas para ter acesso a produtos que servem apenas para encher barrigas mas não para alimentar o corpo.&lt;/p&gt;
+
+&lt;p&gt;Baseado nisso meu pensamento segue junto ao de Thoreau ao afirmar que, todo homem deveria levar uma vida rústica e primitiva para que através desse processo possamos saber quais são as coisas realente necessárias à vida quais os métodos usados para obtê-las. A maior parte das pessoas nunca para para pensar de onde surgem e nem como são fabricadas as coisas que elas possuem e que consomem. E o pior, acreditam que aquele item seja necessário para ela viver, ser feliz ou ser livre, sendo que na maior parte das vezes acontece justamente ao contrário. Citando novamente Thoreau, “A riqueza de um homem é proporcional ao número de coisas que pode deixar em paz”.&lt;/p&gt;
+
+&lt;p&gt;Somos bombardeados todos os dias por propagandas que nos estimulam a adquirir itens e “experiências” como se cada uma delas fosse essencial para nossa vida. É o carro do ano, o computador de última geração (que muitos tem apenas para processar jogos?!), o eletrodoméstico “revolucionário” que vai deixar a vida da dona de casa mais tranquila, a viagem dos seus sonhos para dentro de um hotel com todas as mordomias, a bobagem qualquer criada apenas para aumentar a riqueza do vendedor… e com isso vamos somando coisas, vamos tropeçando nas armadilhas que se formam, no luxo e esbanjamento, numa falta de objetivo, numa vida dedicada as coisas e não à vida. Colecionamos “glórias” do passado para nos lembrarmos do que éramos, não nos dando por conta que nós somos todas glórias do passado juntas num único ser. E com o passar do tempo, muitas destas coisas já não se fazem mais satisfatórias, então simplesmente as largamos em qualquer canto de nossas grandes casas (afinal as casas devem ser grandes para que possamos guardar todas as tralhas que temos) ou as descartamos como se fossem meras e orgânicas cascas de banana sem que nos preocupemos com as consequências daquele ato.&lt;/p&gt;
+
+&lt;p&gt;Ainda pior é quando achamos que podemos “consumir” outros seres vivos. Na nossa megalomania de nos acharmos deuses (o título de “Homo Deus” do livro do Yuval Noah Harari cai super bem a nossa espécie) vivendo em um paraíso capitalista, cremos que até mesmo a vida dos outros faz parte do comércio. Compramos, vendemos e aprisionamos seres vivos a nosso bel prazer não nos importando com sua natureza e com seus sentimentos, apenas para manter as rodas do mundo girando. Achamos que temos o direito de tirar o “direito natural” de um pássaro de voar apenas para ficarmos apreciando seu canto. Voar meu caro leitor. Usando seu próprio corpo e sua própria energia. Voar! O dom mais maravilhoso concedido a qualquer ser vivo. Que temos que ter o cachorro da moda para postar fotos nas redes sociais enquanto o animal passa a semana inteira trancafiado dentro de um aparatamento ansiando por terra, grama, cheiros… por vida.&lt;/p&gt;
+
+&lt;p&gt;O ser humano tem costume de celebrar datas de passagem, mas ao invés de comemorá-las apenas de forma contemplativa e/ou na companhia de seus próximos compartilhando momentos bons, pessoas anseiam por presentes que não precisam. A representatividade original das (antigamente poucas, atualmente muitíssimas) datas comemorativas há muito foi perdida e hoje apenas copiamos antigos ritos sem ao menos nos remetermos a sua origem, perguntarmos o motivo de sua existência. Datas que para os antigos marcavam períodos bem definidos do ano, como solstícios e equinócios, que eram importantes para as plantações e colheitas, para a vivência e continuidade das comunidades, hoje não passam de meras datas comerciais nas quais as pessoas se amontoam em lojas com a obrigação de presentear a família inteira, pois só assim “mostramos a preocupação que temos com o outro”. A cada ano o comércio cria novos festejos sem sentido. Chegamos ao ponto de ter dois dias dos namorados em um único ano, datas criadas explicitamente com cunho comercial. Não precisamos de duas datas específicas para mostrar que amamos uma pessoa, basta respeitar e tratá-la bem todos os outros 363 dias do ano. Afeto não está vinculado necessariamente a presentes. Páscoa e Natal, talvez as duas comemorações pagãs mais importantes da antiguidade, hoje não passam de datas padronizadas e sem um cunho crítico. Crianças, desde cedo pintam o rosto de coelhinho e vestem roupas muitas vezes nada propícias ao clima, somente reproduzindo de forma ignorante discursos sociais cheios de preconceitos de uma sociedade manipuladora e consumista. Não somos conscientizados sobre o motivo real da criação daquelas datas, mas sim atropelados por propagandas para consumir cada vez mais gerando assim cada vez mais lixo.&lt;/p&gt;
+
+&lt;p&gt;o cão da moda, o pássaro com seus lindos cantos e cores, a pessoa…&lt;/p&gt;
+
+&lt;p&gt;Em nossa ânsia por racionalidade esquecemos da nossa animalidade. Cada dia estamos mais perto de nos tornarmos meio humanos/meio máquinas&lt;/p&gt;
+
+</description>
+          <pubDate>Thu, 16 Jul 2020 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/consumismo/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/consumismo/</guid>
+          
+          
+          
+        </item>
+      
+    
+      
+        <item>
           <title>Por que escrever?</title>
           <description>&lt;p&gt;Então, o que me levou a escrever um blog? E por qual motivo um blog num mundo tão cheio de &lt;em&gt;podcast&lt;/em&gt; e canais de vídeo? Nada mais justo que seja na primeira postagem onde eu apresente meus motivos.&lt;/p&gt;
 
@@ -202,12 +448,6 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
 &lt;h2 id=&quot;ok-mas-por-que-um-blog&quot;&gt;Ok, mas por que um blog?&lt;/h2&gt;
 
 &lt;p&gt;O leitor deve estar perguntando, “por que escrever um &lt;em&gt;blog&lt;/em&gt;? Por que não fazer um canal em algum site de vídeos ou um &lt;em&gt;podcast&lt;/em&gt;?”. Como falei anteriormente, sempre gostei de ler, e acho a leitura muito mais prazerosa que ambos. &lt;em&gt;Podcasts&lt;/em&gt; são ótimos para quando não podemos ficar sentados, calmos e quietos, eu pessoalmente costumo e gosto de ouvir enquanto estou trabalhando. Agora, ficar sentado na frente do computador enquanto apenas escuto? Não é para mim… Sobre vídeos? Acho-os interessantes, muito atrativos, como meio artístico são fenomenais, como materiais técnicos também, mas não consigo ficar muito tempo parado simplesmente assistindo coisas. Novamente, a leitura é mais dinâmica, e quando bem feita, tão artística e e técnica quando qualquer vídeo. Sem contar que dados de textos são bem menores que dados de áudio e infinitamente menores que vídeos, seguindo a filosofia do quanto mais simples, melhor.&lt;/p&gt;
-
-&lt;h2 id=&quot;por-que-o-nome-uma-viagem-ao-meu-jardim&quot;&gt;Por que o nome “Uma viagem ao meu jardim?”&lt;/h2&gt;
-
-&lt;p&gt;Bem, o nome… talvez uma das coisas mais difíceis seja dar um nome às coisas. Pessoalmente sou uma pessoa que &lt;strong&gt;tudo&lt;/strong&gt; o que faço tem que ter um significado. Em 2015, quando criei o meu diário pessoal ele passou um bom tempo sem ter um nome propriamente dito, era apenas diário. Na época eu ainda colecionava perfumes (pois é…) e se tem uma marca na qual eu admiro muito, ao menos na parte de perfumaria, de linguagem visual e um pouco de filosofia, é a Hermès®. A Hermès® é uma marca francesa de moda de alto luxo. Dentre todo seu acervo de perfumes tem um que eu amo, que é o “Voyage d’Hermès®”. Existe também uma coleção chamada “Jardin®” que conta atualmente com 6 perfumes diferentes. A ideia surgiu em unir o “voyage” com “jardin” e fazer uma analogia do jardim com minha mente. Surgiu daí “Un voyage dans mon jardin”, ou “uma viagem pela minha mente”.&lt;/p&gt;
-
-&lt;p&gt;Ao começar a fazer este &lt;em&gt;site/blog&lt;/em&gt; pensei em seguir com o nome, mas conversando com uma grande amiga, ela sugeriu traduzir o nome para o português. Segundo ela, eu não falo francês e nunca fui para a França (ei, escalas não contam?), ficaria muito impessoal, e traduzir para nossa língua deixaria as coisas “mais minhas”. De início resisti a mudança, afinal eu gosto do idioma francês e de como o nome soa, mas uma semana depois aceitei e vi que realmente era o melhor a ser feito. Temos então “Uma viagem pelo meu jardim”.&lt;/p&gt;
 
 &lt;h2 id=&quot;concluindo&quot;&gt;Concluindo&lt;/h2&gt;
 
