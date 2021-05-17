@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 May 2021 14:56:31 -0300</pubDate>
-    <lastBuildDate>Sun, 16 May 2021 14:56:31 -0300</lastBuildDate>
+    <pubDate>Mon, 17 May 2021 00:15:51 -0300</pubDate>
+    <lastBuildDate>Mon, 17 May 2021 00:15:51 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -93,25 +93,25 @@
 
 &lt;p&gt;Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado &lt;em&gt;adb-fastboot&lt;/em&gt; dentro da &lt;em&gt;home&lt;/em&gt; do seu usuário. Feito, adicione o seguinte comando no terminal:&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/adb-fastboot/platform-tools&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then
-&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/adb-fastboot/platform-tools:&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;fi&lt;/span&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if [ -d &quot;$HOME/adb-fastboot/platform-tools&quot; ] ; then
+export PATH=&quot;$HOME/adb-fastboot/platform-tools:$PATH&quot;
+fi
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Após concluir, saia e entre novamente em sua conta para que as variáveis adicionadas sejam carregadas no sistema. Não é preciso reiniciar o computador.&lt;/p&gt;
 
 &lt;p&gt;É necessário também configurar as regras do &lt;em&gt;udev&lt;/em&gt;. O &lt;em&gt;udev&lt;/em&gt; é um administrador de dispositivos para Linux, isto é, é ele o responsável por detectar e montar todos os dispositivos que ligamos no PC. Para simplificar as coisas, simplesmente copie e cole cada um destes comandos no terminal:&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/M0Rf30/android-udev-rules.git
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;android-udev-rules
-&lt;span class=&quot;nb&quot;&gt;sudo cp&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-v&lt;/span&gt; 51-android.rules /etc/udev/rules.d/51-android.rules
-&lt;span class=&quot;nb&quot;&gt;sudo chmod &lt;/span&gt;a+r /etc/udev/rules.d/51-android.rules
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/M0Rf30/android-udev-rules.git
+cd android-udev-rules
+sudo cp -v 51-android.rules /etc/udev/rules.d/51-android.rules
+sudo chmod a+r /etc/udev/rules.d/51-android.rules
 groupdel adbusers
-&lt;span class=&quot;nb&quot;&gt;sudo mkdir&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-p&lt;/span&gt; /usr/lib/sysusers.d/ &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sudo cp &lt;/span&gt;android-udev.conf /usr/lib/sysusers.d/
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;systemd-sysusers
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;usermod &lt;span class=&quot;nt&quot;&gt;-a&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-G&lt;/span&gt; adbusers &lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;whoami&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;udevadm control &lt;span class=&quot;nt&quot;&gt;--reload-rules&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;service udev restart
+sudo mkdir -p /usr/lib/sysusers.d/ &amp;amp;&amp;amp; sudo cp android-udev.conf /usr/lib/sysusers.d/
+sudo systemd-sysusers
+sudo usermod -a -G adbusers $(whoami)
+sudo udevadm control --reload-rules
+sudo service udev restart
 adb kill-server
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 

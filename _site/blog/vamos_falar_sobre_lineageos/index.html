@@ -17,7 +17,7 @@
   <meta name="robots" content="index, follow">
 
 <!-- Carregando o arquivo CSS para o HTML -->
-  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1621187791">
+  <link rel="stylesheet" type="text/css" media="all" href="/css/main.css?v=1621221351">
 
 <!-- Carregando arquivos de terceiros para a exibição correta da página -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
@@ -158,25 +158,25 @@
 
 <p>Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado <em>adb-fastboot</em> dentro da <em>home</em> do seu usuário. Feito, adicione o seguinte comando no terminal:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="o">[</span> <span class="nt">-d</span> <span class="s2">"</span><span class="nv">$HOME</span><span class="s2">/adb-fastboot/platform-tools"</span> <span class="o">]</span> <span class="p">;</span> <span class="k">then
-</span><span class="nb">export </span><span class="nv">PATH</span><span class="o">=</span><span class="s2">"</span><span class="nv">$HOME</span><span class="s2">/adb-fastboot/platform-tools:</span><span class="nv">$PATH</span><span class="s2">"</span>
-<span class="k">fi</span>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>if [ -d "$HOME/adb-fastboot/platform-tools" ] ; then
+export PATH="$HOME/adb-fastboot/platform-tools:$PATH"
+fi
 </code></pre></div></div>
 
 <p>Após concluir, saia e entre novamente em sua conta para que as variáveis adicionadas sejam carregadas no sistema. Não é preciso reiniciar o computador.</p>
 
 <p>É necessário também configurar as regras do <em>udev</em>. O <em>udev</em> é um administrador de dispositivos para Linux, isto é, é ele o responsável por detectar e montar todos os dispositivos que ligamos no PC. Para simplificar as coisas, simplesmente copie e cole cada um destes comandos no terminal:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/M0Rf30/android-udev-rules.git
-<span class="nb">cd </span>android-udev-rules
-<span class="nb">sudo cp</span> <span class="nt">-v</span> 51-android.rules /etc/udev/rules.d/51-android.rules
-<span class="nb">sudo chmod </span>a+r /etc/udev/rules.d/51-android.rules
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/M0Rf30/android-udev-rules.git
+cd android-udev-rules
+sudo cp -v 51-android.rules /etc/udev/rules.d/51-android.rules
+sudo chmod a+r /etc/udev/rules.d/51-android.rules
 groupdel adbusers
-<span class="nb">sudo mkdir</span> <span class="nt">-p</span> /usr/lib/sysusers.d/ <span class="o">&amp;&amp;</span> <span class="nb">sudo cp </span>android-udev.conf /usr/lib/sysusers.d/
-<span class="nb">sudo </span>systemd-sysusers
-<span class="nb">sudo </span>usermod <span class="nt">-a</span> <span class="nt">-G</span> adbusers <span class="si">$(</span><span class="nb">whoami</span><span class="si">)</span>
-<span class="nb">sudo </span>udevadm control <span class="nt">--reload-rules</span>
-<span class="nb">sudo </span>service udev restart
+sudo mkdir -p /usr/lib/sysusers.d/ &amp;&amp; sudo cp android-udev.conf /usr/lib/sysusers.d/
+sudo systemd-sysusers
+sudo usermod -a -G adbusers $(whoami)
+sudo udevadm control --reload-rules
+sudo service udev restart
 adb kill-server
 </code></pre></div></div>
 

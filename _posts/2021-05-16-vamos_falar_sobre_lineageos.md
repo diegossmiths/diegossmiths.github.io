@@ -84,7 +84,7 @@ Pronto, já reunimos todo o material necessário.
 
 Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado *adb-fastboot* dentro da *home* do seu usuário. Feito, adicione o seguinte comando no terminal:
 
-```bash
+```
 if [ -d "$HOME/adb-fastboot/platform-tools" ] ; then
 export PATH="$HOME/adb-fastboot/platform-tools:$PATH"
 fi
@@ -94,7 +94,7 @@ Após concluir, saia e entre novamente em sua conta para que as variáveis adici
 
 É necessário também configurar as regras do *udev*. O *udev* é um administrador de dispositivos para Linux, isto é, é ele o responsável por detectar e montar todos os dispositivos que ligamos no PC. Para simplificar as coisas, simplesmente copie e cole cada um destes comandos no terminal:
 
-```bash
+```
 git clone https://github.com/M0Rf30/android-udev-rules.git
 cd android-udev-rules
 sudo cp -v 51-android.rules /etc/udev/rules.d/51-android.rules

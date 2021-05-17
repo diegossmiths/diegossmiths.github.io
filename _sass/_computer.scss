@@ -2,9 +2,12 @@
 .highlight,
 pre,
 code {
- max-width:100%;
- background-color: #FDF6E3;
+// font-family: "Open Sans";
+// width:100%;
+// max-width:100%;
+ background-color: #FEC3A9;
  color: #587189;
+ border-radius:5px;
 }
 
 pre code {
@@ -12,18 +15,22 @@ pre code {
  padding:0.5em;
  display:block;
  color:inherit;
+// word-break:break-all;
+
 }
 
 .highlight {
- background-color: #FDF6E3;
- color: #587189;
- display:inline-block;
- margin:auto;
- max-width:100%;
+// background-color: #FEC3A9;
+// color: #587189;
+// margin:auto;
+// max-width:100%;
+// display: block;
+// overflow: auto;
 }
 
 kbd {
   border-radius: 5px;
-  padding: 2px;
+  padding: 1px;
   border: 1px solid black;
+  font-family: "Open Sans";
 }
