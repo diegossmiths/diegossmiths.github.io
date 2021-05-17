@@ -84,7 +84,9 @@ nav img.avatar { margin: -0.4em -0.25em -0.6em; max-height: 2em; max-width: 2em;
 
 pre code { overflow: auto; padding: 0.5em; display: block; color: inherit; }
 
-kbd { border-radius: 5px; padding: 1px; border: 1px solid black; font-family: "Open Sans"; }
+.highlight { font-size: 90%; }
+
+kbd { font-size: 90%; border-radius: 5px; padding: 1px 3px; border: 1px solid black; font-family: "Open Sans"; }
 
 :root { background: var(--background-color); }
 

@@ -20,6 +20,7 @@ pre code {
 }
 
 .highlight {
+ font-size: 90%;
 // background-color: #FEC3A9;
 // color: #587189;
 // margin:auto;
@@ -29,8 +30,9 @@ pre code {
 }
 
 kbd {
-  border-radius: 5px;
-  padding: 1px;
-  border: 1px solid black;
-  font-family: "Open Sans";
+ font-size: 90%;
+ border-radius: 5px;
+ padding: 1px 3px;
+ border: 1px solid black;
+ font-family: "Open Sans";
 }
