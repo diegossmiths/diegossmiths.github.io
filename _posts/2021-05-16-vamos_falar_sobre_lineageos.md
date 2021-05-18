@@ -17,9 +17,9 @@ A equipe de desenvolvimento costuma manter um cronograma de atualizações basta
 
 ## Sua história
 
-Em 2009 um sujeito chamado Steve Kondik se juntou a outro sujeito chamado Kirt McMaster e juntos fundaram uma empresa chamada Cyanogen Inc. Ela abrigava dois projetos, o CyanogenMod e o CyanogenOS. O CyanogenMod era um sistema operacional baseado no Android, totalmente de código aberto, *mantido pela comunidade de desenvolvedores* e que tinha como objetivo manter aparelhos antigos atualizados. CyanogenOS era quase igual, mas era o *braço comercial da empresa*. Ele era *desenvolvido por empregados* e era o que eles comercializavam junto à outras companhias, e este possuía partes do código fechadas e patenteadas (incluindo aí o nome).
+Em 2009 um sujeito chamado Steve Kondik começou um projeto chamado CyanogenMod. O CyanogenMod era um sistema operacional baseado no Android, totalmente de código aberto, **mantido por uma comunidade de desenvolvedores** e que tinha como objetivo manter aparelhos antigos atualizados. Já em 2013, com o avanço do projeto, um outro sujeito, este chamado Kirt McMaster se aproximou de Steve e juntos conseguiram levantar capital de investidores para fundar uma empresa chamada Cyanogen Inc. Ela passou a abrigar dois projetos, o já falado CyanogenMod e o CyanogenOS. CyanogenOS era o **braço comercial da empresa**. Ele era **desenvolvido por empregados** e era o que eles comercializavam junto à outras companhias, licenciando seu software para fabricantes de celulares interessadas. E este possuía mais partes do código fechadas e patenteadas (incluindo aí o nome).
 
-Tudo ia bem até que num determinado momento, ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a "pegar mal" para a empresa. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.
+Já em 2016, Steve, na sua visão, percebeu que a empresa não estava atingindo o sucesso que ele vislumbrava. Chegou o momento que ambos começaram a discordar dos rumos que deveriam ser seguidos, contratos ruins foram assinados e McMaster começou a soltar um monte de abobrinhas em entrevistas, o que começou a "pegar mal" para a empresa. Steve foi demitido do posto de CEO e uma grande reestruturação foi feita. A partir daí a coisa foi ladeira a baixo. A confusão toda começou em julho de 2016, e em dezembro tudo acabou.
 
 A solução encontrada por Kondik para que seu projeto não morresse com o fim da Cyanogen Inc. foi criar um *fork* do CyanogenMod. Aqui, um adendo: um *fork* nada mais é quando um desenvolvedor, ou um grupo deles, criam um projeto independente com base no código de outro projeto já existente, ou seja, eles pegam o código de um *software* que já existe e o modificam para adequar aos seus interesses, mesmo o que original, que serviu como base, ainda esteja ativo e em desenvolvimento. Assim, temos 2 *softwares* similares, com uma mesma base, mas que, com o tempo, tendem a tomar rumos diferentes.
 
@@ -31,7 +31,7 @@ Agora que já sabemos de fato o que é o LineageOS e como ele surgiu, vamos inst
 
 ## Notas
 
-Antes de mais nada, convido o leitor a acessar a [página oficial](https://lineageos.org/) do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este, mas em inglês), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis.
+Antes de mais nada, gostaria de dizer que este manual foi escrito entre os dias **18 de abril e 16 de maio de 2021**. Portanto, algumas coisas podem estar diferentes na data que você estiver lendo. Por isso é importante acessar a [página oficial](https://lineageos.org/) do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este, mas em inglês), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis.
 
 Neste exemplo, usarei o [Motorola Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php) como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Utilizava-o para uso pessoal, mas comprei um aparelho novo e deixei este exclusivamente para a marcenaria. Para outras marcas e modelos podem haver algumas diferenças, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o [elementaryOS](https://elementary.io/) versão 5.1.7, um sistema GNU/Linux baseado no [Ubuntu](https://ubuntu.com/) versão 18.04.4 LTS.
 
@@ -82,7 +82,7 @@ Pronto, já reunimos todo o material necessário.
 
 ## Instalando o adb-fastboot {#fastboot}
 
-Faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado *adb-fastboot* dentro da *home* do seu usuário. Feito, adicione o seguinte comando no terminal:
+Clique no *platform-tools-lateste-linux.zip* e faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado *adb-fastboot* dentro da *home* do seu usuário. Feito, adicione o seguinte comando no terminal:
 
 ```
 if [ -d "$HOME/adb-fastboot/platform-tools" ] ; then
@@ -136,7 +136,7 @@ Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelh
 
 ## Instalando o arquivo de recuperação e o sistema operacional {#instalando_os}
 
-Com o terminal aberto e estando na pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite `fastboot flash recovery NOME-DO-ARQUIVO.img` e dê enter. Substitua *NOME-DO-ARQUIVO* pelo nome do arquivo *.img* que você baixou lá no início deste artigo.
+Com o terminal aberto, navegue até a pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite `fastboot flash recovery NOME-DO-ARQUIVO.img` e dê enter. Substitua *NOME-DO-ARQUIVO* pelo nome do arquivo *.img* que você baixou lá no início deste artigo.
 
 Após a operação ser concluída, pegue o aparelho, e através dos  botões laterais, navegue pelas opções apertando <kbd>Volume -</kbd> e <kbd>Volume +</kbd>, vá até "*Recovery*" e aperte o botão <kbd>Ligar/Desligar</kbd> para selecionar uma opção.
 
