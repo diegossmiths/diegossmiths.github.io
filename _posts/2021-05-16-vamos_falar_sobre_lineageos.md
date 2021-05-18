@@ -3,6 +3,7 @@ layout: post
 title: Vamos falar sobre LineageOS
 description: "O que é o LineageOS? Conheça um pouco do sistema operacional móvel, seus recursos, sua história e saiba como usá-lo."
 keywords: lineageos, android, moto, g4, play, motorola, custom, rom
+updated: 2021-05-17 23:05:00 -0300
 ---
 
 ## O que é o LineageOS?
