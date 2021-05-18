@@ -11,7 +11,7 @@ section.grid {
 
 .grid.main {
   flex: 1 0 auto;
-  max-width: 60%;
+  max-width: 50em;
 
   @media print {
     max-width: 90%;
