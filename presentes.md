@@ -23,6 +23,8 @@ Ah, e já ia esquecendo. Se possível não comprar nada em lojas como Amazon e H
 
 - Moedor de café manual em aço inox.
 
+- Corda de pano para brincar com o Vígi, como [esta](https://www.petelegante.com.br/media/catalog/product/b/r/brinquedo_para_cachorro_osso_de_corda.jpg?pe_fullscreen=https://www.petelegante.com.br/media/catalog/product/b/r/brinquedo_para_cachorro_osso_de_corda.jpg), visto que a dele simplesmente sumiu.
+
 ---
 
 Conforme for ganhando coisas ou lembrando de outras, irei atualizando. =]
