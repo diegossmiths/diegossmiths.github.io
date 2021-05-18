@@ -70,7 +70,7 @@ footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75
 section.grid { margin: 0 auto; max-width: 32em; }
 section.grid > * { margin: 1em; }
 
-.grid.main { flex: 1 0 auto; max-width: 50em; }
+.grid.main { flex: 1 0 auto; max-width: 60%; }
 @media print { .grid.main { max-width: 90%; } }
 
 nav { background-color: var(--background-color); color: var(--primary-color); display: flex; flex-flow: row nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 1; border-bottom: 1px solid #999; }
