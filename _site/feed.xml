@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 May 2021 23:34:23 -0300</pubDate>
-    <lastBuildDate>Mon, 17 May 2021 23:34:23 -0300</lastBuildDate>
+    <pubDate>Tue, 18 May 2021 07:51:01 -0300</pubDate>
+    <lastBuildDate>Tue, 18 May 2021 07:51:01 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -81,7 +81,7 @@
 
 &lt;p&gt;Na página oficial do &lt;a href=&quot;https://download.lineageos.org/&quot;&gt;LineageOS&lt;/a&gt;, navegue entre os aparelhos mantidos pela comunidade e escolha o seu. Sempre é mostrada na primeira linha da tabela a versão mais nova do sistema. Ali, baixe os &lt;strong&gt;dois&lt;/strong&gt; arquivos necessários para a instalação, um arquivo &lt;em&gt;.zip&lt;/em&gt; e a imagem de recuperação &lt;em&gt;.img&lt;/em&gt; correspondente.&lt;/p&gt;
 
-&lt;p&gt;É também necessário baixar o &lt;em&gt;adb-fastboot&lt;/em&gt;. O ADB, sigla para &lt;em&gt;Android Debug Bridge&lt;/em&gt;, e o &lt;em&gt;fastboot&lt;/em&gt; são ferramentas presentes no &lt;em&gt;Android SDK Platform Tools&lt;/em&gt;, desenvolvidas pela Google para facilitar a comunicação entre um PC e um aparelho Android. O ADB é uma ferramenta de linha de comando para instalar, desinstalar, depurar aplicativos, transferir arquivos e acessar o console de um dispositivo. O &lt;em&gt;fastboot&lt;/em&gt; é um protocolo de comunicação e uma ferramenta de mesmo nome que tem o objetivo modificar o sistema de arquivos de um aparelho Android via conexão USB.&lt;/p&gt;
+&lt;p&gt;É também necessário baixar o &lt;em&gt;adb-fastboot&lt;/em&gt;. O ADB, sigla para &lt;em&gt;Android Debug Bridge&lt;/em&gt;, e o &lt;em&gt;fastboot&lt;/em&gt; são ferramentas presentes no &lt;em&gt;Android SDK Platform Tools&lt;/em&gt;, desenvolvidas pela Google para facilitar a comunicação entre um PC e um aparelho Android. O ADB é uma ferramenta de linha de comando para instalar, desinstalar, depurar aplicativos, transferir arquivos e acessar o console de um dispositivo. O &lt;em&gt;fastboot&lt;/em&gt; é um protocolo de comunicação e uma ferramenta de mesmo nome que tem como objetivo modificar o sistema de arquivos de um aparelho Android via conexão USB.&lt;/p&gt;
 
 &lt;p&gt;Como disse anteriormente, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google &lt;a href=&quot;https://dl.google.com/android/repository/platform-tools-latest-linux.zip&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
 

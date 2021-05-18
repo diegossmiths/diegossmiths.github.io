@@ -51,15 +51,13 @@ nav {
             }
     }
 
-  img.avatar {
-   margin: -0.4em -0.25em -0.6em;
-    max-height: 2em;
-    max-width: 2em;
-    padding: 0;
-	border: none;
-  }
-
-
+    .logo {
+      border: none;
+      max-height: 2em;
+      max-width: 2em;
+      display: block;
+      margin: -0.4em -0.25em -0.6em;
+      }
 
 }
 

@@ -70,7 +70,7 @@ footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75
 section.grid { margin: 0 auto; max-width: 32em; }
 section.grid > * { margin: 1em; }
 
-.grid.main { flex: 1 0 auto; max-width: 50em; }
+.grid.main { flex: 1 0 auto; max-width: 100%; width: 50em; }
 @media print { .grid.main { max-width: 90%; } }
 
 nav { background-color: var(--background-color); color: var(--primary-color); display: flex; flex-flow: row nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 1; border-bottom: 1px solid #999; }
@@ -79,7 +79,7 @@ nav .box { display: flex; flex: 1 0 auto; max-width: 50em; margin: 0 auto; }
 nav a { color: inherit; display: flex; flex-flow: row nowrap; font-size: 1rem; font-weight: 300; opacity: 1; padding: 0.75em; }
 nav a:hover, nav a:focus { background-color: var(--background-color); color: var(--primary-color); border: none; color: inherit; opacity: 0.5; outline: none; text-decoration: none; }
 nav a.current, nav a:active { background-color: var(--background-color); color: var(--accent-color); }
-nav img.avatar { margin: -0.4em -0.25em -0.6em; max-height: 2em; max-width: 2em; padding: 0; border: none; }
+nav .logo { border: none; max-height: 2em; max-width: 2em; display: block; margin: -0.4em -0.25em -0.6em; }
 
 .highlighter-rouge, .highlight, pre, code { background-color: #FEC3A9; color: #587189; border-radius: 5px; }
 
@@ -114,8 +114,8 @@ img { display: block; max-width: 100%; height: auto; }
 .leia-mais img { display: inline; }
 .leia-mais:hover i { opacity: 1; }
 
-.avatar, img[alt="Página inicial"] { background-position: center; background-size: cover; border: 1px solid var(--primary-color); border-radius: 50%; margin: 0 1em 1em 0; max-width: 16em; display: block; margin-left: auto; margin-right: auto; }
-nav .avatar, nav img[alt="Página inicial"] { float: left; }
+.avatar { background-position: center; background-size: cover; border: 1px solid var(--primary-color); border-radius: 50%; max-width: 15em; margin-left: auto; margin-right: auto; }
+nav .avatar { float: left; }
 
 table { width: 100%; text-align: center; }
 table img { margin: 0 auto; }

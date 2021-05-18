@@ -7,7 +7,7 @@ keywords: diego schild smiths, diego, schild, smiths, pagina, site, pessoal, blo
 permalink: /
 ---
 
-![eu](/images/pages/eu.webp){:class="avatar"}
+![Foto mostrando o meu rosto e do rosto do meu cachorro, um ao lado do outro, ambos de perfil, olhando para o horizonte](/images/pages/eu.webp "Minha foto, com o Vígi, o meu cachorro"){:class="avatar"}
 
 # Olá! Meu nome é Diego Schild Smiths
 
