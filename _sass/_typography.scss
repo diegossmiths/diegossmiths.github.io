@@ -116,8 +116,10 @@ ol {
 }
 
 hr {
-  border: 0.125em solid #63666A;
+  height: 1px;
   margin: 3em auto;
+  border-width: 0;
+  background-color: var (--content-color);
 }
 
 small,
