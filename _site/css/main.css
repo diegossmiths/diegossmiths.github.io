@@ -1,5 +1,5 @@
 @charset "UTF-8";
-:root { --background-color: #ffffff; --primary-color: #008B8B; --accent-color: #ff7474; --content-color: #63666A; --secondary-accent-color: var(--primary-color); --secondary-accent-contrast: var(--background-color); }
+:root { --background-color: #ffffff; --primary-color: #008B8B; --accent-color: #ff7474; --secondary-accent-color: #FFDBDB; --content-color: #63666A; }
 
 @media print { :root { --background-color: #ffffff; } }
 html { font-family: "Open Sans", Helvetica, sans-serif; font-size: 4vw; font-weight: 400; text-rendering: optimizeLegibility; }
@@ -30,11 +30,11 @@ p, li { line-height: 2em; }
 
 p, ul, ol { margin: 0.5em auto; }
 
-hr { border: 0.125em solid #dedede; margin: 3em auto; }
+hr { border: 0.125em solid #63666A; margin: 3em auto; }
 
 small, aside.disclaimer ul, aside p { font-size: smaller; opacity: 0.8; }
 
-blockquote { border-left: 0.33em solid #dedede; margin-left: 0.33em; opacity: 0.8; padding-left: 0.5em; font-style: italic; }
+blockquote { border-left: 0.33em solid var(--secondary-accent-color); margin-left: 0.33em; padding-left: 0.5em; font-style: italic; }
 
 aside blockquote p { border: none; font-size: 1.75em; font-style: italic; margin-left: 0.75em; opacity: 1; padding-left: 0; }
 
@@ -81,11 +81,11 @@ nav a:hover, nav a:focus { background-color: var(--background-color); color: var
 nav a.current, nav a:active { background-color: var(--background-color); color: var(--accent-color); }
 nav .logo { border: none; max-height: 2em; max-width: 2em; display: block; margin: -0.4em -0.25em -0.6em; }
 
-.highlighter-rouge, .highlight, pre, code { background-color: #FEC3A9; color: #587189; border-radius: 5px; }
+.highlighter-rouge, .highlight, pre, code { background-color: var(--secondary-accent-color); border-radius: 5px; font-family: "Open Sans"; }
 
-pre code { overflow: auto; padding: 0.5em; display: block; color: inherit; }
+pre code { max-width: 100%; font-size: 90%; line-height: 1.5em; overflow: auto; padding: 0.5em; display: block; color: inherit; }
 
-.highlight { font-size: 90%; }
+.highlight { display: inline-block; margin: auto; text-align: left; }
 
 kbd { font-size: 90%; border-radius: 5px; padding: 1px 3px; border: 1px solid black; font-family: "Open Sans"; }
 

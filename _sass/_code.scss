@@ -1,0 +1,33 @@
+.highlighter-rouge,
+.highlight,
+pre,
+code {
+ background-color: var(--secondary-accent-color);
+ border-radius: 5px;
+ font-family: "Open Sans";
+}
+
+pre code {
+ max-width:100%;
+ font-size: 90%;
+ line-height: 1.5em;
+ overflow:auto;
+ padding:0.5em;
+ display:block;
+ color:inherit;
+}
+
+.highlight {
+  display: inline-block;
+  margin: auto;
+  text-align: left;
+}
+
+
+kbd {
+ font-size: 90%;
+ border-radius: 5px;
+ padding: 1px 3px;
+ border: 1px solid black;
+ font-family: "Open Sans";
+}

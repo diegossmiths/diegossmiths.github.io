@@ -116,7 +116,7 @@ ol {
 }
 
 hr {
-  border: 0.125em solid #dedede;
+  border: 0.125em solid #63666A;
   margin: 3em auto;
 }
 
@@ -127,9 +127,9 @@ aside p {
 }
 
 blockquote {
-  border-left: 0.33em solid #dedede;
+  border-left: 0.33em solid var(--secondary-accent-color);
   margin-left: 0.33em;
-  opacity: 0.8;
+//  opacity: 0.8;
   padding-left: 0.5em;
   font-style: italic;
 }
