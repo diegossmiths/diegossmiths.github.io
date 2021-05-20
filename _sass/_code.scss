@@ -1,32 +1,36 @@
+// Configura as classes .highlighter-rouge e .highlight
+// Configura as tags pre e code
 .highlighter-rouge,
 .highlight,
 pre,
 code {
- background-color: var(--secondary-accent-color);
- border-radius: 5px;
- font-family: "Open Sans";
+ background-color: var(--secondary-accent-color); // cor de fundo
+ border-radius: 5px; // arredonda a borda
+ font-family: "Open Sans"; // define a fonte utilizada
 }
 
+// Configura as tags pre e code
 pre code {
-// max-width:100%;
- font-size: 90%;
- line-height: 1.5em;
- overflow:auto;
- padding:0.5em;
- display:block;
- color:inherit;
+ font-size: 90%; // diminuiu para 90% o tamanho da fonte em relação as outras fontes do HTML
+ line-height: 1.5em; // altura da linha
+ overflow: auto; // define que a caixa de código possua barras de rolagem apenas se for necessário
+ padding: 0.5em; // define a distância entre o conteúdo e a borda
+ display: block; // define que o conteúdo é mostrado dentro de uma caixa
+ color: inherit; // a cor é herdada
 }
 
+// Configura a classe .highlight
 .highlight {
-  margin: auto;
-  text-align: left;
+  margin: auto; // margen é calculada automaticamente centralizando o elemento dentro do conteúdo
+  text-align: left; // alinha o texto na esquerda
 }
 
 
+// COnfigura a tag kbd (usada para indicação de teclas de teclado, botões, etc)
 kbd {
- font-size: 90%;
- border-radius: 5px;
- padding: 1px 3px;
- border: 1px solid black;
- font-family: "Open Sans";
+ font-size: 90%; // diminuiu para 90% o tamanho da fonte em relação as outras fontes do HTML
+ border-radius: 5px; // arredonda a borda
+ padding: 0px 3px 0px; // define a distância entre o conteúdo e a borda, sendo a parte superior, os lados e a parte inferior
+ border: 1px solid var(--content-color); // define a borda, sendo a espessura, o tipo e a cor
+ font-family: "Open Sans"; // define a fonte utilizada
 }

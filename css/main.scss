@@ -3,14 +3,13 @@
 ---
 @charset "utf-8";
 
-@import "colors";
-@import "typography";
-@import "figures";
+@import "cores";
+@import "tipografia";
+@import "code";
 
 @import "footer";
 @import "grid";
 @import "nav";
-@import "code";
 
 :root {
   background: var(--background-color);
@@ -129,13 +128,6 @@ table {
 .summary {
   float: left;
   margin: 1.1em 0;
-}
-
-.card {
-  background-color: var(--faint);
-  border: 1px solid var(--faint);
-  border-radius: 0.4em;
-  box-shadow: 0 0.125em 1em rgba(0, 0, 0, 0.125);
 }
 
 .qr {

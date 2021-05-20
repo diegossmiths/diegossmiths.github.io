@@ -13,7 +13,7 @@ permalink: /creditos/
 
 ## Tecnologias utilizadas
 
-* Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador flexível de _sites_ estáticos, de código aberto e distribuído sob licença [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+* Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador de _sites_ estáticos que processa Markdown, de código aberto e distribuído sob licença [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE).
 
 * A fonte tipográfica utilizada é a Open Sans, desenhada por [Steve Matteson](https://twitter.com/SteveMatteson1), _designer_ de fontes na [Monotype Imaging](https://www.monotype.com/studio/) e encomendada pelo Google em 2010. Ela é distribuída sob [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 

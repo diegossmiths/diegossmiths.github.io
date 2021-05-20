@@ -30,7 +30,7 @@ p, li { line-height: 2em; }
 
 p, ul, ol { margin: 0.5em auto; }
 
-hr { border: 0.125em solid #63666A; margin: 3em auto; }
+hr { height: 1px; margin: 3em auto; border-width: 0; background-color: var(--content-color); }
 
 small, aside.disclaimer ul, aside p { font-size: smaller; opacity: 0.8; }
 
@@ -53,11 +53,15 @@ aside.disclaimer ul { list-style: none; margin-left: 0; padding-left: 0; }
 aside.disclaimer ul li { padding-left: 1em; text-indent: -1em; }
 aside.disclaimer ul li:before { content: "•"; font-size: 1.25em; padding-right: 0.25em; }
 
-figure { margin: 2em auto; }
-figure > p { margin: 0; }
-figure figcaption { margin: 1em auto 2em; font-size: 0.85em; opacity: 0.75; text-align: center; }
+.highlighter-rouge, .highlight, pre, code { background-color: var(--secondary-accent-color); border-radius: 5px; font-family: "Open Sans"; }
 
-footer { border-top: 1px solid #999; background-color: var(--background-color); color: var(--primary-color); display: flex; line-height: 1.5em; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
+pre code { font-size: 90%; line-height: 1.5em; overflow: auto; padding: 0.5em; display: block; color: inherit; }
+
+.highlight { margin: auto; text-align: left; }
+
+kbd { font-size: 90%; border-radius: 5px; padding: 0px 3px 0px; border: 1px solid var(--content-color); font-family: "Open Sans"; }
+
+footer { border-top: 1px solid var(--content-color); background-color: var(--background-color); color: var(--primary-color); display: flex; line-height: 1.5em; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
 @media print { footer { display: none; } }
 footer ul.social { display: inline; list-style: none; margin: 0; padding: 0; }
 footer ul.social li { display: inline; list-style: none; margin: 0; padding: 0; }
@@ -80,14 +84,6 @@ nav a { color: inherit; display: flex; flex-flow: row nowrap; font-size: 1rem; f
 nav a:hover, nav a:focus { background-color: var(--background-color); color: var(--primary-color); border: none; color: inherit; opacity: 0.5; outline: none; text-decoration: none; }
 nav a.current, nav a:active { background-color: var(--background-color); color: var(--accent-color); }
 nav .logo { border: none; max-height: 2em; max-width: 2em; display: block; margin: -0.4em -0.25em -0.6em; }
-
-.highlighter-rouge, .highlight, pre, code { background-color: var(--secondary-accent-color); border-radius: 5px; font-family: "Open Sans"; }
-
-pre code { max-width: 100%; font-size: 90%; line-height: 1.5em; overflow: auto; padding: 0.5em; display: block; color: inherit; }
-
-.highlight { display: inline-block; margin: auto; text-align: left; }
-
-kbd { font-size: 90%; border-radius: 5px; padding: 1px 3px; border: 1px solid black; font-family: "Open Sans"; }
 
 :root { background: var(--background-color); }
 
@@ -122,7 +118,5 @@ table img { margin: 0 auto; }
 table + table { margin-top: 1em; }
 
 .summary { float: left; margin: 1.1em 0; }
-
-.card { background-color: var(--faint); border: 1px solid var(--faint); border-radius: 0.4em; box-shadow: 0 0.125em 1em rgba(0, 0, 0, 0.125); }
 
 .qr { max-width: 256px; }
