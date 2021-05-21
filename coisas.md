@@ -29,7 +29,6 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 - Tupia de coluna: Makita RP2301FC
 - Tupia laminadora: Makita RT0700C
 
-
 ## Computador:
 
 - Toshiba Satellite U405-S2830. É com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém. A configuração dele é:

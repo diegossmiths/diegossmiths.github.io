@@ -72,9 +72,9 @@ footer p a { color: inherit; }
 footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75; outline: none; text-decoration: none; }
 
 section.grid { margin: 0 auto; max-width: 32em; }
-section.grid > * { margin: 1em; }
+section.grid > * { margin: 1em; padding-bottom: 1em; }
 
-.grid.main { flex: 1 0 auto; max-width: 100%; width: 50em; }
+.grid.main { flex: 1 0 auto; width: 50em; max-width: 100%; }
 @media print { .grid.main { max-width: 90%; } }
 
 nav { background-color: var(--background-color); color: var(--primary-color); display: flex; flex-flow: row nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 1; border-bottom: 1px solid #999; }
@@ -116,7 +116,3 @@ nav .avatar { float: left; }
 table { width: 100%; text-align: center; }
 table img { margin: 0 auto; }
 table + table { margin-top: 1em; }
-
-.summary { float: left; margin: 1.1em 0; }
-
-.qr { max-width: 256px; }

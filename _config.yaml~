@@ -29,7 +29,7 @@ theme-color: '#008b8b'
 #theme: minima
 languages: pt_BR
 lang: pt
-locale: pt_BR
+locale: tp_BR
 permalink: /blog/:title/
 markdown: kramdown
 # paginate: 10
