@@ -1,81 +1,65 @@
+// define as propriedades do documento
 html {
-  font-family: "Open Sans", Helvetica, sans-serif;
-  font-size: 4vw;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
+  font-family: "Open Sans", Helvetica, sans-serif; // define as fontes usadas, em ordem de preferência
+  font-size: 4vw; // define o tamanho da fonte em vw, isto é, baseado na largura da viewport
+  font-weight: 400; // define o peso da fonte padrão
+  text-rendering: optimizeLegibility; // define o tipo de renderização da fonte
 
+// define o tamanho da fonte baseado na largura da viewport, neste caso de 480p até 799px
   @media (min-width: 480px) {
-    font-size: 13px;
+    font-size: 13px; // define o tamanho da fonte em pixels
   }
 
+// define o tamanho da fonte baseado na largura da viewport, neste caso viewports maiores que 800px
   @media (min-width: 800px) {
-    font-size: 15px;
+    font-size: 15px; // define o tamanho da fonte em pixels
   }
 
+// define o tamanho de fonte para impressão
   @media print {
     font-size: 12px;
   }
 }
 
+// define as configurações dos links
 a {
-	color: var(--primary-color);
-    text-decoration: none;
-    transition: opacity 250ms ease;
+	color: var(--primary-color); // cor do links
+    text-decoration: none; // não sublinha o item
+    transition: opacity 250ms ease; // define a configurações da transição
 
+// define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
 	&:hover, &:focus
 		{
-		text-decoration:none;
-		opacity:0.5;
+		text-decoration:none; // não sublinha o item
+		opacity:0.5; // diminui a opacidade pela metade
         }
 }
 
 
-
+// define o título h1
 h1 {
-  color: var(--accent-color);
-  font-family: "Open Sans", Helvetica, sans-serif;
-  font-size: 2rem;
-  font-weight: 700;
-  line-height: 0.9em;
-  margin: 0 2 0 2em;
+  color: var(--accent-color); // cor do título
+  font-size: 2rem; // tamanho da fonte relativo ao root
+  font-weight: 700; // peso da fonte
 
   @media (min-width: 505px) {
     max-width: initial;
   }
 }
 
+// define o título h2
 h2 {
-  clear: both;
   font-size: 1.75rem;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: -0.05em;
-  margin: 0;
-  margin-top: 1em;
-
-  strong,
-  em {
-    display: inline-block;
-    font-size: 0.75em;
-    font-style: normal;
-    font-weight: normal;
-    margin-left: 0.25em;
-    opacity: 0.8;
-  }
 }
 
 h3 {
   font-size: 1.5rem;
-  margin-bottom: 0;
+  font-weight: 700;
+  letter-spacing: -0.05em;
   margin-top: 1.25em;
-
-  em {
-    display: inline-block;
-    float: right;
-    font-size: 0.67em;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 2em;
-  }
+  margin-bottom: 0;
 
   strong {
     display: inline-block;
@@ -84,24 +68,30 @@ h3 {
     margin-left: 0.25em;
     opacity: 0.8;
   }
+
 }
 
 h4 {
   font-size: 1.25rem;
-  font-weight: 600;
-  margin-bottom: 0.25em;
+  font-weight: 700;
   margin-top: 0;
+  margin-bottom: 0.25em;
+  letter-spacing: -0.05em;
   opacity: 0.8;
 }
 
 h5 {
   font-size: 1rem;
-  margin-bottom: 0;
-  margin-top: 1em;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  opacity: 0.7;
 }
 
 h6 {
-  font-size: 0.75rem;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  opacity: 0.6;
 }
 
 p,
@@ -157,16 +147,16 @@ article time,
   cursor: default;
 }
 
-.tempo-leitura::before {
-  content: "| ";
-}
-
 .subtitle {
   font-size: 1.33em;
   margin: 0 auto 0.25em;
 }
 
-aside.updated,
+.tempo-leitura::before {
+  content: "| ";
+}
+
+// define as configurações da ética do blog e isenção de responsabilidades
 aside.disclaimer {
   h1,
   h2,
@@ -175,13 +165,12 @@ aside.disclaimer {
   h5,
   h6 {
     color: var(--primary-color);
-    font-size: 1.25em;
-    letter-spacing: normal;
+    font-size: 1.125em;
+    letter-spacing: -0.025em;
     margin-bottom: 1em;
+    opacity: 1;
   }
-}
 
-aside.disclaimer {
   margin: 1em;
   ul {
     @extend small;
@@ -192,7 +181,6 @@ aside.disclaimer {
 
     li {
       padding-left: 1em;
-      text-indent: -1em;
 
       &:before {
         content: "•";

@@ -1,6 +1,7 @@
+// definições do menu
 nav {
     @media print {
-        display: none;
+        display: none; // impede que o cabeçalho seja impresso
     }
 
     background-color: var(--background-color); // define a cor de fundo do menu
@@ -8,28 +9,26 @@ nav {
     display: flex; // chama a propriedade flexbox
     flex-flow: row nowrap; // os itens do menu são organizados em forma de linha, da esquerda para direita, sem quebra
     overflow-x: auto; // se necessário, devido ao tamanho da tela, permite deslizar o menu para esquerda ou direita
-    position: sticky; // o menu fica estático na parte superior da página. Para deixá-lo acompanhando a rolagem, alterar para "sticky"
+    position: sticky; // o menu fica estático na parte superior da página.
     top: 0; // faz o menu iniciar no ponto 0 da janela do navegador
     z-index: 1; // coloca o menu sobre todos os itens da tela
-//	justify-content: center;
     border-bottom: 1px solid #999;
 
-
+// define a classe box para os itens do menu
     .box {
-    display: flex;
-    flex: 1 0 auto;
-    max-width: 50em;
-    margin: 0 auto;
+    display: flex; // chama a propriedade flexbox
+    flex: 1 0 auto; // define que os itens podem se expandir mas não podem se contrair para caber na página, e a largura é automática
+    max-width: 50em; // define a largura máxima
+    margin: 0 auto; // define as margens
     }
 
-
-
+// define as configurações dos links do menu
     a {
         color: inherit; // define a cor do item (link), neste caso herdada de nav
         display: flex; // chama a propriedade flexbox
         flex-flow: row nowrap; // os itens do menu são organizados em forma de linha, da esquerda para direita, sem quebra
         font-size: 1rem; // define o tamanho da fonte em 1 rem
-        font-weight: 300; // peso da fonte, neste caso definida em 900
+        font-weight: 300; // peso da fonte, neste caso definida em 300
         opacity: 1; // opacidade em 100%
         padding: 0.75em; // gera espaço ao redor dos itens do menu
 
@@ -37,7 +36,7 @@ nav {
             &:focus {
                 background-color: var(--background-color); // define a cor de fundo quando um item estiver em foco ou quando o mouse estiver por cima
                 color: var(--primary-color); // define a cor de fundo quando um item estiver em foco ou quando o mouse estiver por cima
-                border: none; // sem bordas
+                border: none; // define as bordas
                 color: inherit; // define a cor do item, neste caso herdada
                 opacity: 0.5; // define a opacidade em 75% quando um item estiver em foco ou quando o mouse estiver por cima
                 outline: none; // retira o contorno do item ao selecionar um link
@@ -51,12 +50,13 @@ nav {
             }
     }
 
+// Propriedades da logo
     .logo {
-      border: none;
-      max-height: 2em;
-      max-width: 2em;
-      display: block;
-      margin: -0.4em -0.25em -0.6em;
+      border: none; // define as bordas
+      max-height: 2em; // define a altura máxima do item
+      max-width: 2em; // define a largura máxima do item
+      display: block; // define que o conteúdo é mostrado dentro de uma caixa
+      margin: -0.4em -0.25em -0.6em; // define as margens do item
       }
 
 }

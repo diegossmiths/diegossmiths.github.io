@@ -2,9 +2,10 @@ section.grid {
   margin: 0 auto;
   max-width: 32em;
 
+// define o corpo da página
   > * {
-    margin: 1em;
-    padding-bottom: 1em;
+//    margin: 1em;
+    padding: 0.5em 0 2em;
   }
 }
 
