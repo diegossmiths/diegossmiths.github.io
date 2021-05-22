@@ -69,7 +69,7 @@ footer p a { color: inherit; }
 footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75; outline: none; text-decoration: none; }
 
 section.grid { margin: 0 auto; max-width: 32em; }
-section.grid > * { padding: 0.5em 0 2em; }
+section.grid > * { padding: 0 1em 2em; }
 
 .grid.main { flex: 1 0 auto; width: 50em; max-width: 100%; }
 @media print { .grid.main { max-width: 90%; } }

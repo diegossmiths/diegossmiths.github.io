@@ -4,8 +4,8 @@ section.grid {
 
 // define o corpo da página
   > * {
-//    margin: 0 1em 0;
-    padding: 0 1em 2em;
+    margin: 1em;
+    padding: 0.5em 0 2em;
   }
 }
 
