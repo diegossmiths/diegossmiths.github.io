@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h1>{{page.title}}</h1>
-
 <article>
 
-  {% if page.description %}<p class="subtitle">{{ page.description }}</p>{% endif %}
+<h1>{{page.title}}</h1>
+
+  <p class="descricao">{{ page.description }}</p>
 
   {% if page.updated %}
     <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Publicado em {{ page.date | date: "%F" }}, mas atualizado em {{ page.updated | date: "%F" }}</time>

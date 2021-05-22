@@ -14,6 +14,8 @@ Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui 
 
 ---
 
+## Postagens:
+
 {% assign posts = site.posts | sort: "date" | reverse %}
 
 {% for post in posts %}
@@ -22,12 +24,9 @@ Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui 
 
 ### [{{ post.title }}]({{ post.url }}) **{{ date | date: '%F' }}**
 
-{% if post.description %}
 #### {{ post.description }}
-{% endif %}
 
-
- [Leia mais]({{ post.url }}){: class="leia-mais"}
+[Leia mais]({{ post.url }}){: class="leia-mais"}
 
   {% endunless %}
 {% endfor %}

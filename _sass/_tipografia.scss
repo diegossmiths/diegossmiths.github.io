@@ -61,21 +61,20 @@ h3 {
   margin-top: 1.25em;
   margin-bottom: 0;
 
+// tag strong usada para configurar a data de cada postagem na página de índice do blog
   strong {
     display: inline-block;
     font-size: 0.75em;
-    font-weight: normal;
+    font-weight: 400;
     margin-left: 0.25em;
     opacity: 0.8;
   }
-
 }
 
 h4 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin-top: 0;
-  margin-bottom: 0.25em;
+  margin: 0;
   letter-spacing: -0.05em;
   opacity: 0.8;
 }
@@ -141,15 +140,17 @@ article p,
   margin: 1.25em auto;
 }
 
-article time,
-.tempo-leitura {
-  opacity: 0.75;
-  cursor: default;
+// define as configurações da descrição de cada postagem
+.descricao {
+  font-size: 1.25em;
+  margin: 0 auto 0.25em;
 }
 
-.subtitle {
-  font-size: 1.33em;
-  margin: 0 auto 0.25em;
+article time,
+.tempo-leitura {
+  font-size: 0.8em;
+  opacity: 0.75;
+  cursor: default;
 }
 
 .tempo-leitura::before {
