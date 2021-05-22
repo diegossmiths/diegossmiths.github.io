@@ -29,7 +29,6 @@ Mas, sem dúvida, o que mais me fascina é a metamorfose pela qual todos passam.
 Mas por qual motivo uma libélula? Bem, entre o meio de 2019 e o início de 2020 eu li a saga Harry Potter®. Para quem não sabe, na saga existe o *patronus*, que é um feitiço de defesa muito poderoso que pode ser executado apenas por bruxos com habilidades avançadas. Neste feitiço, o mago conjura um patrono, isto é, um ser mágico feito somente de energias positivas e que, no final, toma a forma de um animal prateado, único de cada bruxo. É a única defesa contra os dementadores, os seres mais negativos que existem.
 
 
-A libélula em si possui uma metamorfose incompleta, isto é, ela não passa pelas fazes tradicionais da
+A libélula em si possui uma metamorfose incompleta, isto é, ela não passa pelas fazes tradicionais...
 
-Metamorfose incompleta
-
+...
