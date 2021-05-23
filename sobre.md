@@ -15,20 +15,16 @@ Bem, o nome... talvez uma das coisas mais difíceis seja dar um nome às coisas.
 
 Ao começar a fazer este _site/blog_ pensei em seguir com o nome, mas conversando com uma grande amiga, ela sugeriu traduzir o nome para o português. Segundo ela, eu não falo francês e nunca fui para a França, ficaria muito impessoal, e traduzir para nossa língua deixaria as coisas "mais minhas". De início resisti a mudança, afinal eu gosto do idioma francês e de como o nome soa, mas uma semana depois aceitei e vi que realmente era o melhor a ser feito. Temos então "Uma viagem pelo meu jardim".
 
-## Por que a logo de uma libélula? *Teste* sdasds
+## Por que a logo de uma libélula?
 
-Sempre fui apaixonado por insetos de forma geral, principalmente formigas, besouros, borboletas, libélulas, abelhas... As vezes ficava horas e mais horas apenas olhando as formigas trabalharem.
-Não gostava de matá-los, preferia ve-los vivos, andando e voando.
+Sempre fui apaixonado por insetos de uma forma geral, principalmente formigas, besouros, borboletas, libélulas, abelhas... Na verdade acho que todos, tirando os malditos mosquitos. Lembro de muitas vezes ficar horas e mais horas apenas olhando as formigas trabalharem. Lembro de sempre que via (e quando ainda vejo) algum besouro de patas para cima ir lá desvirá-lo. Lembro de brigar com meu primo para impedi-lo de matar algum deles.
 
-Na verdade acho que todos, tirando os malditos mosquitos. São animais dotados de uma força física fora do comum,  que eles possuem,
+Sempre gostei de observá-los na natureza, nunca tive vontade de ter uma caixa com vários animais espetados por um alfinete. A beleza está justamente no fato de vê-los desempenhar as funções para as quais eles existem. A perfeição como fazem as coisas, a maneira como agem, a força que possuem... tudo isso faz destes pequenos animais seres incríveis. Apaixonantes.
 
+Mas, sem dúvida, o que mais me fascina é a metamorfose pela qual todos passam. Todo o processo é muito claro, é o novo animal que cresce, ganha força e já não cabe mais dentro da "antiga armadura" e, de forma simples e literal, a abandona para ser melhor. Cada transformação dentro deste ciclo faz com que eles evoluam, deixem de ser simples seres rastejantes que eram logo no início da vida para se tornarem lindos animais que voam.
 
+Mas por qual motivo uma libélula? Bem, entre o meio de 2019 e o início de 2020 eu li a saga Harry Potter®. Para quem não sabe, na saga existe um feitiço de defesa chamado *patronus*, que é muito poderoso e pode ser executado apenas por bruxos com habilidades avançadas. Neste feitiço, o mago conjura um patrono, isto é, um ser mágico feito somente de energias positivas e que, no final, toma a forma de um animal prateado, único de cada bruxo. É a única defesa contra os dementadores, os seres mais negativos que existem. Existe um site chamado [Wizarding World](https://www.wizardingworld.com/). É o site oficial da saga Harry Potter. Lá existem vários testes e um deles é para saber qual é o nosso patrono. Logo que terminei de ler a saga, entrei no site e descobri que o meu patrono é uma libélula. No início fiquei meio sem jeito, afinal eu esperava algo maior, nem que fosse um simples pombo.
 
-Mas, sem dúvida, o que mais me fascina é a metamorfose pela qual todos passam. Todo o processo é muito claro, é o novo animal que ganha força e já não cabe mais dentro da "antiga armadura" e, de forma simples e literal, a abandona. Cada transformação dentro deste ciclo faz com que eles evoluam, deixem de ser simples seres rastejantes para se tornarem lindos e fortes animais que voam.
-
-Mas por qual motivo uma libélula? Bem, entre o meio de 2019 e o início de 2020 eu li a saga Harry Potter®. Para quem não sabe, na saga existe o *patronus*, que é um feitiço de defesa muito poderoso que pode ser executado apenas por bruxos com habilidades avançadas. Neste feitiço, o mago conjura um patrono, isto é, um ser mágico feito somente de energias positivas e que, no final, toma a forma de um animal prateado, único de cada bruxo. É a única defesa contra os dementadores, os seres mais negativos que existem.
-
-
-A libélula em si possui uma metamorfose incompleta, isto é, ela não passa pelas fazes tradicionais...
+Mas foi pensando melhor que vi que não poderia ter sido mais perfeito. Libélulas são insetos, e como já disse, amo insetos. Além disso trazem muitos benefícios à nós, humanos, afinal, elas são devoradoras de moscas e mosquitos. Possuem uma taxa média de captura de presas de 95%, algo muitíssimo alto. Suas técnicas de voo são impecáveis. Suas 4 asas possuem movimentos distintos e por isso conseguem parar no ar, voar para frente, para os lados, para trás, para cima, para baixo, aceleram a velocidade final quase que instantaneamente e param em uma fração de segundo. Seus olhos, compostos por cerca de 24 mil "lentes", lhe permitem ter um campo de visão de 360º. Sem contar que são muito bonitas e graciosas.
 
 ...
