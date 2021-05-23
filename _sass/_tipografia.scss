@@ -49,66 +49,73 @@ h1 {
 
 // define o título h2
 h2 {
-  font-size: 1.75rem;
-  font-weight: 700;
-  letter-spacing: -0.05em;
+  font-size: 1.75rem; // tamanho da fonte
+  font-weight: 700; // peso da fonte
+  letter-spacing: -0.05em; // espaçamento entre letras
 }
 
+// define o título h3
 h3 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  letter-spacing: -0.05em;
-  margin-top: 1.25em;
-  margin-bottom: 0;
+  font-size: 1.5rem; // tamanho da fonte
+  font-weight: 700; // peso da fonte
+  letter-spacing: -0.05em; // espaçamento entre letras
+  margin-top: 1.25em; // margem do topo
+  margin-bottom: 0; // margem de baixo
 
 // tag strong usada para configurar a data de cada postagem na página de índice do blog
   strong {
-    display: inline-block;
-    font-size: 0.75em;
-    font-weight: 400;
-    margin-left: 0.25em;
-    opacity: 0.8;
+    display: inline-block; // define o tipo de formatação
+    font-size: 0.75em; // tamanho da fonte
+    font-weight: 400; // peso da fonte
+    margin-left: 0.25em; // margem esquerda
+    opacity: 0.8; // opacidade
   }
 }
 
+// define o título h4
 h4 {
-  font-size: 1.25rem;
-  font-weight: 700;
-  margin: 0;
-  letter-spacing: -0.05em;
-  opacity: 0.8;
+  font-size: 1.25rem; // tamanho da fonte
+  font-weight: 700; // peso da fonte
+  margin: 0; // margens
+  letter-spacing: -0.05em; // espaçamento entre letras
+  opacity: 0.8; // opacidade
 }
 
+// define o título h5
 h5 {
-  font-size: 1rem;
-  font-weight: 700;
-  letter-spacing: -0.05em;
-  opacity: 0.7;
+  font-size: 1rem; // tamanho da fonte
+  font-weight: 700; // peso da fonte
+  letter-spacing: -0.05em; // espaçamento entre letras
+  opacity: 0.7; // opacidade
 }
 
+// define o título h6
 h6 {
-  font-size: 1rem;
-  font-weight: 700;
-  letter-spacing: -0.05em;
-  opacity: 0.6;
+  font-size: 1rem; // tamanho da fonte
+  font-weight: 700; // peso da fonte
+  letter-spacing: -0.05em; // espaçamento entre letras
+  opacity: 0.6; // opacidade
 }
 
+// define parágrafos e itens de uma lista
 p,
 li {
-  line-height: 2em;
+  line-height: 2em; // altura da linha
 }
 
+// define parágrafos, listas ordenadas e listas não ordenadas
 p,
 ul,
 ol {
-  margin: 0.5em auto;
+  margin: 0.5em auto; // margens
 }
 
+// define as características de uma linha separadora horizontal
 hr {
-  height: 1px;
-  margin: 3em auto;
-  border-width: 0;
-  background-color: var(--content-color);
+  height: 1px; // altura
+  margin: 3em auto; // margem
+  border-width: 0; // bordas
+  background-color: var(--content-color); // cor
 }
 
 small,
@@ -117,13 +124,14 @@ aside p {
   opacity: 0.8;
 }
 
+// define o bloco de citação
 blockquote {
-  border-left: 0.33em solid var(--secondary-accent-color);
-  margin-left: 0.33em;
-//  opacity: 0.8;
-  padding-left: 0.5em;
-  font-style: italic;
+  border-left: 0.33em solid var(--secondary-accent-color); // borda esquerda
+  margin-left: 0.33em; // margem esquerda
+  padding-left: 0.5em; // preenchimento esquerdo
+  font-style: italic; // estilo da fonte
 }
+
 
 aside blockquote p {
   border: none;
@@ -140,7 +148,7 @@ article p,
   margin: 1.25em auto;
 }
 
-// define as configurações da descrição de cada postagem
+// define as configurações da descrição de cada postagem (configurado no front matter como "description")
 .descricao {
   font-size: 1.25em;
   margin: 0 auto 0.25em;
