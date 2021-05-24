@@ -52,6 +52,7 @@ h2 {
   font-size: 1.75rem; // tamanho da fonte
   font-weight: 700; // peso da fonte
   letter-spacing: -0.05em; // espaçamento entre letras
+  margin: 1.25em auto 0;
 }
 
 // define o título h3
@@ -145,7 +146,7 @@ aside blockquote p {
 article p,
 .article p,
 .referrals p {
-  margin: 1.25em auto;
+  margin: 0.75em auto;
 }
 
 // define as configurações da descrição de cada postagem (configurado no front matter como "description")

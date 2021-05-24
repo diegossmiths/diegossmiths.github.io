@@ -13,7 +13,7 @@ a:hover, a:focus { text-decoration: none; opacity: 0.5; }
 h1 { color: var(--accent-color); font-size: 2rem; font-weight: 700; }
 @media (min-width: 505px) { h1 { max-width: initial; } }
 
-h2 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.05em; }
+h2 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.05em; margin: 1.25em auto 0; }
 
 h3 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.05em; margin-top: 1.25em; margin-bottom: 0; }
 h3 strong { display: inline-block; font-size: 0.75em; font-weight: 400; margin-left: 0.25em; opacity: 0.8; }
@@ -36,7 +36,7 @@ blockquote { border-left: 0.33em solid var(--secondary-accent-color); margin-lef
 
 aside blockquote p { border: none; font-size: 1.75em; font-style: italic; margin-left: 0.75em; opacity: 1; padding-left: 0; }
 
-article p, .article p, .referrals p { margin: 1.25em auto; }
+article p, .article p, .referrals p { margin: 0.75em auto; }
 
 .descricao { font-size: 1.25em; margin: 0 auto 0.25em; }
 
