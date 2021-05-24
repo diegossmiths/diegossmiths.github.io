@@ -2,32 +2,32 @@
     <ul class="social">
         <li class="gitlab">
             <a href="https://github.com/{{ site.gitlab_username }}" title="GitHub">
-                <i class="fab fa-github"></i>
+                {% include icones/github-brands.svg %}
             </a>
         </li>
 	<li class="strava">
 			<a href="https://www.strava.com/athletes/{{ site.strava_username }}" title="Strava">
-                <i class="fab fa-strava"></i>
+                {% include icones/strava-brands.svg %}
             </a>
         </li>
 		<li class="lastfm">
 			<a href="https://www.last.fm/pt/user/{{ site.lastfm_username }}" title="LastFM">
-                <i class="fab fa-lastfm"></i>
+                {% include icones/lastfm-brands.svg %}
             </a>
         </li>
 	<li class="spotify">
 			<a href="https://open.spotify.com/user/{{ site.spotify_username }}" title="Spotify">
-                <i class="fab fa-spotify"></i>
+                {% include icones/spotify-brands.svg %}
             </a>
         </li>
         <li class="instagram">
             <a href="https://instagram.com/{{ site.instagram_username }}" title="Instagram">
-                <i class="fab fa-instagram"></i>
+                {% include icones/instagram-brands.svg %}
             </a>
         </li>
 	    <li class="email">
             <a href="mailto:{{ site.email_address }}" title="Email">
-                <i class="fas fa-envelope"></i>
+                {% include icones/envelope-solid.svg %}
             </a>
         </li>
     </ul>

@@ -67,6 +67,7 @@ footer ul.social a:hover, footer ul.social a:focus { background-color: var(--bac
 footer p { color: var(--primary-color); font-size: 0.75rem; line-height: 1em; }
 footer p a { color: inherit; }
 footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75; outline: none; text-decoration: none; }
+footer .social svg { fill: inherit; height: 1em; margin-right: 0.33em; transform: translateY(0.125em); vertical-align: middle; width: 1em; }
 
 section.grid { margin: 0 auto; max-width: 32em; }
 section.grid > * { padding: 0 1em 2em; }

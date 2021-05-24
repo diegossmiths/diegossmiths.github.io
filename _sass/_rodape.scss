@@ -75,6 +75,16 @@ footer {
 	}
     }
 
+  .social {
+    svg {
+      fill: inherit;
+      height: 1em;
+      margin-right: 0.33em;
+      transform: translateY(0.125em);
+      vertical-align: middle;
+      width: 1em;
+    }
+  }
 
 }
 
