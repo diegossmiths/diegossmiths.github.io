@@ -32,8 +32,9 @@ bundle install
 
 Compile e crie o servidor localmente com o comando bash:
 ```bash
-bundle exec jekyll serve --host localhost
+bundle exec jekyll serve --drafts --watch --host localhost
 ```
+Para informações sobre as tags (--drafts, --host, --watch, etc), visite a [página de ajuda do Jekyll](https://jekyllrb.com/docs/configuration/options/#build-command-options).
 
 Com este comando o site estará disponível em http://localhost:4000/ na sua máquina e poderá ser acessado por outras máquinas usando o seu endereço de IP na rede local através da porta 4000. Isso facilita o teste em outras máquinas e em sistemas móveis.
 
