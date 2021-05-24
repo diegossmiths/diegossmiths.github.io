@@ -21,6 +21,6 @@ permalink: /creditos/
 
 * As imagens vetoriais estão no formato [SVG](https://www.w3.org/Graphics/SVG/). O formato foi desenvolvido em 2001 por um grupo de trabalho dentro da W3C, a entidade que controla os padrões a serem seguidos pela _web_. Assim como o HTML e o CSS, é totalmente aberto.
 
-* Os ícones do Github, Strava, Lastfm, Spotify, Instagram, e-mail e RSS são fornecidos gratuitamente pelo serviço [Font Awesome](https://fontawesome.com/), da Fonticons, Inc. Todos os ícones são marcas registradas de suas respectivas empresas.
+* Os ícones do Github, Strava, Lastfm, Pocket, Instagram, e-mail e RSS são fornecidos gratuitamente pelo serviço [Font Awesome](https://fontawesome.com/), da Fonticons, Inc. A licença pode ser vista [aqui](https://fontawesome.com/license). Todos os ícones são marcas registradas de suas respectivas empresas.
 
 
