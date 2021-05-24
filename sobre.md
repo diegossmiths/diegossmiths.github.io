@@ -7,9 +7,9 @@ keywords: blog, motivo, escrever, diego, schild, smiths
 
 # O nome. A logo. O conteúdo. Os códigos.
 
-O nome do site, apesar de não ser registrado como marca, pertence à mim, assim como a Libélula, minha logo. O conteúdo é de minah propriedade intelectual. Os códigos HTML e CSS são abertos e licenciados pela GPL v3.
+O nome do site, apesar de não ser registrado como marca, pertence à mim, assim como a Libélula, minha logo. O conteúdo é de minah propriedade intelectual. Os códigos HTML e CSS são abertos e licenciados pela GPLv3.
 
-## Por que o nome "Uma viagem ao meu jardim?"
+## Por que o nome "Uma viagem pelo meu jardim?"
 
 Bem, o nome... talvez uma das coisas mais difíceis seja dar um nome às coisas. Pessoalmente sou uma pessoa que **tudo** o que faço tem que ter um significado. Em 2015, quando criei o meu diário pessoal ele passou um bom tempo sem ter um nome propriamente dito, era apenas diário. Na época eu ainda colecionava perfumes (pois é...) e se tem uma marca na qual eu admiro muito, ao menos na parte de perfumaria, de linguagem visual e um pouco de filosofia, é a Hermès®. A Hermès® é uma marca francesa de moda de alto luxo. Dentre todo seu acervo de perfumes tem um que eu amo, que é o "Voyage d'Hermès®". Existe também uma coleção chamada "Jardin®" que conta atualmente com 6 perfumes diferentes. A ideia surgiu em unir o "voyage" com "jardin" e fazer uma analogia do jardim com minha mente. Surgiu daí "Un voyage dans mon jardin", ou "uma viagem pela minha mente".
 
