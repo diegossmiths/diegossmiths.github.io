@@ -9,12 +9,10 @@ permalink: blog/
 
 # Blog
 
-Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. É aqui onde eu abro meu pequeno jardim e exponho à todas as pessoas. É para uma pequena viagem nesse jardim que eu os convido.
+Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. Caso desejes conversar, sinta-se à vontade para enviar um e-mail (o endereço está no ícone de envelope no rodapé da página). Sinta-se à vontade e pise na grama. =]
 
 
 ---
-
-## Postagens:
 
 {% assign posts = site.posts | sort: "date" | reverse %}
 
