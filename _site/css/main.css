@@ -2,7 +2,7 @@
 :root { --background-color: #ffffff; --primary-color: #008B8B; --accent-color: #ff7474; --secondary-accent-color: #FFDBDB; --content-color: #63666A; }
 
 @media print { :root { --background-color: #ffffff; } }
-html { font-family: "Open Sans", Helvetica, sans-serif; font-size: 4vw; font-weight: 400; text-rendering: optimizeLegibility; }
+html { font-family: "Inter", Helvetica, sans-serif; font-size: 4vw; font-weight: 400; text-rendering: optimizeLegibility; }
 @media (min-width: 480px) { html { font-size: 13px; } }
 @media (min-width: 800px) { html { font-size: 15px; } }
 @media print { html { font-size: 12px; } }
@@ -50,13 +50,13 @@ aside.disclaimer ul { list-style: none; margin-left: 0; padding-left: 0; }
 aside.disclaimer ul li { padding-left: 1em; }
 aside.disclaimer ul li:before { content: "•"; font-size: 1.25em; padding-right: 0.25em; }
 
-.highlighter-rouge, .highlight, pre, code { background-color: var(--secondary-accent-color); border-radius: 5px; font-family: "Open Sans"; }
+.highlighter-rouge, .highlight, pre, code { background-color: var(--secondary-accent-color); border-radius: 5px; font-family: "Inter", Helvetica, sans-serif; }
 
 pre code { font-size: 90%; line-height: 1.5em; overflow: auto; padding: 0.5em; display: block; color: inherit; }
 
 .highlight { margin: auto; text-align: left; }
 
-kbd { font-size: 90%; border-radius: 5px; padding: 0px 3px 0px; border: 1px solid var(--content-color); font-family: "Open Sans"; }
+kbd { font-size: 90%; border-radius: 5px; padding: 0px 3px 0px; border: 1px solid var(--content-color); font-family: "Inter", Helvetica, sans-serif; }
 
 footer { border-top: 1px solid var(--content-color); background-color: var(--background-color); color: var(--primary-color); display: flex; line-height: 1.5em; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
 @media print { footer { display: none; } }

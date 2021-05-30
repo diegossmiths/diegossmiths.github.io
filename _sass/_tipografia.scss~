@@ -1,6 +1,6 @@
 // define as propriedades do documento
 html {
-  font-family: "Inter", Helvetica, sans-serif; // define as fontes usadas, em ordem de preferência
+  font-family: "Open Sans", Helvetica, sans-serif; // define as fontes usadas, em ordem de preferência
   font-size: 4vw; // define o tamanho da fonte em vw, isto é, baseado na largura da viewport
   font-weight: 400; // define o peso da fonte padrão
   text-rendering: optimizeLegibility; // define o tipo de renderização da fonte

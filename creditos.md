@@ -9,15 +9,15 @@ permalink: /creditos/
 
 # Créditos
 
-* Algumas partes de código utilizadas foram escritas por Cassidy James Blaede e estão disponíveis sob licença [GPLv3](https://github.com/cassidyjames/cassidyjames.github.io/blob/master/LICENSE) em seu [repositório oficial](https://github.com/cassidyjames/cassidyjames.github.io).
+* Algumas partes de código utilizadas foram escritas por Cassidy James Blaede e estão disponíveis sob licença [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) em seu [repositório oficial](https://github.com/cassidyjames/cassidyjames.github.io).
 
 ## Tecnologias utilizadas
 
-* Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador de _sites_ estáticos que processa Markdown, de código aberto e distribuído sob licença [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+* Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador de _sites_ estáticos que processa Markdown, de código aberto e distribuído sob licença [MIT](https://choosealicense.com/licenses/mit/).
 
-* A fonte tipográfica utilizada é a Open Sans, desenhada por [Steve Matteson](https://twitter.com/SteveMatteson1), _designer_ de fontes na [Monotype Imaging](https://www.monotype.com/studio/) e encomendada pelo Google em 2010. Ela é distribuída sob [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+* A fonte tipográfica utilizada é a [Inter](https://rsms.me/inter/), desenhada por [Rasmus Andersson](https://rsms.me/) desde 2016 e em constante evolução. Podes utilizar esta fonte quase que da forma que desejares. Ela é distribuída sob [SIL Open Font License 1.1](https://choosealicense.com/licenses/ofl-1.1/).
 
-* Todas as imagens rasterizadas presentes estão no formato [WebP](https://developers.google.com/speed/webp). O formato, desenvolvido pelo Google e lançado em 2010, é aberto e visa criar imagens com um tamanho menor ao mesmo tempo que com uma qualidade superior a encontrada nos formatos proprietários já tradicionais. É distribuído sob licença BSD.
+* Todas as imagens rasterizadas presentes estão no formato [WebP](https://developers.google.com/speed/webp). O formato, desenvolvido pelo Google e lançado em 2010, é aberto e visa criar imagens com um tamanho menor ao mesmo tempo que com uma qualidade superior a encontrada nos formatos proprietários já tradicionais. É distribuído sob licença [BSD](https://opensource.org/licenses/BSD-3-Clause).
 
 * As imagens vetoriais estão no formato [SVG](https://www.w3.org/Graphics/SVG/). O formato foi desenvolvido em 2001 por um grupo de trabalho dentro da W3C, a entidade que controla os padrões a serem seguidos pela _web_. Assim como o HTML e o CSS, é totalmente aberto.
 
