@@ -1,13 +1,21 @@
 ---
 layout: default
-title: Sobre a página
+title: Sobre a página. Licenças e origens.
 description: O nome. A logo. O conteúdo. Os códigos.
 keywords: blog, motivo, escrever, diego, schild, smiths
 ---
 
 # O nome. A logo. O conteúdo. Os códigos.
 
-O nome do site, apesar de não ser registrado como marca, pertence à mim, assim como a Libélula, minha logo. O conteúdo é de minah propriedade intelectual. Os códigos HTML e CSS são abertos e licenciados pela GPLv3.
+## Licenciamento:
+
+1. O nome do site, apesar de não ser registrado como marca, foi criado por mim.
+
+2. A Libélula, minha logo, apesar de ser um tanto genérica, foi criada por mim baseada em uma foto encontrada na *internet*.
+
+3. O conteúdo é de minha propriedade e é licenciado através da [_Creative Commons_ Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR).
+
+4. Os [códigos HTML e CSS](https://github.com/diegossmiths/diegossmiths.github.io) são abertos e estão sob [licença GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
 
 ## Por que o nome "Uma viagem pelo meu jardim?"
 
@@ -17,14 +25,11 @@ Ao começar a fazer este _site/blog_ pensei em seguir com o nome, mas conversand
 
 ## Por que a logo de uma libélula?
 
-Sempre fui apaixonado por insetos de uma forma geral, principalmente formigas, besouros, borboletas, libélulas, abelhas... Na verdade acho que todos, tirando os malditos mosquitos. Lembro de muitas vezes ficar horas e mais horas apenas olhando as formigas trabalharem. Lembro de sempre que via (e quando ainda vejo) algum besouro de patas para cima ir lá desvirá-lo. Lembro de brigar com meu primo para impedi-lo de matar algum deles.
+Sempre fui apaixonado por insetos de uma forma geral, principalmente formigas, besouros, borboletas, libélulas, abelhas... Na verdade acho que todos, tirando os malditos mosquitos. Lembro de quando criança, ficar horas e mais horas apenas olhando as formigas trabalharem. Adorava, me entretinha fazendo aquilo.
 
-Sempre gostei de observá-los na natureza, nunca tive vontade de ter uma caixa com vários animais espetados por um alfinete. A beleza está justamente no fato de vê-los desempenhar as funções para as quais eles existem. A perfeição como fazem as coisas, a maneira como agem, a força que possuem... tudo isso faz destes pequenos animais seres incríveis. Apaixonantes.
+Sempre gostei de observá-los na natureza e nunca tive vontade de ter uma caixa com vários animais espetados por um alfinete. A beleza está justamente no fato de vê-los desempenhar as funções para as quais eles existem. A perfeição como fazem as coisas, a maneira como agem, a força que possuem... tudo isso faz destes pequenos animais seres incríveis. Apaixonantes.
 
 Mas, sem dúvida, o que mais me fascina é a metamorfose pela qual todos passam. Todo o processo é muito claro, é o novo animal que cresce, ganha força e já não cabe mais dentro da "antiga armadura" e, de forma simples e literal, a abandona para ser melhor. Cada transformação dentro deste ciclo faz com que eles evoluam, deixem de ser simples seres rastejantes que eram logo no início da vida para se tornarem lindos animais que voam.
 
-Mas por qual motivo uma libélula? Bem, entre o meio de 2019 e o início de 2020 eu li a saga Harry Potter®. Para quem não sabe, na saga existe um feitiço de defesa chamado *patronus*, que é muito poderoso e pode ser executado apenas por bruxos com habilidades avançadas. Neste feitiço, o mago conjura um patrono, isto é, um ser mágico feito somente de energias positivas e que, no final, toma a forma de um animal prateado, único de cada bruxo. É a única defesa contra os dementadores, os seres mais negativos que existem. Existe um site chamado [Wizarding World](https://www.wizardingworld.com/). É o site oficial da saga Harry Potter. Lá existem vários testes e um deles é para saber qual é o nosso patrono. Logo que terminei de ler a saga, entrei no site e descobri que o meu patrono é uma libélula. No início fiquei meio sem jeito, afinal eu esperava algo maior, nem que fosse um simples pombo.
+Mas por qual motivo uma libélula? Bem, entre o meio de 2019 e o início de 2020 eu li a saga Harry Potter e, para resumir toda a história de forma bem resumida, quando terminei de ler, acessei o site oficial da saga, o [Wizarding World](https://www.wizardingworld.com/). Lá existem vários joguinhos que nos põe dentro da história, e em um deles, através de um pequeno teste, é possível descobrirmos nosso patrono (para quem não sabe do que estou falando, por favor, vá já ler os livros). Fiz o meu e deu que o meu patrono é uma libélula. Simples assim.
 
-Mas foi pensando melhor que vi que não poderia ter sido mais perfeito. Libélulas são insetos, e como já disse, amo insetos. Além disso trazem muitos benefícios à nós, humanos, afinal, elas são devoradoras de moscas e mosquitos. Possuem uma taxa média de captura de presas de 95%, algo muitíssimo alto. Suas técnicas de voo são impecáveis. Suas 4 asas possuem movimentos distintos e por isso conseguem parar no ar, voar para frente, para os lados, para trás, para cima, para baixo, aceleram a velocidade final quase que instantaneamente e param em uma fração de segundo. Seus olhos, compostos por cerca de 24 mil "lentes", lhe permitem ter um campo de visão de 360º. Sem contar que são muito bonitas e graciosas.
-
-...
