@@ -10,6 +10,35 @@
 @import "grid"; // importa _grid.scss da pasta _sass
 @import "nav"; // importa _nav.scss da pasta _sass
 
+
+/* Carrega a fonte Inter peso 300 no alfabeto latino */
+@font-face {
+  font-family: 'Inter'; // nome da fonte
+  font-style: normal; // estilo da fonte padrão
+  font-weight: 300; // peso da fonte
+  src: local(''), // local
+       url('../fonts/inter-v3-latin-300.woff2') format('woff2'),
+}
+
+/* Carrega a fonte Inter peos regular no alfabeto latino */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/inter-v3-latin-regular.woff2') format('woff2'),
+}
+
+/* Carrega a fonte Inter peso 700 no alfabeto latino */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/inter-v3-latin-700.woff2') format('woff2'),
+}
+
+
 // define o root
 :root {
   background: var(--background-color); // cor de fundo da página
