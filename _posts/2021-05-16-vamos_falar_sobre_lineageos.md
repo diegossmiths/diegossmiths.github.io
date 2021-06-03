@@ -117,7 +117,7 @@ Volte no terminal e digite `adb reboot bootloader` para carregar as opções de 
 
 Digite `fastboot devices` e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.
 
-### Desbloqueando o bootloader {#bootloader}
+## Desbloqueando o bootloader {#bootloader}
 
 Para podermos instalar o LineageOS, devemos desbloquear o *bootloader*. O *bootloader* nada mais é que um pequeno programa que é encarregado de "chamar" o sistema operacional quando um aparelho eletrônico é ligado, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.
 
