@@ -1,9 +1,39 @@
+/* Carrega a fonte Inter peso 300 no alfabeto latino */
+@font-face {
+  font-family: 'Inter'; // nome da fonte
+  font-display: swap; // define que o texto é exibido numa fonte padrão do sistema e depois é modificado com a fonte escolhida
+  font-style: normal; // estilo da fonte padrão
+  font-weight: 300; // peso da fonte
+  src: local('Inter-Light'),
+    url('../fonts/inter-v3-latin-300.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
+}
+
+/* Carrega a fonte Inter peos regular no alfabeto latino */
+@font-face {
+  font-family: 'Inter'; // nome da fonte
+  font-display: swap;  // define que o texto é exibido numa fonte padrão do sistema e depois é modificado com a fonte escolhida
+  font-style: normal; // estilo da fonte padrão
+  font-weight: 400; // peso da fonte
+  src: local('Inter-Regular'),
+    url('../fonts/inter-v3-latin-regular.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
+}
+
+/* Carrega a fonte Inter peso 700 no alfabeto latino */
+@font-face {
+  font-family: 'Inter'; // nome da fonte
+  font-display: swap; // define que o texto é exibido numa fonte padrão do sistema e depois é modificado com a fonte escolhida
+  font-style: normal; // estilo da fonte padrão
+  font-weight: 700; // peso da fonte
+  src: local('Inter-Bold'),
+    url('../fonts/inter-v3-latin-700.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
+}
+
+
 // define as propriedades do documento
 html {
   font-family: "Inter", Helvetica, sans-serif; // define as fontes usadas, em ordem de preferência
   font-size: 4vw; // define o tamanho da fonte em vw, isto é, baseado na largura da viewport
   font-weight: 400; // define o peso da fonte padrão
-  font-display: swap; // determina quando uma fonte customizada é exibida após ser baixada e estar pronta para o uso
   text-rendering: optimizeLegibility; // define o tipo de renderização da fonte
 
 // define o tamanho da fonte baseado na largura da viewport, neste caso de 480p até 799px
