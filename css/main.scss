@@ -14,28 +14,31 @@
 /* Carrega a fonte Inter peso 300 no alfabeto latino */
 @font-face {
   font-family: 'Inter'; // nome da fonte
+  font-display: swap; // define que o texto é exibido numa fonte padrão do sistema e depois é modificado com a fonte escolhida
   font-style: normal; // estilo da fonte padrão
   font-weight: 300; // peso da fonte
-  src: local(''), // local
-       url('../fonts/inter-v3-latin-300.woff2') format('woff2'),
+  src: local('Inter'), // se a fonte for encontrada no computador do usuário, carregar localmente
+    url('../fonts/inter-v3-latin-300.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
 }
 
 /* Carrega a fonte Inter peos regular no alfabeto latino */
 @font-face {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('../fonts/inter-v3-latin-regular.woff2') format('woff2'),
+  font-family: 'Inter'; // nome da fonte
+  font-display: swap;  // define que o texto é exibido numa fonte padrão do sistema e depois é modificado com a fonte escolhida
+  font-style: normal; // estilo da fonte padrão
+  font-weight: 400; // peso da fonte
+  src: local('Inter'), // se a fonte for encontrada no computador do usuário, carregar localmente
+    url('../fonts/inter-v3-latin-regular.woff2') format('woff2'). // se a fonte não estive no computador do usuário, carregar remoto
 }
 
 /* Carrega a fonte Inter peso 700 no alfabeto latino */
 @font-face {
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 700;
-  src: local(''),
-       url('../fonts/inter-v3-latin-700.woff2') format('woff2'),
+  font-family: 'Inter'; // nome da fonte
+  font-display: swap; // define que o texto é exibido numa fonte padrão do sistema e depois é modificado com a fonte escolhida
+  font-style: normal; // estilo da fonte padrão
+  font-weight: 700; // peso da fonte
+  src: local('Inter'), // se a fonte for encontrada no computador do usuário, carregar localmente
+    url('../fonts/inter-v3-latin-700.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
 }
 
 
