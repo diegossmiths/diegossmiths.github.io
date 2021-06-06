@@ -48,7 +48,7 @@ Musicalmente, _The Darkest Skies are the Brightest_ consegue ser um trabalho bas
 
 Para finalizar com uma boa notícia, em vez de desistir do casamento, ela e o marido usaram o tempo no qual estavam separados para rever muito de seus problemas de modo a consertar o vínculo e no final reataram a união. O conceito do _kintsugi_ serviu perfeitamente.
 
-![Capa do disco da Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl](/images/blog/2021-03-18-the_darkest_skies_are_the_brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.webp "Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl")
+![Capa do disco da Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl](/images/blog/2021-03-18-the_darkest_skies_are_the_brightest/anneke_van_giersbergen_-_the_darkest_skies_are_brightest.webp "Anneke van Giersbergen: The darkest skies are the brightest - Créditos da foto: Mark Uyl"){:width="1000" height="1000"}
 
 **Lançamento:** 26 de fevereiro de 2021
 
