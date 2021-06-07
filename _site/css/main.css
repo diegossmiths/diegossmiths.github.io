@@ -13,8 +13,8 @@ html { font-family: "Inter", Helvetica, sans-serif; font-size: 4vw; font-weight:
 @media (min-width: 800px) { html { font-size: 15px; } }
 @media print { html { font-size: 12px; } }
 
-a { color: var(--primary-color); text-decoration: none; transition: opacity 250ms ease; }
-a:hover, a:focus { text-decoration: none; opacity: 0.5; }
+a { color: var(--primary-color); text-decoration: none; transition: opacity 250ms ease 0ms; }
+a:hover, a:focus { opacity: 0.5; }
 
 h1 { color: var(--accent-color); font-size: 2rem; font-weight: 700; }
 @media (min-width: 505px) { h1 { max-width: initial; } }
@@ -64,16 +64,16 @@ pre code { font-size: 90%; line-height: 1.5em; overflow: auto; padding: 0.5em; d
 
 kbd { font-size: 90%; border-radius: 5px; padding: 0px 3px 0px; border: 1px solid var(--content-color); font-family: inherit; font-variant: small-caps; }
 
-footer { border-top: 1px solid var(--content-color); background-color: var(--background-color); display: flex; line-height: 1.5em; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
+footer { border-top: 1px solid var(--content-color); background-color: var(--background-color); display: flex; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
 @media print { footer { display: none; } }
 footer ul.social { margin: 0; padding: 0; line-height: 2em; }
 footer ul.social li { display: inline-block; list-style: none; margin: 0.15em; padding: 0; }
-footer ul.social a { display: inline-block; line-height: 1.5em; height: 1.5em; width: 2em; transition: 500ms; }
+footer ul.social a { display: inline-block; line-height: 2em; height: 2em; width: 2em; }
 footer ul.social a:hover, footer ul.social a:focus { opacity: 0.5; }
+footer .social svg { fill: var(--primary-color); height: auto; vertical-align: middle; width: 1.4em; }
 footer p { color: var(--primary-color); font-size: 0.75rem; line-height: 1.25em; }
 footer p a { color: inherit; }
 footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75; outline: none; text-decoration: none; }
-footer .social svg { fill: inherit; height: auto; vertical-align: middle; width: 1.4em; }
 
 section.grid { margin: 0 auto; max-width: 32em; }
 section.grid > * { padding: 0 1em 2em; }

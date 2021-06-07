@@ -8,12 +8,11 @@ footer {
   border-top: 1px solid var(--content-color); // cor da borda que faz a separação entre o conteúdo do site e o rodapé
   background-color: var(--background-color); // cor de fundo do rodapé
   display: flex; //define como flex o conteúdo do rodapé
-  line-height: 1.5em; // altura da linha
   flex-flow: column nowrap; // o conteúdo é exibido em forma de coluna, um em baixo do outro, e impede que haja quebra de linha
   flex: 0 0 60px; // define que os itens não podem se expandir nem se contrair para preencher o espaço setado na última veriável
   text-align: center; // alinha os textos no centro
   width: 100%; // largura do rodapé ocupa 100% do espaço de tela
-  padding: 0 0 0.5em 0; // define a margem superior, direita, inferior e esquerda
+  padding: 0 0 0.5em 0; // define a borda superior, direita, inferior e esquerda
 
 
 // Define uma lista não ordenada para os ícones dos serviço aos quais eu tenho conta
@@ -24,25 +23,34 @@ footer {
 
 // Define os itens da lista
     li {
-      display: inline-block; // força os elementos a serem exibidos um após o outro em linha
+      display: inline-block; // gera um bloco e força os elementos a serem exibidos um após o outro na linha
       list-style: none; // retira qualquer estilo de listas
-      margin: 0.15em; // define a margem para 0
+      margin: 0.15em; // define a margem para 0.15 para aumentar o espaçamento entre o itens
       padding: 0; // define a borda para 0
     }
 
 // define as configurações dos links do rodapé
     a {
       display: inline-block; // gera um bloco e força os elementos a serem exibidos um após o outro na linha
-      line-height: 1.5em; // altura de linha
-      height: 1.5em; // altura do link
+      line-height: 2em; // altura de linha
+      height: 2em; // altura do link
       width: 2em; // largura do link
-      transition: 500ms; // define o tempo de transição de um item
+//      transition: 500ms; // define o tempo de transição de um item
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
         &:hover,
         &:focus {
           opacity: 0.5; // configura o nível de opacidade
         }
+    }
+  }
+
+  .social {
+    svg {
+      fill: var(--primary-color);
+      height: auto;
+      vertical-align: middle;
+      width: 1.4em;
     }
   }
 
@@ -66,15 +74,6 @@ footer {
           text-decoration: none; // não sublinha o item
         }
 
-    }
-  }
-
-  .social {
-    svg {
-      fill: inherit;
-      height: auto;
-      vertical-align: middle;
-      width: 1.4em;
     }
   }
 

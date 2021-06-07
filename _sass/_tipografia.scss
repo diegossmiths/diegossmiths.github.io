@@ -56,12 +56,11 @@ html {
 a {
 	color: var(--primary-color); // cor do links
     text-decoration: none; // não sublinha o item
-    transition: opacity 250ms ease; // define a configurações da transição
+    transition: opacity 250ms ease 0ms; // define a configurações da transição (tipo de transição, duração, modo e tempo de espera)
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
 	&:hover, &:focus
 		{
-		text-decoration:none; // não sublinha o item
 		opacity:0.5; // diminui a opacidade pela metade
         }
 }
