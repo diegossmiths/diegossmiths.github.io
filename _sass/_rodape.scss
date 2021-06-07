@@ -7,7 +7,6 @@ footer {
 
   border-top: 1px solid var(--content-color); // cor da borda que faz a separação entre o conteúdo do site e o rodapé
   background-color: var(--background-color); // cor de fundo do rodapé
-  color: var(--primary-color); // cor do conteúdo do rodapé
   display: flex; //define como flex o conteúdo do rodapé
   line-height: 1.5em; // altura da linha
   flex-flow: column nowrap; // o conteúdo é exibido em forma de coluna, um em baixo do outro, e impede que haja quebra de linha
@@ -19,8 +18,6 @@ footer {
 
 // Define uma lista não ordenada para os ícones dos serviço aos quais eu tenho conta
   ul.social {
-//    display: inline-block; // força os elementos a serem exibidos um após o outro em linha
-//    list-style: none; // retira qualquer estilo de listas
     margin: 0; // define a margem para 0
     padding: 0; // define a borda para 0
 
@@ -36,10 +33,10 @@ footer {
 // define as configurações dos links do rodapé
     a {
       display: inline-block; // gera um bloco e força os elementos a serem exibidos um após o outro na linha
-      height: 1.5em; // altura da fonte
       line-height: 1.5em; // altura de linha
+      height: 1.5em; // altura do link
+      width: 2em; // largura do link
       transition: 500ms; // define o tempo de transição de um item
-      width: 2em; // largura
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
         &:hover,
@@ -50,27 +47,27 @@ footer {
   }
 
 // define as configurações dos parágrafos do rodapé
-	p {
-    	color: var(--primary-color); // configura a cor dos itens
-        font-size: 0.75rem; // configura o tamanho da fonte
-        line-height: 1em; // configura a altura da linha
+  p {
+    color: var(--primary-color); // configura a cor dos itens
+    font-size: 0.75rem; // configura o tamanho da fonte
+    line-height: 1.25em; // configura a altura da linha
 
 // define as configurações dos links do rodapé
     a {
-		color: inherit; // herda as cores
+      color: inherit; // herda as cores
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
-            &:hover,
-            &:focus {
-                border: none; // não adiciona bordas
-                color: inherit; // herda as cores
-                opacity: 0.75; // configura o nível de opacidade
-                outline: none; // não circula o item
-                text-decoration: none; // não sublinha o item
-    }
+        &:hover,
+        &:focus {
+          border: none; // não adiciona bordas
+          color: inherit; // herda as cores
+          opacity: 0.75; // configura o nível de opacidade
+          outline: none; // não circula o item
+          text-decoration: none; // não sublinha o item
+        }
 
-	}
     }
+  }
 
   .social {
     svg {
