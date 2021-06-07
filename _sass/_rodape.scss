@@ -20,6 +20,7 @@ footer {
   ul.social {
     margin: 0; // define a margem para 0
     padding: 0; // define a borda para 0
+    line-height: 2em;
 
 // Define os itens da lista
     li {
@@ -27,7 +28,6 @@ footer {
       list-style: none; // retira qualquer estilo de listas
       margin: 0.15em; // define a margem para 0
       padding: 0; // define a borda para 0
-      line-height: 1.5em;
     }
 
 // define as configurações dos links do rodapé

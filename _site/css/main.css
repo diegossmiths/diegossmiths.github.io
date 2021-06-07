@@ -66,8 +66,8 @@ kbd { font-size: 90%; border-radius: 5px; padding: 0px 3px 0px; border: 1px soli
 
 footer { border-top: 1px solid var(--content-color); background-color: var(--background-color); display: flex; line-height: 1.5em; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
 @media print { footer { display: none; } }
-footer ul.social { margin: 0; padding: 0; }
-footer ul.social li { display: inline-block; list-style: none; margin: 0.15em; padding: 0; line-height: 1.5em; }
+footer ul.social { margin: 0; padding: 0; line-height: 2em; }
+footer ul.social li { display: inline-block; list-style: none; margin: 0.15em; padding: 0; }
 footer ul.social a { display: inline-block; line-height: 1.5em; height: 1.5em; width: 2em; transition: 500ms; }
 footer ul.social a:hover, footer ul.social a:focus { opacity: 0.5; }
 footer p { color: var(--primary-color); font-size: 0.75rem; line-height: 1.25em; }
