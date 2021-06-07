@@ -67,13 +67,13 @@ kbd { font-size: 90%; border-radius: 5px; padding: 0px 3px 0px; border: 1px soli
 footer { border-top: 1px solid var(--content-color); background-color: var(--background-color); color: var(--primary-color); display: flex; line-height: 1.5em; flex-flow: column nowrap; flex: 0 0 60px; text-align: center; width: 100%; padding: 0 0 0.5em 0; }
 @media print { footer { display: none; } }
 footer ul.social { margin: 0; padding: 0; }
-footer ul.social li { display: inline-block; list-style: none; margin: 0; padding: 0; line-height: 1.5em; }
-footer ul.social a { display: inline-block; font-size: 1.5rem; font-weight: normal; height: 1.5em; line-height: 1.5em; margin: 0.125em; transition: 500ms; width: 1.5em; }
-footer ul.social a:hover, footer ul.social a:focus { background-color: var(--background-color); opacity: 0.5; }
+footer ul.social li { display: inline-block; list-style: none; margin: 0.15em; padding: 0; line-height: 1.5em; }
+footer ul.social a { display: inline-block; height: 1.5em; line-height: 1.5em; transition: 500ms; width: 2em; }
+footer ul.social a:hover, footer ul.social a:focus { opacity: 0.5; }
 footer p { color: var(--primary-color); font-size: 0.75rem; line-height: 1em; }
 footer p a { color: inherit; }
 footer p a:hover, footer p a:focus { border: none; color: inherit; opacity: 0.75; outline: none; text-decoration: none; }
-footer .social svg { fill: inherit; height: auto; transform: translateY(0.125em); vertical-align: middle; horizontal-align: center; width: 1em; }
+footer .social svg { fill: inherit; height: auto; vertical-align: middle; width: 1.4em; }
 
 section.grid { margin: 0 auto; max-width: 32em; }
 section.grid > * { padding: 0 1em 2em; }

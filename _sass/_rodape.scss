@@ -28,7 +28,7 @@ footer {
     li {
       display: inline-block; // força os elementos a serem exibidos um após o outro em linha
       list-style: none; // retira qualquer estilo de listas
-      margin: 0; // define a margem para 0
+      margin: 0.15em; // define a margem para 0
       padding: 0; // define a borda para 0
       line-height: 1.5em;
     }
@@ -36,19 +36,14 @@ footer {
 // define as configurações dos links do rodapé
     a {
       display: inline-block; // gera um bloco e força os elementos a serem exibidos um após o outro na linha
-//      font-size: 1.5rem; // tamanho da fonte
-//      font-weight: normal; // peso da fonte
       height: 1.5em; // altura da fonte
       line-height: 1.5em; // altura de linha
-      margin: 0.15em; // margem
       transition: 500ms; // define o tempo de transição de um item
       width: 2em; // largura
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
         &:hover,
         &:focus {
-          background-color: var(--background-color); // configura a cor de fundo
-//          color: var(--primary-color); // configura a cor dos itens
           opacity: 0.5; // configura o nível de opacidade
         }
     }
