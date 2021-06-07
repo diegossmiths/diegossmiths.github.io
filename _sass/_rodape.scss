@@ -36,13 +36,13 @@ footer {
 // define as configurações dos links do rodapé
     a {
       display: inline-block; // gera um bloco e força os elementos a serem exibidos um após o outro na linha
-      font-size: 1.5rem; // tamanho da fonte
+//      font-size: 1.5rem; // tamanho da fonte
       font-weight: normal; // peso da fonte
       height: 1.5em; // altura da fonte
       line-height: 1.5em; // altura de linha
-      margin: 0.125em; // margem
+      margin: 0.15em; // margem
       transition: 500ms; // define o tempo de transição de um item
-      width: 1.5em; // largura
+      width: 2em; // largura
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
         &:hover,
@@ -81,10 +81,7 @@ footer {
     svg {
       fill: inherit;
       height: auto;
-//      margin-right: 0.33em;
-      transform: translateY(0.125em);
       vertical-align: middle;
-      horizontal-align: center;
       width: 1em;
     }
   }
