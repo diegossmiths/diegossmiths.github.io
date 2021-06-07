@@ -2,22 +2,24 @@
 
 <div class="box">
 
-	{% assign current = page.url | downcase | split: '/' %}
+  {% assign current = page.url | downcase | split: '/' %}
 
-	<a href="/" {% if current[1] == null %}class='current'{% endif %} title="Página inicial"><img class="logo" src="/logo.svg" alt="Logo do sítio, uma libélula desenhada de perfil, com o corpo na cor verde e as asas na cor vermelha" title="Página inicial" widht="2250" height="2250" ></a>
+  <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Página inicial">
+    <img class="logo" src="/logo.svg" alt="Logo do sítio, uma libélula desenhada de perfil, com o corpo na cor verde e as asas na cor vermelha" title="Página inicial" widht="2250" height="2250" >
+  </a>
 
-	<a href="/blog/" {% if current[1] == 'blog' %}class='current'{% endif %} title="Blog">Blog</a>
-	<a href="/coisas/" {% if current[1] == 'coisas' %}class='current'{% endif %} title="Coisas que eu uso">Coisas</a>
-	<a href="/presentes/" {% if current[1] == 'presentes' %}class='current'{% endif %} title="Lista de presentes">Presentes</a>
+  <a href="/blog/" {% if current[1] == 'blog' %}class='current'{% endif %} title="Blog">Blog</a>
+  <a href="/coisas/" {% if current[1] == 'coisas' %}class='current'{% endif %} title="Coisas que eu uso">Coisas</a>
+  <a href="/presentes/" {% if current[1] == 'presentes' %}class='current'{% endif %} title="Lista de presentes">Presentes</a>
 
 
-	{% if current[1] == 'creditos' %}
-		<a href="/creditos/" class='current' title="Créditos">Créditos</a>
-	{% endif %}
+  {% if current[1] == 'creditos' %}
+    <a href="/creditos/" class='current' title="Créditos">Créditos</a>
+  {% endif %}
 
-	{% if current[1] == 'sobre' %}
-		<a href="/sobre/" class='current' title="Informações sobre a página">Sobre</a>
-	{% endif %}
+  {% if current[1] == 'sobre' %}
+    <a href="/sobre/" class='current' title="Informações sobre a página">Sobre</a>
+  {% endif %}
 
 </div>
 
