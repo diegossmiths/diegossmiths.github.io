@@ -63,8 +63,8 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 
 - DuckDuckGo. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
 
-- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
+- Fastmail. Troquei minha conta principal de email para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos do Google. Possui integração com calendário, contatos, servidor de arquivos e bloco de anotações.
 
-- Fastmail. Troquei minha conta principal de email para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos do Google.
+- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
 
