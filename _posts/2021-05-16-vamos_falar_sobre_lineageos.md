@@ -77,7 +77,9 @@ Na página oficial do [LineageOS](https://download.lineageos.org/), navegue entr
 
 Como disse anteriormente, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google [neste link](https://dl.google.com/android/repository/platform-tools-latest-linux.zip).
 
-Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a *Play Store, Gmail, Maps, Drive* ou qualquer outro programa desenvolvido pela empresa é necessário baixar o pacote [Open GApps](https://opengapps.org/). Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha em uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a *Play Store* funcionar e mais alguns extras. Baixe o arquivo e salve no PC. Existem outras opções além do Open GApps, mas ficaremos com esta.
+Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a *Play Store, Gmail, Maps, Drive* ou qualquer outro programa/serviço desenvolvido pela empresa é necessário baixar o pacote [Open GApps](https://opengapps.org/). O Open GApss é uma compilação dos aplicativos e serviços da Google para a instalação em um aparelho qualquer. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí. Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha em uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a *Play Store* funcionar e mais alguns extras. Baixe o arquivo e salve no PC.
+
+Só a título de observação, existe também o [microG](https://microg.org/), que ao contrário do Open GApps, é uma reimplementação em código aberto para os principais serviços proprietários da Google. Ele provê somente os pacotes necessários para que aplicativos de terceiros funcionem de maneira correta (sistema de telemetria, de notificações, etc). Neste tutorial não irei utilizar o microG.
 
 Pronto, já reunimos todo o material necessário.
 
@@ -171,10 +173,16 @@ Fiz esse artigo com o objetivo de ajudar a qualquer um que queira se livrar das 
 
 Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.
 
-Além disso, todos os recursos funcionam perfeitamente. Câmera, GPS, Bluetooth... Inclusive agora o LED frontal que indica carregamento da bateria também passou a funcionar. Alguns aplicativos de bancos podem não funcionar devido ao sistema não ser o original do aparelho. Testei o do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executam sem nenhum problema. Não testei aplicativos como o Netflix, Spotify e Nubank.
+Além disso, todos os recursos funcionam perfeitamente. Câmera, GPS, Bluetooth... Inclusive agora o LED frontal que indica carregamento da bateria também passou a funcionar. Alguns aplicativos de bancos podem não funcionar devido ao sistema não ser o original do aparelho. Testei o do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executam sem nenhum problema. Não testei aplicativos como o Spotify e Nubank. Apesar de não ter testado, sei que Netflix **não** funciona (e nem me fará falta).
 
 Enfim, na minha opinião a instalação do LineageOS vale muito a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade, tudo rodando de forma bastante satisfatória num aparelho antigo e fraco.
 
 Se ficou alguma dúvida, por favor, entre em contato diretamente comigo através do meu *e-mail*. Ele pode ser acessado no rodapé da página clicando no ícone envelope.
 
 Obrigado. =]
+
+
+ATUALIZAÇÃO (11/06/2021):
+
+Há três semanas comprei uma bateria nova (e original) para meu Moto G4 Play. Notei que o aparelho, com uma carga completa, chegou a aguentar 9 dias longe da tomada. Claro que o tempo de uso é bem baixo, pouco mais de 3 horas de tela, mas ainda assim mostra a eficiência energética do LineageOS instalado mesmo com os serviços da *Play Store* rodando ao fundo.
+
