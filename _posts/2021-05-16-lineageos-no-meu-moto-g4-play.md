@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vamos falar sobre LineageOS
-description: "O que é o LineageOS? Como usá-lo? Conheça um pouco do sistema operacional móvel, seus recursos, sua história e saiba como ter ele em seus aparelhos."
+title: LineageOS no meu Moto G4 Play
+description: "O que é o LineageOS? Um pouco do sistema operacional móvel, seus recursos, sua história, vantagens e desvantagens e como ter ele em seus aparelhos."
 keywords: lineageos, android, moto, g4, play, motorola, custom, rom
 updated: 2021-05-17 23:05:00 -0300
 ---
@@ -28,13 +28,38 @@ Com o fim da Cyanogen Inc. e de seus projetos, nascia aí o LineageOS. No inglê
 
 Essa é a história contada de forma resumida.
 
-Agora que já sabemos de fato o que é o LineageOS e como ele surgiu, vamos instalá-lo em um aparelho.
+## Minha opinião sobre
 
-## Notas
+Fiz esse artigo com o objetivo de ajudar qualquer pessoa que queira se livrar, um pouco, das amarras da Google e das fabricantes, ficando livre para usar seu aparelho com uma liberdade muito maior. Também para dar uma vida nova àquele celular que todos temos atirado em algum canto da gaveta.
+
+Do **ponto de vista de segurança**, tudo muito bom, um sistema operacional moderno e com atualizações semanais. Menos [*backdoors*](https://pt.wikipedia.org/wiki/Backdoor) também.
+
+Do **ponto de vista da usabilidade**, quase perfeito. Todos os recursos funcionam super bem. Câmera, GPS, Bluetooth... Inclusive agora o LED frontal que indica o carregamento da bateria também passou a funcionar. Falando nela, notei que a bateria começou a durar mais. Usando uma bateria nova (e original) que recém comprei, ele chegou a aguentar 9 dias longe da tomada. Claro que o tempo de uso é bem baixo, pouco mais de 3 horas de tela, mas ainda assim mostra a eficiência energética do LineageOS, mesmo com os serviços da *Play Store* rodando ao fundo.
+
+Optei por instalar o Open GApps. O Open GApss é uma compilação dos aplicativos e serviços da Google para a instalação em um aparelho qualquer. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí, contando com a *Play Store*, *Gmail*, *Maps*, *Drive*, etc. Ele permitiu uma compatibilidade muito grande com aplicativos de terceiros. Testei o aplicativo do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executaram sem nenhum problema. WhatsApp, também. Não testei aplicativos como o Spotify e Nubank, mas creio que também funcionarão. Apesar de não ter testado, sei que Netflix **não** funciona (e nem me fará falta). Algum outro também pode não funcionar, principalmente os de bancos.
+
+Agora, do **ponto de vista da privacidade** temos um problema, pois, ao ganharmos usabilidade com o Open GApss, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.
+
+Enfim, colocando tudo na balança, na minha opinião a instalação do LineageOS vale a pena.  Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade, tudo rodando de forma bastante satisfatória num aparelho antigo e fraco. O uso do Open GApps é quase imprescindível para a maioria das pessoas.
+
+## Processo de instalação
+
+Agora que já sabemos de fato o que é o LineageOS, como ele surgiu e minha opinião sobre, fiz um passo-a-passo de como instalá-lo em um aparelho.
+
+1. [Notas](#notas)
+2. [Preparando o aparelho](#preparando)
+3. [Baixando o necessário](#baixando)
+4. [Instalando o adb-fastboot](#fastboot)
+5. [Desbloqueando o bootloader](#bootloader)
+6. [Instalando o arquivo de recuperação e o sistema operacional](#instalando_os)
+7. [Etapa opcional - Instalando o Open GApss](#opengapps)
+8. [Terminando a instalação](#terminando)
+
+### Notas {#notas}
 
 Antes de mais nada, gostaria de dizer que este manual foi escrito entre os dias **18 de abril e 16 de maio de 2021**. Portanto, algumas coisas podem estar diferentes na data que você estiver lendo. Por isso é importante acessar a [página oficial](https://lineageos.org/) do projeto. Ali, é possível encontrar todos os aparelhos mantidos pela comunidade, assim como tutoriais (como este, mas em inglês), os instaladores e notas de cada versão lançada. Verifique se seu aparelho consta na lista dos compatíveis.
 
-Neste exemplo, usarei o [Motorola Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php) como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Utilizava-o para uso pessoal, mas comprei um aparelho novo e deixei este exclusivamente para a marcenaria. Para outras marcas e modelos podem haver algumas diferenças, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o [elementaryOS](https://elementary.io/) versão 5.1.7, um sistema GNU/Linux baseado no [Ubuntu](https://ubuntu.com/) versão 18.04.4 LTS.
+Neste exemplo, usarei o [Motorola Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php) como base. É um aparelho que foi lançado em agosto de 2016, possui um processador de baixo custo e relativamente pouca memória RAM. Utilizava-o para uso pessoal, mas comprei um aparelho novo e deixei o G4 Play exclusivamente para a marcenaria. Para outras marcas e modelos podem haver algumas diferenças, mas se houver, será muito pouca coisa. No computador de mesa, utilizo o [elementaryOS](https://elementary.io/) versão 5.1.7, um sistema GNU/Linux baseado no [Ubuntu](https://ubuntu.com/) versão 18.04.4 LTS.
 
 É interessante também que você tenha uma noção de como funciona um terminal, neste caso o [*bash*](https://pt.wikipedia.org/wiki/Bash).
 
@@ -46,16 +71,7 @@ E lembrando que **tudo será apagado permanentemente**. Portanto, faça backup d
 
 Se você concordar com tudo o que foi dito até aqui, siga em frente.
 
-## Processo de instalação
-1. [Preparando o aparelho](#preparando)
-2. [Baixando o necessário](#baixando)
-3. [Instalando o adb-fastboot](#fastboot)
-4. [Desbloqueando o bootloader](#bootloader)
-5. [Instalando o arquivo de recuperação e o sistema operacional](#instalando_os)
-6. [Etapa opcional - Instalando o Open GApss](#opengapps)
-7. [Terminando a instalação](#terminando)
-
-## Preparando o aparelho {#preparando}
+### Preparando o aparelho {#preparando}
 
 Como disse anteriormente, este documento é baseado no Moto G4 Play. Antes de mais nada, ele deve estar rodando o Android na versão 7.1.1. Para verificar, vá em "*Configurações -> Sobre o dispositivo*" e cheque a versão do sistema. Se não estiver, faça a atualização junto a Motorola. É possível achar a opção nas configurações do aparelho em "*Configurações -> Sobre o dispositivo -> Atualização do sistema*".
 
@@ -67,7 +83,7 @@ Dentro deste menu, role a página até chegar na sessão "*Depuração*". Habili
 
 Pronto, o aparelho já está pronto para receber o LineageOS.
 
-## Baixando o necessário {#baixando}
+### Baixando o necessário {#baixando}
 
 Antes de mais nada, eu recomendo ao leitor criar uma pasta chamada *Lineage* dentro da sua pasta de documentos. Você irá baixar e salvar ali todos os arquivos necessários para o procedimento e os manterá de forma organizada.
 
@@ -77,13 +93,13 @@ Na página oficial do [LineageOS](https://download.lineageos.org/), navegue entr
 
 Como disse anteriormente, esse tutorial é feito para computadores rodando GNU/Linux, mais precisamente sistemas baseados no Debian/Ubuntu. Portanto, baixemos o arquivo mais recente disponibilizado pela Google [neste link](https://dl.google.com/android/repository/platform-tools-latest-linux.zip).
 
-Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a *Play Store, Gmail, Maps, Drive* ou qualquer outro programa/serviço desenvolvido pela empresa é necessário baixar o pacote [Open GApps](https://opengapps.org/). O Open GApss é uma compilação dos aplicativos e serviços da Google para a instalação em um aparelho qualquer. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí. Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha em uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a *Play Store* funcionar e mais alguns extras. Baixe o arquivo e salve no PC.
+Apenas lembrando que o LineageOS não possui os aplicativos da Google, portanto, se você quiser ter a *Play Store*, *Gmail*, *Maps*, *Drive* ou qualquer outro programa/serviço desenvolvido pela empresa é necessário baixar o pacote [Open GApps](https://opengapps.org/). Para isso, siga até a página oficial do projeto (link acima) e selecione a versão desejada. Neste caso marque as caixas ARM, Android 10.0 e escolha em uma das opções os pacotes que irão vir junto. A opção padrão é a nano, que contém o mínimo para a *Play Store* funcionar e mais alguns extras. Faça sua escolha, baixe o arquivo e salve no PC.
 
-Só a título de observação, existe também o [microG](https://microg.org/), que ao contrário do Open GApps, é uma reimplementação em código aberto para os principais serviços proprietários da Google. Ele provê somente os pacotes necessários para que aplicativos de terceiros funcionem de maneira correta (sistema de telemetria, de notificações, etc). Neste tutorial não irei utilizar o microG.
+Só a título de observação, existe também o [microG](https://microg.org/), que ao contrário do Open GApps, é uma reimplementação em código aberto para os principais serviços proprietários da Google. Ele provê somente os pacotes necessários para que aplicativos de terceiros funcionem de maneira correta (sistema de telemetria, de notificações, etc). O projeto ainda é bastante imaturo e não raramente acontecem problemas de compatibilidade. Neste tutorial não irei utilizar o microG.
 
 Pronto, já reunimos todo o material necessário.
 
-## Instalando o adb-fastboot {#fastboot}
+### Instalando o adb-fastboot {#fastboot}
 
 Clique no *platform-tools-lateste-linux.zip* e faça a extração dos arquivos num diretório a sua escolha. Eu recomendo criar um diretório chamado *adb-fastboot* dentro da *home* do seu usuário. Feito, adicione o seguinte comando no terminal:
 
@@ -119,7 +135,7 @@ Volte no terminal e digite `adb reboot bootloader` para carregar as opções de 
 
 Digite `fastboot devices` e o terminal deverá responder com o código do aparelho. Se aparecer o código, significa que está tudo funcionando da maneira correta. Sigamos.
 
-## Desbloqueando o bootloader {#bootloader}
+### Desbloqueando o bootloader {#bootloader}
 
 Para podermos instalar o LineageOS, devemos desbloquear o *bootloader*. O *bootloader* nada mais é que um pequeno programa que é encarregado de "chamar" o sistema operacional quando um aparelho eletrônico é ligado, seja ele um celular, um computador de mesa ou até mesmo um aparelho de TV moderno.
 
@@ -137,7 +153,7 @@ Volte ao terminal e digite `fastboot oem unlock CHAVE-ÚNICA`, substituindo *CHA
 
 Se tudo der certo, o terminal responderá com uma mensagem dizendo que o aparelho foi desbloqueado (e na tela do aparelho também aparecerá a confirmação com os dizeres "*Device is UNLOCKED*" em amarelo).
 
-## Instalando o arquivo de recuperação e o sistema operacional {#instalando_os}
+### Instalando o arquivo de recuperação e o sistema operacional {#instalando_os}
 
 Com o terminal aberto, navegue até a pasta onde está o arquivo de imagem do LineageOS (como disse anteriormente, é necessário um mínimo de conhecimento dos comandos do terminal), digite `fastboot flash recovery NOME-DO-ARQUIVO.img` e dê enter. Substitua *NOME-DO-ARQUIVO* pelo nome do arquivo *.img* que você baixou lá no início deste artigo.
 
@@ -153,7 +169,7 @@ Retorne ao computador e no terminal digite `adb sideload NOME-DO-ARQUIVO-LINEAGE
 
 A resposta do terminal é "*Total xfer: 1.00x*".
 
-## Etapa opcional - Instalando o Open GApss {#opengapps}
+### Etapa opcional - Instalando o Open GApss {#opengapps}
 
 Se você desejar continuar nas garras do Google, siga estes passos para instalar o Open GApss. No aparelho celular, clique novamente em "*Apply update*" e em seguida "*Apply from ADB*".
 
@@ -161,28 +177,13 @@ No terminal, na pasta onde foi feito o *download* do instalador, digite `adb sid
 
 A resposta do terminal é novamente "*Total xfer: 1.00x*".
 
-## Terminando a instalação {#terminando}
+### Terminando a instalação {#terminando}
 
 No aparelho celular, volte na setinha até a tela inicial e clique em "*Reboot system now*".
 
 Pronto. Agora é só esperar o sistema reiniciar. O LineageOS está instalado no seu aparelho.
 
-## Conclusão
-
-Fiz esse artigo com o objetivo de ajudar a qualquer um que queira se livrar das amarras da Google e das fabricantes, ficando livre para usar seu aparelho com uma liberdade muito maior. Também para dar uma vida nova àquele celular que todos temos atirado em algum canto da gaveta.
-
-Notei que a bateria do meu aparelho começou a durar um pouco mais. Apesar da sua idade, ela chega tranquilamente a 4 ou 5 dias. Reconheço que o uso é mínimo, mas mesmo assim o Android original que vinha de fábrica durava exatamente isso quando a bateria era nova.
-
-Além disso, todos os recursos funcionam perfeitamente. Câmera, GPS, Bluetooth... Inclusive agora o LED frontal que indica carregamento da bateria também passou a funcionar. Alguns aplicativos de bancos podem não funcionar devido ao sistema não ser o original do aparelho. Testei o do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executam sem nenhum problema. Não testei aplicativos como o Spotify e Nubank. Apesar de não ter testado, sei que Netflix **não** funciona (e nem me fará falta).
-
-Enfim, na minha opinião a instalação do LineageOS vale muito a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade, tudo rodando de forma bastante satisfatória num aparelho antigo e fraco.
-
 Se ficou alguma dúvida, por favor, entre em contato diretamente comigo através do meu *e-mail*. Ele pode ser acessado no rodapé da página clicando no ícone envelope.
 
 Obrigado. =]
-
-
-ATUALIZAÇÃO (11/06/2021):
-
-Há três semanas comprei uma bateria nova (e original) para meu Moto G4 Play. Notei que o aparelho, com uma carga completa, chegou a aguentar 9 dias longe da tomada. Claro que o tempo de uso é bem baixo, pouco mais de 3 horas de tela, mas ainda assim mostra a eficiência energética do LineageOS instalado mesmo com os serviços da *Play Store* rodando ao fundo.
 
