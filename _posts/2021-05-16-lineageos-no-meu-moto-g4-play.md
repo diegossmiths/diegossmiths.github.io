@@ -3,7 +3,7 @@ layout: post
 title: LineageOS no meu Moto G4 Play
 description: "O que é o LineageOS? Um pouco do sistema operacional móvel, seus recursos, sua história, vantagens e desvantagens e como ter ele em seus aparelhos."
 keywords: lineageos, android, moto, g4, play, motorola, custom, rom
-updated: 2021-05-17 23:05:00 -0300
+updated: 2021-06-11 22:30:00 -0300
 ---
 
 ## O que é o LineageOS?
