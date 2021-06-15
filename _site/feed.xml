@@ -5,16 +5,16 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Jun 2021 23:24:59 -0300</pubDate>
-    <lastBuildDate>Sun, 13 Jun 2021 23:24:59 -0300</lastBuildDate>
+    <pubDate>Tue, 15 Jun 2021 09:39:34 -0300</pubDate>
+    <lastBuildDate>Tue, 15 Jun 2021 09:39:34 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
         <item>
-          <title>LineageOS no meu Moto G4 Play</title>
-          <description>&lt;aside&gt;
-  &lt;p&gt;&lt;strong&gt;Nota de atualização do artigo&lt;/strong&gt;: Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no Moto G4 Play. Acontece que tutoriais deste tipo mudam bastante de modelo para modelo. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o tutorial. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foi escrito. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.&lt;/p&gt;
-&lt;/aside&gt;
+          <title>LineageOS no Moto G4 Play</title>
+          <description>&lt;blockquote&gt;
+  &lt;p&gt;Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no Moto G4 Play. Acontece que tutoriais deste tipo mudam bastante de modelo para modelo. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o tutorial. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foi escrito. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;o-que-é-o-lineageos&quot;&gt;O que é o LineageOS?&lt;/h2&gt;
 
@@ -58,8 +58,8 @@
 
 </description>
           <pubDate>Sun, 16 May 2021 00:00:00 -0300</pubDate>
-          <link>http://localhost:4000/blog/lineageos-no-meu-moto-g4-play/</link>
-          <guid isPermaLink="true">http://localhost:4000/blog/lineageos-no-meu-moto-g4-play/</guid>
+          <link>http://localhost:4000/blog/lineageos-no-moto-g4-play/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/lineageos-no-moto-g4-play/</guid>
           
           
           
