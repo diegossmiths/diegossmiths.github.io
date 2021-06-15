@@ -36,7 +36,7 @@ p, ul, ol { margin: 0.5em auto; }
 
 hr { height: 1px; margin: 3em auto; border-width: 0; background-color: var(--content-color); }
 
-small, aside.disclaimer ul, aside p { font-size: smaller; opacity: 0.8; }
+small, aside.disclaimer ul, aside p { border-left: 0.33em solid var(--secondary-accent-color); font-size: smaller; opacity: 0.8; margin: 1.25em auto 0 !important; padding: 0.5em; }
 
 blockquote { border-left: 0.33em solid var(--secondary-accent-color); margin-left: 0.33em; padding-left: 0.5em; font-style: italic; }
 
