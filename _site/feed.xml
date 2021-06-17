@@ -5,22 +5,41 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Jun 2021 09:39:34 -0300</pubDate>
-    <lastBuildDate>Tue, 15 Jun 2021 09:39:34 -0300</lastBuildDate>
+    <pubDate>Thu, 17 Jun 2021 00:28:31 -0300</pubDate>
+    <lastBuildDate>Thu, 17 Jun 2021 00:28:31 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      
+        <item>
+          <title>Apresentando a cadeira Ynaê</title>
+          <description>&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+
+&lt;p&gt;Na Oficina Andurá, local onde trabalho, eu e meu irmão somos sócios. Por ser formado em arquitetura e urbanismo (&lt;a href=&quot;https://wp.ufpel.edu.br/faurb/]&quot;&gt;FAUrb-UFPel&lt;/a&gt;) boa parte do lado criativo do negócio vem dele. O Maturim, nossa primeira peça autoral, iniciou com uma ideia minha, masa foi através dele que o objeto tomou forma e chegou no &lt;em&gt;design&lt;/em&gt; final. Isso não significa que eu não dê meus pitacos e aja como um contrapeso que puxa as ideia do meu irmão de volta à terra.&lt;/p&gt;
+
+&lt;p&gt;Esta cadeira surgiu como uma encomenda e uma parceria. Ainda em 2020, um amigo nosso que trabalha com construção civil começou um projeto de um edifício dedicado à estudantes. Neste edifício, cada apartamento será feito em parceria com profissionais da região. Eles serão entregues mobiliados e decorados. O convite veio para fazermos uma cadeira, a cadeira de estudos/trabalho que equipará o pequeno espaço.&lt;/p&gt;
+
+</description>
+          <pubDate>Tue, 15 Jun 2021 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/cadeira-ynae/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/cadeira-ynae/</guid>
+          
+          
+          
+        </item>
+      
     
       
         <item>
           <title>LineageOS no Moto G4 Play</title>
           <description>&lt;blockquote&gt;
-  &lt;p&gt;Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no Moto G4 Play. Acontece que tutoriais deste tipo mudam bastante de modelo para modelo. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o tutorial. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foi escrito. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.&lt;/p&gt;
+  &lt;p&gt;Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_g4_play-8104.php#xt16030&quot;&gt;Moto G4 Play&lt;/a&gt;. Acontece que tutoriais deste tipo podem ser bastante diferentes dependendo do modelo de aparelho. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o meu. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foram escritos. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;o-que-é-o-lineageos&quot;&gt;O que é o LineageOS?&lt;/h2&gt;
 
-&lt;p&gt;O LineageOS é um sistema operacional gratuito e de código aberto para &lt;em&gt;smartphones&lt;/em&gt;, &lt;em&gt;tablets&lt;/em&gt; e &lt;em&gt;set-top boxes&lt;/em&gt;. É desenvolvido e mantido por uma comunidade de programadores, &lt;em&gt;designers&lt;/em&gt;, tradutores e demais pessoas que queiram ajudar no projeto. Ele é construído sobre a plataforma móvel Android.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;https://lineageos.org/&quot;&gt;LineageOS&lt;/a&gt; é um sistema operacional gratuito e de código aberto para &lt;em&gt;smartphones&lt;/em&gt;, &lt;em&gt;tablets&lt;/em&gt; e &lt;em&gt;set-top boxes&lt;/em&gt;. É desenvolvido e mantido por uma comunidade de programadores, &lt;em&gt;designers&lt;/em&gt;, tradutores e demais pessoas que queiram ajudar no projeto. Ele é construído sobre a plataforma móvel Android.&lt;/p&gt;
 
-&lt;p&gt;O Android, por sua vez, é um &lt;em&gt;software&lt;/em&gt; livre e também de código aberto desenvolvido internamente pela Google. Depois que todas as mudanças e atualizações de uma determinada versão foram feitas, o código fonte é aberto e lançado para a comunidade através do &lt;a href=&quot;https://source.android.com/&quot;&gt;AOSP&lt;/a&gt; (Android Open Source Project) num modelo chamado de &lt;a href=&quot;https://pt.wikipedia.org/wiki/A_Catedral_e_o_Bazar#Modelos_de_Desenvolvimento&quot;&gt;catedral&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O Android, por sua vez, é um &lt;em&gt;software&lt;/em&gt; livre e também de código aberto desenvolvido internamente pela Google. Depois que todas as mudanças e atualizações de uma determinada versão foram feitas, o código fonte é aberto e lançado para a comunidade através do &lt;a href=&quot;https://source.android.com/&quot;&gt;AOSP (Android Open Source Project)&lt;/a&gt; num modelo chamado de &lt;a href=&quot;https://pt.wikipedia.org/wiki/A_Catedral_e_o_Bazar#Modelos_de_Desenvolvimento&quot;&gt;catedral&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;O que a comunidade do LineageOS faz é pegar o código fonte do Android liberado pela Google e adaptá-lo para os mais diferentes aparelhos com o objetivo de oferecer recursos e opções que não existiam na versão oficial distribuída pela fabricante ou estender a vida útil dos aparelhos através de um suporte de longo prazo. O &lt;em&gt;Privacy Guard&lt;/em&gt;, recurso exclusivo, garante à você escolher de forma muito mais detalhada o que um aplicativo pode ou não fazer. Todas as dependências dos serviços da Google ficam de fora, assim como aquele monte de tralhas que as fabricantes e operadoras colocam, o que faz dele um sistema extremamente privativo, não invasivo e enxuto. Também é possível ter um controle muito maior das coisas todas. Temos a opção de instalar praticamente tudo o que queremos e desinstalar tudo o que não queremos.&lt;/p&gt;
 
@@ -40,17 +59,29 @@
 
 &lt;h2 id=&quot;minha-opinião-sobre&quot;&gt;Minha opinião sobre&lt;/h2&gt;
 
-&lt;p&gt;Fiz esse artigo com o objetivo de ajudar qualquer pessoa que queira se livrar, um pouco, das amarras da Google e das fabricantes, ficando livre para usar seu aparelho com uma liberdade muito maior. Também para dar uma vida nova àquele celular que todos temos atirado em algum canto da gaveta.&lt;/p&gt;
+&lt;p&gt;Para que eu possa dar minha opinião, temos que entrar um pouquinho no campo técnico da coisa.&lt;/p&gt;
 
-&lt;p&gt;Do &lt;strong&gt;ponto de vista de segurança&lt;/strong&gt;, tudo muito bom, um sistema operacional moderno e com atualizações semanais. Menos &lt;a href=&quot;https://pt.wikipedia.org/wiki/Backdoor&quot;&gt;&lt;em&gt;backdoors&lt;/em&gt;&lt;/a&gt; também.&lt;/p&gt;
+&lt;p&gt;Nativamente, o LineageOS é quase o Android puro (também chamado de &lt;em&gt;Android Vanilla&lt;/em&gt;), isto é, ele &lt;strong&gt;não&lt;/strong&gt; inclui o famoso &lt;em&gt;Google Mobile Services&lt;/em&gt;, que contém os &lt;a href=&quot;https://play.google.com/store/apps/dev?id=5700313618786177705&quot;&gt;aplicativos desenvolvidos pela Google&lt;/a&gt; (&lt;em&gt;Play Store&lt;/em&gt;, &lt;em&gt;Gmail&lt;/em&gt;, &lt;em&gt;Maps&lt;/em&gt;, &lt;em&gt;Drive&lt;/em&gt;, &lt;em&gt;Youtube&lt;/em&gt;, etc) e muitas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)&quot;&gt;bibliotecas proprietárias&lt;/a&gt;. De forma bem resumida, bibliotecas são pequenos programas que tem como função auxiliar programadores em seus projetos, fazendo com que partes nativas de um sistema sejam integrados aos seus programas. Um exemplo para deixar mais claro. Um programador deseja que o usuário importe uma foto para dentro do seu programa. Ele não precisa escrever o código da janela que será aberta para que o usuário navegue entre pastas e escolha a imagem. Para isso, o desenvolvedor chama uma biblioteca do sistema que se encarrega de mostrar a janela e enviar para seu &lt;em&gt;software&lt;/em&gt; a foto escolhida. Este método, além de deixar as coisas mais fáceis para o programador, deixa seu &lt;em&gt;software&lt;/em&gt; mais coeso com o sistema onde está rodando, tanto em termos visual quanto funcional. No &lt;em&gt;Windows&lt;/em&gt; são os famosos &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.dll&lt;/code&gt; e &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.lib&lt;/code&gt;, nos sistemas &lt;em&gt;Unix-like&lt;/em&gt; são os arquivos &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.a&lt;/code&gt; e &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.so&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;Do &lt;strong&gt;ponto de vista da usabilidade&lt;/strong&gt;, quase perfeito. Todos os recursos funcionam super bem. Câmera, GPS, Bluetooth… Inclusive agora o LED frontal que indica o carregamento da bateria também passou a funcionar. Falando nela, notei que a bateria começou a durar mais. Usando uma bateria nova (e original) que recém comprei, ele chegou a aguentar 9 dias longe da tomada. Claro que o tempo de uso é bem baixo, pouco mais de 3 horas de tela, mas ainda assim mostra a eficiência energética do LineageOS, mesmo com os serviços da &lt;em&gt;Play Store&lt;/em&gt; rodando ao fundo.&lt;/p&gt;
+&lt;p&gt;No caso das bibliotecas proprietárias da Google, elas não fazem parte do sistema operacional em si. Como já foi dito, o Android é um sistema de código aberto, mas as bibliotecas da Google são de código fechado. É nesse ponto que a Google ganha (ainda mais) dinheiro. Acontece que grande parte dos aplicativos para Android faz uso extenso destas bibliotecas, e se uma fabricante opta por não licenciá-las ela irá vender um aparelho no qual não será possível ao usuário instalar a maioria dos aplicativos “famosos” (dentre eles Facebook, Instagram, WhatsApp, Snapchat entre outros). Por exemplo, aplicativos como Uber, 99, Strava, Garmin Connect usam e abusam das bibliotecas de localização e mapas (onde o Maps é baseado). Se as bibliotecas da Google não estiverem presentes estes aplicativos não funcionam, alguns sequer abrem. E isso vale para vários outros, também. Sequer as notificações do sistema funcionam sem as bibliotecas da Google. Para tentar contornar isso, existem dois projetos que são mantidos pela comunidade.&lt;/p&gt;
 
-&lt;p&gt;Optei por instalar o Open GApps. O Open GApss é uma compilação dos aplicativos e serviços da Google para a instalação em um aparelho qualquer. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí, contando com a &lt;em&gt;Play Store&lt;/em&gt;, &lt;em&gt;Gmail&lt;/em&gt;, &lt;em&gt;Maps&lt;/em&gt;, &lt;em&gt;Drive&lt;/em&gt;, etc. Ele permitiu uma compatibilidade muito grande com aplicativos de terceiros. Testei o aplicativo do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executaram sem nenhum problema. WhatsApp, também. Não testei aplicativos como o Spotify e Nubank, mas creio que também funcionarão. Apesar de não ter testado, sei que Netflix &lt;strong&gt;não&lt;/strong&gt; funciona (e nem me fará falta). Algum outro também pode não funcionar, principalmente os de bancos.&lt;/p&gt;
+&lt;p&gt;O pimeiro é o &lt;a href=&quot;https://microg.org/&quot;&gt;microG&lt;/a&gt;. Surgido em 2017, ele já contou com apoio financeiro da &lt;a href=&quot;https://prototypefund.de/project/microg/&quot;&gt;PrototypeFund&lt;/a&gt;, um fundo de incentivo do &lt;a href=&quot;https://www.bmbf.de/en/index.html&quot;&gt;Bundesministerium für Bildung und Forschung (Ministério Federal de Educação e Pesquisa da Alemanha)&lt;/a&gt;. Atualmente é patrocinado pela &lt;a href=&quot;https://e.foundation&quot;&gt;/e/ Foundation&lt;/a&gt;. O projeto tem como objetivo reimplementar, em código aberto, os principais serviços proprietários da Google fazendo com que de forma alguma dependam de seus servidores. Provê somente os pacotes necessários para que aplicativos de terceiros funcionem de maneira correta (sistema de telemetria, de notificações, etc). O projeto ainda é bastante imaturo e não raramente acontecem problemas de compatibilidade. Por ser um aparelho que iria compartilhar com meu irmão, e sabendo o quanto ele é atrapalhado com esse tipo de coisa, optei por não utilizar o microG.&lt;/p&gt;
 
-&lt;p&gt;Agora, do &lt;strong&gt;ponto de vista da privacidade&lt;/strong&gt; temos um problema, pois, ao ganharmos usabilidade com o Open GApss, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.&lt;/p&gt;
+&lt;p&gt;A segunda saída é o &lt;a href=&quot;https://opengapps.org/&quot;&gt;Open GApps&lt;/a&gt;. Ele é uma compilação dos aplicativos e serviços oficiais da Google para a instalação em um aparelho qualquer. Apesar dos aplicativos serem os oficiais da Google, de código fechado e de propriedade da empresa, o &lt;em&gt;open&lt;/em&gt; do nome vem do &lt;em&gt;script&lt;/em&gt; utilizado para a criação do pacote de instalação, &lt;em&gt;script&lt;/em&gt; este de código aberto. Com o Open GApps, podemos escolher quais pacotes instalar, desde o básico até o pacote completo dos aplicativos da Google. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí, podendo contar com a &lt;em&gt;Play Store&lt;/em&gt;, &lt;em&gt;Gmail&lt;/em&gt;, &lt;em&gt;Maps&lt;/em&gt;, &lt;em&gt;Drive&lt;/em&gt;, etc. Optei por instalar o &lt;em&gt;Open GApps&lt;/em&gt; (variante Nano) no aparelho da empresa.&lt;/p&gt;
 
-&lt;p&gt;Enfim, colocando tudo na balança, na minha opinião a instalação do LineageOS vale a pena.  Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade, tudo rodando de forma bastante satisfatória num aparelho antigo e fraco. O uso do Open GApps é quase imprescindível para a maioria das pessoas.&lt;/p&gt;
+&lt;p&gt;Agora, com a parte técnica explicada, vamos para a minha breve análise do &lt;strong&gt;LineageOS 17.1 + Open GApss&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do &lt;strong&gt;ponto de vista de segurança&lt;/strong&gt;, melhor do que a instalação original da Motorola. Com o LineageOS passei a ter um sistema operacional mais moderno e com atualizações semanais. Os (poucos) entulhos que a Motorola havia posto no sistema original ficaram de fora. Algumas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Backdoor&quot;&gt;&lt;em&gt;backdoors&lt;/em&gt;&lt;/a&gt; também foram fechadas com isso.&lt;/p&gt;
+
+&lt;p&gt;Do &lt;strong&gt;ponto de vista da usabilidade&lt;/strong&gt;, quase perfeito. Todos os recursos funcionam super bem. Câmera, GPS, Bluetooth… Inclusive agora o LED frontal que indica o carregamento da bateria também passou a funcionar. Falando nela, notei que a bateria começou a durar mais. Usando uma bateria nova (e original) recém comprada, ele chegou a aguentar 9 dias longe da tomada. Claro que o tempo de uso é bem baixo, pouco mais de 3 horas de tela, mas ainda assim mostra a eficiência energética do LineageOS, mesmo com os serviços da &lt;em&gt;Google Mobile Services&lt;/em&gt; rodando ao fundo.&lt;/p&gt;
+
+&lt;p&gt;A instalação do &lt;em&gt;Open GApps&lt;/em&gt;, me permitiu uma compatibilidade muito grande com aplicativos de terceiros. Testei o aplicativo do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executaram sem nenhum problema. WhatsApp e Instagram, também. Não testei aplicativos como o Spotify e Nubank, mas creio que também funcionarão. Apesar de não ter testado, sei que Netflix &lt;strong&gt;não&lt;/strong&gt; funciona (e nem me fará falta). Outros também podem não funcionar, principalmente alguns de bancos e que caiam no problema de exibição de mídias com direitos autorais.&lt;/p&gt;
+
+&lt;p&gt;Agora, do &lt;strong&gt;ponto de vista da privacidade&lt;/strong&gt; temos um problema, pois, ao ganharmos usabilidade com o &lt;em&gt;Open GApss&lt;/em&gt;, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema do Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.&lt;/p&gt;
+
+&lt;p&gt;Enfim, colocando tudo na balança, na minha opinião a instalação do LineageOS vale a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade (desde que não seja instalado com o Open GApps). Tudo rodando de forma bastante satisfatória num aparelho antigo e fraco. O uso do Open GApps é quase imprescindível para a maioria das pessoas.&lt;/p&gt;
+
+&lt;p&gt;Num futuro próximo, pretendo instalar no meu &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_x4-8634.php#xt1900-6&quot;&gt;Moto X4&lt;/a&gt; o LineageOS 18.1 (baseado no Android 11) com o microG. Quando fizer, irei escrever outro artigo.&lt;/p&gt;
 
 &lt;p&gt;Se ficou alguma dúvida, por favor, entre em contato diretamente comigo através do meu &lt;em&gt;e-mail&lt;/em&gt;. Ele pode ser acessado no rodapé da página clicando no ícone envelope.&lt;/p&gt;
 
@@ -60,6 +91,62 @@
           <pubDate>Sun, 16 May 2021 00:00:00 -0300</pubDate>
           <link>http://localhost:4000/blog/lineageos-no-moto-g4-play/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/lineageos-no-moto-g4-play/</guid>
+          
+          
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>A_ambição</title>
+          <description>&lt;p&gt;Ontem terminei de ler o livro &lt;em&gt;O Cavaleiro preso na armadura&lt;/em&gt;. É uma fábula muito gostosa, de leitura fácil e que todos deveríamos ler ao menos uma vez a cada 6 meses, parar e pensar na vida que estamos levando. Não é difícil a gente se perder naquilo que achamos que é certo e cerrarmos nossos olhos para alternativas. Eu sinto que vivi em modo automático por algum tempo sem notar que estava vestindo uma armadura na minha volta.
+Houveram várias partes que poderia destacar, mas vou me focar em apenas duas.
+Em uma delas, o rei fala:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Nós levantamos barreiras para proteger quem pensamos ser. Então um dia ficamos presos atrás das barreiras e não conseguimos mais sair”&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hoje, analisando tudo o que se passou, sei que criei e vesti minha armadura não com o objetivo de “lutar”, mas de me esconder dos meus medos e dúvidas. Ali dentro, tudo parecia seguro e a princípio era confortável. Acontece que, enquanto para mim as coisas estavam tranquilas, ao vestir a armadura e andar por aí, acabei machucando algumas pessoas, afinal eu perdi o tato com o mundo externo e minha visão ficou limitada.
+Em outra determinada parte do livro, dentro do castelo do Conhecimento, há uma placa dizendo &lt;em&gt;Para   essa   fruta,   não   imponho   condição,   mas   que   você   agora aprenda sobre a ambição&lt;/em&gt;. Entramos na parte das ambições pessoais. Num trecho muito bonito há uma conversa entre o cavaleiro e Merlin, o mago fala:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;— A ambição originada  na  mente  pode  lhe  render  lindos  castelos  e  belos  cavalos.  Entretanto, somente a ambição que vem do coração pode trazer também felicidade.&lt;/em&gt;
+&lt;em&gt;— O que é ambição que vem do coração? — Questionou o cavaleiro&lt;/em&gt;
+&lt;em&gt;— A  ambição  do  coração  é  pura.  Ela  não  compete com  ninguém  e  nem fere  ninguém.  De  fato,ela  o  serve  de  tal  maneira  que  serve  os  outros  ao mesmo tempo.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No ano passado, em um determinado momento da minha vida, fiquei sem elas. Não tinha mais nenhuma, nem ambição originada na mente, nem ambição que vem do coração. Tudo parecia sem graça, sem sentido. Minha armadura, que antes era bonita e confortável, agora estava enferrujada e já machucava a mim também.
+E assim foi durante um bom tempo, um tempo que me serviu para ver que aquela armadura não adianta de nada, que ela apenas esconde a nossa verdadeira cara e que quando a ruína vem de dentro é a pior coisa que pode acontecer à uma pessoa.
+Eu, há alguns bons meses já venho me questionando sobre minhas ambições. O que eu realmente quero da minha vida, qual o meu plano aqui? Vestir uma armadura para lutar contra dragões que nunca virão? E coisas antigas que estavam atiradas há muito tempo em alguns cantos do meu jardim reapareceram e… ao mesmo tempo que sentia raiva, angústia e remorso, me perguntando o motivo delas estarem perdidas, me sentia feliz em tê-las encontrado novamente. Sentimentos de lembranças de quem realmente sou. De quem uma pequena criança chamada Diego era.
+Desde pequeno, lembro de ainda estar nas séries iniciais do colégio, eu sempre almejei ter uma família. Uma esposa e uma filha, para ser mais preciso (na terapia, dia desses eu acho que entendi o motivo de ser uma filha em específico). Lembro já pensar nisso, em como eu queria ter um cantinho nosso. Um lugar um pouco afastado do tumulto, do caos da vida, um lugar que pudéssemos viver em paz, contemplando a natureza e a nossa companhia. Mais tarde aconteceu uma mudança nessa ambição. Depois de assistir um filme chamado “Tempo de recomeçar” (Life as a house), veio a ideia de construir minha própria casa de madeira.
+O âmbito profissional sempre foi uma coisa complicada para mim. Nunca soube exatamente o que fazer, não almejava nada. Entrei para a faculdade sem saber o que queria. Me formei em análise de sistemas, trabalhei uns anos na área mas no fundo isso não me completava e acabou que com o tempo comecei a perder a vontade de viver. Saí do meu antigo emprego e fiquei fazendo outras coisas que não tinham muito a ver com a minha área. Em 2016, meu irmão, prestes a se formar, me convidou para iniciar um negócio que envolvia marcenaria e produção cenográfica para eventos. A isso foi a porta de entrada para a marcenaria, que me daria uma base para uma parte da outra realização, a de construir minha casa. Com o tempo, fui estudando e ficando admirado com as obras japonesas. Para ser sincero, nunca gostei da marcenaria ocidental, mas a oriental me pegou de jeito. Era realmente apaixonante ver os vídeos do Ishitani. Mesmo assim ainda não sabia bem onde chegar com isso. Ok, trabalhar com madeira é legal, mas… Um dia, assistindo um video do Morito, um japonês que mora no Brasil, ele disse a seguinte frase.
+_Não quero ser considerado o melhor marceneiro, apenas quero ser o cara que sabe fazer as coisas bem feitas.&lt;/p&gt;
+
+&lt;p&gt;https://whiplash.net/materias/news_731/331228-rush.html&lt;/p&gt;
+
+&lt;p&gt;https://www.loudersound.com/features/the-story-behind-the-song-metallicas-nothing-else-matters&lt;/p&gt;
+
+&lt;p&gt;https://www.tenhomaisdiscosqueamigos.com/2021/05/22/led-zeppelin-robert-plant-rush-geddy-lee/&lt;/p&gt;
+
+&lt;p&gt;Dia desses li uma matéria no &lt;a href=&quot;https://www.tenhomaisdiscosqueamigos.com/2021/05/22/led-zeppelin-robert-plant-rush-geddy-lee/&quot;&gt;Tenho mais discos que amigos&lt;/a&gt; que contava uma história sobre o Rush e o Led Zeppelin. Na matéria, o autor falava de uma entrevista que o Geddy Lee deu para a revista inglesa &lt;a href=&quot;https://www.loudersound.com/classic-rock&quot;&gt;Classic Rock&lt;/a&gt;. Nesta entrevista, o vocalista e baixista do Rush contou como, em 1998, um telefonema de Robert Plant salvou o destino de uma das bandas de rock progessivo mais influentes da história.&lt;/p&gt;
+
+&lt;p&gt;Um ano antes, a única filha de Neal Peart (baterista do Rush), Selena, de apenas 19 anos, havia falecido num trágico acidente de carro. Não preciso dizer que isso foi motivo para Neal “perder o chão”. Inclusive este evento resultou num livro fantástico (&lt;a href=&quot;https://www.belasletras.com.br/produto/ghost-rider-a-estrada-da-cura-9&quot;&gt;editora&lt;/a&gt; / &lt;a href=&quot;https://www.kobo.com/br/pt/ebook/ghost-rider-12&quot;&gt;Kobo&lt;/a&gt;) escrito pelo músico, mas esta é outra história. Não somente o pai ficou no fundo do poço, mas a banda como um todo, todos sentiram. Eles entraram num longo hiato, e em um determinado momento, chegaram a declarar que não sabiam se voltariam a subir num palco.&lt;/p&gt;
+
+&lt;p&gt;Voltamos para 1998. Neste ano o Led Zeppelin estava em turnê mundial e dos lugares no qual eles tocariam era em Toronto, no Canadá. Lee conta que em um determinado momento, alguém ligou para o escritório da banda e se identificou como Robert Plant. Na hora ninguém acreditou, mas Lee ligou de volta e, sim, era realmente o clássico vocalista do Led querendo falar com o Rush. Lee conta:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nós estávamos em um hiato depois que Selena faleceu e não estávamos em um bom lugar. Eu liguei de volta para o Robert, e ele queria que nós fossemos para o show deles (Page &amp;amp; Plant), e eu estava bastante para baixo naquele momento. E ele disse, ‘Não, venha para o show e a gente conversa’. Ele entendia o que estava rolando com a banda. Eu lembro dele dizer: ‘Você precisa retomar sua vida, e logo é melhor do que tarde. Então levanta esse rabo até aqui’. Então eu liguei para o Alex (Lifeson, guitarrista) e nós fomos ver Page &amp;amp; Plant. &lt;br /&gt;
+Eles foram muito legais. Eles foram gentis. Não há nada melhor que se encontrar com alguém que você admira por tantos anos e por tantas razões e descobrir que eles são verdadeiros cavalheiros.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Este foi o pontapé que faltava para devolver a vida ao trio.&lt;/p&gt;
+
+</description>
+          <pubDate>Fri, 07 May 2021 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/a_ambi%C3%A7%C3%A3o/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/a_ambi%C3%A7%C3%A3o/</guid>
           
           
           
@@ -231,6 +318,47 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
           <pubDate>Thu, 18 Mar 2021 00:00:00 -0300</pubDate>
           <link>http://localhost:4000/blog/the_darkest_skies_are_the_brightest/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/the_darkest_skies_are_the_brightest/</guid>
+          
+          
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>Cnc</title>
+          <description>
+&lt;p&gt;Laser:&lt;/p&gt;
+
+&lt;p&gt;Motor de passo NEMA 17:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Marca: JChangzhou Jkongmotor Co., Ltd.&lt;/li&gt;
+  &lt;li&gt;Modelo: JK42HS40-1004AC&lt;/li&gt;
+  &lt;li&gt;Angulo do Passo: 1,8° ±5%;&lt;/li&gt;
+  &lt;li&gt;Número de Fase: 02;&lt;/li&gt;
+  &lt;li&gt;Classe de Isolação: B;&lt;/li&gt;
+  &lt;li&gt;Rigidez Dielétrica: 500 VAC 1min;&lt;/li&gt;
+  &lt;li&gt;Resistência de Isolação: 100 MO Min. 500 VDC;&lt;/li&gt;
+  &lt;li&gt;Esforço Radial: 28N máx.;&lt;/li&gt;
+  &lt;li&gt;Esforço Axial: 10N máx.;&lt;/li&gt;
+  &lt;li&gt;Holding Torque: 4,8 Kgf.cm;&lt;/li&gt;
+  &lt;li&gt;Tensão por Fase: 3,9 VDC;&lt;/li&gt;
+  &lt;li&gt;Corrente por Fase: 1,0 A;&lt;/li&gt;
+  &lt;li&gt;Resistência por Fase: 3,9 O ±10%;&lt;/li&gt;
+  &lt;li&gt;Indutância por Fase: 8,9 mH ±20%;&lt;/li&gt;
+  &lt;li&gt;Número de Fios: 04;&lt;/li&gt;
+  &lt;li&gt;Detent torque: 260 g.cm&lt;/li&gt;
+  &lt;li&gt;Rotor inertia: 68 g.cm²&lt;/li&gt;
+  &lt;li&gt;Dimensões: Vide Imagens do produto;&lt;/li&gt;
+  &lt;li&gt;Peso: 280 g;&lt;/li&gt;
+  &lt;li&gt;Certificação: CCC, ce, ISO, RoHS, UL, ISO9001&lt;/li&gt;
+  &lt;li&gt;Certificação do motor: CE,ROHS ,ISO9001&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+          <pubDate>Thu, 30 Jul 2020 00:00:00 -0300</pubDate>
+          <link>http://localhost:4000/blog/cnc/</link>
+          <guid isPermaLink="true">http://localhost:4000/blog/cnc/</guid>
           
           
           
