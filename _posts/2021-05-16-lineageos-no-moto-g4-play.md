@@ -3,7 +3,7 @@ layout: post
 title: LineageOS no Moto G4 Play
 description: "O que é o LineageOS? Um pouco do sistema operacional móvel, seus recursos, sua história, vantagens e desvantagens."
 keywords: lineageos, android, moto, g4, play, motorola, custom, rom
-updated: 2021-06-17 08:31:00 -0300
+updated: 2021-06-17 20:58:00 -0300
 ---
 
 > Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php#xt16030). Acontece que tutoriais deste tipo podem ser bastante diferentes dependendo do modelo de aparelho. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o meu. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foram escritos. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.
@@ -42,7 +42,7 @@ O pimeiro é o [microG](https://microg.org/). Surgido em 2017, ele já contou co
 
 A segunda saída é o [Open GApps](https://opengapps.org/). Ele é uma compilação dos aplicativos e serviços oficiais da Google para a instalação em um aparelho qualquer. Apesar dos aplicativos serem os oficiais da Google, de código fechado e de propriedade da empresa, o *open* do nome vem do *script* utilizado para a criação do pacote de instalação, *script* este de código aberto. Com o Open GApps, podemos escolher quais pacotes instalar, desde o básico até o pacote completo dos aplicativos da Google. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí, podendo contar com a *Play Store*, *Gmail*, *Maps*, *Drive*, etc. Optei por instalar o *Open GApps* (variante Nano) no aparelho da empresa.
 
-Agora, com a parte técnica explicada, vamos para a minha breve análise do **LineageOS 17.1 + Open GApss**.
+Agora, com a parte técnica explicada, vamos para a minha breve análise do **LineageOS 17.1 + Open GApps**.
 
 Do **ponto de vista de segurança**, melhor do que a instalação original da Motorola. Com o LineageOS passei a ter um sistema operacional mais moderno e com atualizações semanais. Os (poucos) entulhos que a Motorola havia posto no sistema original ficaram de fora. Algumas [*backdoors*](https://pt.wikipedia.org/wiki/Backdoor) também foram fechadas com isso.
 
@@ -50,7 +50,7 @@ Do **ponto de vista da usabilidade**, quase perfeito. Todos os recursos funciona
 
 A instalação do *Open GApps*, me permitiu uma compatibilidade muito grande com aplicativos de terceiros. Testei o aplicativo do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executaram sem nenhum problema. WhatsApp e Instagram, também. Não testei aplicativos como o Spotify e Nubank, mas creio que também funcionarão. Apesar de não ter testado, sei que Netflix **não** funciona (e nem me fará falta). Outros também podem não funcionar, principalmente alguns de bancos e que caiam no problema de exibição de mídias com direitos autorais.
 
-Agora, do **ponto de vista da privacidade** temos um problema, pois, ao ganharmos usabilidade com o *Open GApss*, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema do Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.
+Agora, do **ponto de vista da privacidade** temos um problema, pois, ao ganharmos usabilidade com o *Open GApps*, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema do Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.
 
 Enfim, colocando tudo na balança, na minha opinião a instalação do LineageOS vale a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade (desde que não seja instalado com o Open GApps). Tudo rodando de forma bastante satisfatória num aparelho antigo e fraco. O uso do Open GApps é quase imprescindível para a maioria das pessoas.
 
