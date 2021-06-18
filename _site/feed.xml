@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jun 2021 00:33:36 -0300</pubDate>
-    <lastBuildDate>Thu, 17 Jun 2021 00:33:36 -0300</lastBuildDate>
+    <pubDate>Thu, 17 Jun 2021 21:54:31 -0300</pubDate>
+    <lastBuildDate>Thu, 17 Jun 2021 21:54:31 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -63,13 +63,13 @@
 
 &lt;p&gt;Nativamente, o LineageOS é quase o Android puro (também chamado de &lt;em&gt;Android Vanilla&lt;/em&gt;), isto é, ele &lt;strong&gt;não&lt;/strong&gt; inclui o famoso &lt;em&gt;Google Mobile Services&lt;/em&gt;, que contém os &lt;a href=&quot;https://play.google.com/store/apps/dev?id=5700313618786177705&quot;&gt;aplicativos desenvolvidos pela Google&lt;/a&gt; (&lt;em&gt;Play Store&lt;/em&gt;, &lt;em&gt;Gmail&lt;/em&gt;, &lt;em&gt;Maps&lt;/em&gt;, &lt;em&gt;Drive&lt;/em&gt;, &lt;em&gt;Youtube&lt;/em&gt;, etc) e muitas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)&quot;&gt;bibliotecas proprietárias&lt;/a&gt;. De forma bem resumida, bibliotecas são pequenos programas que tem como função auxiliar programadores em seus projetos, fazendo com que partes nativas de um sistema sejam integrados aos seus programas. Um exemplo para deixar mais claro. Um programador deseja que o usuário importe uma foto para dentro do seu programa. Ele não precisa escrever o código da janela que será aberta para que o usuário navegue entre pastas e escolha a imagem. Para isso, o desenvolvedor chama uma biblioteca do sistema que se encarrega de mostrar a janela e enviar para seu &lt;em&gt;software&lt;/em&gt; a foto escolhida. Este método, além de deixar as coisas mais fáceis para o programador, deixa seu &lt;em&gt;software&lt;/em&gt; mais coeso com o sistema onde está rodando, tanto em termos visual quanto funcional. No &lt;em&gt;Windows&lt;/em&gt; são os famosos &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.dll&lt;/code&gt; e &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.lib&lt;/code&gt;, nos sistemas &lt;em&gt;Unix-like&lt;/em&gt; são os arquivos &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.a&lt;/code&gt; e &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.so&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;No caso das bibliotecas proprietárias da Google, elas não fazem parte do sistema operacional em si. Como já foi dito, o Android é um sistema de código aberto, mas as bibliotecas da Google são de código fechado. É nesse ponto que a Google ganha (ainda mais) dinheiro. Acontece que grande parte dos aplicativos para Android faz uso extenso destas bibliotecas, e se uma fabricante opta por não licenciá-las ela irá vender um aparelho no qual não será possível ao usuário instalar a maioria dos aplicativos “famosos” (dentre eles Facebook, Instagram, WhatsApp, Snapchat entre outros). Por exemplo, aplicativos como Uber, 99, Strava, Garmin Connect usam e abusam das bibliotecas de localização e mapas (onde o Maps é baseado). Se as bibliotecas da Google não estiverem presentes estes aplicativos não funcionam, alguns sequer abrem. E isso vale para vários outros, também. Sequer as notificações do sistema funcionam sem as bibliotecas da Google. Para tentar contornar isso, existem dois projetos que são mantidos pela comunidade.&lt;/p&gt;
+&lt;p&gt;No caso das bibliotecas proprietárias da Google, elas não fazem parte do sistema operacional em si. Como já foi dito, o Android é um sistema de código aberto, mas as bibliotecas da Google são de código fechado. É nesse ponto que a Google ganha (ainda mais) dinheiro. Acontece que grande parte dos aplicativos para Android faz uso extenso destas bibliotecas, e se uma fabricante opta por não licenciá-las ela irá vender um aparelho no qual não será possível ao usuário instalar a maioria dos aplicativos “famosos” (dentre eles Facebook, Instagram, WhatsApp, Snapchat entre outros). Por exemplo, aplicativos como Uber, 99, Strava, Garmin Connect usam e abusam das bibliotecas de localização e mapas (onde o &lt;em&gt;Maps&lt;/em&gt; é baseado). Se as bibliotecas da Google não estiverem presentes estes aplicativos não funcionam, alguns nem abrem. E isso vale para vários outros, também. As notificações do sistema sequer funcionam sem o &lt;em&gt;GMS&lt;/em&gt; presente. Para tentar contornar isso, existem dois projetos que são mantidos pela comunidade.&lt;/p&gt;
 
 &lt;p&gt;O pimeiro é o &lt;a href=&quot;https://microg.org/&quot;&gt;microG&lt;/a&gt;. Surgido em 2017, ele já contou com apoio financeiro da &lt;a href=&quot;https://prototypefund.de/project/microg/&quot;&gt;PrototypeFund&lt;/a&gt;, um fundo de incentivo do &lt;a href=&quot;https://www.bmbf.de/en/index.html&quot;&gt;Bundesministerium für Bildung und Forschung (Ministério Federal de Educação e Pesquisa da Alemanha)&lt;/a&gt;. Atualmente é patrocinado pela &lt;a href=&quot;https://e.foundation&quot;&gt;/e/ Foundation&lt;/a&gt;. O projeto tem como objetivo reimplementar, em código aberto, os principais serviços proprietários da Google fazendo com que de forma alguma dependam de seus servidores. Provê somente os pacotes necessários para que aplicativos de terceiros funcionem de maneira correta (sistema de telemetria, de notificações, etc). O projeto ainda é bastante imaturo e não raramente acontecem problemas de compatibilidade. Por ser um aparelho que iria compartilhar com meu irmão, e sabendo o quanto ele é atrapalhado com esse tipo de coisa, optei por não utilizar o microG.&lt;/p&gt;
 
 &lt;p&gt;A segunda saída é o &lt;a href=&quot;https://opengapps.org/&quot;&gt;Open GApps&lt;/a&gt;. Ele é uma compilação dos aplicativos e serviços oficiais da Google para a instalação em um aparelho qualquer. Apesar dos aplicativos serem os oficiais da Google, de código fechado e de propriedade da empresa, o &lt;em&gt;open&lt;/em&gt; do nome vem do &lt;em&gt;script&lt;/em&gt; utilizado para a criação do pacote de instalação, &lt;em&gt;script&lt;/em&gt; este de código aberto. Com o Open GApps, podemos escolher quais pacotes instalar, desde o básico até o pacote completo dos aplicativos da Google. Dessa maneira, o resultado final será um sistema operacional muito semelhante ao encontrado nos telefones vendidos por aí, podendo contar com a &lt;em&gt;Play Store&lt;/em&gt;, &lt;em&gt;Gmail&lt;/em&gt;, &lt;em&gt;Maps&lt;/em&gt;, &lt;em&gt;Drive&lt;/em&gt;, etc. Optei por instalar o &lt;em&gt;Open GApps&lt;/em&gt; (variante Nano) no aparelho da empresa.&lt;/p&gt;
 
-&lt;p&gt;Agora, com a parte técnica explicada, vamos para a minha breve análise do &lt;strong&gt;LineageOS 17.1 + Open GApss&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Agora, com a parte técnica explicada, vamos para a minha breve análise do &lt;strong&gt;LineageOS 17.1 + Open GApps&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Do &lt;strong&gt;ponto de vista de segurança&lt;/strong&gt;, melhor do que a instalação original da Motorola. Com o LineageOS passei a ter um sistema operacional mais moderno e com atualizações semanais. Os (poucos) entulhos que a Motorola havia posto no sistema original ficaram de fora. Algumas &lt;a href=&quot;https://pt.wikipedia.org/wiki/Backdoor&quot;&gt;&lt;em&gt;backdoors&lt;/em&gt;&lt;/a&gt; também foram fechadas com isso.&lt;/p&gt;
 
@@ -77,7 +77,7 @@
 
 &lt;p&gt;A instalação do &lt;em&gt;Open GApps&lt;/em&gt;, me permitiu uma compatibilidade muito grande com aplicativos de terceiros. Testei o aplicativo do Banco do Brasil e do Banco Inter, meus únicos dois bancos, e ambos executaram sem nenhum problema. WhatsApp e Instagram, também. Não testei aplicativos como o Spotify e Nubank, mas creio que também funcionarão. Apesar de não ter testado, sei que Netflix &lt;strong&gt;não&lt;/strong&gt; funciona (e nem me fará falta). Outros também podem não funcionar, principalmente alguns de bancos e que caiam no problema de exibição de mídias com direitos autorais.&lt;/p&gt;
 
-&lt;p&gt;Agora, do &lt;strong&gt;ponto de vista da privacidade&lt;/strong&gt; temos um problema, pois, ao ganharmos usabilidade com o &lt;em&gt;Open GApss&lt;/em&gt;, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema do Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.&lt;/p&gt;
+&lt;p&gt;Agora, do &lt;strong&gt;ponto de vista da privacidade&lt;/strong&gt; temos um problema, pois, ao ganharmos usabilidade com o &lt;em&gt;Open GApps&lt;/em&gt;, perdemos privacidade, visto que é necessário termos uma conta Google para poder ter acesso ao ecossistema do Android. Com isso, nossos passos voltam a ser rastreados e novamente somos usados como mercadorias. É uma faca de dois gumes.&lt;/p&gt;
 
 &lt;p&gt;Enfim, colocando tudo na balança, na minha opinião a instalação do LineageOS vale a pena. Temos um sistema operacional moderno que permite inúmeros novos recursos, mais segurança e muito mais privacidade (desde que não seja instalado com o Open GApps). Tudo rodando de forma bastante satisfatória num aparelho antigo e fraco. O uso do Open GApps é quase imprescindível para a maioria das pessoas.&lt;/p&gt;
 
@@ -88,7 +88,7 @@
 &lt;p&gt;Obrigado. =]&lt;/p&gt;
 
 </description>
-          <pubDate>Sun, 16 May 2021 00:00:00 -0300</pubDate>
+          <pubDate>Sun, 16 May 2021 08:35:19 -0300</pubDate>
           <link>http://localhost:4000/blog/lineageos-no-moto-g4-play/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/lineageos-no-moto-g4-play/</guid>
           
@@ -187,7 +187,7 @@ Eu amei te ver •&lt;/em&gt; &lt;br /&gt;
 &lt;p&gt;Tiago Iorc - Amei te ver&lt;/p&gt;
 
 </description>
-          <pubDate>Tue, 27 Apr 2021 00:00:00 -0300</pubDate>
+          <pubDate>Tue, 27 Apr 2021 23:19:10 -0300</pubDate>
           <link>http://localhost:4000/blog/amei_te_ver/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/amei_te_ver/</guid>
           
@@ -219,7 +219,7 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
 
 &lt;p&gt;Aerosmith - Dream on&lt;/p&gt;
 </description>
-          <pubDate>Thu, 22 Apr 2021 00:00:00 -0300</pubDate>
+          <pubDate>Thu, 22 Apr 2021 22:54:38 -0300</pubDate>
           <link>http://localhost:4000/blog/sonhe/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/sonhe/</guid>
           
@@ -247,7 +247,7 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
 
 &lt;p&gt;O último álbum citado anteriormente, o da pegada acústica e intimista, o motivo desta postagem estar sendo escrita, veio depois de um período turbulento na vida da artista.&lt;/p&gt;
 
-&lt;p&gt;Em 2016 ela resolveu voltar ao gênero que a consagrou e que tanto gosta, o rock/metal progressivo. Fundou então a VUUR, banda formada por integrantes de outras bandas de metal. Em 2017 lançaram o primeiro disco (&lt;em&gt;In This Moment We Are Free – Cities&lt;/em&gt;), que teve uma recepção mista, mas puxando mais para favorável que não favorável. Para a produção do disco e da turnê, Anneke gastou quase todas as finanças que tinha. Após o término, ela concluiu que apostar mais uma vez no VUUR significaria ter riscos financeiros enormes.&lt;/p&gt;
+&lt;p&gt;Em 2016 ela resolveu voltar ao gênero que a consagrou e que tanto gosta, o rock/metal progressivo. Fundou então a &lt;a href=&quot;http://www.vuur.band/&quot;&gt;VUUR&lt;/a&gt;, banda formada por integrantes de outras bandas de metal. Em 2017 lançaram o primeiro disco (&lt;em&gt;In This Moment We Are Free – Cities&lt;/em&gt;), que teve uma recepção mista, mas puxando mais para favorável que não favorável. Para a produção do disco e da turnê, Anneke gastou quase todas as finanças que tinha. Após o término, ela concluiu que apostar mais uma vez no VUUR significaria ter riscos financeiros enormes.&lt;/p&gt;
 
 &lt;p&gt;Somado a isso, em 2018 temos um outro fato, mais marcante que o anterior, o fim do casamento entre ela e Rob Snijders, empresário e músico. Ele inclusive é o baterista da Anneke desde 2007 em sua carreira solo.&lt;/p&gt;
 
@@ -315,7 +315,7 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
 &lt;/ul&gt;
 
 </description>
-          <pubDate>Thu, 18 Mar 2021 00:00:00 -0300</pubDate>
+          <pubDate>Thu, 18 Mar 2021 23:18:20 -0300</pubDate>
           <link>http://localhost:4000/blog/the_darkest_skies_are_the_brightest/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/the_darkest_skies_are_the_brightest/</guid>
           
@@ -396,7 +396,7 @@ Dream until your dreams come true •&lt;/em&gt; &lt;br /&gt;
 
 &lt;p&gt;Uma boa leitura.&lt;/p&gt;
 </description>
-          <pubDate>Mon, 13 Jul 2020 00:00:00 -0300</pubDate>
+          <pubDate>Mon, 13 Jul 2020 20:43:45 -0300</pubDate>
           <link>http://localhost:4000/blog/por_que_escrever_um_blog/</link>
           <guid isPermaLink="true">http://localhost:4000/blog/por_que_escrever_um_blog/</guid>
           

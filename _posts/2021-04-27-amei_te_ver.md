@@ -3,6 +3,7 @@ layout: post
 title: Amei te ver
 description: Homenagem à minha mãe no dia dos 3 anos do seu falecimento.
 keywords: mãe, homenagem, falecimento, lua, flores, cassino
+date: 2021-04-27 23:19:10 -0300
 ---
 
 ![Foto tirada na beira da praia, mostrando minha mão direita segurando três flores, duas vermelhas e uma branca, com a luz do Sol realçando-as, em homenagem à minha querida mãe](/images/blog/2021-04-27-amei_te_ver/homenagem.webp "Homenagem à minha mãe"){:width="1000" height="1333"}
@@ -24,11 +25,11 @@ keywords: mãe, homenagem, falecimento, lua, flores, cassino
 E ao fim da minha oração, ouço tocando em um carro: "eu amei te ver, eu amei te ver..." E ela amava essa música. Obrigado, mãe. Eu também amei te ver.
 
 &#127932; \\
-_Não vou voltar tão cedo • \\
+*Não vou voltar tão cedo • \\
 Mas vou voltar porque • \\
 Eu amei te ver • \\
 Eu amei te ver • \\
-Eu amei te ver •_ \\
+Eu amei te ver •* \\
 &#127932;
 
 Tiago Iorc - Amei te ver
