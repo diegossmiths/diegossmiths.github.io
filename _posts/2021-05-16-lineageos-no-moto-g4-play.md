@@ -7,7 +7,7 @@ date: 2021-05-16 08:35:19 -0300
 updated: 2021-06-17 21:27:00 -0300
 ---
 
-> Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php#xt16030). Acontece que tutoriais deste tipo podem ser bastante diferentes dependendo do modelo de aparelho. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o meu. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foram escritos. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.
+> Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php#xt16030). Acontece que tutoriais deste tipo podem ser bastante diferentes dependendo do modelo de aparelho. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o meu. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foram escritos. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.
 
 ## O que é o LineageOS?
 

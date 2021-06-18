@@ -5,8 +5,8 @@
     <description>Uma viagem pelo meu jardim • Diego Schild Smiths</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jun 2021 21:54:31 -0300</pubDate>
-    <lastBuildDate>Thu, 17 Jun 2021 21:54:31 -0300</lastBuildDate>
+    <pubDate>Fri, 18 Jun 2021 08:53:50 -0300</pubDate>
+    <lastBuildDate>Fri, 18 Jun 2021 08:53:50 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       
@@ -32,7 +32,7 @@
         <item>
           <title>LineageOS no Moto G4 Play</title>
           <description>&lt;blockquote&gt;
-  &lt;p&gt;Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_g4_play-8104.php#xt16030&quot;&gt;Moto G4 Play&lt;/a&gt;. Acontece que tutoriais deste tipo podem ser bastante diferentes dependendo do modelo de aparelho. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o meu. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo exatamente semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foram escritos. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.&lt;/p&gt;
+  &lt;p&gt;Anteriormente, na primeira versão escrita, havia um tutorial de como instalar o LineageOS no &lt;a href=&quot;https://www.gsmarena.com/motorola_moto_g4_play-8104.php#xt16030&quot;&gt;Moto G4 Play&lt;/a&gt;. Acontece que tutoriais deste tipo podem ser bastante diferentes dependendo do modelo de aparelho. Soma-se ao fato de que, conforme os desenvolvedores vão modificando o sistema os tutoriais oficiais também vão sendo atualizados. Baseado nisso, resolvi retirar o meu. Na página oficial da distribuição, todos os aparelhos contam com tutoriais oficiais.  Não tinha sentido eu fazer algo semelhante sendo que as únicas diferenças seriam a linguagem utilizada (lá inglês, aqui português) e a forma como foram escritos. Confesso que o meu parecia mais detalhado, mas mesmo assim resolvi retirar. Me sinto melhor assim.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;o-que-é-o-lineageos&quot;&gt;O que é o LineageOS?&lt;/h2&gt;
