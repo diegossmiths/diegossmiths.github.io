@@ -24,12 +24,12 @@ date: 2021-04-27 23:19:10 -0300
 
 E ao fim da minha oração, ouço tocando em um carro: "eu amei te ver, eu amei te ver..." E ela amava essa música. Obrigado, mãe. Eu também amei te ver.
 
-&#127932; \\
-*Não vou voltar tão cedo • \\
+> &#127932; \\
+Não vou voltar tão cedo • \\
 Mas vou voltar porque • \\
 Eu amei te ver • \\
 Eu amei te ver • \\
-Eu amei te ver •* \\
+Eu amei te ver • \\
 &#127932;
 
 Tiago Iorc - Amei te ver
