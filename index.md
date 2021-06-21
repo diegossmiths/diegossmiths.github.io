@@ -13,7 +13,7 @@ permalink: /
 
 Sou um cara meio _nerd_ que mora em Pelotas/RS/Brasil.
 
-Tenho, por natureza, interesse em várias áreas, e elas são bastante amplas: marcenaria (minha profissão), computação (minha graduação), filosofia, literatura, ciclismo e música. Não necessariamente nesta ordem.
+Tenho, por natureza, interesse em várias áreas, e elas são bastante amplas: marcenaria (minha profissão), computação (minha graduação), natureza, filosofia, literatura, ciclismo e música. Não necessariamente nesta ordem.
 
 Sou tutor do melhor e mais bonito cachorro do mundo, o Vígi. Vígi (pronuncia-se “Vígui”) é um _Schnauzer_ miniatura de pelo branco nascido em 29 de maio de 2011. Ah, ele chegou a ter um [_blog_](https://sobrebarbasebigodes.wordpress.com/), mas cansou e parou de escrever.
 

@@ -59,5 +59,5 @@ Num futuro próximo, pretendo instalar no meu [Moto X4](https://www.gsmarena.com
 
 Se ficou alguma dúvida, por favor, entre em contato diretamente comigo através do meu *e-mail*. Ele pode ser acessado no rodapé da página clicando no ícone envelope.
 
-Obrigado. =]
+Até mais. =]
 
