@@ -1,4 +1,4 @@
-# diegossmiths.gitlab.com
+# diegossmiths.github.com
 
 Meu pequeno jardim nesse mundo virtual.
 
