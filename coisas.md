@@ -9,9 +9,9 @@ permalink: /coisas/
 
 # Coisas que eu uso
 
-Esta talvez seja uma das primeiras perguntas que as pessoas fazem quando dizemos que fazemos algo. Ao invés de ficar escrevendo sobre isso nas postagens, resolvi colocar tudo aqui, todas as coisas que costumo usar no dia-a-dia.
+Quando dizemos que fazemos algo, sempre perguntam "o que tu usas para fazer isso?". Adiantando, resolvi colocar as coisas que costumo usar no dia-a-dia. A lista cobre desde materiais de marcenaria até equipamentos de informática e *softwares* em geral.
 
-A lista cobre várias coisas, desde equipamento de informática, materiais de marcenaria a softwares em geral.
+PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algumas coisinhas para ser feliz](../presentes).
 
 ---
 
@@ -49,7 +49,7 @@ A lista cobre várias coisas, desde equipamento de informática, materiais de ma
 
 ## Leitor de livros digitais:
 
-- Kobo Glo HD. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Toda minha coleção de livros está nele.
+- Kobo Glo HD. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
 
 ## Aparelho de celular:
 
