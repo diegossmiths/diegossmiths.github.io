@@ -21,5 +21,3 @@ Também sou, desde 2016, proprietário de uma marcenaria, a Oficina Andurá. Jun
 
 Tento me guiar por alguns ideais, como "consumo consciente" (sim, entre aspas, isso é um pouco complicado de falar), _Copyleft_, _Creative Commons_, _software_ livre e preservação ambiental. Provavelmente, em algum momento alguns deles serão discutidos no _blog_.
 
-Bem vindos nesta viagem ao meu jardim, sintam-se à vontade e uma boa leitura. =]
-
