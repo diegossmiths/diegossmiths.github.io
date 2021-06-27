@@ -8,15 +8,15 @@
     <img class="logo" src="/logo.svg" alt="Logo do sítio, uma libélula desenhada de perfil, com o corpo na cor verde e as asas na cor vermelha" widht="2250" height="2250" >
   </a>
 
-  <a href="/blog/" {% if current[1] == 'blog' %}class='current'{% endif %} title="Blog">Blog</a>
+  <a href="/blog/" {% if current[1] == 'blog' %}class='current'{% endif %} title="O meu blog">Blog</a>
   <a href="/coisas/" {% if current[1] == 'coisas' %}class='current'{% endif %} title="Coisas que eu uso">Coisas</a>
 
   {% if current[1] == 'presentes' %}
-    <a href="/presentes/" class='current' title="Lista de presentes">Lista de presentes</a>
+    <a href="/presentes/" class='current' title="Minha lista de presentes">Lista de presentes</a>
   {% endif %}
 
   {% if current[1] == 'creditos' %}
-    <a href="/creditos/" class='current' title="Créditos">Créditos</a>
+    <a href="/creditos/" class='current' title="Créditos do sítio">Créditos</a>
   {% endif %}
 
   {% if current[1] == 'sobre' %}
