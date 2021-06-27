@@ -84,7 +84,7 @@ section.grid > * { padding: 0 1em 2em; }
 nav { background-color: var(--background-color); color: var(--primary-color); display: flex; flex-flow: row nowrap; overflow-x: auto; position: sticky; top: 0; z-index: 1; border-bottom: 1px solid #999; }
 @media print { nav { display: none; } }
 nav .box { display: flex; flex: 1 0 auto; max-width: 50em; margin: 0 auto; }
-nav a { color: inherit; display: flex; flex-flow: row nowrap; font-size: 1rem; font-weight: 300; opacity: 1; padding: 0.75em; }
+nav a { color: inherit; display: flex; flex-flow: row nowrap; font-size: 1rem; font-weight: 400; opacity: 1; padding: 0.75em; }
 nav a:hover, nav a:focus { background-color: var(--background-color); color: var(--primary-color); border: none; color: inherit; opacity: 0.5; outline: none; text-decoration: none; }
 nav a.current, nav a:active { background-color: var(--background-color); color: var(--accent-color); }
 nav .logo { border: none; max-height: 2em; max-width: 2em; display: block; margin: -0.4em -0.25em -0.6em; }
