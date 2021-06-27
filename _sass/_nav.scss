@@ -38,7 +38,7 @@ nav {
                 color: var(--primary-color); // define a cor de fundo quando um item estiver em foco ou quando o mouse estiver por cima
                 border: none; // define as bordas
                 color: inherit; // define a cor do item, neste caso herdada
-                opacity: 0.5; // define a opacidade em 75% quando um item estiver em foco ou quando o mouse estiver por cima
+                opacity: 0.5; // define a opacidade em 50% quando um item estiver em foco ou quando o mouse estiver por cima
                 outline: none; // retira o contorno do item ao selecionar um link
                 text-decoration: none; // retira qualquer decoração do item
             }
@@ -47,6 +47,7 @@ nav {
             &:active {
 		        background-color: var(--background-color); // define a cor de fundo para o item atual e ativo
 		        color: var(--accent-color); // define a cor do item para o item atual e ativo
+                font-weight: 700;
             }
     }
 
