@@ -1,5 +1,5 @@
 @charset "UTF-8";
-:root { --background-color: #ffffff; --primary-color: #008B8B; --accent-color: #ff7474; --secondary-accent-color: #FFDBDB; --content-color: #63666A; }
+:root { --background-color: #ffffff; --primary-color: #008B8B; --accent-color: #ff7474; --secondary-accent-color: #FFDBDB; --content-color: #555555; }
 
 @media print { :root { --background-color: #ffffff; } }
 /* Carrega a fonte Inter peso 300 no alfabeto latino */
