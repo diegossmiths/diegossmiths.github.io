@@ -6,7 +6,7 @@ keywords: mãe, homenagem, falecimento, lua, flores, cassino
 date: 2021-04-27 23:19:10 -0300
 ---
 
-![Foto tirada na beira da praia, mostrando minha mão direita segurando três flores, duas vermelhas e uma branca, com a luz do Sol realçando-as, em homenagem à minha querida mãe](/images/blog/2021-04-27-amei_te_ver/homenagem.webp "Homenagem à minha mãe"){:width="1000" height="1333"}
+![Foto tirada na beira da praia, mostrando minha mão direita segurando três flores, duas vermelhas e uma branca, com a luz do Sol realçando-as, em homenagem à minha mãe](/images/blog/2021-04-27-amei_te_ver/homenagem.webp){:width="1000" height="1333"}
 
 > Oi, mãe. Hoje, 3 anos se passaram desde aquele dia. Ainda sinto tua falta. \\
 > ... \\

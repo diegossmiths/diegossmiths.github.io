@@ -2,9 +2,7 @@
 :root { --background-color: #ffffff; --primary-color: #008B8B; --accent-color: #ff7474; --secondary-accent-color: #FFDBDB; --content-color: #555555; }
 
 @media print { :root { --background-color: #ffffff; } }
-/* Carrega a fonte Inter peso 300 no alfabeto latino */
-@font-face { font-family: 'Inter'; font-display: swap; font-style: normal; font-weight: 300; src: local("Inter-Light"), url("../fonts/inter-v3-latin-300.woff2") format("woff2"); }
-/* Carrega a fonte Inter peos regular no alfabeto latino */
+/* Carrega a fonte Inter peso regular no alfabeto latino */
 @font-face { font-family: 'Inter'; font-display: swap; font-style: normal; font-weight: 400; src: local("Inter-Regular"), url("../fonts/inter-v3-latin-regular.woff2") format("woff2"); }
 /* Carrega a fonte Inter peso 700 no alfabeto latino */
 @font-face { font-family: 'Inter'; font-display: swap; font-style: normal; font-weight: 700; src: local("Inter-Bold"), url("../fonts/inter-v3-latin-700.woff2") format("woff2"); }
