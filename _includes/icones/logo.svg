@@ -5,38 +5,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="600mm"
-   height="600mm"
-   viewBox="0 0 600 600"
+   width="2250"
+   height="2250"
+   viewBox="0 0 595.3125 595.3125"
    version="1.1"
-   id="svg8"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="logo.svg">
+   id="svg8">
   <title
      id="title1116">Logo &quot;Uma viagem pelo meu jardim&quot;</title>
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.0875"
-     inkscape:cx="1498.0137"
-     inkscape:cy="1466.3764"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="737"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -59,27 +36,21 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
+     id="g856">
+    <path
+       style="fill:#008184;fill-opacity:1;stroke:none;stroke-width:1.61604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 548.15931,286.67447 c -18.6269,-44.2705 -46.40477,-24.53949 -50.58297,1.97028 -79.17797,-29.17571 -85.01524,13.35887 -93.35647,59.02821 C 237.7793,551.4537 70.67011,523.56355 47.434158,576.96186 74.148129,582.89483 279.66795,509.79321 413.36027,366.05249 c 40.90338,-41.51018 78.62589,-2.66469 92.02294,-60.30754 11.92487,7.20491 30.01183,29.99488 42.7761,-19.07048 z"
+       id="path176" />
     <g
-       id="g1114"
-       transform="matrix(5.9953311,0.9937489,-0.99429413,5.9920435,-91.098454,-615.37616)">
+       id="g850">
       <path
-         style="fill:#008b8b;fill-opacity:1;stroke:#008b8b;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 128.29599,129.66486 c -4.19374,-6.65428 -8.14995,-2.72242 -8.11418,1.6728 -13.56565,-2.59396 -13.36834,4.43491 -13.49131,12.03733 -21.412388,37.38282 -49.140704,37.35109 -51.461423,46.60116 4.472142,0.24331 35.695896,-17.07132 53.429713,-43.87622 5.49181,-7.80231 12.6233,-2.5359 13.24172,-12.20833 2.11842,0.84483 5.64938,4.04283 6.39548,-4.22674 z"
-         id="path176"
-         sodipodi:nodetypes="ccccccc" />
+         style="fill:#ff7e7b;fill-opacity:1;stroke:none;stroke-width:1.61604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 408.06601,308.95878 C 322.30264,246.93601 178.79671,166.86069 156.32203,194.1856 80.06317,324.82507 364.63129,340.49909 408.06601,308.95878 Z"
+         id="path178" />
       <path
-         style="fill:#ff7474;fill-opacity:1;stroke:#ff7474;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 106.27408,137.01672 C 90.764986,129.2918 65.449201,120.19618 62.552717,125.21303 c -8.811846,23.15017 37.553693,18.06289 43.721363,11.80369 z"
-         id="path178"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:#ff7474;fill-opacity:1;stroke:#ff7474;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 108.48182,132.45016 C 98.913002,118.00564 76.448712,91.696599 71.431859,94.593076 52.225494,110.23578 100.01085,134.78694 108.48182,132.45016 Z"
-         id="path178-3"
-         sodipodi:nodetypes="ccc" />
+         style="fill:#ff7e7b;fill-opacity:1;stroke:none;stroke-width:1.61604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 425.93893,283.65811 C 382.69985,187.09472 273.59009,6.1850893 240.45392,18.620084 109.04399,93.655777 372.54154,289.27137 425.93893,283.65811 Z"
+         id="path178-3" />
     </g>
   </g>
 </svg>
