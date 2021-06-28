@@ -17,61 +17,60 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Máquinas e ferramentas de marcenaria:
 
-- Desempenadeira: Omil DES-40
-- Desengrossadeira: Invicta DGI-40
-- Esquadrejadeira: Maksiwa ESQ 1900 I Black Edition
-- Formões: Genéricos
-- Fresadora de junção: Makita PJ7000
-- Guia de afiação: Veritas MKII
-- Parafusadeira elétrica: Bosch GSR 7-14 E
-- Plaina manual: Veritas #5¼ _bench plane_ (com faca em aço PMV-11®)
-- Serra circular elétrica portátil: Bosch GKS 65 GCE
-- Tupia de coluna: Makita RP2301FC
-- Tupia laminadora: Makita RT0700C
+- **Desempenadeira:** Omil DES-40
+- **Desengrossadeira:** Invicta DGI-40
+- **Esquadrejadeira:** Maksiwa ESQ 1900 I Black Edition
+- **Formões:** Genéricos
+- **Fresadora de junção:** Makita PJ7000
+- **Guia de afiação:** Veritas MKII
+- **Parafusadeira elétrica:** Bosch GSR 7-14 E
+- **Plaina manual:** Veritas #5¼ _bench plane_ (com faca em aço PMV-11®)
+- **Serra circular elétrica portátil:** Bosch GKS 65 GCE
+- **Tupia de coluna:** Makita RP2301FC
+- **Tupia laminadora:** Makita RT0700C
 
 ## Computador:
 
-- Toshiba Satellite U405-S2830. É com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém.
+- **Toshiba Satellite U405-S2830**. "Nascido" em 2008, é com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém.
 
 <details markdown="1">
-<summary>A configuração dele é:</summary>
+<summary>Clique aqui para ver sua configuração:</summary>
 
-  - _Hardware_:
-    - CPU: Intel Core 2 Duo T8100 (2.1 GHz / 3 MB Cache L2 / TDP 35 Watts)
-    - Memória: 4 GiB SO-DIMM DDR2 (667 MHz / dual channel)
-    - Armazenamento: SSD Western Digital WD Green 120 GB SATA
-    - Chipset / GPU: Intel GM965 / GMA X3100
-    - Tela: 13,3″ WXGA (1280×800)
-    - Teclado: Microsoft Wireless Keyboard 3000 v2.0
-    - Mouse: Microsoft Wireless Mouse 5000
-  - _Software_:
-    - Sistema operacional: elementary OS 5.1.7 (GNU/Linux x86-64)
-    - Navegador de internet: Mozilla Firefox
-    - Suíte de escritório: LibreOffice
-    - Organizador de e-books: Calibre (utilizo principalmente para remover o DRM dos livros digitais)
-    - Contabilidade da marcenaria: HomeBank
-    - Trabalho gráfico: Inkscape / GIMP / Scribus
+  - **_Hardware_:**
+    - **CPU:** Intel Core 2 Duo T8100 (2.1 GHz / 3 MB Cache L2 / TDP 35 Watts)
+    - **Memória:** 4 GiB SO-DIMM DDR2 (667 MHz / dual channel)
+    - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
+    - **Chipset / GPU:** Intel GM965 / GMA X3100
+    - **Tela:** 13,3″ WXGA (1280×800)
+    - **Teclado:** Microsoft Wireless Keyboard 3000 v2.0
+    - **Mouse:** Microsoft Wireless Mouse 5000
+  - **_Software_:**
+    - **Sistema operacional:** elementary OS 5.1.7 (GNU/Linux x86-64)
+    - **Navegador de internet:** Mozilla Firefox
+    - **Suíte de escritório:** LibreOffice
+    - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais)
+    - **Contabilidade da marcenaria:** HomeBank
+    - **Trabalho gráfico:** Inkscape / GIMP / Scribus
 </details>
 
 
 ## Leitor de livros digitais:
 
-- Kobo Glo HD. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
+- **Kobo Glo HD**. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
 
 ## Aparelho de celular:
 
-- Motorola Moto X4.
+- **Motorola Moto X4**.
 
 ## Fones de ouvido:
 
-- Sennheiser HD 598. Um excelente fone de ouvido de alta fidelidade para uso doméstico.
+- **Sennheiser HD 598**. Um excelente fone de ouvido de alta fidelidade para uso doméstico.
 
 ## Serviços
 
-- DuckDuckGo. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
+- **DuckDuckGo**. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
 
-- Fastmail. Troquei minha conta principal de email para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos do Google. Possui integração com calendário, contatos, servidor de arquivos e bloco de anotações.
+- **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos do Google. Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. [Clique aqui para um desconto de 10% na sua assinatura](https://ref.fm/u26152512) (e de quebra um descontinho para mim ,também).
 
-- Spotify. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
-
+- **Spotify**. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
