@@ -54,6 +54,8 @@ aside.disclaimer ul { list-style: none; margin-left: 0; padding-left: 0; }
 aside.disclaimer ul li { padding-left: 1em; }
 aside.disclaimer ul li:before { content: "•"; font-size: 1.25em; padding-right: 0.25em; }
 
+details summary { padding: 0 0 0 1.5em; }
+
 .highlighter-rouge, .highlight, pre, code { background-color: var(--secondary-accent-color); border-radius: 5px; font-family: inherit; }
 
 pre code { font-size: 90%; line-height: 1.5em; overflow: auto; padding: 0.5em; display: block; color: inherit; }
