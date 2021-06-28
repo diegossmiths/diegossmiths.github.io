@@ -31,21 +31,38 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Computador:
 
-- Toshiba Satellite U405-S2830. É com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém. A configuração dele é:
-  - CPU: Intel Core 2 Duo T8100 (2.1 GHz // 3 MB Cache L2 // TDP 35 Watts)
-  - Memória: 4 GiB SO-DIMM DDR2 (667 MHz // dual channel)
-  - Armazenamento: SSD Western Digital WD Green 120 GB SATA
-  - Chipset / GPU: Intel GM965 / GMA X3100
-  - Tela: 13,3″ WXGA (1280×800)
-  - Teclado: Microsoft Wireless Keyboard 3000 v2.0
-  - Mouse: Microsoft Wireless Mouse 5000
-  - Programas:
-    - Sistema operacional: elementary OS 5.1.7 (GNU/Linux x86-64)
-    - Navegador de internet: Mozilla Firefox
-    - Suíte de escritório: LibreOffice
-    - Organizador de e-books: Calibre (utilizo principalmente para remover o DRM dos livros digitais)
-    - Contabilidade da marcenaria: HomeBank
-    - Trabalho gráfico: Inkscape / GIMP / Scribus
+- Toshiba Satellite U405-S2830. É com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém.
+
+<details><summary>A configuração dele é:</summary>
+
++ CPU: Intel Core 2 Duo T8100 (2.1 GHz // 3 MB Cache L2 // TDP 35 Watts)
++ Memória: 4 GiB SO-DIMM DDR2 (667 MHz // dual channel)
++ Armazenamento: SSD Western Digital WD Green 120 GB SATA
++ Chipset / GPU: Intel GM965 / GMA X3100
++ Tela: 13,3″ WXGA (1280×800)
++ Teclado: Microsoft Wireless Keyboard 3000 v2.0
++ Mouse: Microsoft Wireless Mouse 5000
++ Programas:
+    + Sistema operacional: elementary OS 5.1.7 (GNU/Linux x86-64)
+    + Navegador de internet: Mozilla Firefox
+    + Suíte de escritório: LibreOffice
+    + Organizador de e-books: Calibre (utilizo principalmente para remover o DRM dos livros digitais)
+    + Contabilidade da marcenaria: HomeBank
+    + Trabalho gráfico: Inkscape / GIMP / Scribus
+
+</details>
+
+
+<details>
+<summary>Heading</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
+
 
 ## Leitor de livros digitais:
 
