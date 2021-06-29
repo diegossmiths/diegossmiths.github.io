@@ -70,7 +70,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 - **DuckDuckGo**. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
 
-- **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido e é menos uma coisa para eu deixar nas mãos das [*big techs*](https://en.wikipedia.org/wiki/Big_Tech "Em inglês"). Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. Tenho o plano que custa US$ 5,00, e se você [clicar aqui ganha 10% de desconto na sua assinatura](https://ref.fm/u26152512) (e de quebra dá um descontinho para mim).
+- **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido e é menos uma coisa para eu deixar nas mãos das [*big techs*](https://en.wikipedia.org/wiki/Big_Tech "Em inglês"). Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. Tenho o plano que custa US$ 5,00 por mês e se você [clicar aqui ganha 10% de desconto na sua assinatura](https://ref.fm/u26152512) (e de quebra dá um descontinho para mim).
 
 - **Spotify**. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente "quase oficial" para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
