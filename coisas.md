@@ -11,7 +11,7 @@ permalink: /coisas/
 
 Quando dizemos que fazemos algo, sempre perguntam "o que tu usas para fazer isso?". Adiantando, resolvi colocar as coisas que costumo usar no dia-a-dia. A lista cobre desde materiais de marcenaria até equipamentos de informática e *softwares* em geral.
 
-PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algumas coisinhas para ser feliz](../presentes).
+PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algumas coisinhas para ser feliz](../presentes/).
 
 ---
 
@@ -60,7 +60,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Aparelho de celular:
 
-- **Motorola Moto X4**.
+- **Motorola Moto X4**. Quase comprei em 2017 quando foi lançado,  mas só agora em abril de 2021 que peguei um usado. Em breve com LineageOS rodando nele.
 
 ## Fones de ouvido:
 
@@ -70,7 +70,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 - **DuckDuckGo**. Como buscador padrão em todo e qualquer ambiente eu uso o DuckDuckGo, um buscador que respeita a privacidade do usuário. A qualidade dos resultados vem melhorando bastante nos últimos tempos.
 
-- **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos do Google. Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. [Clique aqui para um desconto de 10% na sua assinatura](https://ref.fm/u26152512) (e de quebra um descontinho para mim ,também).
+- **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido, e é menos uma coisa para eu deixar nas mãos das "[*big techs*](https://en.wikipedia.org/wiki/Big_Tech "Em inglês")". Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. Tenho o plano que custa US$ 5,00, e se você [clicar aqui ganha desconto de 10% na sua assinatura](https://ref.fm/u26152512) (e de quebra um descontinho para mim).
 
-- **Spotify**. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
+- **Spotify**. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente "quase oficial" para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
