@@ -17,6 +17,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Máquinas e ferramentas de marcenaria:
 
+- **CNC Laser:** OpenBuilds ACRO System
 - **Desempenadeira:** Omil DES-40
 - **Desengrossadeira:** Invicta DGI-40
 - **Esquadrejadeira:** Maksiwa ESQ 1900 I Black Edition
