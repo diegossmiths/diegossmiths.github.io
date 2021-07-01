@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sobre a página. Licenças e origens.
+title: Sobre a página.
 description: O nome. A logo. O conteúdo. Os códigos.
 keywords: blog, motivo, escrever, diego, schild, smiths
 ---
