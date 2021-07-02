@@ -4,7 +4,7 @@
 <!-- Título da página -->
   <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
 
-<!-- Meta tags W3C -->
+<!-- Meta tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
@@ -13,6 +13,7 @@
   <meta name="theme-color" content="{% if page.theme-color %}{{ page.theme-color }}{% else %}{{ site.theme-color }}{% endif %}">
   <meta name="image" content="/logo.svg">
   <meta name="robots" content="index, follow">
+  <meta rel="canonical" href="{{ site.url }}{{ page.url }}">
 
 <!-- Carregando o arquivo CSS para o HTML -->
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}">
