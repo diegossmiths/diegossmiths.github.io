@@ -13,7 +13,9 @@
   <meta name="theme-color" content="{% if page.theme-color %}{{ page.theme-color }}{% else %}{{ site.theme-color }}{% endif %}">
   <meta name="image" content="/logo.svg">
   <meta name="robots" content="index, follow">
-  <meta rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+<!-- Estabalecendo relação canônica -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
 <!-- Carregando o arquivo CSS para o HTML -->
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}">

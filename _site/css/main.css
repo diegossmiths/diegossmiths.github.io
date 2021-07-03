@@ -28,7 +28,7 @@ h5 { font-size: 1rem; font-weight: 700; letter-spacing: -0.05em; opacity: 0.7; }
 
 h6 { font-size: 1rem; font-weight: 700; letter-spacing: -0.05em; opacity: 0.6; }
 
-p, li { line-height: 2em; }
+p, li { line-height: 2em; hyphens: auto; }
 
 p, ul, ol { margin: 0.5em auto; }
 
