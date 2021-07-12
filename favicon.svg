@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="2250"
+   height="2250"
+   viewBox="0 0 595.3125 595.3125"
+   version="1.1"
+   id="svg8">
+  <title
+     id="title1116">Logo &quot;Uma viagem pelo meu jardim&quot;</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo &quot;Uma viagem pelo meu jardim&quot;</dc:title>
+        <dc:date>2021-04-19</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Diego Schild Smiths</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>pt-BR</dc:language>
+        <cc:license
+           rdf:resource="" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g856">
+    <path
+       style="fill:#008184;fill-opacity:1;stroke:none;stroke-width:1.61604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 548.15931,286.67447 c -18.6269,-44.2705 -46.40477,-24.53949 -50.58297,1.97028 -79.17797,-29.17571 -85.01524,13.35887 -93.35647,59.02821 C 237.7793,551.4537 70.67011,523.56355 47.434158,576.96186 74.148129,582.89483 279.66795,509.79321 413.36027,366.05249 c 40.90338,-41.51018 78.62589,-2.66469 92.02294,-60.30754 11.92487,7.20491 30.01183,29.99488 42.7761,-19.07048 z"
+       id="path176" />
+    <g
+       id="g850">
+      <path
+         style="fill:#ff7e7b;fill-opacity:1;stroke:none;stroke-width:1.61604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 408.06601,308.95878 C 322.30264,246.93601 178.79671,166.86069 156.32203,194.1856 80.06317,324.82507 364.63129,340.49909 408.06601,308.95878 Z"
+         id="path178" />
+      <path
+         style="fill:#ff7e7b;fill-opacity:1;stroke:none;stroke-width:1.61604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 425.93893,283.65811 C 382.69985,187.09472 273.59009,6.1850893 240.45392,18.620084 109.04399,93.655777 372.54154,289.27137 425.93893,283.65811 Z"
+         id="path178-3" />
+    </g>
+  </g>
+</svg>
