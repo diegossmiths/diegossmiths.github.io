@@ -50,4 +50,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
+  - drafts/
+  - _site/
