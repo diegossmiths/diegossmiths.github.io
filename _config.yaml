@@ -1,18 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Arquivo de configuração do sítio
+# Versão 1.2
+# 2021-07-12
+# GPLv3
 
-# Site settings
+# SEO > https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Uma viagem pelo meu jardim • Diego Schild Smiths
 author: Diego Schild Smiths
 description: Uma viagem pelo meu jardim • Diego Schild Smiths
 keywords: diego schild smiths, diego, schild, smiths, pagina, site, pessoal, blog
 
 
-# Contact
+# Contatos
 email_address: diegossmiths@fastmail.com
 gitlab_username: diegossmiths
 instagram_username: diegossmiths
@@ -21,19 +19,17 @@ strava_username: diegossmiths
 pocket_username: diegossmiths
 
 
-# Site settings:
-
-url: "https://umaviagempelomeujardim.net" # the base hostname & protocol for your site, e.g. http://example.com
+# Configurações:
+url: "https://umaviagempelomeujardim.net"
 baseurl: "" # usado para subdomínios dentro do site
 theme-color: '#008b8b'
-#theme: minima
 languages: pt_BR
 lang: pt
 locale: pt_BR
 permalink: /blog/:title/
 markdown: kramdown
-# paginate: 10
-# paginate_path: /page:num/
+#paginate: 10
+#paginate_path: /page:num/
 
 
 # Plugins
@@ -42,22 +38,16 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Excluir do processamento
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
