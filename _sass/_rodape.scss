@@ -12,14 +12,14 @@ footer {
   flex: 0 0 60px; // define que os itens não podem se expandir nem se contrair para preencher o espaço setado na última veriável
   text-align: center; // alinha os textos no centro
   width: 100%; // largura do rodapé ocupa 100% do espaço de tela
-  padding: 0 0 0.5em 0; // define a borda superior, direita, inferior e esquerda
+  padding: 0.5em 0; // define a borda superior, direita, inferior e esquerda
 
 
 // Define uma lista não ordenada para os ícones dos serviço aos quais eu tenho conta
   ul.social {
     margin: 0; // define a margem para 0
     padding: 0; // define a borda para 0
-    line-height: 2em;
+    line-height: 1.75em;
 
 // Define os itens da lista
     li {
@@ -32,10 +32,10 @@ footer {
 // define as configurações dos links do rodapé
     a {
       display: inline-block; // gera um bloco e força os elementos a serem exibidos um após o outro na linha
-      line-height: 2em; // altura de linha
-      height: 2em; // altura do link
-      width: 2em; // largura do link
-//      transition: 500ms; // define o tempo de transição de um item
+      line-height: 1.75em; // altura de linha
+      height: 1.75em; // altura do link
+      width: 1.75em; // largura do link
+      transition: 500ms; // define o tempo de transição de um item
 
 // define o que acontece quando passamos o mouse sobre um item ou selecionamos ele
         &:hover,
@@ -50,7 +50,7 @@ footer {
       fill: var(--primary-color);
       height: auto;
       vertical-align: middle;
-      width: 1.4em;
+      width: 1.75em;
     }
   }
 

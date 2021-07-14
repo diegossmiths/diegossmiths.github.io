@@ -31,6 +31,7 @@ nav {
         font-weight: 400; // peso da fonte, neste caso definida em 300
         opacity: 1; // opacidade em 100%
         padding: 0.75em; // gera espaço ao redor dos itens do menu
+        transition: 500ms;
 
             &:hover,
             &:focus {
