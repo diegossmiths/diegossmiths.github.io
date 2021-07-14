@@ -5,7 +5,7 @@
   font-style: normal; // estilo da fonte padrão
   font-weight: 400; // peso da fonte
   src: local('Inter-Regular'),
-    url('../assets/fonts/inter-v3-latin-regular.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
+    url('../fonts/inter-v3-latin-regular.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
 }
 
 /* Carrega a fonte Inter peso 700 no alfabeto latino */
@@ -15,7 +15,7 @@
   font-style: normal; // estilo da fonte padrão
   font-weight: 700; // peso da fonte
   src: local('Inter-Bold'),
-    url('../assets/fonts/inter-v3-latin-700.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
+    url('../fonts/inter-v3-latin-700.woff2') format('woff2'), // se a fonte não estive no computador do usuário, carregar remoto
 }
 
 
