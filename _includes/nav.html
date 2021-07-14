@@ -5,7 +5,7 @@
   {% assign current = page.url | downcase | split: '/' %}
 
   <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Página inicial">
-    <img class="logo" src="/logo.svg" alt="Logo do sítio, uma libélula desenhada de perfil, com o corpo na cor verde e as asas na cor vermelha" widht="2250" height="2250" >
+    <img class="logo" src="/assets/images/icons/logo.svg" alt="Logo do sítio, uma libélula desenhada de perfil, com o corpo na cor verde e as asas na cor vermelha" widht="2250" height="2250" >
   </a>
 
   <a href="/blog/" {% if current[1] == 'blog' %}class='current'{% endif %} title="O meu blog">Blog</a>

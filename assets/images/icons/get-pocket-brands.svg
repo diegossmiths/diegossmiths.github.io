@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="get-pocket"
+   class="svg-inline--fa fa-get-pocket fa-w-14"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   width="512"
+   height="512">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <path
+     fill="currentColor"
+     d="M 439.6,56 H 72.6 C 50.5,56 32,74.5 32,96.6 V 231.8 C 32,356.5 131.7,456 256.2,456 380.2,456 480,356.5 480,231.8 V 96.6 C 480,74.2 462.3,56 439.6,56 Z m -162,268.5 c -12.4,11.8 -31.4,11.1 -42.4,0 C 121.5,215.6 120.3,219.4 120.3,201.3 c 0,-16.9 13.8,-30.7 30.7,-30.7 17,0 16.1,3.8 105.2,89.3 90.6,-86.9 88.6,-89.3 105.5,-89.3 16.9,0 30.7,13.8 30.7,30.7 0,17.8 -2.9,15.7 -114.8,123.2 z"
+     id="path2"
+     style="fill:#008184;fill-opacity:1" />
+</svg>
