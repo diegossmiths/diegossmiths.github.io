@@ -9,7 +9,7 @@ layout: default
   <p class="descricao">{{ page.description }}</p>
 
   {% if page.updated %}
-    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Publicado em {{ page.date | date: "%F" }}, mas atualizado em {{ page.updated | date: "%F" }}</time>
+    <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Publicado em {{ page.date | date: "%F" }} mas atualizado em {{ page.updated | date: "%F" }}</time>
   {% else %}
     <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">Publicado em {{ page.date | date: "%F" }}</time>
   {% endif %}
