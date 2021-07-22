@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revelação, redenção, recomeço
-description: O fim da Andurá como minha profissão e seu reinício como um projeto pessoal junto ao meu irmão.
+description: O fim da Andurá como minha profissão e seu reinício como um projeto pessoal.
 keywords: fim, término, oficina, andurá, marcenaria, recomeço
 date: 2021-07-20 12:50:00 -0300
 ---
