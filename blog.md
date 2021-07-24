@@ -9,7 +9,7 @@ permalink: blog/
 
 # Blog
 
-Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. Caso desejes conversar, sinta-se à vontade para enviar um e-mail (o endereço está no ícone de envelope no rodapé da página). Sinta-se à vontade e, por favor, pise na grama. =]
+Aqui, neste pequeno lugar, é onde escrevo e compartilho minhas ideias. Caso desejes conversar, por favor, envie um e-mail (o endereço está no ícone de envelope no rodapé da página). Sinta-se à vontade e, por favor, pise na grama. =]
 
 
 ---
