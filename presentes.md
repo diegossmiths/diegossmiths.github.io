@@ -15,6 +15,8 @@ Antes da lista, o mais importante. Se possível não comprar nada em lojas como 
 
 - [Pote de vidro Marinex de 1L](https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/s/m/sm400072503n_02_1.jpg) ou [2L](https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/s/m/sm400072703n_03.jpg);
 
+- [Pote de vidro Ruvolo 2L](https://www.pontofrio-imagens.com.br/UtilidadesDomesticas/Potes/1505129888/1423498429/pote-hermetico-de-vidro-italiano-bormioli-rocco-fido-com-tampa-azul-2000ml-1505129888.jpg) (Onde encontrar: Supermercados Guanabara);
+
 - [Jogo americano de bambú, liso (sem estampa), em cor escura](https://cd.shoppub.com.br/casaevida/media/cache/7f/79/7f79cf9256082a5d7deff515239034cf.jpg);
 
 - Vaso de cerâmica para o meu trevo roxo (Oxalis triangularis). Vasinhos como [este](https://st4.depositphotos.com/19112482/31064/i/1600/depositphotos_310640672-stock-photo-purple-oxalis-triangularis-house-plant.jpg), [este](https://cdn.shopify.com/s/files/1/1419/7120/files/oxalis_triang_skybluebowl_large.jpg?v=1492464702) ou [este](https://i.pinimg.com/236x/c5/2d/7c/c52d7c5f323e2c9e61895217476cfb4c.jpg?nii=t). As cores podem ser roxa, branca ou parecidas com estas dos exemplos;

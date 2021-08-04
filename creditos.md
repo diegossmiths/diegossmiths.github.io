@@ -13,7 +13,7 @@ permalink: /creditos/
 
 ## Tecnologias utilizadas
 
-- Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador de _sites_ estáticos, de código aberto e distribuído sob [licença MIT](https://choosealicense.com/licenses/mit/).
+- Este site foi construído utilizando [Jekyll](https://jekyllrb.com/). Jekyll é um gerador de *sites* estáticos, de código aberto e distribuído sob [licença MIT](https://choosealicense.com/licenses/mit/).
 
 - A fonte tipográfica utilizada é a [Inter](https://rsms.me/inter/), desenhada por [Rasmus Andersson](https://rsms.me/) em 2016 e desde então em constante evolução. Ela é distribuída sob [SIL Open Font License 1.1](https://choosealicense.com/licenses/ofl-1.1/).
 
