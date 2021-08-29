@@ -16,7 +16,7 @@ No dia 13 de junho de 2006, criei uma conta em um serviço *online* chamado [Las
 
 Quando a contagem chegou em 99.990, parei e fiquei pensando nas últimas 10 que seriam necessárias para a marca. Elas teriam que ser especiais de alguma forma. Resolvi então fazer uma lista que inicialmente contava com cerca de 21 músicas e que aos poucos foi sendo podada. A marca pode ser vista na captura de tela abaixo, e a justificativa das escolhas logo após.
 
-[![Captura de tela mostrando a minha página no Last.fm](/assets/images/blog/2021-08-28-lastfm/lastfm.webp){:width="1920" height="1080"}](/assets/images/blog/2021-08-28-lastfm/lastfm.webp)
+[![Captura de tela mostrando a minha página no Last.fm](/assets/images/blog/2021-08-29-musica_conta/lastfm.webp){:width="1920" height="1080"}](/assets/images/blog/2021-08-28-lastfm/lastfm.webp)
 
 ## A lista
 
