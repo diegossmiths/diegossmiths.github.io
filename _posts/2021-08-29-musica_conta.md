@@ -44,5 +44,5 @@ Quando a contagem chegou em 99.990, parei e fiquei pensando nas últimas 10 que 
 
 ---
 
-Infelizmente várias tiveram que ficar de fora, mas não significa que elas são menos importantes, apenas que só haviam 10 vagas disponíveis. Sei que pode parecer bobagem uma postagem falando disso, algo banal, afinal qualquer um pode ouvir 100.000 músicas sem esforço algum, mas esta forma de arte representa muito na minha vida e é uma parte importante da minha personalidade e revela muito quem eu sou. Se tiveres curiosidade de ver mais, siga [este link que leva paro o meu perfil no Last.fm](https://www.last.fm/pt/user/diegossmiths). Lá é possível ver as últimas músicas que eu ouvi, os artistas mais tocados, os álbuns mais executados, as faixas mais ouvidas desde 2006, etc. Agradeço por ter lido até aqui. =]
+Infelizmente várias tiveram que ficar de fora, mas não significa que elas são menos importantes, apenas que só haviam 10 vagas disponíveis. Sei que pode parecer bobagem uma postagem falando disso, algo banal, afinal qualquer um pode ouvir 100.000 músicas sem esforço algum, mas esta forma de arte representa muito na minha vida, é uma parte importante da minha personalidade e revela muito quem eu sou. Agradeço por ter lido até aqui. =]
 
