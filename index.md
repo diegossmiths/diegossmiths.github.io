@@ -19,5 +19,7 @@ Sou amigo do melhor e mais bonito cachorro do mundo, o Vígi. Vígi (pronuncia-s
 
 Fui, de 2016 até julho de 2021, proprietário de uma marcenaria, a Oficina Andurá. Com meu irmão, produzimos móveis sob encomenda e trabalhos autorais. O primeiro foi o Maturim, um suporte para celular feito em madeira maciça. Ele ainda pode ser comprado na [página oficial](https://oficinaandura.com/) da empresa.
 
+Contribuo com edições na [Wikipedia Brasil](https://pt.wikipedia.org/) e no mapenamento no [OpenStreetMap](https://www.openstreetmap.org/).
+
 Tento me guiar por alguns ideais, como "consumo consciente" (sim, entre aspas, isso é um pouco complicado de falar), _Copyleft_, _Creative Commons_, _software_ livre e preservação ambiental. Provavelmente, em algum momento, eles serão discutidos no _blog_.
 
