@@ -9,7 +9,7 @@ updated: 2021-03-30 11:34:00 -0300
 
 ## Sobre esta postagem
 
-Depois de muitos meses pensando qual seria a minha primeira postagem, divagando entre temas que iam desde consumismo, passando por *software* livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC *laser*, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, algo que estivesse mexendo comigo, uma recomendação de um álbum musical.
+Depois de muitos meses pensando qual seria a minha "primeira" postagem, divagando entre temas que iam desde consumismo, passando por *software* livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC *laser*, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, algo que estivesse mexendo comigo, uma recomendação de um álbum musical.
 
 Então, sem mais delongas, aqui vamos nós.
 
