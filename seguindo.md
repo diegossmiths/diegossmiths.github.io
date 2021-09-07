@@ -9,7 +9,7 @@ permalink: /seguindo/
 
 # Quem eu sigo pela web
 
-Quem somos definem nossos interesses e nossos interesses moldam quem somos. Abaixo um lista de sites, blogs, *podcasts* e canais de vídeos. Locais de pessoas que produzem conteúdos que, de algum modo, fazem sentido para mim. E no final, um *link* para o meu perfil no *Pocket*, onde eu recomendo notícias e/ou artigos de locais variados mas que mesmo assim são muito interessantes.
+Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaixo um lista de *sites*, *blogs*, *podcasts* e canais de vídeos. Locais onde pessoas que produzem conteúdos que, de algum modo, fazem sentido para mim. E no final, um *link* para o meu perfil no *Pocket*, onde eu recomendo notícias e/ou artigos de locais variados mas que mesmo assim são muito interessantes.
 
 ## Sites e blogs
 
@@ -29,7 +29,9 @@ Quem somos definem nossos interesses e nossos interesses moldam quem somos. Abai
 
 - [Nova Acrópole Podcast Filosofia](https://nova-acropole.libsyn.com/) - "*Nova Acrópole. Escola de filosofia à maneira clássica. A filosofia atemporal aplicada no cotidiano para viver melhor.*"
 
-- [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Um espaço para fazer na web uma mesa de bar, daquelas que a gente senta e sente que – por mais que pareça – nunca estamos só. Onde contamos nossa vida,cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
+- [Palestras Filosóficas Nova Acrópole](https://audioboom.com/channels/4968123) - "*Palestras, lives, poesias, entrevistas e muito conteúdo cultural e filosófico.*"
+
+- [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Uma mesa de bar na web, daquelas que a gente senta e sente que – por mais que pareça – nunca estamos só. Onde contamos nossa vida,cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
 
 - [Tecnocast Tecnopolítica](https://tecnopolitica.blog.br/) - "*No Tecnopolítica debatemos como a tecnologia tem modificado nossas relações sociais, econômicas e políticas. Conversamos sobre os mecanismos de poder e de sujeição que as tecnologias podem incorporar e conduzir e praticamos a crítica sobre os dispositivos e os aparatos técnicos apresentados como neutros, objetivos e eficientes.*"
 
@@ -49,7 +51,7 @@ Quem somos definem nossos interesses e nossos interesses moldam quem somos. Abai
 
 - [Ishitani Furniture](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q) - Canal do *designer* e marceneiro Natsuki Ishitani. Cada vídeo conta com a edição impecável da sua esposa, Chie.
 
-- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que a mente humana pode imaginar.
+- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que existem por aí.
 
 - [Kobeonsuk Furniture](https://www.youtube.com/channel/UCVOpX2P5wygh7sB1KXgh_5g) - Canal do *designer* e marceneiro Ko beonsuk.
 
