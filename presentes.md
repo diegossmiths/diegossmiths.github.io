@@ -13,9 +13,9 @@ Antes da lista, o mais importante. Se possível não comprar nada em lojas como 
 
 ---
 
-- [Pote de vidro Marinex de 1L](https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/s/m/sm400072503n_02_1.jpg) ou [2L](https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/s/m/sm400072703n_03.jpg);
+- [Pote de vidro Marinex de 1 L](https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/s/m/sm400072503n_02_1.jpg) ou [2 L](https://loja.nadir.com.br/media/catalog/product/cache/c9374bbd89641c59bc521af8dd3dd140/s/m/sm400072703n_03.jpg);
 
-- [Pote de vidro com fechamento hermético Ruvolo 2L](https://www.pontofrio-imagens.com.br/UtilidadesDomesticas/Potes/1505129888/1423498429/pote-hermetico-de-vidro-italiano-bormioli-rocco-fido-com-tampa-azul-2000ml-1505129888.jpg) (Onde encontrar: Supermercados Guanabara);
+- [Pote de vidro com fechamento hermético Ruvolo Style 2,2 L](https://www.pontofrio-imagens.com.br/UtilidadesDomesticas/Potes/1505129888/1423498429/pote-hermetico-de-vidro-italiano-bormioli-rocco-fido-com-tampa-azul-2000ml-1505129888.jpg) (Onde encontrar: Supermercados Guanabara);
 
 - [Jogo americano de bambú, liso (sem estampa), em cor escura](https://cd.shoppub.com.br/casaevida/media/cache/7f/79/7f79cf9256082a5d7deff515239034cf.jpg);
 
