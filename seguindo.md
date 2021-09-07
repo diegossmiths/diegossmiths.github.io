@@ -9,7 +9,7 @@ permalink: /seguindo/
 
 # Quem eu sigo pela web
 
-Quem somos definem nossos interesses e nossos interesses moldam quem somos. Abaixo um lista de sites, blogs, *podcasts* e canais de vídeos que fazem quase que parte do meu dia a dia. Locais de pessoas que produzem conteúdo que, de algum modo, fazem sentido para mim. E no final, um *link* para o meu perfil no *Pocket*, onde eu recomendo notícias e/ou artigos de locais variados mas que mesmo assim são muito interessantes.
+Quem somos definem nossos interesses e nossos interesses moldam quem somos. Abaixo um lista de sites, blogs, *podcasts* e canais de vídeos. Locais de pessoas que produzem conteúdos que, de algum modo, fazem sentido para mim. E no final, um *link* para o meu perfil no *Pocket*, onde eu recomendo notícias e/ou artigos de locais variados mas que mesmo assim são muito interessantes.
 
 ## Sites e blogs
 
@@ -39,7 +39,7 @@ Quem somos definem nossos interesses e nossos interesses moldam quem somos. Abai
 
 ## Canais de vídeos
 
-- [Attila's Workshop](https://www.youtube.com/channel/UCqlxninly36tFP-cXwJI7IQ) - Um australiano que cria coisas linda usando madeira e alumínio.
+- [Attila's Workshop](https://www.youtube.com/channel/UCqlxninly36tFP-cXwJI7IQ) - Um australiano que cria coisas lindas usando madeira e alumínio.
 
 - [Emanuel Aragão](https://www.youtube.com/channel/UCKvsjPB1nLXBUpG7SnB0ZFA) - Uma canal sobre psicanálise, filosofia e autoescrita. Por Emanuel Aragão.
 
