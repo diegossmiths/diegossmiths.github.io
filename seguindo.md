@@ -15,7 +15,7 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Manual do usuário](https://manualdousuario.net/) - "*O Manual do Usuário é uma publicação independente que cobre tecnologia para pessoas, em ritmo “slow web”, sempre aberto à experimentação*", por Rodrigo Ghedin.
 
-- [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*Apresentado por Guilherme Felitti, o Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
+- [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
 
 ## Podcasts
 
@@ -23,25 +23,23 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Guia Prático](https://manualdousuario.net/feed/podcast/guia-pratico/) - "*Toda semana, Rodrigo Ghedin e Jacqueline Lafloufa debatem as principais notícias e acontecimentos da tecnologia de consumo.*"
 
-- [Hipsters Pont Tech](https://hipsters.tech/assinar/) - "*O Hipsters Ponto Tech é um canal onde há discussões acaloradas sobre startups, programação, ux, gadgets e as últimas tendências em tecnologia.*"
+- [Hipsters Pont Tech](https://hipsters.tech/assinar/) - "*O Hipsters Ponto Tech é um canal onde há discussões acaloradas sobre programação, ux, gadgets e as últimas tendências em tecnologia.*"
 
 - [Laguens Race Fit](https://www.buzzsprout.com/995332) - "*Ciclismo, treinamento, curiosidades, dicas, análises de treinos e provas, algumas entrevistas e feedback de produtos.*"
 
-- [Nova Acrópole Podcast Filosofia](https://nova-acropole.libsyn.com/) - "*Nova Acrópole. Escola de filosofia à maneira clássica. A filosofia atemporal aplicada no cotidiano para viver melhor.*"
-
 - [Palestras Filosóficas Nova Acrópole](https://audioboom.com/channels/4968123) - "*Palestras, lives, poesias, entrevistas e muito conteúdo cultural e filosófico.*"
 
-- [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Uma mesa de bar na web, daquelas que a gente senta e sente que – por mais que pareça – nunca estamos só. Onde contamos nossa vida,cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
+- [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Uma mesa de bar na web, daquelas que a gente senta e sente que nunca estamos só. Onde contamos nossa vida, cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
 
-- [Tecnocast Tecnopolítica](https://tecnopolitica.blog.br/) - "*No Tecnopolítica debatemos como a tecnologia tem modificado nossas relações sociais, econômicas e políticas. Conversamos sobre os mecanismos de poder e de sujeição que as tecnologias podem incorporar e conduzir e praticamos a crítica sobre os dispositivos e os aparatos técnicos apresentados como neutros, objetivos e eficientes.*"
+- [Tecnocast Tecnopolítica](https://tecnopolitica.blog.br/) - "*Debates de como a tecnologia tem modificado nossas relações sociais, econômicas e políticas.*"
 
-- [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*Apresentado por Guilherme Felitti, o Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
+- [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
 
-- [Tese Onze](https://teseonze.pinecast.co/) - "*O Tese Onze é um projeto de educação política com a perspectiva ecossocialista que nasceu em 2017 e hoje reúne centenas de milhares de pessoas interessadas em aprender para mudar o mundo.*"
+- [Tese Onze](https://teseonze.pinecast.co/) - "*O Tese Onze é um projeto de educação política com a perspectiva ecossocialista que nasceu em 2017 e hoje reúne centenas de milhares de pessoas.*"
 
 ## Canais de vídeos
 
-- [Attila's Workshop](https://www.youtube.com/channel/UCqlxninly36tFP-cXwJI7IQ) - Um australiano que cria coisas lindas usando madeira e alumínio.
+- [Attila's Workshop](https://www.youtube.com/channel/UCqlxninly36tFP-cXwJI7IQ) - Um australiano que cria coisas lindas para sua casa usando madeira e alumínio.
 
 - [Emanuel Aragão](https://www.youtube.com/channel/UCKvsjPB1nLXBUpG7SnB0ZFA) - Uma canal sobre psicanálise, filosofia e autoescrita. Por Emanuel Aragão.
 
@@ -51,11 +49,11 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Ishitani Furniture](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q) - Canal do *designer* e marceneiro Natsuki Ishitani. Cada vídeo conta com a edição impecável da sua esposa, Chie.
 
-- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que existem por aí.
+- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que existem neste mundo.
 
 - [Kobeonsuk Furniture](https://www.youtube.com/channel/UCVOpX2P5wygh7sB1KXgh_5g) - Canal do *designer* e marceneiro Ko beonsuk.
 
-- [Nós da questão](https://www.youtube.com/channel/UC0bD_BYzLStrI_xG7rwMMBw) - Canal do psicólogo clínico Marcos Lacerda, onde ele ouve os seus seguidores e compartilha reflexões.
+- [Nós da questão](https://www.youtube.com/channel/UC0bD_BYzLStrI_xG7rwMMBw) - O psicólogo clínico Marcos Lacerda ouve os seus seguidores e compartilha reflexões.
 
 - [O algoritmo da imagem](https://www.youtube.com/channel/UC2D8M-1psiJWfxj-aTe8pQA) - Análises semióticas sobre celebridades, políticos e empresas.
 
@@ -63,5 +61,5 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 ## Artigos e/ou notícias de locais variados que eu recomendo
 
-- [Meu perfil no Pocket](https://getpocket.com/@diegossmiths)
+- [Meu perfil no Pocket](https://getpocket.com/@diegossmiths) - Curadoria feita por mim de matérias que merecem destaque.
 
