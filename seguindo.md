@@ -57,6 +57,8 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [O algoritmo da imagem](https://www.youtube.com/channel/UC2D8M-1psiJWfxj-aTe8pQA) - Análises semióticas sobre celebridades, políticos e empresas.
 
+- [O corpo explica](https://www.youtube.com/c/OCorpoExplica) - O Corpo Explica, como fazer uma análise corporal através dos traços de caráter psicológicos.
+
 - [Quebrando a caixa](https://www.youtube.com/channel/UC-aLWCrfZTK0_P4KRe9dQZw) - Um registro de memórias, por Gabriel Faria.
 
 ## Artigos e/ou notícias de locais variados que eu recomendo
