@@ -15,6 +15,8 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Manual do usuário](https://manualdousuario.net/) - "*O Manual do Usuário é uma publicação independente que cobre tecnologia para pessoas, em ritmo “slow web”, sempre aberto à experimentação*", por Rodrigo Ghedin.
 
+- [Strava Histórias](https://blog.strava.com/pb/) - "Strava Histórias mostra atletas revelando seu potencial e a sua cultura, sua comunidade e seus dados que são criados por meio do esporte."
+
 - [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
 
 ## Podcasts
