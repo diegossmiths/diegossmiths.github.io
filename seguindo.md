@@ -33,6 +33,8 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Uma mesa de bar na web, daquelas que a gente senta e sente que nunca estamos só. Onde contamos nossa vida, cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
 
+- [Primeiro contato](https://www.b9.com.br/shows/primeirocontato/) - "*A história de como os computadores e games entraram nos lares dos brasileiros.*"
+
 - [Tecnocast Tecnopolítica](https://tecnopolitica.blog.br/) - "*Debates de como a tecnologia tem modificado nossas relações sociais, econômicas e políticas.*"
 
 - [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
@@ -40,6 +42,8 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 - [Tese Onze](https://teseonze.pinecast.co/) - "*O Tese Onze é um projeto de educação política com a perspectiva ecossocialista que nasceu em 2017 e hoje reúne centenas de milhares de pessoas.*"
 
 ## Canais de vídeos
+
+- [Arata Academy](https://www.youtube.com/c/arataacademy) - Seiiti Arata é fundador da Arata Academy, oferecendo cursos online para seu melhoramento contínuo.
 
 - [Attila's Workshop](https://www.youtube.com/channel/UCqlxninly36tFP-cXwJI7IQ) - Um australiano que cria coisas lindas para sua casa usando madeira e alumínio.
 
@@ -51,9 +55,9 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Ishitani Furniture](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q) - Canal do *designer* e marceneiro Natsuki Ishitani. Cada vídeo conta com a edição impecável da sua esposa, Chie.
 
-- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que existem neste mundo.
-
 - [Kobeonsuk Furniture](https://www.youtube.com/channel/UCVOpX2P5wygh7sB1KXgh_5g) - Canal do *designer* e marceneiro Ko beonsuk.
+
+- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que existem neste mundo.
 
 - [Nós da questão](https://www.youtube.com/channel/UC0bD_BYzLStrI_xG7rwMMBw) - O psicólogo clínico Marcos Lacerda ouve os seus seguidores e compartilha reflexões.
 
