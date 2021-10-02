@@ -39,8 +39,6 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
 
-- [Tese Onze](https://teseonze.pinecast.co/) - "*O Tese Onze é um projeto de educação política com a perspectiva ecossocialista que nasceu em 2017 e hoje reúne centenas de milhares de pessoas.*"
-
 ## Canais de vídeos
 
 - [Arata Academy](https://www.youtube.com/c/arataacademy) - Seiiti Arata é fundador da Arata Academy, oferecendo cursos online para seu melhoramento contínuo.
