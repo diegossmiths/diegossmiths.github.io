@@ -7,12 +7,6 @@ date: 2021-03-18 23:18:20 -0300
 updated: 2021-03-30 11:34:00 -0300
 ---
 
-## Sobre esta postagem
-
-Depois de muitos meses pensando qual seria a minha "primeira" postagem, divagando entre temas que iam desde consumismo, passando por *software* livre, por situações do meu cotidiano e indo até tutoriais para construção de uma CNC *laser*, acabei optando por algo muito mais simples, algo que não necessitasse de muito estudo, algo que estivesse mexendo comigo, uma recomendação de um álbum musical.
-
-Então, sem mais delongas, aqui vamos nós.
-
 ## Sobre a artista
 
 Apresento-lhes, para quem não conhece, Anneke van Giersbergen. Nascida em 8 de março de 1973 na cidade de Sint-Michielsgestel, nos Países Baixos, a artista ganhou destaque no final da década de 1990 como vocalista da banda de rock  progressivo/alternativo, *The Gathering*. Logo que foi convidada a se juntar à banda, Anneke acabou por ocupar o posto de principal letrista. Foi através dela que a banda realmente cresceu e se tornou conhecida na cena progressiva mundial.
