@@ -51,6 +51,8 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Flor e Manu](https://www.youtube.com/channel/UC4W6VRiFbvvZncWAv7T65FA) - O canal da atriz Maria Flor e de seu marido Emanuel Aragão.
 
+- [Henrique Avancini](https://www.youtube.com/channel/UCxk8pbB2oCI2BdSo30zNFZg) - Canal oficial do ciclista Henrique Avancini, meu ídolo. Infelizmente não é muito atualizado.
+
 - [Ishitani Furniture](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q) - Canal do *designer* e marceneiro Natsuki Ishitani. Cada vídeo conta com a edição impecável da sua esposa, Chie.
 
 - [Kobeonsuk Furniture](https://www.youtube.com/channel/UCVOpX2P5wygh7sB1KXgh_5g) - Canal do *designer* e marceneiro Ko beonsuk.
