@@ -14,7 +14,7 @@ Para quem ficou dois anos quase parado fui muito bem. Até demais.
 
 ![Meu certificado de conclusão do BRM 200 junto a medalha.](/assets/images/blog/2020-12-06-meu_segundo_audax_200/audax200-02.webp){:width="918" height="918"}
 
-Foto do topo: Clube Audax Rio Grande/RS
+Foto do topo: Clube Audax Rio Grande/RS \\
 Foto do final: Arquivo pessoal/Diego Schild Smiths
 
 > &#127932; \\
