@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meu segundo Audax
-description: Deesa vez foram 300 km de sofrimento.
+description: Dessa vez foram 300 km de sofrimento.
 keywords: audax, 300, brm, randonneurs, bagé
 date: 2017-11-12 18:35:00 -0300
 ---
