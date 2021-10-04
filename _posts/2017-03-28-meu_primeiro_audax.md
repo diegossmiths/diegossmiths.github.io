@@ -10,5 +10,5 @@ Foi em 26 de março de 2017. Era para ter sido no ano passado, não deu, foi ser
 
 Minha atividade pode ser vista [no Strava](https://www.strava.com/activities/915791626).
 
-![Meu certificado de conclusão do BRM 200.](/assets/images/blog/2017-03-28-meu_primeiro_audax/audax200.webp){:width="1000" height="623"}
+![Meu certificado de conclusão do BRM 200.](/assets/images/blog/2017-03-28-meu_primeiro_audax/audax.webp){:width="1000" height="623"}
 
