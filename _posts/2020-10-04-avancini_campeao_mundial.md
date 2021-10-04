@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avancini, campeão mundial
-description: Henrique Avancini, campeão mundial de MTB XCO.
+description: Minha singela homenagem ao Henrique Avancini, campeão mundial de MTB XCO.
 keywords: henrique, avancini, campeao, mundial, mtb, xco
 date: 2020-10-04 12:00:00 -0300
 ---
