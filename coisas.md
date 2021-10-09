@@ -73,5 +73,12 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 - **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido e é menos uma coisa para eu deixar nas mãos das [*big techs*](https://en.wikipedia.org/wiki/Big_Tech "Em inglês"). Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. Tenho o plano que custa US$ 5,00 por mês e se você [clicar aqui ganha 10% de desconto na sua assinatura](https://ref.fm/u26152512) (e de quebra dá um descontinho para mim).
 
+- **Last.fm**. Toda a minha vida musical, desde 13 de junho de 2006 está registrada no Last.fm. Possui um plano gratuito e outro pago, inclusive já fui assinante durante alguns anos, mas no meu ver não vale a pena pagar.
+
+- **Pocket**. Serviço que funciona como um "Favoritos" de um navegador, onde posso salvar artigos para ler mais tarde numa interface limpa e sem propagandas. Como possuo um *e-reader* Kobo, a sincronização entre os dois é feita de forma automática, e a leitura se torna mais tranquila ainda. Possui um plano gratuito e outro pago, mas confesso que nunca paguei para usar. Pertence a Mozilla Corporation, a mesma desenvolvedora do navegador *web* Firefox.
+
 - **Spotify**. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente "quase oficial" para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
+
+- **Strava**. É nele onde estão todos os meus registros de atividades físicas, desde minhas pedaladas, academia, até corridas e passeios com o meu cachorro. Tem um plano gratuito, embora um pouco limitado para quem quer realmente ir a fundo nos treinamentos. O plano pago custa US$ 59,00 por ano, e na minha opinião, vale muito a pena.
+
 
