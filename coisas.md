@@ -17,7 +17,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Máquinas e ferramentas de marcenaria:
 
-- **CNC Laser:** OpenBuilds ACRO System
+- **CNC Laser:** OpenBuilds ACRO System (contruída por mim)
 - **Desempenadeira:** Omil DES-40
 - **Desengrossadeira:** Invicta DGI-40
 - **Esquadrejadeira:** Maksiwa ESQ 1900 I Black Edition
@@ -73,7 +73,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 - **Fastmail**. Troquei minha conta principal de e-mail para o serviço da Fastmail. Funciona muito bem, é rápido e é menos uma coisa para eu deixar nas mãos das [*big techs*](https://en.wikipedia.org/wiki/Big_Tech "Em inglês"). Possui integração com calendário, agenda de contatos, servidor de arquivos e bloco de anotações. Tenho o plano que custa US$ 5,00 por mês e se você [clicar aqui ganha 10% de desconto na sua assinatura](https://ref.fm/u26152512) (e de quebra dá um descontinho para mim).
 
-- **Last.fm**. Toda a minha vida musical, desde 13 de junho de 2006 está registrada no Last.fm. Possui um plano gratuito e outro pago, inclusive já fui assinante durante alguns anos, mas no meu ver não vale a pena pagar.
+- **Last.fm**. Toda a minha vida musical, desde 13 de junho de 2006, está registrada no Last.fm. Possui um plano gratuito e outro pago, inclusive já fui assinante durante alguns anos, mas no meu ver não vale a pena pagar.
 
 - **Pocket**. Serviço que funciona como um "Favoritos" de um navegador, onde posso salvar artigos para ler mais tarde numa interface limpa e sem propagandas. Como possuo um *e-reader* Kobo, a sincronização entre os dois é feita de forma automática, e a leitura se torna mais tranquila ainda. Possui um plano gratuito e outro pago, mas confesso que nunca paguei para usar. Pertence a Mozilla Corporation, a mesma desenvolvedora do navegador *web* Firefox.
 
