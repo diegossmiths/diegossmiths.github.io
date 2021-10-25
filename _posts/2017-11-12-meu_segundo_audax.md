@@ -12,7 +12,7 @@ date: 2017-11-12 18:35:00 -0300
 
 Paisagens belíssimas do país vizinho, coisas de encantar os olhos. No final o meu grito de felicidade plena. Fiquei abaixo da minha meta, mas é exatamente isso que me impulsiona a melhorar ainda mais.
 
-Desafio concluído em 12h56m27, com tempo de movimentação de 11h48m47. Velocidade média de 25,9 km/h. **Primeiro lugar geral**.
+Desafio concluído em 12h56m27, com tempo de movimentação de 11h48m47. Velocidade média de 25,9 km/h. Primeiro tempo geral.
 
 Minha atividade pode ser vista [no Strava](https://www.strava.com/activities/1271431539).
 

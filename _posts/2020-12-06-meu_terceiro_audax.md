@@ -16,7 +16,7 @@ Comecei num ritmo ameno, seguindo com o meu pelotão até o primeiro *checkpoint
 
 Os problemas começaram quando cheguei na estrada que leva ao município de Arroio do Padre, no quilômetro 95. Com uma subida acumulada de mais de 1000 metros, a falta do preparo físico começou a ficar mais evidente e comecei a sentir o efeitos das escaladas. Sorte que em Arroio do Padre (quilômetro 120)  havia outro *checkpoint* e era o local marcado para o "almoço". Consegui me estabilizar um pouco, comi, reidratei o corpo e descansei as pernas. Mas apesar de tudo, o cansaço era visível e logo voltou a aparecer. Dali segui não mais sozinho durante os próximos 50 km, revezando com outro ciclista. Faltando 46 km para o término, desgarrei dele e fui solo, sofrendo pela falta de preparo e pela força do vento contra.
 
-Mas consegui. 218 km percorridos, 1346 metros subidos, tempo total de 9h24m34 (tempo de movimentação de 7h58m13), média de velocidade de 27,4 km/h e **segundo lugar geral**.
+Mas consegui. 218 km percorridos, 1346 metros subidos, tempo total de 9h24m34 (tempo de movimentação de 7h58m13), média de velocidade de 27,4 km/h e segundo tempo geral.
 
 Mais dados podem ser vistos [na minha atividade no Strava](https://www.strava.com/activities/4439173624).
 
