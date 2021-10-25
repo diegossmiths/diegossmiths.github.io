@@ -59,6 +59,10 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 - **Kobo Glo HD**. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
 
+## Ciclocomputador:
+
+- **Garmin Edge 520**. É um ciclocomputador já meio antigo, lançado em 2015~2016, mas que atende completamente minhas necessidades. Junto dele uso a cinta cardíaca e o sensor de cadência, ambos da Garmin.
+
 ## Aparelho de celular:
 
 - **Motorola Moto X4**. Quase comprei em 2017 quando foi lançado,  mas só agora em abril de 2021 que peguei um usado. Em breve com LineageOS rodando nele.
