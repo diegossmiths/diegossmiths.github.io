@@ -83,6 +83,6 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 - **Spotify**. É um serviço bom, tem um acervo gigantesco de músicas, tem cliente "quase oficial" para sistemas GNU/Linux, mas a questão da privacidade me deixa com os dois pés atrás. Por enquanto ainda não achei um substituto.
 
-- **Strava**. É nele onde estão todos os meus registros de atividades físicas, desde minhas pedaladas, academia, até corridas e passeios com o meu cachorro. Tem um plano gratuito, embora um pouco limitado para quem quer realmente ir a fundo nos treinamentos. O plano pago custa US$ 59,00 por ano, e na minha opinião, vale muito a pena.
+- **Strava**. É nele onde estão todos os meus registros de atividades físicas, desde minhas pedaladas, academia, até corridas e passeios com o meu cachorro. Tem um plano gratuito, embora um pouco limitado para quem quer realmente ir a fundo nos treinamentos. O plano pago custa R$ 119,00 por ano, e na minha opinião, vale muito a pena.
 
 
