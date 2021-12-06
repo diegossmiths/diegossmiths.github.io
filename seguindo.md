@@ -25,8 +25,6 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Guia Prático](https://manualdousuario.net/feed/podcast/guia-pratico/) - "*Toda semana, Rodrigo Ghedin e Jacqueline Lafloufa debatem as principais notícias e acontecimentos da tecnologia de consumo.*"
 
-- [Hipsters Pont Tech](https://hipsters.tech/assinar/) - "*O Hipsters Ponto Tech é um canal onde há discussões acaloradas sobre programação, ux, gadgets e as últimas tendências em tecnologia.*"
-
 - [Laguens Race Fit](https://www.buzzsprout.com/995332) - "*Ciclismo, treinamento, curiosidades, dicas, análises de treinos e provas, algumas entrevistas e feedback de produtos.*"
 
 - [Palestras Filosóficas Nova Acrópole](https://audioboom.com/channels/4968123) - "*Palestras, lives, poesias, entrevistas e muito conteúdo cultural e filosófico.*"
@@ -34,8 +32,6 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 - [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Uma mesa de bar na web, daquelas que a gente senta e sente que nunca estamos só. Onde contamos nossa vida, cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
 
 - [Primeiro contato](https://www.b9.com.br/shows/primeirocontato/) - "*A história de como os computadores e games entraram nos lares dos brasileiros.*"
-
-- [Tecnocast Tecnopolítica](https://tecnopolitica.blog.br/) - "*Debates de como a tecnologia tem modificado nossas relações sociais, econômicas e políticas.*"
 
 - [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
 
@@ -59,13 +55,9 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Kobeonsuk Furniture](https://www.youtube.com/channel/UCVOpX2P5wygh7sB1KXgh_5g) - Canal do *designer* e marceneiro Ko beonsuk.
 
-- [Kraig Adams](https://www.youtube.com/user/KadamsMedia) - Um cara que caminha por aí e documenta alguns dos lugares mais incríveis que existem neste mundo.
-
 - [Nós da questão](https://www.youtube.com/channel/UC0bD_BYzLStrI_xG7rwMMBw) - O psicólogo clínico Marcos Lacerda ouve os seus seguidores e compartilha reflexões.
 
 - [O algoritmo da imagem](https://www.youtube.com/channel/UC2D8M-1psiJWfxj-aTe8pQA) - Análises semióticas sobre celebridades, políticos e empresas.
-
-- [O corpo explica](https://www.youtube.com/c/OCorpoExplica) - O Corpo Explica, como fazer uma análise corporal através dos traços de caráter psicológicos.
 
 - [Quebrando a caixa](https://www.youtube.com/channel/UC-aLWCrfZTK0_P4KRe9dQZw) - Um registro de memórias, por Gabriel Faria.
 
