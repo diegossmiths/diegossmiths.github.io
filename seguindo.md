@@ -29,8 +29,6 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Palestras Filosóficas Nova Acrópole](https://audioboom.com/channels/4968123) - "*Palestras, lives, poesias, entrevistas e muito conteúdo cultural e filosófico.*"
 
-- [Para dar nome às coisas](https://anchor.fm/para-dar-nome-as-coisas/) - "*Uma mesa de bar na web, daquelas que a gente senta e sente que nunca estamos só. Onde contamos nossa vida, cheia de conquistas e desalinhos, de passos certos e tombos memoráveis, de escolhas redondinhas e erros inconfessáveis.*"
-
 - [Primeiro contato](https://www.b9.com.br/shows/primeirocontato/) - "*A história de como os computadores e games entraram nos lares dos brasileiros.*"
 
 - [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) - "*O Tecnocracia é uma coluna quinzenal sobre as consequências de se viver sob o governo das grandes empresas de tecnologia*", por Guilherme Felitti.
@@ -45,11 +43,9 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [Epifania Experiência](https://www.youtube.com/channel/UC9gBKATWNtZCRaKGUVQtDWw) - Para que serve a filosofia se não te fizer refletir? Se não te deixar desconfortável? Se não te fizer agir? Por Alexandre Pessôa.
 
-- [Flor e Manu](https://www.youtube.com/channel/UC4W6VRiFbvvZncWAv7T65FA) - O canal da atriz Maria Flor e de seu marido Emanuel Aragão.
-
 - [Global Cycling Network](https://www.youtube.com/gcn) - Canal inglês sobre ciclismo. Dicas de treinos e alimentação, curiosidades, testes malucos, resenhas das principais provas e muitas outras coisas legais.
 
-- [Henrique Avancini](https://www.youtube.com/channel/UCxk8pbB2oCI2BdSo30zNFZg) - Canal oficial do ciclista Henrique Avancini, meu ídolo. Infelizmente não é muito atualizado.
+- [Henrique Avancini](https://www.youtube.com/channel/UCxk8pbB2oCI2BdSo30zNFZg) - Canal oficial do ciclista Henrique Avancini. Infelizmente não é muito atualizado.
 
 - [Ishitani Furniture](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q) - Canal do *designer* e marceneiro Natsuki Ishitani. Cada vídeo conta com a edição impecável da sua esposa, Chie.
 
