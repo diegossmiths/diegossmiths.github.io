@@ -55,6 +55,8 @@ Quem somos define nossos interesses e nossos interesses moldam quem somos. Abaix
 
 - [O algoritmo da imagem](https://www.youtube.com/channel/UC2D8M-1psiJWfxj-aTe8pQA) - Análises semióticas sobre celebridades, políticos e empresas.
 
+- [Paulo Muzy](https://www.youtube.com/channel/UCUOsr03iLj627hJm55cmIPw) - Médico ortopedista e traumatologista, professor de ciência dos exercícios pela Escola Paulista de Ciências Médicas. O canal, apesar de voltado ao fisiculturismo, contém muita informação sobre o corpo humano e seu funcionamento.
+
 - [Quebrando a caixa](https://www.youtube.com/channel/UC-aLWCrfZTK0_P4KRe9dQZw) - Um registro de memórias, por Gabriel Faria.
 
 ## Artigos e/ou notícias de locais variados que eu recomendo
