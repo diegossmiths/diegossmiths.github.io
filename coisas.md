@@ -46,7 +46,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Teclado:** Microsoft Wireless Keyboard 3000 v2.0
     - **Mouse:** Microsoft Wireless Mouse 5000
   - **_Software_:**
-    - **Sistema operacional:** elementary OS 5.1.7 (GNU/Linux x86-64)
+    - **Sistema operacional:** Fedora Linux 35 (Workstation Edition GNU/Linux x86-64)
     - **Navegador de internet:** Mozilla Firefox
     - **Suíte de escritório:** LibreOffice
     - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais)
