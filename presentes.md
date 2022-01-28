@@ -21,8 +21,6 @@ Antes da lista, o mais importante. Se possível não comprar nada em lojas como 
 
 - Vaso de cerâmica para o meu trevo roxo (Oxalis triangularis). Vasinhos como [este](https://st4.depositphotos.com/19112482/31064/i/1600/depositphotos_310640672-stock-photo-purple-oxalis-triangularis-house-plant.jpg), [este](https://cdn.shopify.com/s/files/1/1419/7120/files/oxalis_triang_skybluebowl_large.jpg?v=1492464702) ou [este](https://i.pinimg.com/236x/c5/2d/7c/c52d7c5f323e2c9e61895217476cfb4c.jpg?nii=t). As cores podem ser roxa, branca ou parecidas com estas dos exemplos;
 
-- [Corda de pano](https://www.petelegante.com.br/media/catalog/product/b/r/brinquedo_para_cachorro_osso_de_corda.jpg) para brincar com o Vígi, visto que a dele simplesmente sumiu.
-
 ---
 
 Conforme for ganhando coisas ou lembrando de outras, irei atualizando. =]
