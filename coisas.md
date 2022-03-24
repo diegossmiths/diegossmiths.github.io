@@ -44,7 +44,8 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Chipset / GPU:** Intel GM965 / GMA X3100
     - **Tela:** 13,3″ WXGA (1280×800)
     - **Teclado:** Logitech MX Keys
-    - **Mouse:** Logitech MX Vertical 
+    - **Mouse:** Logitech MX Vertical
+    - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
   - **_Software_:**
     - **Sistema operacional:** Fedora Linux 35 (Workstation Edition GNU/Linux x86-64)
     - **Navegador de internet:** Mozilla Firefox
