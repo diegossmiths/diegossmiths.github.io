@@ -43,8 +43,8 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
     - **Chipset / GPU:** Intel GM965 / GMA X3100
     - **Tela:** 13,3″ WXGA (1280×800)
-    - **Teclado:** Microsoft Wireless Keyboard 3000 v2.0
-    - **Mouse:** Microsoft Wireless Mouse 5000
+    - **Teclado:** Logitech MX Keys
+    - **Mouse:** Logitech MX Vertical 
   - **_Software_:**
     - **Sistema operacional:** Fedora Linux 35 (Workstation Edition GNU/Linux x86-64)
     - **Navegador de internet:** Mozilla Firefox
