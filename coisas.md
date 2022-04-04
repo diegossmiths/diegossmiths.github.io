@@ -32,22 +32,23 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Computador:
 
-- **Toshiba Satellite U405-S2830**. "Nascido" em 2008, é com esse guerreiro que eu me viro no mundo digital. Um antigo e altamente modificado laptop chamado carinhosamente de Matusalém.
+- **"Matusalém"**. "É com esse guerreiro que eu me viro no mundo digital.
 
 <details markdown="1">
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
-    - **CPU:** Intel Core 2 Duo T8100 (2.1 GHz / 3 MB Cache L2 / TDP 35 Watts)
-    - **Memória:** 4 GiB SO-DIMM DDR2 (667 MHz / dual channel)
+    - **Placa-mãe** Gigabyte GA-Q35M-S2
+    - **CPU:** Intel Core 2 Duo E8400 (3 GHz / 4 MB Cache L2 / TDP 65 Watts)
+    - **Memória:** 8 GiB DIMM DDR2 (4x2 / 800 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
-    - **Chipset / GPU:** Intel GM965 / GMA X3100
-    - **Tela:** 13,3″ WXGA (1280×800)
+    - **Placa de vídeo:** NVIDIA Geforce GTX 645
+    - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Vertical
-    - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
   - **_Software_:**
     - **Sistema operacional:** Fedora Linux 35 (Workstation Edition GNU/Linux x86-64)
+    - **Ambiente de trabalho:** GNOME 41
     - **Navegador de internet:** Mozilla Firefox
     - **Suíte de escritório:** LibreOffice
     - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais)
