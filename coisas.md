@@ -43,6 +43,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Memória:** 8 GiB DIMM DDR2 (4x2 / 800 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
     - **Placa de vídeo:** NVIDIA Geforce GTX 645
+    - **Fonte de alimentação:** Seasonic SS-300TGW (300 Watts, 80 Plus Gold, PFC ativo)
     - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Vertical
