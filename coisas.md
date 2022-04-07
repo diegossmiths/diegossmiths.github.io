@@ -32,18 +32,19 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Computador:
 
-- **"Matusalém"**. "É com esse guerreiro que eu me viro no mundo digital.
+- **"Noah"**. "É com esse guerreiro que eu me viro no mundo digital.
 
 <details markdown="1">
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
     - **Placa-mãe** Gigabyte GA-Q35M-S2
-    - **CPU:** Intel Core 2 Duo E8400 (3 GHz / 4 MB Cache L2 / TDP 65 Watts)
+    - **CPU:** Intel Core 2 Quad Q9550S (2.83 GHz / 12 MB Cache L2 / TDP 65 Watts)
     - **Memória:** 8 GiB DIMM DDR2 (4x2 / 800 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
     - **Placa de vídeo:** NVIDIA Geforce GTX 645
     - **Fonte de alimentação:** Seasonic SS-300TGW (300 Watts, 80 Plus Gold, PFC ativo)
+    - **Placa de rede sem fio:** Intel 7260ac (Wi-fi 2,4/5 GHz, 867 mbps, Bluetooth 4.0)
     - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Vertical
