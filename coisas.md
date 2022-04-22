@@ -39,7 +39,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
   - **_Hardware_:**
     - **Placa-mãe:** Gigabyte GA-Q35M-S2 [&#128279;](https://www.gigabyte.com/br/Motherboard/GA-Q35M-S2-rev-1x)
-    - **CPU:** Intel Core 2 Quad Q9550S (2.83 GHz / 12 MB Cache L2 / TDP 65 Watts)
+    - **CPU:** Intel Core 2 Quad Q9550S (2.83 GHz / 12 MB Cache L2 / TDP 65 Watts) [&#128279;](https://www.intel.com/content/www/us/en/products/sku/40815/intel-core2-quad-processor-q9550s-12m-cache-2-83-ghz-1333-mhz-fsb/specifications.html)
     - **Memória:** 8 GiB DIMM DDR2 (4x2 / 800 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
     - **Placa de vídeo:** NVIDIA Geforce GTX 645
