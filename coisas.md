@@ -38,7 +38,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
-    - **Placa-mãe:** Gigabyte GA-Q35M-S2
+    - **Placa-mãe:** Gigabyte GA-Q35M-S2 [&#128279;](https://www.gigabyte.com/br/Motherboard/GA-Q35M-S2-rev-1x)
     - **CPU:** Intel Core 2 Quad Q9550S (2.83 GHz / 12 MB Cache L2 / TDP 65 Watts)
     - **Memória:** 8 GiB DIMM DDR2 (4x2 / 800 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
