@@ -3,7 +3,7 @@ layout: post
 title: Amei te ver
 description: Homenagem à minha mãe no dia dos 3 anos do seu falecimento.
 keywords: mãe, homenagem, falecimento, lua, flores, cassino
-date: 2021-04-27 23:19:10 -0300
+date: 2021-04-27 20:19:10 -0300
 ---
 
 ![Foto tirada na beira da praia, mostrando minha mão direita segurando três flores, duas vermelhas e uma branca, com a luz do Sol realçando-as, em homenagem à minha mãe](/assets/images/blog/2021-04-27-amei_te_ver/homenagem.webp){:width="1000" height="1333"}
