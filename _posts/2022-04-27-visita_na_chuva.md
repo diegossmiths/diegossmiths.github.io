@@ -6,7 +6,7 @@ keywords: mãe, homenagem, falecimento, chuva, musica, violão, cassino
 date: 2022-04-27 20:02:53 -0300
 ---
 
-> Oi, mãe. Mais um ano e olha nós aqui novamente. Viemos te visitar, conversar contigo nessa tarde chuvosa. Contar as novidades. \\
+> Oi, mãe. Mais um ano e olha nós aqui novamente. Viemos te visitar, conversar contigo nessa tarde chuvosa. \\
 > ... \\
 > Desta vez uma pessoa nova veio junto. É a J. Enquanto conversamos, ela está ali, cuidando do Vígi. Queria que tu conhecesse ela. Uma guria muito legal! Estamos nos entendendo muito bem. Eu gosto dela e ela gosta de mim e do Vígi. E o Vígi também gosta bastante dela. \\
 > ... \\
