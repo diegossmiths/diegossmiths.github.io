@@ -12,7 +12,7 @@ date: 2022-04-27 20:02:53 -0300
 > ... \\
 > Desta vez uma pessoa nova veio junto. É a J. Enquanto conversamos, ela está ali, cuidando do Vígi. Queria que tu conhecesse ela. Uma guria muito legal! Estamos nos entendendo muito bem. Eu gosto dela e ela gosta de mim e do Vígi. E o Vígi também gosta bastante dela! \\
 > ... \\
-> Venho pensando muito na vida, muito mais do que já fiz algum dia. Me descubrindo um pouquinho mais e tomando consciência das coisas que gosto e não gosto, que quero e não quero. Também consigo olhar para trás e ver o quanto mudei neste último e difícil ano. O quanto cresci e amadureci. Isso faz eu me sentir energizado, forte, cheio de sonhos e planos. Sinto novamente a coragem aflorar dentro de mim, de querer voar, do meu jeito, no meu tempo. É tão gostosa essa sensação. \\
+> Venho pensando muito na vida, muito mais do que já fiz algum dia. Me descobrindo um pouquinho mais e tomando consciência das coisas que gosto e não gosto, que quero e não quero. Também consigo olhar para trás e ver o quanto mudei neste último e difícil ano. O quanto cresci e amadureci. Isso faz eu me sentir energizado, forte, cheio de sonhos e planos. Sinto novamente a coragem aflorar dentro de mim, de querer voar, do meu jeito, no meu tempo. É tão gostosa essa sensação. \\
 > ... \\
 > Olho para o Vígi e vejo o quanto amo aquele bichinho, o quão importante ele é na minha vida. Tenho orgulho do que ele é e do trabalho que tive em criá-lo. É um sentimento estranho, mas bom, e imagino que quando se tem um filho isso deve ser multiplicado por cem, mil, sei lá, um monte. Me faz entender um pouco mais do que é ser pai. \\
 > ... \\
