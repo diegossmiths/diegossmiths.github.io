@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Conversas sob chuva
+title: Conversas sob a chuva
 description: Homenagem à minha mãe no dia dos 4 anos do seu falecimento.
 keywords: mãe, homenagem, falecimento, chuva, musica, violão, cassino
 date: 2022-04-27 20:02:53 -0300
 ---
+
+![Foto tirada na beira da praia, em primeiro plano o meu irmão tocando violão, em segundo plano meu cachorro e minha namorada](/assets/images/blog/2022-04-27-conversas_sob_a_chuva/homenagem2.webp){:width="1920" height="1080"}
 
 > Oi, mãe. Mais um ano e olha nós aqui novamente. Viemos te visitar, conversar contigo nesta tarde chuvosa. \\
 > ... \\
