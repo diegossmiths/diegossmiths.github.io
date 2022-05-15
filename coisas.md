@@ -49,8 +49,8 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Vertical
   - **_Software_:**
-    - **Sistema operacional:** Fedora Linux 35 (Workstation Edition GNU/Linux x86-64)
-    - **Ambiente de trabalho:** GNOME 41
+    - **Sistema operacional:** Fedora Linux 36 (Workstation Edition GNU/Linux x86-64)
+    - **Ambiente de trabalho:** GNOME 42
     - **Navegador de internet:** Mozilla Firefox
     - **Suíte de escritório:** LibreOffice
     - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais)
