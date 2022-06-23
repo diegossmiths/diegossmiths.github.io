@@ -61,7 +61,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Leitor de livros digitais:
 
-- **Kobo Glo HD**. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
+- **Kobo Clara HD**. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
 
 ## Ciclocomputador:
 
