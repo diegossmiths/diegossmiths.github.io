@@ -9,7 +9,7 @@ permalink: /coisas/
 
 # Coisas que eu uso
 
-Quando dizemos que fazemos algo, sempre perguntam "o que tu usas para fazer isso?". Adiantando, resolvi colocar as coisas que costumo usar no dia-a-dia. A lista cobre desde materiais de marcenaria até equipamentos de informática e *softwares* em geral.
+Quando dizemos que fazemos algo, sempre perguntam "o que tu usas para fazer isso?". Adiantando, resolvi colocar as coisas que costumo usar no dia a dia. A lista cobre desde materiais de marcenaria até equipamentos de informática e *softwares* em geral.
 
 PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algumas coisinhas para ser feliz](../presentes/).
 
