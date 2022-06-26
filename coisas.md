@@ -2,7 +2,7 @@
 layout: default
 title: Coisas que eu uso
 author: Diego Schild Smiths
-description: Aqui podemos ver ferramentas, softwares e outras coisas que costumo usar no meu dia-a-dia, seja para trabalho ou diversão.
+description: Aqui podemos ver ferramentas, softwares e outras coisas que costumo usar no meu dia a dia, seja para trabalho ou diversão.
 keywords: ferramentas, material, trabalho, diversão, marcenaria, eletrônicos
 permalink: /coisas/
 ---
@@ -17,7 +17,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Máquinas e ferramentas de marcenaria:
 
-- **CNC Laser:** OpenBuilds ACRO System (contruída por mim)
+- **CNC Laser:** OpenBuilds ACRO System (construída por mim)
 - **Desempenadeira:** Omil DES-40
 - **Desengrossadeira:** Invicta DGI-40
 - **Esquadrejadeira:** Maksiwa ESQ 1900 I Black Edition
