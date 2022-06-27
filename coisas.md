@@ -49,31 +49,31 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Vertical
   - **_Software_:**
-    - **Sistema operacional:** Fedora Linux 36 (Workstation Edition GNU/Linux x86-64)
-    - **Ambiente de trabalho:** GNOME 42
-    - **Navegador de internet:** Mozilla Firefox
-    - **Suíte de escritório:** LibreOffice
-    - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais)
-    - **Contabilidade da marcenaria:** HomeBank
-    - **Trabalho gráfico:** Inkscape / GIMP / Scribus
+    - **Sistema operacional:** Fedora Linux 36 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
+    - **Ambiente de trabalho:** GNOME 42 [&#128279;](https://www.gnome.org/)
+    - **Navegador de internet:** Mozilla Firefox [&#128279;](https://www.mozilla.org/pt-BR/firefox/new/)
+    - **Suíte de escritório:** LibreOffice [&#128279;](https://www.libreoffice.org/)
+    - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais) [&#128279;](https://calibre-ebook.com/)
+    - **Contabilidade da marcenaria:** HomeBank [&#128279;](http://homebank.free.fr/)
+    - **Trabalho gráfico:** Inkscape [&#128279;](https://inkscape.org/) / GIMP [&#128279;](https://www.gimp.org/) / Scribus [&#128279;](https://www.scribus.net/)
 </details>
 
 
 ## Leitor de livros digitais:
 
-- **Kobo Clara HD**. Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
+- **Kobo Clara HD**. [&#128279;](https://gl.kobobooks.com/products/kobo-clara-hd) Sou um feliz usuário de um Kobo. De todas as bugigangas que eu possuo, provavelmente a que eu mais tenho apego. Quase toda minha coleção de livros está nele.
 
 ## Ciclocomputador:
 
-- **Garmin Edge 520**. É um ciclocomputador já meio antigo, lançado em 2015~2016, mas que atende completamente minhas necessidades. Junto dele uso a cinta cardíaca e o sensor de cadência, ambos da Garmin.
+- **Garmin Edge 520**. [&#128279;](https://buy.garmin.com/pt-BR/BR/p/166370) É um ciclocomputador já meio antigo, lançado em 2015~2016, mas que atende completamente minhas necessidades. Junto dele uso a cinta cardíaca e o sensor de cadência, ambos da Garmin.
 
 ## Aparelho de celular:
 
-- **Motorola Moto X4**. Quase comprei em 2017 quando foi lançado,  mas só agora em abril de 2021 que peguei um usado. Em breve com LineageOS rodando nele.
+- **Motorola Moto X4**. [&#128279;](https://www.gsmarena.com/motorola_moto_x4-8634.php) Quase comprei em 2017 quando foi lançado,  mas só agora em abril de 2021 que peguei um usado. Em breve com LineageOS rodando nele.
 
 ## Fones de ouvido:
 
-- **Sennheiser HD 598**. Um excelente fone de ouvido de alta fidelidade para uso doméstico.
+- **Sennheiser HD 598**. [&#128279;](https://pt-br.sennheiser.com/high-end-headphones-audio-stereo-hifi-hd-598) Um excelente fone de ouvido de alta fidelidade para uso doméstico.
 
 ## Serviços
 
