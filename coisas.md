@@ -32,25 +32,23 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Computador:
 
-- **"Noah"**. "Esse é o nome do meu computador, e é com esse guerreiro que eu me viro no mundo digital.
+- **"Newton"**. "Um MacBook Pro 8.1 Early 2011 A1278 (que pertence a minha namorada)
 
 <details markdown="1">
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
-    - **Placa-mãe:** Gigabyte GA-Q35M-S2 [&#128279;](https://www.gigabyte.com/br/Motherboard/GA-Q35M-S2-rev-1x)
-    - **CPU:** Intel Core 2 Quad Q9550S (2.83 GHz / 12 MB Cache L2 / TDP 65 Watts) [&#128279;](https://www.intel.com/content/www/us/en/products/sku/40815/intel-core2-quad-processor-q9550s-12m-cache-2-83-ghz-1333-mhz-fsb/specifications.html)
-    - **Memória:** 8 GiB DIMM DDR2 (4x2 / 800 MHz / dual channel)
+    - **Placa-mãe:** Apple Mac-94245B3640C91C81
+    - **CPU:** Intel Core i5-2415M (2C4T / 2.3 GHz ~ 2.9 GHz (Turbo) / 3 MB Cache L3 / TDP 35 Watts) [&#128279;](https://www.intel.com/content/www/us/en/products/sku/53449/intel-core-i52415m-processor-3m-cache-up-to-2-90-ghz/specifications.html)
+    - **Memória:** 8 GiB DIMM DDR3 (2x4 / 1333 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
-    - **Placa de vídeo:** NVIDIA Geforce GTX 645
-    - **Fonte de alimentação:** Seasonic SS-300TGW (300 Watts, 80 Plus Gold, PFC ativo)
-    - **Placa de rede sem fio:** Intel 7260ac (Wi-fi 2,4/5 GHz, 867 mbps, Bluetooth 4.0)
+    - **Vídeo:** Intel HD Graphics 3000
     - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Vertical
   - **_Software_:**
     - **Sistema operacional:** Fedora Linux 36 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
-    - **Ambiente de trabalho:** GNOME 42 [&#128279;](https://www.gnome.org/)
+    - **Ambiente de trabalho:** GNOME [&#128279;](https://www.gnome.org/)
     - **Navegador de internet:** Mozilla Firefox [&#128279;](https://www.mozilla.org/pt-BR/firefox/new/)
     - **Suíte de escritório:** LibreOffice [&#128279;](https://www.libreoffice.org/)
     - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais) [&#128279;](https://calibre-ebook.com/)
