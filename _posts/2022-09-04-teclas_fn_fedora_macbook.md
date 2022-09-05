@@ -27,7 +27,7 @@ O comando nano chama o editor de texto [GNU nano](https://pt.wikipedia.org/wiki/
 
 O numero 1 significa que as teclas agem como teclas de controle. O número 2 significa que as teclas agem como funções. Se colocarmos o número 0 desativaremos as teclas.
 
-* Salve o arquivo pressionando as teclas "Control + o" e depois pressione "Control + x" para sair.
+* Salve o arquivo pressionando as teclas `Control + o` e depois pressione `Control + x` para sair.
 
 Isso fará com que as teclas mudem de comportamento instantaneamente. Porém, ao reiniciar a máquina, esta configuração será perdida.
 
