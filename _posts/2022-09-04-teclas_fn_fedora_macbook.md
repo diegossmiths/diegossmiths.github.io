@@ -18,7 +18,7 @@ E o que fazer para desativá-las e retornar ao padrão? Segue o tutorial:
 
 * Em primeiro lugar, para alterar estes parâmetros na seção ativa, digite:
 
-'sudo nano /sys/module/hid_apple/parameters/fnmode'
+`sudo nano /sys/module/hid_apple/parameters/fnmode`
 
 Para entendermos o que estamos fazendo, eu explico. O `sudo` permite que usuários comuns obtenham privilégios de super usuário, tendo assim controle total do sistema.
 O comando nano chama o editor de texto [GNU nano](https://pt.wikipedia.org/wiki/GNU_nano_(editor_de_texto)), que por sua vez irá abrir o arquivo de configuração das teclas fn dos dispositivos Apple (fnmode) que se localiza na pasta /sys/module/hid_apple/parameters
@@ -35,26 +35,26 @@ Isso fará com que as teclas mudem de comportamento instantaneamente. Porém, ao
 
 Como o arquivo não existe, criaremos ele. Digite:
 
-'sudo > /etc/modprobe.d/hid_apple.conf'
+`sudo > /etc/modprobe.d/hid_apple.conf`
 
 O caracter > faz com que um arquivo vazio seja gerado.
 
 * Logo após, abra o arquivo:
 
-'sudo nano /etc/modprobe.d/hid_apple.conf'
+`sudo nano /etc/modprobe.d/hid_apple.conf`
 
 * E digite a seguinte linha:
 
-options hid_apple fnmode=2
+`options hid_apple fnmode=2`
 
 * Logo após digite comando:
 
-'sudo dracut --regenerate-all --force'
+`sudo dracut --regenerate-all --force`
 
 Prontinho, a partir de agora o seu Fedora passará a tratar as teclas F[1-12] como teclas de função, e ao apertarmos fn+F* teremos o controle desejado.
 
 PS: Para quem usa Ubuntu e derivados, o último comando deve ser subistituído por:
 
-'sudo update-initramfs -u'
+`sudo update-initramfs -u`
 
 
