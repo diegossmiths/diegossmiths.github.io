@@ -16,22 +16,22 @@ Eis que eu estava tranquilamente trabalhando, quando em um determinado momento t
 
 E o que fazer para desativá-las e retornar ao padrão? Segue o tutorial:
 
-1. Em primeiro lugar, para alterar estes parâmetros na seção ativa, digite:
+* Em primeiro lugar, para alterar estes parâmetros na seção ativa, digite:
 
 sudo nano /sys/module/hid_apple/parameters/fnmode
 
 Para entendermos o que estamos fazendo, eu explico. O `sudo` permite que permite usuários comuns obterem privilégios de super usuário, tendo assim controle total do sistema.
 O comando nano chama o editor de texto [GNU nano](https://pt.wikipedia.org/wiki/GNU_nano_(editor_de_texto), que por sua vez irá abrir o arquivo de configuração das teclas fn dos dispositivos Apple (fnmode) que se localiza na pasta /sys/module/hid_apple/parameters
 
-2. Dentro do arquivo, apague o número 1 (padrão) e digite o número 2.
+* Dentro do arquivo, apague o número 1 (padrão) e digite o número 2.
 
 O numero 1 significa que as teclas agem como teclas de controle. O número 2 significa que as teclas agem como funções. Se colocarmos o número 0 desativaremos as teclas.
 
-3. Salve o arquivo pressionando as teclas "Control + o" e depois pressione "Control + x" para sair.
+* Salve o arquivo pressionando as teclas "Control + o" e depois pressione "Control + x" para sair.
 
 Isso fará com que as teclas mudem de comportamento instantaneamente. Porém, ao reiniciar a máquina, esta configuração será perdida.
 
-4. Para que essa configuração fique salva como padrão na máquina, deveremos gravar estas opções dentro do arquivo /etc/modprobe.d/hid_apple.conf
+* Para que essa configuração fique salva como padrão na máquina, deveremos gravar estas opções dentro do arquivo /etc/modprobe.d/hid_apple.conf
 
 Como o arquivo não existe, criaremos ele. Digite:
 
@@ -39,15 +39,15 @@ sudo > /etc/modprobe.d/hid_apple.conf
 
 O caracter > faz com que um arquivo vazio seja gerado.
 
-5. Logo após, abra o arquivo:
+* Logo após, abra o arquivo:
 
 sudo nano /etc/modprobe.d/hid_apple.conf
 
-6. E digite a seguinte linha:
+* E digite a seguinte linha:
 
 options hid_apple fnmode=2
 
-7. Logo após digite comando:
+* Logo após digite comando:
 
 sudo dracut --regenerate-all --force
 
