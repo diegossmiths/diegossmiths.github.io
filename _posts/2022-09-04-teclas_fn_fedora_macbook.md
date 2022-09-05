@@ -10,7 +10,7 @@ Recentemente meu computador, conhecido carinhosamente por Noah (ou Noé, em port
 
 Eis que minha salvação estava bem aqui em casa. Minha namorada tinha um MacBook Pro guardado na gaveta, ela não usava mais por achar ele muito grande (modelo de 13"). Pedi emprestado e ela prontamente cedeu ele para mim. Retirei o SSD e coloquei o meu no lugar.
 
-Formatei a máquina com o Fedora 36. Tudo ocorreu de forma tranquila, com excessão do adapatador wi-fi, o que já era esperado e foi facilmente resolvido.
+Formatei a máquina com o Fedora 36. Tudo ocorreu de forma tranquila, com exceção do adapatador wi-fi, o que já era esperado e foi facilmente resolvido.
 
 Eis que eu estava tranquilamente trabalhando, quando em um determinado momento tento renomear um arquivo apertando F2. E o que acontece? O brilho da tela aumenta. Ok, ok... já sei, terei que apertar a tecla "fn" para poder ter as teclas de função ativas novamente. Mas eu detesto isso, prefiro ter as teclas F[1-12] como padrão e quando quiser que elas sirvam como teclas de controle aperto "fn", isto é, o inverso da configuração nativa.
 
