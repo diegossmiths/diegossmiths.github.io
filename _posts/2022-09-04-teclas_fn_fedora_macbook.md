@@ -21,7 +21,7 @@ E o que fazer para desativá-las e retornar ao padrão? Segue o tutorial:
 `sudo nano /sys/module/hid_apple/parameters/fnmode`
 
 Para entendermos o que estamos fazendo, eu explico. O `sudo` permite que usuários comuns obtenham privilégios de super usuário, tendo assim controle total do sistema.
-O comando nano chama o editor de texto [GNU nano](https://pt.wikipedia.org/wiki/GNU_nano_(editor_de_texto)), que por sua vez irá abrir o arquivo de configuração das teclas fn dos dispositivos Apple (fnmode) que se localiza na pasta /sys/module/hid_apple/parameters
+O comando nano chama o editor de texto [GNU nano](https://pt.wikipedia.org/wiki/GNU_nano_(editor_de_texto)), que por sua vez irá abrir o arquivo de configuração das teclas fn dos dispositivos Apple (`fnmode`) que se localiza na pasta `/sys/module/hid_apple/parameters`
 
 * Dentro do arquivo, apague o número 1 (padrão) e digite o número 2.
 
