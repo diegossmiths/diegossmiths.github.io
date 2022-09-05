@@ -3,7 +3,7 @@ layout: post
 title: Teclas de função + Fedora + MacBook
 description: Mudando o comportamento das teclas de função do MacBook rodando Fedora 36.
 keywords: fn, teclas, função, macbook, fedora
-date: 2022-09-04 21:30:00 -0300
+date: 2022-09-04 20:30:00 -0300
 ---
 
 Recentemente meu computador, conhecido carinhosamente por Noah (ou Noé, em português) veio a falecer. A placa-mãe, que já não andava muito bem, resolveu não "andar" mais. Com isso fiquei sem PC...
@@ -23,15 +23,15 @@ sudo nano /sys/module/hid_apple/parameters/fnmode
 Para entendermos o que estamos fazendo, eu explico. O `sudo` permite que permite usuários comuns obterem privilégios de super usuário, tendo assim controle total do sistema.
 O comando nano chama o editor de texto [GNU nano](https://pt.wikipedia.org/wiki/GNU_nano_(editor_de_texto), que por sua vez irá abrir o arquivo de configuração das teclas fn dos dispositivos Apple (fnmode) que se localiza na pasta /sys/module/hid_apple/parameters
 
-Dentro do arquivo, apague o número 1 (padrão) e digite o número 2.
+2. Dentro do arquivo, apague o número 1 (padrão) e digite o número 2.
 
 O numero 1 significa que as teclas agem como teclas de controle. O número 2 significa que as teclas agem como funções. Se colocarmos o número 0 desativaremos as teclas.
 
-Salve o arquivo pressionando as teclas "Control + o" e depois pressione "Control + x" para sair.
+3. Salve o arquivo pressionando as teclas "Control + o" e depois pressione "Control + x" para sair.
 
 Isso fará com que as teclas mudem de comportamento instantaneamente. Porém, ao reiniciar a máquina, esta configuração será perdida.
 
-Para que essa configuração fique salva como padrão na máquina, deveremos gravar estas opções dentro do arquivo /etc/modprobe.d/hid_apple.conf
+4. Para que essa configuração fique salva como padrão na máquina, deveremos gravar estas opções dentro do arquivo /etc/modprobe.d/hid_apple.conf
 
 Como o arquivo não existe, criaremos ele. Digite:
 
@@ -39,15 +39,15 @@ sudo > /etc/modprobe.d/hid_apple.conf
 
 O caracter > faz com que um arquivo vazio seja gerado.
 
-Logo após, abra o arquivo:
+5. Logo após, abra o arquivo:
 
 sudo nano /etc/modprobe.d/hid_apple.conf
 
-E digite a seguinte linha:
+6. E digite a seguinte linha:
 
 options hid_apple fnmode=2
 
-Logo após devemos gravar no initramfs com o comando:
+7. Logo após devemos gravar no initramfs com o comando:
 
 sudo dracut --regenerate-all --force
 
