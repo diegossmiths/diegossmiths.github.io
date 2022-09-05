@@ -47,7 +47,7 @@ sudo nano /etc/modprobe.d/hid_apple.conf
 
 options hid_apple fnmode=2
 
-7. Logo após devemos gravar no initramfs com o comando:
+7. Logo após digite comando:
 
 sudo dracut --regenerate-all --force
 
