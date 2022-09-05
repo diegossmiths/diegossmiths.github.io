@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teclas de função + Fedora + MacBook
-description: Mudando o comportamento das teclas de função do MacBook rodando Fedora 36.
+description: Mudando o comportamento das teclas de função do MacBook no Fedora 36.
 keywords: fn, teclas, função, macbook, fedora
 date: 2022-09-04 20:30:00 -0300
 ---
