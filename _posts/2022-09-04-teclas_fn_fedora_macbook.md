@@ -31,13 +31,13 @@ O numero 1 significa que as teclas agem como teclas de controle. O número 2 sig
 
 Isso fará com que as teclas mudem de comportamento instantaneamente. Porém, ao reiniciar a máquina, esta configuração será perdida.
 
-* Para que essa configuração fique salva como padrão na máquina, deveremos gravar estas opções dentro do arquivo /etc/modprobe.d/hid_apple.conf
+* Para que essa configuração fique salva como padrão na máquina, deveremos gravar estas opções dentro do arquivo `/etc/modprobe.d/hid_apple.conf`
 
 Como o arquivo não existe, criaremos ele. Digite:
 
 `sudo > /etc/modprobe.d/hid_apple.conf`
 
-O caracter > faz com que um arquivo vazio seja gerado.
+O caracter `>` faz com que um arquivo vazio seja gerado.
 
 * Logo após, abra o arquivo:
 
