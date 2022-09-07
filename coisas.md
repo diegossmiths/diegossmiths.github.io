@@ -32,13 +32,13 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Computador:
 
-- **"Newton"**. "Um MacBook Pro 8.1 Early 2011 A1278 (que pertence a minha namorada)
+- **"Newton"**. Um MacBook Pro que roda Linux. =]
 
 <details markdown="1">
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
-    - **Placa-mãe:** Apple Mac-94245B3640C91C81
+    - **Modelo:** Apple MacBook Pro 8.1  A1278 Early 2011
     - **CPU:** Intel Core i5-2415M (2C4T / 2.3 GHz ~ 2.9 GHz (Turbo) / 3 MB Cache L3 / TDP 35 Watts) [&#128279;](https://www.intel.com/content/www/us/en/products/sku/53449/intel-core-i52415m-processor-3m-cache-up-to-2-90-ghz/specifications.html)
     - **Memória:** 8 GiB DIMM DDR3 (2x4 / 1333 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
