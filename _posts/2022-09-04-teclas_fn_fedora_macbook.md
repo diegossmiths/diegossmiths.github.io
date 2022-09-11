@@ -16,7 +16,7 @@ Eis que eu estava tranquilamente trabalhando, quando em um determinado momento t
 
 E o que fazer para desativá-las e retornar ao padrão? Segue o tutorial:
 
-* Em primeiro lugar, para alterar estes parâmetros na seção ativa, digite:
+* Em primeiro lugar, para alterar estes parâmetros na seção ativa, abra o terminal e digite:
 
 `sudo nano /sys/module/hid_apple/parameters/fnmode`
 
