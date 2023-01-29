@@ -38,14 +38,14 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
-    - **Modelo:** Apple MacBook Pro 8.1  A1278 Early 2011
+    - **Modelo:** Apple MacBook Pro 8,1  A1278 Early 2011
     - **CPU:** Intel Core i5-2415M (2C4T / 2.3 GHz ~ 2.9 GHz (Turbo) / 3 MB Cache L3 / TDP 35 Watts) [&#128279;](https://www.intel.com/content/www/us/en/products/sku/53449/intel-core-i52415m-processor-3m-cache-up-to-2-90-ghz/specifications.html)
     - **Memória:** 8 GiB DIMM DDR3 (2x4 / 1333 MHz / dual channel)
     - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
     - **Vídeo:** Intel HD Graphics 3000
     - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
     - **Teclado:** Logitech MX Keys
-    - **Mouse:** Logitech MX Vertical
+    - **Mouse:** Logitech MX Master 3
   - **_Software_:**
     - **Sistema operacional:** Fedora Linux 36 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
     - **Ambiente de trabalho:** GNOME [&#128279;](https://www.gnome.org/)
