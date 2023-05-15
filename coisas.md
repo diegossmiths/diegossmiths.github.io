@@ -47,7 +47,7 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
     - **Teclado:** Logitech MX Keys
     - **Mouse:** Logitech MX Master 3
   - **_Software_:**
-    - **Sistema operacional:** Fedora Linux 36 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
+    - **Sistema operacional:** Fedora Linux 38 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
     - **Ambiente de trabalho:** GNOME [&#128279;](https://www.gnome.org/)
     - **Navegador de internet:** Mozilla Firefox [&#128279;](https://www.mozilla.org/pt-BR/firefox/new/)
     - **Suíte de escritório:** LibreOffice [&#128279;](https://www.libreoffice.org/)
