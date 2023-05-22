@@ -51,11 +51,11 @@ Não levei o Vígi no Rafael, mas baseado no que meu cunhado havia me falado, no
 
 Como ele já estava com a consulta marcada, esperei até dia 24. Nesta consulta a médica residente ficou bastante intrigada com o fato dos linfonodos estarem bastante aumentados e sobre a bola no peito. Sobre a pata, já estava _um pouco_ melhor (mas ainda mancava), e depois de vários testes a médica disse que poderia ser uma _afecção em cervical_ (conversei isso com a Carol uns dias depois e ela achou estranho esse diagnóstico, pois, nunca havia notado nada no Vígi que pudesse indicar esse laudo). Além disso, pediram alguns exames, como um ecodopplercardiograma (EXAME-03, feito Cordiê), ultrassom abdominal (EXAME-04, feito na Stella), antibiograma/urocultura/creatinúria/proteinúria/urina (EXAME-05), hemogasometria (EXAME-06), hemograma (EXAME-07), bioquímico (EXAME-08). Também foi requisitado um exame de raio-X do tórax e da cervical para a verificação da situação da coluna vertebral, do coração e da cervical, exame este feito no HCV dia 06 de fevereiro. Além de tudo isso, foi receitado o uso do medicamento Meloxican 0,5 mg com o objetivo de diminuir a dor e a inflamação na pata (e teve uma boa melhora).
 
-[EXAME-03](/assets/images/pages/caso_vigi/EXAME-03.pdf)
-[EXAME-04](/assets/images/pages/caso_vigi/EXAME-04.pdf)
-[EXAME-05](/assets/images/pages/caso_vigi/EXAME-05.pdf)
-[EXAME-06](/assets/images/pages/caso_vigi/EXAME-06.pdf)
-[EXAME-07](/assets/images/pages/caso_vigi/EXAME-07.pdf)
+[EXAME-03](/assets/images/pages/caso_vigi/EXAME-03.pdf) \\
+[EXAME-04](/assets/images/pages/caso_vigi/EXAME-04.pdf) \\
+[EXAME-05](/assets/images/pages/caso_vigi/EXAME-05.pdf) \\
+[EXAME-06](/assets/images/pages/caso_vigi/EXAME-06.pdf) \\
+[EXAME-07](/assets/images/pages/caso_vigi/EXAME-07.pdf) \\
 [EXAME-08](/assets/images/pages/caso_vigi/EXAME-08.pdf)
 
 ## Exame de Raio-X, dia 06/02
@@ -77,13 +77,10 @@ Baseado nos resultados dos exames acima, o pessoal do HCV conversou comigo e opt
 
 Já sabendo da primeira reação do Vígi ao Propofol, a anestesista tomou mais cuidado desta vez. Mesmo com a atenção redobrada, segundo relatos da médica e da anestesista, foi um pouco complicado de estabilizar a respiração dele, mas após estabilizada a cirurgia ocorreu conforme o planejado. O laudo das biópsias da bola do peito, da pele e do linfonodo estão presentes no EXAME-10 enquanto o laudo do raio-X se encontra no EXAME-11.
 
-[EXAME-10](/assets/images/pages/caso_vigi/EXAME-10.pdf)
+[EXAME-10](/assets/images/pages/caso_vigi/EXAME-10.pdf) \\
 [EXAME-11](/assets/images/pages/caso_vigi/EXAME-11.pdf)
 
 Passaram-se os dias, a recuperação foi boa (meu cunhado veio à minha casa dia sim, dia não, para acompanhar), a cicatrização ocorreu rápida e perfeitamente e os pontos foram retirados no dia 14 de março. Com o uso dos anti-inflamatórios e analgésicos no pós-cirurgia (Dipirona + Meloxican 0,5 mg + Agemoxi 250mg), o problema da _pata manca_ foi "solucionado". Porém, com o passar dos dias e com o efeito dos remédios passando, ele começou a apresentar um andar "torto", rebolando demais a bunda, e agora puxando a **pata traseira direita**, algo fora do normal. Com o passar dos dias, aquele cachorro rebolando virou num cachorro que pulava em três patas e mancava em uma das três patas restantes.
-
-VIDEO-01
-VIDEO-02
 
 Dia 30 de março voltamos ao HCV e tivemos outro atendimento na clínica médica. Um exame de imagem foi requisitado com o objetivo de analisarmos detalhadamente as duas patas do lado direito. No na época ele andava cabisbaixo novamente devido ao desconforto/dor que sentia nos membros. A médica residente prescreveu mais uma dose de Dipirona, 8 gotas, de 12 em 12 horas por cinco dias. Além disso foi falado sobre fisioterapeutas. No dia 03 de abril fomos novamente até a Stella para fazer mais exames de raio-X. O laudo do exame por ser visto no link abaixo:
 
@@ -98,8 +95,6 @@ Todos os exames deram normais, não apresentando anomalia alguma. Foi então mar
 ## 19 de abril - Segunda cirurgia
 
 Confesso que estava muito nervoso para este novo procedimento devido as complicações que ocorreram com o Vígi durante a primeira cirurgia. Felizmente desta vez nada de errado aconteceu e ele não sofreu reação alguma ao Propofol. Amostras da camada superior do osso foram extraídas (pequenas lascas) e levadas novamente ao laboratório CAP para análise. Como pós operatório, foram receitados novamente 3 fármacos (Dipirona, 8 gotas + Carprofeno 25 mg + Tramadol 50 mg). Durante o tempo que o Vígi ficou tomando estes remédios, toda a dor que ele sentia nas patinhas deixou de existir. O vídeo no link abaixo comprova (vídeo feito dia 27 de abril, apenas 8 dias depois da cirurgia, ainda com os pontos e sob efeito dos remédios).
-
-VÍDEO-03
 
 Dia 26 de abril houve a remoção destes fármacos e o início do tratamento somente com a Pregabalina. Durante um tempo ele ainda estava sem sentir dor, porém, por volta dos primeiros dias de maio começou a ficar estranho novamente, e dia 05 de maio ele voltou a mancar.
 
