@@ -7,6 +7,8 @@ keywords:
 permalink: /caso_vigi/
 ---
 
+# Caso Vígi
+
 Fazendo uma análise de todas as conversas, fotos e extratos bancários que tenho aqui, este foi o relato mais preciso que eu consegui gerar.
 
 ...
@@ -19,7 +21,7 @@ Passado alguns dias, na sexta, dia 11 de novembro, notei uma bola grande nas cos
 
 Uns dias depois marquei um banho e tosa com a Carol. Avisei do machucado e disse que ele não estava muito legal, andava bastante cabisbaixo. Avisei do caso da mordida e pedi para ela dar uma olhada. Ela constatou que ele estava com aumento de volume no lado da barriga, onde antes tinha uma bolinha agora estava mais inchado. E sentia muita dor. A Carol também havia requisitado um Ultrassom.
 
-![Foto do local da mordida **após** o tratamento inicial com Enrogard e antes da tosa.](/assets/images/pages/caso_vigi/FOTO-01.jpeg){width="900" height="1600"}
+![Foto do local da mordida **após** o tratamento inicial com Enrogard e antes da tosa.](/assets/images/pages/caso_vigi/FOTO-01.jpeg)
 
 A Ju, minha esposa, levou o Vígi no local indicado, na Clinvet. Lá o Henrique fez o exame de imagem e ainda por cima acabou fazendo uma limpeza na ferida da barriga, visto que, durante o exame, aquela bola arrebentou e saiu pus lá de dentro. O resultado do exame saiu dia 23 de novembro e pode ser visto no link abaixo.
 
@@ -27,9 +29,9 @@ EXAME-01
 
 A coisa continuou meio estranha, parecia que o tratamento não fez muito efeito. Dia 3 de dezembro, a ferida não estava boa, e ainda saia algo ali de dentro. Levei novamente na Bom Trato e fomos atendidos pela Carol. Ela limpou novamente e receitou outro antibiótico, agora de 12 em 12 horas durante 7 dias (não lembro o nome e nem se era essa posologia).
 
-![Foto do local da mordida **após** o tratamento inicial com Enrogard e após a tosa.](/assets/images/pages/caso_vigi/FOTO-02.jpeg){width="900" height="1600"}
+![Foto do local da mordida **após** o tratamento inicial com Enrogard e após a tosa.](/assets/images/pages/caso_vigi/FOTO-02.jpeg)
 
-![Foto do local da mordida **após** o tratamento inicial com Enrogard e após a tosa.](/assets/images/pages/caso_vigi/FOTO-03.jpeg){width="900" height="1600"}
+![Foto do local da mordida **após** o tratamento inicial com Enrogard e após a tosa.](/assets/images/pages/caso_vigi/FOTO-03.jpeg)
 
 Dessa vez a coisa melhorou um pouco e a ferida, ao final do tratamento, parecia fechada. Ainda assim, ainda parecia conter abscesso por baixo da pele (detalhe, eu não sabia o que eram abscessos).
 
