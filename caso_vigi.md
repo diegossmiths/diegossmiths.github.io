@@ -25,7 +25,7 @@ Uns dias depois marquei um banho e tosa com a Carol. Avisei do machucado e disse
 
 A Ju, minha esposa, levou o Vígi no local indicado, na Clinvet. Lá o Henrique fez o exame de imagem e ainda por cima acabou fazendo uma limpeza na ferida da barriga, visto que, durante o exame, aquela bola arrebentou e saiu pus lá de dentro. O resultado do exame saiu dia 23 de novembro e pode ser visto no link abaixo.
 
-EXAME-01
+[EXAME-01](/assets/images/pages/caso_vigi/EXAME-01.pdf)
 
 A coisa continuou meio estranha, parecia que o tratamento não fez muito efeito. Dia 3 de dezembro, a ferida não estava boa, e ainda saia algo ali de dentro. Levei novamente na Bom Trato e fomos atendidos pela Carol. Ela limpou novamente e receitou outro antibiótico, agora de 12 em 12 horas durante 7 dias (não lembro o nome e nem se era essa posologia).
 
@@ -43,7 +43,7 @@ Possivelmente no dia 7 de janeiro, em uma visita a casa da minha sogra, estava p
 
 Baseado no fato do Vígi estar com todos os linfonodos aumentados, durante a semana seguinte levei o cusco novamente na Bom Trato para uma consulta. Quem atendeu foi a Carol, que solicitou um exame de sangue e citou que o único veterinário oncologista da cidade é o Rafael da clínica "alguma coisa". O exame de sangue pedido pela Carol ficou pronto dia 11 de janeiro e pode ser visto no link abaixo:
 
-EXAME-02
+[EXAME-02](/assets/images/pages/caso_vigi/EXAME-02.pdf)
 
 ## 24/01 - Início das idas ao HCV-UFPel
 
@@ -51,18 +51,18 @@ Não levei o Vígi no Rafael, mas baseado no que meu cunhado havia me falado, no
 
 Como ele já estava com a consulta marcada, esperei até dia 24. Nesta consulta a médica residente ficou bastante intrigada com o fato dos linfonodos estarem bastante aumentados e sobre a bola no peito. Sobre a pata, já estava _um pouco_ melhor (mas ainda mancava), e depois de vários testes a médica disse que poderia ser uma _afecção em cervical_ (conversei isso com a Carol uns dias depois e ela achou estranho esse diagnóstico, pois, nunca havia notado nada no Vígi que pudesse indicar esse laudo). Além disso, pediram alguns exames, como um ecodopplercardiograma (EXAME-03, feito Cordiê), ultrassom abdominal (EXAME-04, feito na Stella), antibiograma/urocultura/creatinúria/proteinúria/urina (EXAME-05), hemogasometria (EXAME-06), hemograma (EXAME-07), bioquímico (EXAME-08). Também foi requisitado um exame de raio-X do tórax e da cervical para a verificação da situação da coluna vertebral, do coração e da cervical, exame este feito no HCV dia 06 de fevereiro. Além de tudo isso, foi receitado o uso do medicamento Meloxican 0,5 mg com o objetivo de diminuir a dor e a inflamação na pata (e teve uma boa melhora).
 
-EXAME-03
-EXAME-04
-EXAME-05
-EXAME-06
-EXAME-07
-EXAME-08
+[EXAME-03](/assets/images/pages/caso_vigi/EXAME-03.pdf)
+[EXAME-04](/assets/images/pages/caso_vigi/EXAME-04.pdf)
+[EXAME-05](/assets/images/pages/caso_vigi/EXAME-05.pdf)
+[EXAME-06](/assets/images/pages/caso_vigi/EXAME-06.pdf)
+[EXAME-07](/assets/images/pages/caso_vigi/EXAME-07.pdf)
+[EXAME-08](/assets/images/pages/caso_vigi/EXAME-08.pdf)
 
 ## Exame de Raio-X, dia 06/02
 
 Para que o procedimento fosse realizado, era necessário anestesia geral, pois, segundo a médica, era preciso que ele ficasse completamente imóvel. Logo no início o Vígi sofreu reação a anestesia, mais precisamente ao fármaco **Propofol**. Essa reação fez com que ele ficasse rígido e agitado. Conseguiram apenas fazer o raio-X do tórax. O laudo do exame pode ser visto no arquivo EXAME-09.
 
-EXAME-09
+[EXAME-09](/assets/images/pages/caso_vigi/EXAME-09.pdf)
 
 Baseado nos resultados dos exames acima, o pessoal do HCV conversou comigo e optamos por operar o Vígi. Foi marcada uma cirurgia para o dia 02 de março para que fossem realizados os seguintes procedimentos:
 * castração; 
@@ -77,8 +77,8 @@ Baseado nos resultados dos exames acima, o pessoal do HCV conversou comigo e opt
 
 Já sabendo da primeira reação do Vígi ao Propofol, a anestesista tomou mais cuidado desta vez. Mesmo com a atenção redobrada, segundo relatos da médica e da anestesista, foi um pouco complicado de estabilizar a respiração dele, mas após estabilizada a cirurgia ocorreu conforme o planejado. O laudo das biópsias da bola do peito, da pele e do linfonodo estão presentes no EXAME-10 enquanto o laudo do raio-X se encontra no EXAME-11.
 
-EXAME-10
-EXAME-11
+[EXAME-10](/assets/images/pages/caso_vigi/EXAME-10.pdf)
+[EXAME-11](/assets/images/pages/caso_vigi/EXAME-11.pdf)
 
 Passaram-se os dias, a recuperação foi boa (meu cunhado veio à minha casa dia sim, dia não, para acompanhar), a cicatrização ocorreu rápida e perfeitamente e os pontos foram retirados no dia 14 de março. Com o uso dos anti-inflamatórios e analgésicos no pós-cirurgia (Dipirona + Meloxican 0,5 mg + Agemoxi 250mg), o problema da _pata manca_ foi "solucionado". Porém, com o passar dos dias e com o efeito dos remédios passando, ele começou a apresentar um andar "torto", rebolando demais a bunda, e agora puxando a **pata traseira direita**, algo fora do normal. Com o passar dos dias, aquele cachorro rebolando virou num cachorro que pulava em três patas e mancava em uma das três patas restantes.
 
@@ -87,11 +87,11 @@ VIDEO-02
 
 Dia 30 de março voltamos ao HCV e tivemos outro atendimento na clínica médica. Um exame de imagem foi requisitado com o objetivo de analisarmos detalhadamente as duas patas do lado direito. No na época ele andava cabisbaixo novamente devido ao desconforto/dor que sentia nos membros. A médica residente prescreveu mais uma dose de Dipirona, 8 gotas, de 12 em 12 horas por cinco dias. Além disso foi falado sobre fisioterapeutas. No dia 03 de abril fomos novamente até a Stella para fazer mais exames de raio-X. O laudo do exame por ser visto no link abaixo:
 
-EXAME-12
+[EXAME-12](/assets/images/pages/caso_vigi/EXAME-12.pdf)
 
 Com o resultado deste exame em mãos, voltamos ao HCV e a residente da clínica médica passou o caso de volta para a clínica cirúrgica. Novos exames de sangue foram feitos com o objetivo de sanar algumas dúvidas que apareceram durante reuniões dos residentes com os professores. Exames bioquímicos e de hormônios, pois, pensou-se que o problema relatado no último exame feito na Stella (EXAME-12) poderia ser resultado de algum distúrbio hormonal ou até mesmo de problemas de calcificação. Possuo apenas os resultados do exame bioquímico de fósforo feito no laboratório Pet Análises (EXAME-13), porém os demais não tenho mas posso requisitar para que o HCV envie-os para mim.
 
-EXAME-13
+[EXAME-13](/assets/images/pages/caso_vigi/EXAME-13.pdf)
 
 Todos os exames deram normais, não apresentando anomalia alguma. Foi então marcada uma nova cirurgia, desta vez para extrair amostras ósseas para biópsia. Como ele ainda tinha dor, a médica prescreveu 8 gotas de _Dipirona_ de 12 em 12 horas, o que milagrosamente **retirou toda a dor** que o Vígi vinha tendo. O uso da Dipirona foi mantido por 5 dias e foi interrompido 36 horas antes da segunda cirurgia.
 
@@ -105,7 +105,7 @@ Dia 26 de abril houve a remoção destes fármacos e o início do tratamento som
 
 Dia 28 de abril o CAP soltou o laudo final sobre as amostras deixadas com eles. O resultado pode ser visto no arquivo EXAME-13.
 
-EXAME-14
+[EXAME-14](/assets/images/pages/caso_vigi/EXAME-14.pdf)
 
 No dia 5 de maio requisitamos as amostras e as lâminas no CAP com o objetivo de levar para o HCV para um segundo laudo. Desta vez o médico oncologista do HCV assumiu os exames. Não tenho os laudos em mãos, porém a médica residente informou que a professora de patologia havia dado um retorno. Pelas palavras da médica residente:
 
