@@ -111,5 +111,18 @@ No dia 5 de maio requisitamos as amostras e as lâminas no CAP com o objetivo de
 O Vígi está mancando muito. Não sei se sente dor ou algum desconforto. Os passeios estão reduzidos a uma ou duas quadras, basicamente só para fazer as necessidades.
 Além disso, notei há um tempinho uma bola dura na região pélvica. Ao apalpar, a médica residente disse que poderia ser um linfonodo aumentado. Eu gostaria de uma melhor análise sobre o que pode ser isso.
 
-PS: as imagens dos exames da Stella podem ser vistas em alta-resolução. Se necessário, falem comigo que eu passo o link.
+## Segundo exame de imagem
+
+Dia 5 de julho fomos fazer outro exame de imagem com dois objetivos. Analizar uma "bola" na região pélvica do Vígi e fazer outra análise dos ossos das patas.
+
+A bola na região pélvica não se mostrou nada demais, o problema maior foi a lesão óssea que aumentou.
+Os exames podem ser vistos nos links abaixo.
+
+[EXAME-15](/assets/images/pages/caso_vigi/EXAME-15.pdf)
+[EXAME-16](/assets/images/pages/caso_vigi/EXAME-16.pdf)
+[EXAME-17](/assets/images/pages/caso_vigi/EXAME-17.pdf)
+[EXAME-18](/assets/images/pages/caso_vigi/EXAME-18.pdf)
+
+
+
 
