@@ -20,7 +20,8 @@ pocket_username: diegossmiths
 
 
 # Configurações:
-url: "https://umaviagempelomeujardim.net"
+# url: "https://umaviagempelomeujardim.net"
+url: "https://diegossmiths.github.io/"
 baseurl: "" # usado para subdomínios dentro do site
 theme-color: '#008b8b'
 languages: pt_BR
