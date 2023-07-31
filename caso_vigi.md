@@ -119,8 +119,11 @@ A bola na região pélvica não se mostrou nada demais, o problema maior foi a l
 Os exames podem ser vistos nos links abaixo.
 
 [EXAME-15](/assets/images/pages/caso_vigi/EXAME-15.pdf)
+
 [EXAME-16](/assets/images/pages/caso_vigi/EXAME-16.pdf)
+
 [EXAME-17](/assets/images/pages/caso_vigi/EXAME-17.pdf)
+
 [EXAME-18](/assets/images/pages/caso_vigi/EXAME-18.pdf)
 
 
