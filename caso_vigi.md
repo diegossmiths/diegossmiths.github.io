@@ -41,7 +41,7 @@ Passou-se um tempo e no finalzinho de dezembro eu e a Ju fomos viajar. O Vígi f
 
 Possivelmente no dia 7 de janeiro, em uma visita a casa da minha sogra, estava presente meu cunhado, que está se formando em veterinária neste momento. Examinando o Vígi ele me perguntou pela enésima vez se eu já tinha feito uma análise daquela bola que o Vígi tinha no peito, eu falei que não. Ao examinar o Vígi ele notou que TODOS os linfonodos do cusco estavam aumentados, e bastante aumentados. Achou estranho e sugeriu que eu levasse o Vígi no HCV para uma análise, visto que lá eles possuem um médico oncologista, professores experientes e dispõe de muitos instrumentos de diagnósticos.
 
-Baseado no fato do Vígi estar com todos os linfonodos aumentados, durante a semana seguinte levei o cusco novamente na Bom Trato para uma consulta. Quem atendeu foi a Carol, que solicitou um exame de sangue e citou que o único veterinário oncologista da cidade é o Rafael da clínica "alguma coisa". O exame de sangue pedido pela Carol ficou pronto dia 11 de janeiro e pode ser visto no link abaixo:
+Baseado no fato do Vígi estar com todos os linfonodos aumentados, durante a semana seguinte levei o cusco novamente na Bom Trato para uma consulta. Quem atendeu foi a Carol, que solicitou um exame de sangue e citou que o único veterinário oncologista da cidade é o Rafael Müller da clínica do Paulo Sampaio. O exame de sangue pedido pela Carol ficou pronto dia 11 de janeiro e pode ser visto no link abaixo:
 
 [EXAME-02](/assets/images/pages/caso_vigi/EXAME-02.pdf)
 
@@ -106,12 +106,7 @@ No dia 5 de maio requisitamos as amostras e as lâminas no CAP com o objetivo de
 
 > Não foi encontrado nada tumoral na amostras enviadas e também não acreditamos ser inflamatório/infeccioso. Ela disse que provavelmente estamos diante de um quadro raro, alguma distrofia ou displasia óssea. São diagnósticos diferenciais mais difíceis de fazer de osso. Agora estamos estudando essa parte de alterações ósseas mais raras para vermos o que é se tem tratamento.
 
-## Vígi hoje
-
-O Vígi está mancando muito. Não sei se sente dor ou algum desconforto. Os passeios estão reduzidos a uma ou duas quadras, basicamente só para fazer as necessidades.
-Além disso, notei há um tempinho uma bola dura na região pélvica. Ao apalpar, a médica residente disse que poderia ser um linfonodo aumentado. Eu gostaria de uma melhor análise sobre o que pode ser isso.
-
-## Segundo exame de imagem
+## Segundo exame de imagem e outro exame de sangue
 
 Dia 5 de julho fomos fazer outro exame de imagem com dois objetivos. Analizar uma "bola" na região pélvica do Vígi e fazer outra análise dos ossos das patas.
 
@@ -126,6 +121,10 @@ Os exames podem ser vistos nos links abaixo.
 
 [EXAME-18](/assets/images/pages/caso_vigi/EXAME-18.pdf)
 
+Entre maio e julho, foi feito outro exame de sangue, desta vez analisando creatinina, uréia, GGT, TGP, fosfatase alcalina, hemograma, hemocultura e antibiograma. Os resultados, aparentemente quase todos dentro do normal, podem ser vistos no arquivo abaixo.
 
+[EXAME-19](/assets/images/pages/caso_vigi/EXAME-19.pdf)
 
+## Vígi hoje
 
+Em junho o Vígi começou o tratamento com Librela. O medicamento fez milagres, transformou um cachorro manco, cheio de dor, em um cachorro ativo e alegre novamente. Atualmente já tomou duas doses, e no dia 06/08 irá para a terceira. Porém, quando a "validade" da dose se aproxima do fim, ele volta a sentir um desconforto nas patas afetadas.  
