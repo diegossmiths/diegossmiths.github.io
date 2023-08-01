@@ -27,7 +27,7 @@ A Ju, minha esposa, levou o Vígi no local indicado, na Clinvet. Lá o Henrique 
 
 [EXAME-01](/assets/images/pages/caso_vigi/EXAME-01.pdf)
 
-A coisa continuou meio estranha, parecia que o tratamento não fez muito efeito. Dia 3 de dezembro, a ferida não estava boa, e ainda saia algo ali de dentro. Levei novamente na Bom Trato e fomos atendidos pela Carol. Ela limpou novamente e receitou outro antibiótico, agora de 12 em 12 horas durante 7 dias (não lembro o nome e nem se era essa posologia).
+A coisa continuou meio estranha, parecia que o tratamento não fez muito efeito. Dia 3 de dezembro, a ferida não estava boa, e ainda saia algo ali de dentro. Levei novamente na Bom Trato e fomos atendidos pela Carol. Ela limpou novamente e receitou outro antibiótico, agora Cefalexina, agora de 12 em 12 horas durante 7 dias (não lembro o nome e nem se era essa posologia).
 
 ![Foto do local da mordida **após** o tratamento inicial com Enrogard e após a tosa.](/assets/images/pages/caso_vigi/FOTO-02.jpeg)
 
