@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mais um passo
-description: Há poucos instantes foi divulgada a lista dos aprovados para aluno especial do programa de pós-graduação em ciência da computação da Universidade Federal de Pelotas, ingresso 2024/01. Meu nome está lá na segunda linha. Homologado.
+description: Divulgada a lista dos aprovados para aluno especial do programa de pós-graduação em ciência da computação da UFPel, ingresso 2024/01. Meu nome está lá na segunda linha. Homologado.
 keywords: ppgc, ufpel, aluno especial, sgtic
 date: 2024-02-21 22:31:30 -0300
 ---
@@ -15,10 +15,8 @@ Estou com um sentimento misto, ao mesmo tempo que fiquei bastante feliz e espera
 [Aqui](/assets/documents/SEI_UFPel-2527851-Homologacoes-AE20241.pdf), o documento preliminar da homologação.
 
 > &#127932; \\
-So make the best of this test \\
-And don't ask why \\
-It's not a question \\
-But a lesson learned in time \\
+So make the best of this test and don't ask why \\
+It's not a question, but a lesson learned in time \\
 \\
 It's something unpredictable \\
 But in the end it's right \\
