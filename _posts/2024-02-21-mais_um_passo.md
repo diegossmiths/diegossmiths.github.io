@@ -6,7 +6,7 @@ keywords: ppgc, ufpel, aluno especial, sgtic
 date: 2024-02-21 21:48:30 -0300
 ---
 
-Para quem, a pouco tempo, nem pensava em fazer um mestrado, foi uma mudança de 180°. Voltar a estudar era uma coisa que nem passava pela minha cabeça, "comichava" só de pensar. Acontece que voltar a trabalhar na UFPel, no meio acadêmico, voltou a despertar em mim uma vontade de aprender coisas novas. Sem falar no aumento de salário e nas maiores possibilidades para o futuro. Tenho (na verdade temos, a Ju também tem) vontade de passar um tempo fora do Brasil, e um mestrado é uma coisa que poderá me ajudar bastante.
+Para quem, a pouco tempo, nem pensava em fazer um mestrado, foi uma mudança de 180°. Voltar a estudar era uma coisa que nem passava pela minha cabeça, "comichava" só de pensar. Acontece que voltar a trabalhar na UFPel, no meio acadêmico, voltou a despertar em mim uma vontade de aprender coisas novas. Sem falar no aumento de salário e nas maiores possibilidades para o futuro. Tenho (na verdade temos, vou incluir a Ju nisso) vontade de passar um tempo fora do Brasil, e um mestrado é uma coisa que poderá me ajudar bastante.
 
 Resolvi começar como aluno especial por dois motivos: primeiro foi o tempo, afinal tenho uma jornada de trabalho de 8 horas diárias na UFPel, um cachorro, uma namorada/noiva/esposa, academia, bicicleta (quando dá), a Andurá, família e... e... mais um monte de coisas. Não tenho mais todo o tempo do mundo para dedicar aos estudos. E o segundo motivo foi para ir, aos poucos, novamente pegando o jeito da coisa, tentar fazer tudo direitinho e sugar o máximo possível de conhecimento.
 
