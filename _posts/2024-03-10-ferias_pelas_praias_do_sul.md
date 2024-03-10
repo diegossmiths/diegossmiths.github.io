@@ -13,23 +13,23 @@ Poucos dias depois a Ju teve que ir à um fórum de coordenadores dos cursos de 
 
 O único destino que tínhamos em mente era a ilha de Superagui, a qual a Ju já tinha estado uns 10 anos antes e gostaria de ir novamente. As datas eram quase as mesmas, sairíamos de Pelotas, de carro, em algum dia entre o Natal e o ano novo e voltaríamos no meio de janeiro. As hospedagens seriam feitas usando _airbnb_ pela facilidade de achar locais que aceitem cães. Com base nisso, sentamos novamente na frente do computador e começamos a pesquisar lugares e coisas legais para fazer por lá.
 
-Eu e a Ju não gostamos muito de ficar planejando coisas para fazer nas viagens, temos preferência por ir em determinado lugar e lá descobrir naturalmente o que nos agradada de fazer. Por esse nosso jeito de ser, conseguimos em um noite "fechar" o roteiro. Havia ficado o seguinte:
-Primeiro destino: Parada para descanso e pernoite em Criciúma/SC.
-Segundo destino: Tagaçaba/PR
-Terceiro destino: Pontal do Paraná/PR
-Quarto destino: Superagui
-Quinto destino: a decidir, alguma praia de Santa Catarina
+Eu e a Ju não gostamos muito de ficar planejando coisas para fazer nas viagens, temos preferência por ir em determinado lugar e lá descobrir naturalmente o que nos agradada de fazer. Por esse nosso jeito de ser, conseguimos em um noite "fechar" o roteiro. Havia ficado o seguinte: \\
+Primeiro destino: Parada para descanso e pernoite em Criciúma/SC. \\
+Segundo destino: Tagaçaba/PR \\
+Terceiro destino: Pontal do Paraná/PR \\
+Quarto destino: Superagui \\
+Quinto destino: a decidir, alguma praia de Santa Catarina \\
 Sexto destino: a decidir, alguma cidade na costa do Rio Grande do Sul
 
 No meio de dezembro meu cunhado decidiu que iria junto; ele, a esposa e os dois filhos. Sem problemas, quanto mais gente no grupo, mais cabeças pensantes e mais oportunidades de fazermos coisas diferentes. Partiu!
 
-## Primeiro destino: Criciúma/SC
+## Criciúma / SC
 
 Saímos de Pelotas pela [BR-116](https://pt.wikipedia.org/wiki/BR-116), sendo ela quase totalmente duplicada, com poucos trechos não-duplicados entre Pelotas e Porto Alegre. Os pedágios da Ecosul são bem mais caros (na época, R$ 15,20), porém o serviço prestado ao motorista é melhor que das concessionárias que vieram depois. Já mais acima, passando Porto Alegre, pegamos a [Freeway](https://pt.wikipedia.org/wiki/BR-290). A estrada é uma maravilha, o asfalto é bom e a quantidade de pistas disponíveis fazem com que tudo flua bem. Apesar disso, o pedágio fica bem barato, porém o atendimento ao usuário cai de qualidade. Logo após entramos na [BR-101](https://pt.wikipedia.org/wiki/BR-101) com destino à Santa Catarina.
 
 Nunca havia ido à Criciúma. Cidade bonita, arrumadinha, bem organizada, limpa e com muitos morros. Ficamos num apartamento que recentemente havia sido reformado, portanto tudo era novo, e assim como a cidade, limpo e bem organizado. Como já era final de tarde quando chegamos, saímos apenas para dar uma volta com o Vígi, algo rápido, apenas uma caminhada no quarteirão. No dia seguinte tomamos café num posto de combustíveis ([Posto Rosso](https://www.google.com/maps/place/Posto+Rosso+-+Shell/@-28.6758351,-49.3657426,3a,75y,236.23h,92.06t/data=!3m6!1e1!3m4!1sDcBkAPNKI-Z6IAV1uKWcsg!2e0!7i16384!8i8192!4m10!1m2!2m1!1sposto+rosso+crici%C3%BAma!3m6!1s0x95218281dcf36053:0x7e957761c0ff54c8!8m2!3d-28.6759732!4d-49.3659396!15sChVwb3N0byByb3NzbyBjcmljacO6bWGSAQtnYXNfc3RhdGlvbuABAA!16s%2Fg%2F11bxd74jxq?entry=ttu)) e enchi o tanque do carro. Café padrão de tudo quanto é posto e gasolina num preço bastante semelhante ao que pagamos aqui no Rio Grande do Sul. Logo, seguimos viagem pela BR-101.
 
-## Segundo destino: Tagaçaba
+## Tagaçaba / PR
 
 Dia 30. Cruzamos o litoral de Santa Catarina e chegamos na divisa com o estado do Paraná através da [BR-376](https://pt.wikipedia.org/wiki/BR-376). Não sabia que havia uma região serrana por ali e fiquei maravilhado com a beleza do local. A estrada passa pelo meio da Mata Atlântica, sobe, desce e faz curvas dentro aquele cenário maravilhoso. O trânsito é intenso, portanto deve ser melhor ainda viajar por lá em épocas que tudo está mais calmo.
 
@@ -41,7 +41,7 @@ Tagaçaba é um vilarejo que pertence ao município de Guaraqueçaba. Tem uma pi
 
 Por ali permanecemos até dia 1º quando decidimos que não ficaríamos até dia 4 conforme combinado. Eu e a Ju tínhamos ideia de tirar alguns dias para descansar, ler bastante e fazer algumas trilhas. Eu havia pesquisado sobre a [Reserva Natural Salto Morato](https://pt.wikipedia.org/wiki/Salto_Morato), uma reserva ecológica que fica 34,5 km além. Acontece que meu cunhado estava com os filhos, uma criança e uma adolescente, e eles estavam entediados. Além disso a previsão era de muita chuva, então como a ideia era andarmos sempre juntos, permanecemos juntos quando decidimos encerrar por ali nossa estadia em Tagaçaba.
 
-## Terceiro destino: Pontal do Paraná - Parte 1
+## Pontal do Paraná / PR (Parte 1)
 
 Procuramos uma nova casa, dessa vez no município de Pontal do Paraná. O povo queria praia. Era uma tarefa ingrata achar uma casa desocupada e decente em pleno primeiro de janeiro. Achamos uma casa no balneário de Shangri-lá e partimos.
 
@@ -49,7 +49,7 @@ A casa parecia ter saído diretamente dos anos 80. Tudo era velho, da geladeira,
 
 Logo de cara peguei o Vígi e fomos até a praia. Quando ele viu a água saiu correndo e entrou no mar. Brincava comigo e corria de tão alegre que estava. Fiquei extremamente feliz de ver o jeito dele. Mais tarde, saímos todos para dar uma caminhada e conhecer o centrinho do balneário.
 
-## Ilha do Mel
+## Ilha do Mel / PR
 
 ![A imagem apresenta uma colagem de três fotos. A que está na parte de cima mostra a Praia de Fora, a que está na parte esquerda inferior mostra eu e a Ju dentro da voadeira e a que está na parte direita inferior mostra o Farol das Conchas](/assets/images/blog/2024-03-10-ferias_pelas_praias_do_sul/foto_01.webp){:width="1574" height="1574"}
 
@@ -59,7 +59,7 @@ Ao desembarcarmos lá já podemos ver que o turismo é realmente forte na ilha. 
 
 Fizemos apenas a trilha até o Farol das Conchas, talvez o ponto mais visitado na ilha. O Farol, a mando do Barão de Cotegipe, foi projetado pelo engenheiro Zozimo Barroso e construído totalmente em ferro fundido por P&W MacLellan, em Glasgow, na Escócia, no ano de 1870. Tinha como objetivo auxiliar a navegação no local. Foi inaugurado em 25 de março de 1872. O farol fica no alto do Morro das Conchas e para chegar até lá é necessário subir uma escadaria de pedras que considero de fácil acesso. Ao chegar no alto do morro nos deparamos com uma vista muito bonita, na qual podemos contemplar boa parte da ilha, e com um bando de lagartos super dóceis que vieram nos receber. Infelizmente não pudemos subir no farol, mas nos entretemos alimentando os lagartos com pedaços de maçãs. Ao descermos de lá, passamos o restante do dia na Praia de Fora, uma linda enseada,tendo em um lado o Morro das Conchas e pelo outro um outro morro que não sei o nome, ambos rochosos. A Ilha do Mel é linda demais, voltaria sem sombra de dúvidas.
 
-## Paranaguá
+## Paranaguá / PR
 
 Dia 03 de janeiro e a chuva se fez presente. E não era uma simples chuvinha, era uma chuva que intercalava momentos intensos e outros calmos, mas sempre caindo água. Optamos então por um passeio em museus e fomos até Paranaguá. Nosso primeiro destino foi o [Aquário de Paranaguá](https://www.portallitoraldoparana.com.br/aquario-paranagua/) e o segundo o [Museu de Arqueologia e Etnologia da Universidade Federal do Paraná](https://mae.ufpr.br/).
 
@@ -98,7 +98,7 @@ No dia seguinte 04/01, acabamos por ficar em casa. O céu ainda estava fechado, 
 
 ---
 
-## Superagui
+## Superagui / PR
 
 Dia 05/01, acordamos, tomamos café e juntamos algumas das nossas tralhas mais básicas. Pegamos os carros e partimos novamente em direção à Paranaguá , mas dessa vez com o objetivo de ir até Superagui. Na frente do centro histórico, pelas margens do rio Itiberê, embarcamos em outra voadeira. A saída do porto é bastante bonita, contornando o continente e passando pelo grande porto da cidade, onde é possível ver de perto aqueles navios enormes, coisas lindas da engenharia humana. Fizemos o caminho passando por dentro da baía, por entre a Ilha do Mel e a Ilha das Peças, que segundo eles é mais tranquilo, com menos ondas.
 
@@ -134,7 +134,7 @@ No final da tarde, eu e a Ju resolvemos dar uma volta para tomar um café e acha
 
 ---
 
-## Quarto destino: Pontal do Paraná - Parte 2
+## Pontal do Paraná / PR (Parte 2)
 
 Dia 07/01. Nosso primeiro dia na casa nova e resolvemos fazer um programa mais voltado ao descanso. Como era domingo, o balneário estava lotado, e eu sabia que se resolvêssemos sair de lá, a volta seria bem ruim, com um trânsito super intenso. Acordei e fui a praia com o Vígi. Logo após, voltamos para casa, tomamos nosso café da manhã e fiquei lendo um livro ([Duna](https://pt.m.wikipedia.org/wiki/Duna_(romance))). Perto da hora do almoço, resolvemos ir à um bar de uma amigo da Fernanda, bar esse no qual ela havia super recomendado: Bar Maresia, na Praia do Canto. O dia estava escandante, o Sol queimava a pele e a praia estava lotada. Conseguimos parar o carro a cerca de 500 metros do local e caminhamos até o quiosque. Pedimos um pastel de camarão para cada um de nós, além de uma porção de iscas de peixe frito. Realmente, a Fernanda estava certa. O pastel estava delicioso, o molho era muito bem feito, temperadinho, pastel frito sem estar encharcado no óleo, bem sequinho. Pedimos outros dois. E mais outros dois. Ficamos um bom tempo sentados e apreciando a bela vista que o local oferece da Ilha do Mel, que fica exatamente na frente do bar. Por volta das 15h pagamos a conta e, pela beira da praia, voltamos para o carro e para casa.
 
@@ -166,7 +166,7 @@ Chegamos na nova casa bastante cansados, e eu bastante estressado com o trânsit
 
 ---
 
-## Quinto destino: Imbituba/SC
+## Imbituba / SC
 
 Dia 10/01.
 
@@ -192,7 +192,7 @@ Depois de aproveitarmos um pouco a paz que nos era oferecida, descemos em direç
 
 Pegamos novamente a BR-101 e descemos. Em [Terra de Areia (RS)](https://pt.wikipedia.org/wiki/Terra_de_Areia), pegamos a RSC-453/ERS-486, mais conhecida como [Rota do Sol](https://www.daer.rs.gov.br/rota-do-sol-rsc-453-ers-486), nunca havia dirigido nela. Nesse momento voltou a chover, pancadas de chuva forte alternavam com chuvas fracas, o que tornou a paisagem ainda mais bela. Em um determinado momento, depois de subirmos, subirmos e subirmos mais um pouco, passamos por dentro de uma nuvem baixa e carregada, foi lindo demais estar ali naquele momento. A estrada é belíssima, com muitas curvas, aclives e declives. Sensacional dirigir por lá.
 
-## Sexto destino: São Francisco de Paula / RS
+## São Francisco de Paula / RS
 
 No final do dia, por volta das 18h chegamos na nossa casinha. A casa é a (Studio 307)[https://www.airbnb.com.br/rooms/918330325278409920]. Nossas anfitriãs, a Gládis e a Preice, foram bastante atenciosas e prestativas, nos deixando mimos, inclusive para o Vígi, que teve a caminha dele posta e ganhou um sachê de comida. A casa é muito bonita e aconchegante, e o clima no dia, que era chuva e temperatura em torno de 20°C, acentuaram ainda mais este sentimento. Por causa do tempo, não saímos e ficamos assistindo coisas na TV, coisa que não costumamos fazer normalmente.
 
