@@ -22,13 +22,13 @@ Sexto destino: a decidir, alguma cidade na costa do Rio Grande do Sul
 
 No meio de dezembro meu cunhado decidiu que iria junto; ele, a esposa e os dois filhos. Sem problemas, quanto mais gente no grupo, mais cabeças pensantes e mais oportunidades de fazermos coisas diferentes. Partiu!
 
-# Primeiro destino: Criciúma/SC
+## Primeiro destino: Criciúma/SC
 
 Saímos de Pelotas pela [BR-116](https://pt.wikipedia.org/wiki/BR-116), sendo ela quase totalmente duplicada, com poucos trechos não-duplicados entre Pelotas e Porto Alegre. Os pedágios da Ecosul são bem mais caros (na época, R$ 15,20), porém o serviço prestado ao motorista é melhor que das concessionárias que vieram depois. Já mais acima, passando Porto Alegre, pegamos a [Freeway](https://pt.wikipedia.org/wiki/BR-290). A estrada é uma maravilha, o asfalto é bom e a quantidade de pistas disponíveis fazem com que tudo flua bem. Apesar disso, o pedágio fica bem barato, porém o atendimento ao usuário cai de qualidade. Logo após entramos na [BR-101](https://pt.wikipedia.org/wiki/BR-101) com destino à Santa Catarina.
 
 Nunca havia ido à Criciúma. Cidade bonita, arrumadinha, bem organizada, limpa e com muitos morros. Ficamos num apartamento que recentemente havia sido reformado, portanto tudo era novo, e assim como a cidade, limpo e bem organizado. Como já era final de tarde quando chegamos, saímos apenas para dar uma volta com o Vígi, algo rápido, apenas uma caminhada no quarteirão. No dia seguinte tomamos café num posto de combustíveis ([Posto Rosso](https://www.google.com/maps/place/Posto+Rosso+-+Shell/@-28.6758351,-49.3657426,3a,75y,236.23h,92.06t/data=!3m6!1e1!3m4!1sDcBkAPNKI-Z6IAV1uKWcsg!2e0!7i16384!8i8192!4m10!1m2!2m1!1sposto+rosso+crici%C3%BAma!3m6!1s0x95218281dcf36053:0x7e957761c0ff54c8!8m2!3d-28.6759732!4d-49.3659396!15sChVwb3N0byByb3NzbyBjcmljacO6bWGSAQtnYXNfc3RhdGlvbuABAA!16s%2Fg%2F11bxd74jxq?entry=ttu)) e enchi o tanque do carro. Café padrão de tudo quanto é posto e gasolina num preço bastante semelhante ao que pagamos aqui no Rio Grande do Sul. Logo, seguimos viagem pela BR-101.
 
-# Segundo destino: Tagaçaba
+## Segundo destino: Tagaçaba
 
 Dia 30. Cruzamos o litoral de Santa Catarina e chegamos na divisa com o estado do Paraná através da [BR-376](https://pt.wikipedia.org/wiki/BR-376). Não sabia que havia uma região serrana por ali e fiquei maravilhado com a beleza do local. A estrada passa pelo meio da Mata Atlântica, sobe, desce e faz curvas dentro aquele cenário maravilhoso. O trânsito é intenso, portanto deve ser melhor ainda viajar por lá em épocas que tudo está mais calmo.
 
@@ -40,7 +40,7 @@ Tagaçaba é um vilarejo que pertence ao município de Guaraqueçaba. Tem uma pi
 
 Por ali permanecemos até dia 1º quando decidimos que não ficaríamos até dia 4 conforme combinado. Eu e a Ju tínhamos ideia de tirar alguns dias para descansar, ler bastante e fazer algumas trilhas. Eu havia pesquisado sobre a [Reserva Natural Salto Morato](https://pt.wikipedia.org/wiki/Salto_Morato), uma reserva ecológica que fica 34,5 km além. Acontece que meu cunhado estava com os filhos, uma criança e uma adolescente, e eles estavam entediados. Além disso a previsão era de muita chuva, então como a ideia era andarmos sempre juntos, permanecemos juntos quando decidimos encerrar por ali nossa estadia em Tagaçaba.
 
-# Terceiro destino: Pontal do Paraná - Parte 1
+## Terceiro destino: Pontal do Paraná - Parte 1
 
 Procuramos uma nova casa, dessa vez no município de Pontal do Paraná. O povo queria praia. Era uma tarefa ingrata achar uma casa desocupada e decente em pleno primeiro de janeiro. Achamos uma casa no balneário de Shangri-lá e partimos.
 
@@ -133,7 +133,7 @@ No final da tarde, eu e a Ju resolvemos dar uma volta para tomar um café e acha
 
 ===
 
-# Quarto destino: Pontal do Paraná - Parte 2
+## Quarto destino: Pontal do Paraná - Parte 2
 
 Dia 07/01. Nosso primeiro dia na casa nova e resolvemos fazer um programa mais voltado ao descanso. Como era domingo, o balneário estava lotado, e eu sabia que se resolvêssemos sair de lá, a volta seria bem ruim, com um trânsito super intenso. Acordei e fui a praia com o Vígi. Logo após, voltamos para casa, tomamos nosso café da manhã e fiquei lendo um livro ([Duna](https://pt.m.wikipedia.org/wiki/Duna_(romance))). Perto da hora do almoço, resolvemos ir à um bar de uma amigo da Fernanda, bar esse no qual ela havia super recomendado: Bar Maresia, na Praia do Canto. O dia estava escandante, o Sol queimava a pele e a praia estava lotada. Conseguimos parar o carro a cerca de 500 metros do local e caminhamos até o quiosque. Pedimos um pastel de camarão para cada um de nós, além de uma porção de iscas de peixe frito. Realmente, a Fernanda estava certa. O pastel estava delicioso, o molho era muito bem feito, temperadinho, pastel frito sem estar encharcado no óleo, bem sequinho. Pedimos outros dois. E mais outros dois. Ficamos um bom tempo sentados e apreciando a bela vista que o local oferece da Ilha do Mel, que fica exatamente na frente do bar. Por volta das 15h pagamos a conta e, pela beira da praia, voltamos para o carro e para casa.
 
@@ -165,7 +165,7 @@ Chegamos na nova casa bastante cansados, e eu bastante estressado com o trânsit
 
 ===
 
-# Quinto destino: Imbituba/SC
+## Quinto destino: Imbituba/SC
 
 Dia 10/01.
 
@@ -191,7 +191,7 @@ Depois de aproveitarmos um pouco a paz que nos era oferecida, descemos em direç
 
 Pegamos novamente a BR-101 e descemos. Em [Terra de Areia (RS)](https://pt.wikipedia.org/wiki/Terra_de_Areia), pegamos a RSC-453/ERS-486, mais conhecida como [Rota do Sol](https://www.daer.rs.gov.br/rota-do-sol-rsc-453-ers-486), nunca havia dirigido nela. Nesse momento voltou a chover, pancadas de chuva forte alternavam com chuvas fracas, o que tornou a paisagem ainda mais bela. Em um determinado momento, depois de subirmos, subirmos e subirmos mais um pouco, passamos por dentro de uma nuvem baixa e carregada, foi lindo demais estar ali naquele momento. A estrada é belíssima, com muitas curvas, aclives e declives. Sensacional dirigir por lá.
 
-# Sexto destino: São Francisco de Paula / RS
+## Sexto destino: São Francisco de Paula / RS
 
 No final do dia, por volta das 18h chegamos na nossa casinha. A casa é a (Studio 307)[https://www.airbnb.com.br/rooms/918330325278409920]. Nossas anfitriãs, a Gládis e a Preice, foram bastante atenciosas e prestativas, nos deixando mimos, inclusive para o Vígi, que teve a caminha dele posta e ganhou um sachê de comida. A casa é muito bonita e aconchegante, e o clima no dia, que era chuva e temperatura em torno de 20°C, acentuaram ainda mais este sentimento. Por causa do tempo, não saímos e ficamos assistindo coisas na TV, coisa que não costumamos fazer normalmente.
 
