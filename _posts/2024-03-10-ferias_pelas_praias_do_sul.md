@@ -91,11 +91,11 @@ Logo em seguida fomos no Museu de Arqueologia e Etnologia da UFPR. A começar pe
 
 Logo após, meu cunhado foi ao cinema com a família e eu e a Ju fomos jantar. Fizemos o que eu gosto de fazer, pedir indicações para as pessoas da cidade. Nos indicaram um restaurante chamado [Noz Moscada](https://www.instagram.com/restaurantenozmoscada/) (desculpem pelo link do Instagram, mas era apenas o que havia). O ambiente é bem bonito, aconchegante, caiu bem para um dia de chuvas. Pedimos uma pizza de camarões e uma água mineral para beber. Achei o preço meio salgado (R$ 120,00 a pizza), mas não posso negar que era muito saborosa. O acabamento utilizando fubá dá um toque bem legal no prato. Foi caro, mas valeu a pena.
 
-===
+---
 
 No dia seguinte 04/01, acabamos por ficar em casa. O céu ainda estava fechado, porém não chegou a chover. Passamos o tempo com algumas caminhadas aleatórias pelo balneário e pela praia, em casa apenas conversando e até mesmo ajudando minha cunhada a fazer bijuterias. Tiramos o dia para descansar. Juntamos informações sobre como ir à ilha de Superagui, reservamos nosso barco por telefone e nossa casa pelo _airbnb_. Talvez tenha sido um dos dias que o Vígi mais gostou, pois, estivemos sempre juntos, fosse em casa ou passeando na praia.
 
-===
+---
 
 ## Superagui
 
@@ -117,7 +117,7 @@ Já pela noite, os adultos da viagem resolveram dar uma volta para tentar achar 
 
 Felizmente a casa estava agradável e, usando um ventilador para dormir, não senti nada de calor.
 
-===
+---
 
 No dia 06/01 eu e a Ju acordamos cedinho. Ela quis ficar em casa, mas eu peguei o Vígi e saímos para fazer uma caminhada, começando pela beira da praia, enquanto ainda estava fresquinho, e voltando pela trilha que leva até a Praia Deserta, que é abrigada pelas árvores. Andamos cerca de 2,5 km. Ao voltarmos para casa, a Ju quis sair para dar uma volta e me convidou. Peguei o Vígi e saímos novamente. Dessa vez, como o clima já estava quente, o Vígi foi a maior parte do tempo no meu colo. No final da barra de Superagui,  paramos para um banho de mar. Que banho gostoso, até o Vígi entrou na água e nadou. Brincou, correu e se divertiu muito. No final da manhã voltamos para nossa casa para arrumar nossas tralhas e voltarmos para Paranaguá.
 
@@ -131,7 +131,7 @@ E realmente não estava enganado, a casa foi a melhor da viagem. Um quarto bom, 
 
 No final da tarde, eu e a Ju resolvemos dar uma volta para tomar um café e achamos uma cafeteria chamada Praia Doce. Apesar dos altos preços, os doces e o café estavam muito bons. O ambiente também é muito bonito, com uma decoração que remete ao oceano e coisas do mar. Além dos doces, vendem artesanatos das famílias de pescadores da região. Logo após, voltamos para casa para descansar.
 
-===
+---
 
 ## Quarto destino: Pontal do Paraná - Parte 2
 
@@ -141,7 +141,7 @@ No final do dia saí para passear com o Vígi e caminhamos um bocado pela beira 
 
 Fechamos a noite assistindo os dois primeiros episódios do documentário do [3x Ártico: O alerta do gelo](https://globoplay.globo.com/3x-artico-o-alerta-do-gelo/t/76DgTJNzg5/), lançado pela GloboPlay.
 
-===
+---
 
 No dia 08/01 já sabíamos o que fazer: nosso destino seria alguma trilha no meio do mato. Conversando com a Fernanda, ela sugeriu a Trilha do Salto do Tigre. Isso era uma coisa que eu queria fazer desde o início da viagem e finalmente havia chegado a hora. Pegamos algumas tralhas e partimos para a entrada da trilha que ficava cerca de 40 km da nossa casa. Novamente o dia estava super quente e abafado, e no início da trilha levei, em boa parte do trajeto, o Vígi no colo. Na parte baixa do morro havia bastante lama e mosquitos, porém quanto mais subíamos melhor as coisas iam ficando, mais seco o chão se tornava, a mata fechava (e fazia 100% de sombra) e os mosquitos praticamente desapareceram. Por volta de 1,7 km de caminhada, nos perdermos no meio do caminho. Rota corrigida, seguimos avançando mais 400 m até chegar no local. O banho de arroio foi excelente, a água estava limpa e gelada. O Vígi tomou banho por livre e espontânea pressão da minha parte, que o pegava e colocava no meio da água para ele nadar. Refrescados, pegamos o caminho de volta, e dessa vez o Vígi desceu a pé todo o tempo, pulando pedras e correndo na nossa frente. E sim, ele divertiu-se de montão.
 
@@ -151,7 +151,7 @@ Resolvemos jantar na cidade de Matinhos, em um restaurante também recomendado p
 
 Acabamos o dia assistindo o último episódio da série "3x Ártico: O alerta do gelo". Antes de dormir, a chuva apareceu e caiu muita água, o que fez o calor dar uma amenizada.
 
-===
+---
 
 Dia 09/01.
 
@@ -163,7 +163,7 @@ Logo após enchermos a barriga, voltamos ao carro e nos dirigimos ao sul de Mati
 
 Chegamos na nova casa bastante cansados, e eu bastante estressado com o trânsito e com a chuva. A casa era bem simples e um pouco quente, porém serviu bem para o propósito que era apenas de dormir. Depois de um bom banho e uma janta, capotamos.
 
-===
+---
 
 ## Quinto destino: Imbituba/SC
 
@@ -177,7 +177,7 @@ Pela tarde ficamos na praia e nos banhamos. Aluguei um caiaque e remamos durante
 
 ![Outra colagem com três fotos. Na que está na parte superior da imagem podemos ver apenas o Vígi no alto de uma colina com o mar ao fundo. Na segunda, vemos a Ju agachada em frete a ele e fazendo carinho no pescoço do cachorro. Na última, estou eu agachado em frente a ele e olhando em seus olhos. A montagem mais bonita desta postagem](/assets/images/blog/2024-03-10-ferias_pelas_praias_do_sul/foto_04.webp){:width="886" height="1574"}
 
-===
+---
 
 Dia 11/01.
 
@@ -197,7 +197,7 @@ No final do dia, por volta das 18h chegamos na nossa casinha. A casa é a (Studi
 
 ![Vígi deitado na sua caminha no Studio 307](/assets/images/blog/2024-03-10-ferias_pelas_praias_do_sul/foto_06.webp){:width="1000" height="563"}
 
-===
+---
 
 Dia 12/01, último dia da viagem. Tínhamos ideia de fazer alguns passeios, visitar alguns lugares, como o [Mátria Parque das Flores](https://matriaparque.com.br/) ou o [Castelo Montsalvat](https://castelomontsalvat.com.br/), porém acabamos desistindo de fazer. Decidimos apernas almoçar em algum lugar e acabamos escolhendo o restaurante [Capitão Chaves](https://www.instagram.com/capitaochaves/), que fica junto a famosa [Livraria Miragem](https://www.tripadvisor.com.br/Attraction_Review-g775211-d4458645-Reviews-Miragem_Livraria-Sao_Francisco_de_Paula_State_of_Rio_Grande_do_Sul.html). Pode-se dizer que o prédio todo é um charme. Construído no início dos anos 2000 (inaugurado em 2007), o complexo conta com a livraria, o restaurante e, aos fundos, uma réplica do primeiro banco da cidade. Exatamente no meio disso tudo, há um pátio com uma grande árvore. Em um quadro exposto, é possível ver o nome de todos os que trabalharam na obra, desde os engenheiros e arquitetos até os carpinteiros, pedreiros e serralheiros. Todos.  Mas voltando ao restaurante, primeiro o mais importante: ele aceita cães. O Vígi pôde entrar e ficar junto de nós todo o tempo no qual estivemos por lá. A comida é toda vegetariana, e eu acabei pedindo um prato feito a base de feijão, o qual não recordo o nome. Gostei bastante, muito saboroso, ainda mais levando em conta que estava o tempo bem fresquinho.
 
