@@ -50,7 +50,7 @@ Por ali permanecemos até dia 1º quando decidimos que não ficaríamos até dia
 
 ---
 
-## Pontal do Paraná / PR {#pontal-do-parana}
+## Pontal do Paraná / PR {#pontal-do-parana-pr}
 
 Procuramos uma nova casa, dessa vez no município de Pontal do Paraná. O povo queria praia. Era uma tarefa ingrata achar uma casa desocupada e decente em pleno primeiro de janeiro. Achamos uma casa no balneário de Shangri-lá e partimos.
 
@@ -205,7 +205,7 @@ Pegamos novamente a BR-101 e descemos. Em [Terra de Areia (RS)](https://pt.wikip
 
 ---
 
-## São Francisco de Paula / RS (#sfp-rs}
+## São Francisco de Paula / RS {#sfp-rs}
 
 No final do dia, por volta das 18h chegamos na nossa casinha. A casa é a (Studio 307)[https://www.airbnb.com.br/rooms/918330325278409920]. Nossas anfitriãs, a Gládis e a Preice, foram bastante atenciosas e prestativas, nos deixando mimos, inclusive para o Vígi, que teve a caminha dele posta e ganhou um sachê de comida. A casa é muito bonita e aconchegante, e o clima no dia, que era chuva e temperatura em torno de 20°C, acentuaram ainda mais este sentimento. Por causa do tempo, não saímos e ficamos assistindo coisas na TV, coisa que não costumamos fazer normalmente.
 
