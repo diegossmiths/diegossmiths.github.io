@@ -4,7 +4,7 @@ title: Férias pelas praias do sul
 description: Minhas primeiras férias desde que entrei na UFPel e nossa aventura por praias paranaenses e catarinenses.
 keywords: férias, paraná, ilha do mel, superagui, paranaguá, pontal do paraná, imbituba, são francisco de paula
 date: 2024-03-10 00:01:30 -0300
-update: 2024-03-10 11:25:00 -0300
+updated: 2024-03-10 11:25:00 -0300
 ---
 
 Era dia 16 de novembro e eu e a Ju fomos na Roca, uma cervejaria daqui da cidade, fazer um happy hour. Lá, entre pizzas e cervejas, decidimos nosso roteiro das férias de janeiro: iríamos à Ushuaia e levaríamos o Vígi conosco. Nos dias seguintes comecei a fazer nosso roteiro, pesquisando em sites e conversando com amigos e conhecidos que já haviam ido para lá. Minha ideia era ir costeando o Oceano Atlântico e voltar pelo oeste argentino, aos pés da Cordilheira dos Andes. Vi que seria uma viagem que demandaria muito tempo dentro do carro, afinal seriam pouco mais de 10.000 km de ida e volta, bastante cansativa.
@@ -13,21 +13,27 @@ Poucos dias depois a Ju teve que ir à um fórum de coordenadores dos cursos de 
 
 O único destino que tínhamos em mente era a ilha de Superagui, a qual a Ju já tinha estado uns 10 anos antes e gostaria de ir novamente. As datas eram quase as mesmas, sairíamos de Pelotas, de carro, em algum dia entre o Natal e o ano novo e voltaríamos no meio de janeiro. As hospedagens seriam feitas usando _airbnb_ pela facilidade de achar locais que aceitem cães. Com base nisso, sentamos novamente na frente do computador e começamos a pesquisar lugares e coisas legais para fazer por lá.
 
-Eu e a Ju não gostamos muito de ficar planejando coisas para fazer nas viagens, temos preferência por ir em determinado lugar e lá descobrir naturalmente o que nos agradada de fazer. Por esse nosso jeito de ser, conseguimos em um noite "fechar" o roteiro. Havia ficado o seguinte: \\
-Primeiro destino: Parada para descanso e pernoite em Criciúma/SC. \\
-Segundo destino: Tagaçaba/PR \\
-Terceiro destino: Pontal do Paraná/PR \\
-Quarto destino: Superagui \\
-Quinto destino: a decidir, alguma praia de Santa Catarina \\
-Sexto destino: a decidir, alguma cidade na costa do Rio Grande do Sul
+Eu e a Ju não gostamos muito de ficar planejando coisas para fazer nas viagens, temos preferência por ir em determinado lugar e lá descobrir naturalmente o que nos agradada de fazer. Por esse nosso jeito de ser, conseguimos em um noite "fechar" o roteiro. Havia ficado o seguinte:
+
+Primeiro destino: Parada para descanso e pernoite em Criciúma / SC. \\
+Segundo destino: Tagaçaba / PR \\
+Terceiro destino: Pontal do Paraná / PR \\
+Quarto destino: Ilha do Mel / PR \\
+Quinto destino: Superagui / PR \\
+Quinto destino: Imbituba / SC \\
+Sexto destino: a decidir, alguma cidade no Rio Grande do Sul
 
 No meio de dezembro meu cunhado decidiu que iria junto; ele, a esposa e os dois filhos. Sem problemas, quanto mais gente no grupo, mais cabeças pensantes e mais oportunidades de fazermos coisas diferentes. Partiu!
+
+---
 
 ## Criciúma / SC
 
 Saímos de Pelotas pela [BR-116](https://pt.wikipedia.org/wiki/BR-116), sendo ela quase totalmente duplicada, com poucos trechos não-duplicados entre Pelotas e Porto Alegre. Os pedágios da Ecosul são bem mais caros (na época, R$ 15,20), porém o serviço prestado ao motorista é melhor que das concessionárias que vieram depois. Já mais acima, passando Porto Alegre, pegamos a [Freeway](https://pt.wikipedia.org/wiki/BR-290). A estrada é uma maravilha, o asfalto é bom e a quantidade de pistas disponíveis fazem com que tudo flua bem. Apesar disso, o pedágio fica bem barato, porém o atendimento ao usuário cai de qualidade. Logo após entramos na [BR-101](https://pt.wikipedia.org/wiki/BR-101) com destino à Santa Catarina.
 
 Nunca havia ido à Criciúma. Cidade bonita, arrumadinha, bem organizada, limpa e com muitos morros. Ficamos num apartamento que recentemente havia sido reformado, portanto tudo era novo, e assim como a cidade, limpo e bem organizado. Como já era final de tarde quando chegamos, saímos apenas para dar uma volta com o Vígi, algo rápido, apenas uma caminhada no quarteirão. No dia seguinte tomamos café num posto de combustíveis ([Posto Rosso](https://www.google.com/maps/place/Posto+Rosso+-+Shell/@-28.6758351,-49.3657426,3a,75y,236.23h,92.06t/data=!3m6!1e1!3m4!1sDcBkAPNKI-Z6IAV1uKWcsg!2e0!7i16384!8i8192!4m10!1m2!2m1!1sposto+rosso+crici%C3%BAma!3m6!1s0x95218281dcf36053:0x7e957761c0ff54c8!8m2!3d-28.6759732!4d-49.3659396!15sChVwb3N0byByb3NzbyBjcmljacO6bWGSAQtnYXNfc3RhdGlvbuABAA!16s%2Fg%2F11bxd74jxq?entry=ttu)) e enchi o tanque do carro. Café padrão de tudo quanto é posto e gasolina num preço bastante semelhante ao que pagamos aqui no Rio Grande do Sul. Logo, seguimos viagem pela BR-101.
+
+---
 
 ## Tagaçaba / PR
 
