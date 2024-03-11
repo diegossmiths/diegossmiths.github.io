@@ -1,17 +1,15 @@
 ---
 layout: post
 title: Por que escrever?
-description: Quais foram os motivos para eu começar um blog? E por qual motivo um blog?
+description: Quais foram os motivos para eu começar um blog? E por qual motivo um blog num mundo tão mais interativo e cheio de *podcasts* e canais de vídeo??
 keywords: blog, motivo, escrever, diego, schild, smiths
 date: 2020-07-13 20:43:45 -0300
 updated: 2021-05-15 10:44:09 -0300
 ---
 
-Então, o que me levou a escrever um *blog*? E por qual motivo um *blog* num mundo tão mais interativo e cheio de *podcasts* e canais de vídeo? Nada melhor que seja na primeira postagem onde eu apresente meus motivos.
-
 ## Por que escrever?
 
-Bem, ler sempre foi uma coisa que eu amei fazer.  Leio de tudo, desde livros de filosofia até embalagens de pasta de amendoim. Livros de ficção, técnicos, matérias em sites de tecnologia, artigos em sites de notícias variadas, enfim, tendo letras e sendo em um idioma que eu consiga entender está valendo. Começo divagando sobre algo muitas vezes aleatório (no momento estou curioso sobre a temperatura corporal das lagartixas, mas isso vai ter que esperar até eu acabar de escrever) e quando vejo já tenho 10 abas abertas no Firefox e o assunto que começou em "tipos de liga de alumínio" já foi parar em sensores de umidade e temperatura para Arduino. Ler sempre foi atrativo para mim e de muito tempo para cá muito mais atrativo que assistir coisas ou jogar *videogames*.
+Bem, ler sempre foi uma coisa que eu amei fazer.  Leio de tudo, desde livros até potes de pasta de amendoim. Livros de ficção, técnicos, matérias em sites de tecnologia, artigos em sites de notícias variadas, enfim, tendo letras e sendo em um idioma que eu consiga entender está valendo. Começo divagando sobre algo muitas vezes aleatório (no momento estou curioso sobre a temperatura corporal das lagartixas, mas isso vai ter que esperar até eu acabar de escrever) e quando vejo já tenho 10 abas abertas no Firefox e o assunto que começou em "tipos de liga de alumínio" já foi parar em sensores de umidade e temperatura para Arduino. Ler sempre foi atrativo para mim e de muito tempo para cá muito mais atrativo que assistir coisas ou jogar *videogames*.
 
 Ao passo disso, escrever é apenas uma consequência. Sempre tive vontade de começar a documentar e publicar tudo o que eu faço no trabalho, compartilhar minhas experiências para que eu possa ajudar outras pessoas, assim como fui ajudado nestes anos todos. Tirar proveito dessa incrível rede de computadores para fazer algo bom.
 
