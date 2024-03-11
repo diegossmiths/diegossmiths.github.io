@@ -25,9 +25,9 @@ Sexto destino: a decidir, alguma cidade no Rio Grande do Sul
 
 No meio de dezembro meu cunhado decidiu que iria junto; ele, a esposa e os dois filhos. Sem problemas, quanto mais gente no grupo, mais cabeças pensantes e mais oportunidades de fazermos coisas diferentes. Partiu!
 
----
+--- {#criciuma-sc}
 
-## Criciúma / SC {#criciuma-sc}
+## Criciúma / SC
 
 Saímos de Pelotas pela [BR-116](https://pt.wikipedia.org/wiki/BR-116), sendo ela quase totalmente duplicada, com poucos trechos não-duplicados entre Pelotas e Porto Alegre. Os pedágios da Ecosul são bem mais caros (na época, R$ 15,20), porém o serviço prestado ao motorista é melhor que das concessionárias que vieram depois. Já mais acima, passando Porto Alegre, pegamos a [Freeway](https://pt.wikipedia.org/wiki/BR-290). A estrada é uma maravilha, o asfalto é bom e a quantidade de pistas disponíveis fazem com que tudo flua bem. Apesar disso, o pedágio fica bem barato, porém o atendimento ao usuário cai de qualidade. Logo após entramos na [BR-101](https://pt.wikipedia.org/wiki/BR-101) com destino à Santa Catarina.
 
