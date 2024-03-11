@@ -15,7 +15,7 @@ O único destino que tínhamos em mente era a ilha de Superagui, a qual a Ju já
 
 Eu e a Ju não gostamos muito de ficar planejando coisas para fazer nas viagens, temos preferência por ir em determinado lugar e lá descobrir naturalmente o que nos agradada de fazer. Por esse nosso jeito de ser, conseguimos em um noite "fechar" o roteiro. Havia ficado o seguinte:
 
-Primeiro destino: Parada para descanso e pernoite em Criciúma / SC. \\
+[Primeiro destino: Parada para descanso e pernoite em Criciúma / SC.](#criciuma-sc) \\
 Segundo destino: Tagaçaba / PR \\
 Terceiro destino: Pontal do Paraná / PR \\
 Quarto destino: Ilha do Mel / PR \\
@@ -27,7 +27,7 @@ No meio de dezembro meu cunhado decidiu que iria junto; ele, a esposa e os dois 
 
 ---
 
-## Criciúma / SC
+## Criciúma / SC {#criciuma-sc}
 
 Saímos de Pelotas pela [BR-116](https://pt.wikipedia.org/wiki/BR-116), sendo ela quase totalmente duplicada, com poucos trechos não-duplicados entre Pelotas e Porto Alegre. Os pedágios da Ecosul são bem mais caros (na época, R$ 15,20), porém o serviço prestado ao motorista é melhor que das concessionárias que vieram depois. Já mais acima, passando Porto Alegre, pegamos a [Freeway](https://pt.wikipedia.org/wiki/BR-290). A estrada é uma maravilha, o asfalto é bom e a quantidade de pistas disponíveis fazem com que tudo flua bem. Apesar disso, o pedágio fica bem barato, porém o atendimento ao usuário cai de qualidade. Logo após entramos na [BR-101](https://pt.wikipedia.org/wiki/BR-101) com destino à Santa Catarina.
 
