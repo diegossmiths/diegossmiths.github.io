@@ -4,6 +4,7 @@ title: Mais um passo
 description: Divulgada a lista para ingresso como aluno especial do programa de pós-graduação em ciência da computação da UFPel, ingresso 2024/01. Meu nome está lá na segunda linha. Homologado.
 keywords: ppgc, ufpel, aluno especial, sgtic
 date: 2024-02-21 21:48:30 -0300
+updated: 2024-06-08 11:25:00 -0300
 ---
 
 Para quem, a pouco tempo, nem pensava em fazer um mestrado, foi uma mudança de 180°. Voltar a estudar era uma coisa que nem passava pela minha cabeça, "comichava" só de pensar. Acontece que voltar a trabalhar na UFPel, no meio acadêmico, voltou a despertar em mim uma vontade de aprender coisas novas. Sem falar no aumento de salário e nas maiores possibilidades para o futuro. Tenho (na verdade temos, vou incluir a Ju nisso) vontade de passar um tempo fora do Brasil, e um mestrado é uma coisa que poderá me ajudar bastante.
@@ -25,3 +26,4 @@ I hope you had the time of your life \\
 
 Green Day - Good Riddance (Time Of Your Life)
 
+**ATUALIZAÇÃO:** Saí do mestrado. Ainda não era a hora. Volto quando achar que é.
