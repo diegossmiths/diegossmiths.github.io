@@ -26,4 +26,6 @@ I hope you had the time of your life \\
 
 Green Day - Good Riddance (Time Of Your Life)
 
+---
+
 **ATUALIZAÇÃO:** Saí do mestrado. Ainda não era a hora. Volto quando achar que é.
