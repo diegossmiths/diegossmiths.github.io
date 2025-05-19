@@ -6,7 +6,7 @@ keywords: gran fondo, montevideu, montevideo, viagem, movistar
 date: 2025-05-18 11:58:10 -0300
 ---
 
-No final de abril, eu e a Ju tiramos uns dias de férias e fomos para Montevidéu. Nossa ida teve dois motivos: arejar a cabeça em terras hermanas e, ao menos para mim, participar da primeira etapa de ciclismo do [Tour Movistar Uruguay] (https://granfondomovistar.uy/).
+No final de abril, eu e a Ju tiramos uns dias de férias e fomos para Montevidéu. Nossa ida teve dois motivos: arejar a cabeça em terras hermanas e, ao menos para mim, participar da primeira etapa de ciclismo do [Tour Movistar Uruguay](https://granfondomovistar.uy/).
 
 Para ficarmos mais tranquilos durante a viagem, optei por desmontar a bicicleta e colocá-la no porta-malas do Fusion. Por ser um baita porta-malas, couberam a bicicleta, nossas bolsas de viagem e ainda sobrou espaço. Com tudo guardado, poderíamos parar em qualquer lugar sem eu ter que me preocupar em cuidar da bicicleta, visto que nossa ideia era aproveitar o caminho, parando para almoçar, tomar café em algum posto de gasolina, etc.
 
