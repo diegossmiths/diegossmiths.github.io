@@ -32,27 +32,24 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Computador:
 
-- **"Newton"**. Um MacBook Pro que roda Linux. =]
+- ThinkPad Z13 Gen 2 [&#128279;](https://www.lenovo.com/br/pt/p/laptops/thinkpad/thinkpadz/thinkpad-z13-gen-2-13-inch-amd/len101t0073)
 
 <details markdown="1">
 <summary>Clique aqui para ver sua configuração:</summary>
 
   - **_Hardware_:**
-    - **Modelo:** Apple MacBook Pro 8,1  A1278 Early 2011
-    - **CPU:** Intel Core i5-2415M (2C4T / 2.3 GHz ~ 2.9 GHz (Turbo) / 3 MB Cache L3 / TDP 35 Watts) [&#128279;](https://www.intel.com/content/www/us/en/products/sku/53449/intel-core-i52415m-processor-3m-cache-up-to-2-90-ghz/specifications.html)
-    - **Memória:** 8 GiB DIMM DDR3 (2x4 / 1333 MHz / dual channel)
-    - **Armazenamento:** SSD Western Digital WD Green 120 GB SATA
-    - **Vídeo:** Intel HD Graphics 3000
-    - **Monitor externo:** LG 24MP400-B (24", fullHD, IPS)
-    - **Teclado:** Logitech MX Keys
-    - **Mouse:** Logitech MX Master 3
+    - **Modelo:** ThinkPad Z13 Gen 2 (21JW-0003BR)
+    - **CPU:** AMD Ryzen 7 7840U (Núcleo Zen 4 / 8C 16T / 3.3 GHz ~ 5.1 GHz (Turbo) / 16 MB Cache L3 / TDP 28 Watts) [&#128279;](https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840u.html)
+    - **Memória:** 32 GiB DIMM LPDDR5x ( 7500 MHz / Dual Channel)
+    - **Armazenamento:** SSD Western Digital SN740 SDDQMQD-1T00-1201 Gen4
+    - **Vídeo:** AMD Radeon 780M (RDNA 3)
   - **_Software_:**
-    - **Sistema operacional:** Fedora Linux 38 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
+    - **Sistema operacional:** Fedora Linux 42 (Workstation Edition GNU/Linux x86-64) [&#128279;](https://getfedora.org/)
     - **Ambiente de trabalho:** GNOME [&#128279;](https://www.gnome.org/)
     - **Navegador de internet:** Mozilla Firefox [&#128279;](https://www.mozilla.org/pt-BR/firefox/new/)
     - **Suíte de escritório:** LibreOffice [&#128279;](https://www.libreoffice.org/)
-    - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais) [&#128279;](https://calibre-ebook.com/)
-    - **Contabilidade da marcenaria:** HomeBank [&#128279;](http://homebank.free.fr/)
+    - **Organizador de e-books:** Calibre (utilizo principalmente para remover o DRM dos livros digitais) [&#128279;](https://calibre-ebook.
+    - **Terminal:** ptyxis
     - **Trabalho gráfico:** Inkscape [&#128279;](https://inkscape.org/) / GIMP [&#128279;](https://www.gimp.org/) / Scribus [&#128279;](https://www.scribus.net/)
 </details>
 
@@ -67,11 +64,12 @@ PS: mesmo sendo um pessoa que prega o anticonsumismo, às vezes preciso de [algu
 
 ## Aparelho de celular:
 
-- **Motorola Moto X4**. [&#128279;](https://www.gsmarena.com/motorola_moto_x4-8634.php) Quase comprei em 2017 quando foi lançado,  mas só agora em abril de 2021 que peguei um usado. Em breve com LineageOS rodando nele.
+- **Motorola Moto Edge 20 Pro**. [&#128279;](https://www.gsmarena.com/motorola_edge_20_pro-11004.php)
 
 ## Fones de ouvido:
 
 - **Sennheiser HD 598**. [&#128279;](https://pt-br.sennheiser.com/high-end-headphones-audio-stereo-hifi-hd-598) Um excelente fone de ouvido de alta fidelidade para uso doméstico.
+- **JBL Tune 520BT**.
 
 ## Serviços
 
