@@ -12,14 +12,15 @@ Essa é mais uma singela homenagem que posto para ele, que me ensinou muitas coi
 
 O meu sincero desejo é por mais um longo ano de passeios, viagens, brincadeiras e comida boa. Te amo, meu véio!
 
-![Colagem de fotos tiradas no último ano. Na primeira está eu, a Ju e o Vigi dentro de casa, com ele deitado e em primeiro plano, eu deitado sobre ele em segundo plano e a Ju sentada na mesa de centro em terceiro plano. Na segunda foto, o Vígi olhando o por do Sol no Parque Una. Na terceira, é o Vígi bocejando, sentado sobre uma pedra na beira da praia em Punta del Diablo, Uruguai. Na quarta, é o Vígi felizão durante um passeio no cemitério da Colônia Maciel, no interior de Pelotas. Na quita, é o Vígi no alto do Cerro das Almas, durante uma trilha no Capão do Leão. Na sexta, é ele sentado ao lado da Ju assistindo a um show no Parque Una. Na sétima, é o Vígi com um gorro de Papai Noel. E na oitava e última, é ele com sua capa de chuva.](/assets/images/blog/2025-05-29-auniversario_do_cusco/01.webp "Colagem de fotos tiradas no último ano.
-Na primeira está eu, a Ju e o Vigi dentro de casa, com ele deitado e em primeiro plano, eu deitado sobre ele em segundo plano e a Ju sentada na mesa de centro em terceiro plano.
+![Colagem de fotos tiradas no último ano. Na primeira está eu, a Ju e o Vigi dentro de casa, com ele deitado e em primeiro plano, eu deitado sobre ele em segundo plano e a Ju sentada na mesa de centro em terceiro plano. Na segunda foto, o Vígi olhando o por do Sol no Parque Una. Na terceira, é o Vígi bocejando, sentado sobre uma pedra na beira da praia em Punta del Diablo, Uruguai. Na quarta, é o Vígi felizão durante um passeio no cemitério da Colônia Maciel, no interior de Pelotas. Na quinta, é o Vígi no alto do Cerro das Almas, durante uma trilha no Capão do Leão. Na sexta, é ele sentado ao lado da Ju assistindo a um show no Parque Una. Na sétima, é o Vígi com um gorro de Papai Noel. E na oitava e última, é ele com sua capa de chuva.](/assets/images/blog/2025-05-29-auniversario_do_cusco/01.webp "Colagem de fotos tiradas no último ano:
+Na primeira está o Vígi, eu e a Ju dentro de casa.
 Na segunda foto, o Vígi olhando o por do Sol no Parque Una.
 Na terceira, é o Vígi bocejando, sentado sobre uma pedra na beira da praia em Punta del Diablo, Uruguai.
 Na quarta, é o Vígi felizão durante um passeio no cemitério da Colônia Maciel, no interior de Pelotas.
-Na quita, é o Vígi no alto do Cerro das Almas, durante uma trilha no Capão do Leão.
+Na quinta, é o Vígi no alto do Cerro das Almas, durante uma trilha no Capão do Leão.
 Na sexta, é ele sentado ao lado da Ju assistindo a um show no Parque Una.
-Na sétima, é o Vígi com um gorro de Papai Noel. E na oitava e última, é ele com sua capa de chuva."){:width="1000" height="1000"}
+Na sétima, é o Vígi com um gorro de Papai Noel.
+E na oitava e última, é ele com sua capa de chuva."){:width="1000" height="1000"}
 
 > &#127932; \\
 Ele é o colosso, eu não largo o osso • \\
