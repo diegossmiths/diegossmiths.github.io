@@ -19,20 +19,20 @@ O erro era basicamente esse
 > Apr 12 10:12:28 tppinkepank gnome-shell[2613]: amdgpu: The CS has been rejected (-125), but the context isn't robust. \\
 > Apr 12 10:12:28 tppinkepank gnome-shell[2613]: amdgpu: The process will be terminated.
 
-Saí a cata do que poderia ser e acabei encontrando algumas postagens em fóruns sobre isso, inclusive no fórum oficial do Fedora. A saída? Adicionar o parâmetro ´´´amdgpu.dcdebugmask=0x10´´´ nas configurações do GRUB. Um parte do meu arquivo de inicialização localizado em /etc/default/grub ficou assim:
+Saí a cata do que poderia ser e acabei encontrando algumas postagens em fóruns sobre isso, inclusive no fórum oficial do Fedora. A saída? Adicionar o parâmetro `amdgpu.dcdebugmask=0x10` nas configurações do GRUB. Um parte do meu arquivo de inicialização localizado em /etc/default/grub ficou assim:
 
 > ... \\
 > GRUB_CMDLINE_LINUX="... amdgpu.dcdebugmask=0x10" \\
 > ...
 
-Logo após é necessário atualizar o inicializador com o comando ´´´sudo grub2-mkconfig -o /boot/grub2/grub.cfg´´´. Depois do processo terminado, é hora de fazer um ´´´sudo reboot´´´.
+Logo após é necessário atualizar o inicializador com o comando `sudo grub2-mkconfig -o /boot/grub2/grub.cfg`. Depois do processo terminado, é hora de fazer um `sudo reboot`.
 
-Se tudo ocorreu bem, o sistema vai iniciar normalmente. Após o login, abra o terminal e digite ´´´sudo cat /sys/kernel/debug/dri/1/eDP-1/psr_capability´´´. A saída do comando deve ser:
+Se tudo ocorreu bem, o sistema vai iniciar normalmente. Após o login, abra o terminal e digite `sudo cat /sys/kernel/debug/dri/1/eDP-1/psr_capability`. A saída do comando deve ser:
 
 > Sink support: yes [0x03] \\
 > Driver support: no [0xffffff]
 
-Em seguida, digite ´´´sudo cat /sys/kernel/debug/dri/1/eDP-1/psr_state´´´. Essa saída deverá ser o número 0 (zero).
+Em seguida, digite `sudo cat /sys/kernel/debug/dri/1/eDP-1/psr_state`. Essa saída deverá ser o número 0 (zero).
 
 De tudo o que eu li por aí, pelo que pude entender, o problema é no PSR (Panel Self Refresh), uma função que supostamente reduz o consumo de energia do painel. Para ser sincero não notei grande diferença na autonomia do computador, se houve, foi pouca.
 
