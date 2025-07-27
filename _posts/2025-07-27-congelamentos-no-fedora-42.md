@@ -1,4 +1,10 @@
-Congelamentos no Fedora 42
+---
+layout: post
+title: Congelamentos no Fedora 42
+description: Resolvendo um probleminha de congelamento no meu computador
+keywords: lenovo, thinkpad, z13, amd, radeon, amdpgu, amdgpu_cs_query_fence_status
+date: 2025-07-27 02:09:49 -0300
+---
 
 Desde que comprei meu notebook, um Lenovo ThinkPad Z13 Gen 2, em fevereiro do ano passado, tudo estava rodando perfeitamente bem, sem nenhum problema, com todos os dispositivos funcionando perfeitamente, com atualizações constantes de firmwares através do fwupd, drivers estáveis e um sistema super responsivo. Acontece que, quando o sistema foi atualizado para esta última versão (Fedora 42 com GNOME 48), algo aconteceu, e muitas vezes em que o computador hibernava, ele não voltava a vida. Haviam vezes que eu estava trabalhando e, do nada, ele congelava.
 
